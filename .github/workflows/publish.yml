@@ -1,0 +1,48 @@
+name: stdout · edição semanal
+
+on:
+  schedule:
+    # Toda segunda-feira, 11:00 UTC (08:00 em Brasília). Ajuste se quiser.
+    - cron: "0 11 * * 1"
+  workflow_dispatch: {}   # também dá pra rodar na mão pelo botão "Run workflow"
+
+# Permite que o job faça commit/push da nova edição e do site de volta ao repo.
+permissions:
+  contents: write
+
+# Evita duas execuções simultâneas pisando uma na outra.
+concurrency:
+  group: stdout-publish
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Gerar edição + site
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python run.py
+
+      - name: Publicar (commit & push)
+        run: |
+          git config user.name "stdout-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add edicoes docs
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança nesta semana."
+          else
+            git commit -m "edição automática $(date -u +%Y-%m-%d)"
+            git push
+          fi
