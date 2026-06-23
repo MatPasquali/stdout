@@ -2,6 +2,8 @@
 
 > Um jornal semanal do mundo tech — coletado, curado e redigido automaticamente.
 
+### 🌐 Leia o jornal ao vivo → **[matpasquali.github.io/stdout](https://matpasquali.github.io/stdout/)**
+
 `stdout` é um pipeline de dados que toda semana varre as principais fontes do
 mundo da tecnologia e da ciência (notícias, papers, projetos em alta), filtra o
 que mais importa, e publica uma edição em formato de jornal — em português e
