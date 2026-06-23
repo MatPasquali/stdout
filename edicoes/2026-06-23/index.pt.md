@@ -7,46 +7,24 @@ _Notícias, papers e projetos que movimentaram a semana no mundo tech: coletados
 ### [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
 `Hacker News`
 
-Steam Machine launches today
+A Valve lançou hoje a Steam Machine, uma nova linha de computadores pensada para rodar jogos do Steam diretamente na sua TV. Essa iniciativa representa um esforço para unir a facilidade de uso dos consoles de videogame com o universo dos jogos de PC, permitindo que os jogadores aproveitem seus títulos preferidos usando controles e uma interface pensada para o conforto da sala de estar.
 
 ### [Deno Desktop](https://docs.deno.com/runtime/desktop/)
 `Hacker News`
 
-Deno Desktop
+A Deno apresentou o Deno Desktop, uma nova plataforma que permite aos desenvolvedores criar aplicações para computadores que funcionam em diferentes sistemas operacionais, como Windows, macOS e Linux. Isso é possível utilizando as linguagens de programação JavaScript ou TypeScript, as mesmas que muitos já usam para desenvolver sites e aplicações web. A grande vantagem é que os desenvolvedores podem agora usar as mesmas ferramentas e o mesmo ecossistema para construir tanto aplicações web quanto de desktop, tornando o processo de desenvolvimento mais integrado e produtivo.
 
 ### [Pledging another $400k to the Zig software foundation](https://mitchellh.com/writing/zig-donation-2026)
 `Hacker News`
 
-Pledging another $400k to the Zig software foundation
-
-## Ciência & Papers
-
-### [PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement](https://arxiv.org/abs/2606.22610v1)
-`arXiv`
-
-Large language models have become capable reasoners and tool users that write and run code and search the literature, which makes automating the research process itself a realistic goal. We present PAPERCLAW, a harnessed multi-agent system that carries a project autonomously, from a field of study to a finished paper. PAPERCLAW curates a domain from a field's live literature, datasets, and code; brainstorms it into an idea with a pre-registered main-result contract; and drives a stoppable hypoth
-
-### [Sub-Billion, Super-Frontier: Small Language Models Rival Zero-Shot Frontier LLMs on General and Literary Relation Extraction](https://arxiv.org/abs/2606.22606v1)
-`arXiv`
-
-Large language models (LLMs) achieve strong relation extraction (RE), but their computational demands and reliance on proprietary APIs limit deployment in resource-constrained or privacy-sensitive settings. We investigate how far small language models (SLMs) can close this gap across general-domain and literary text. We evaluate five models from 360M to 3B parameters under three domain-composition regimes and two prompt-conditioned tuning styles (30 configurations), comparing them with zero-shot
-
-### [Scalable Bayesian Additive Models for Stellar Flare Detection via Amortized Gaussian Process Inference and Hidden Markov Models](https://arxiv.org/abs/2606.22601v1)
-`arXiv`
-
-Gaussian Processes (GPs) are a powerful tool for Bayesian time-series modeling, yet their cubic computational cost remains a severe barrier for application to long, high-cadence datasets in astronomy. While specialized scalable solvers like Celerite elegantly reduce this scaling to linear time, repeatedly evaluating the exact likelihood during iterative Bayesian sampling is a bottleneck for developing more complex models, like hierarchical or additive models in which Celerite is only one compone
-
-### [Training-free Task Classification for Multi-Task Model Merging](https://arxiv.org/abs/2606.22589v1)
-`arXiv`
-
-Ever since the advent of foundation models and the pre-training-finetuning paradigm, there have been numerous efforts to merge multiple task-specific experts into a single multi-task model. Prior work largely focuses on finding a single merged model, but it often underperforms individual experts due to parameter interference. To resolve this, dynamic model merging employs routing to activate task-relevant parameters per input. However, existing routers typically require either additional trainin
+Mitchell Hashimoto anunciou mais uma doação de US$ 400 mil para a Zig Software Foundation, um fundo que apoia o desenvolvimento da linguagem de programação Zig. Essa contribuição contínua é essencial para o progresso de Zig, uma linguagem de programação focada em sistemas. Ela é conhecida por priorizar segurança, desempenho e controle de baixo nível, permitindo que desenvolvedores criem softwares robustos e eficientes sem o peso de linguagens mais complexas.
 
 ## Projetos em alta
 
 ### [Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)
 `GitHub`
 
-The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
+Apresentamos a Forsy-AI/agent-apprenticeship, um ecossistema vivo onde agentes de inteligência artificial (IA) aprendem com o trabalho do mundo real. Isso acontece por meio de ciclos de fluxo de trabalho repetidos (iterative workflow loops), onde o sistema refina suas tarefas passo a passo, utilizando experiências que podem ser reutilizadas (reusable experience) e trocando informações de treinamento coletivas (collective training signal exchange) com outros agentes.
 
 ### [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)
 `GitHub`
@@ -61,15 +39,35 @@ Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a
 ### [aidenybai/cnfast](https://github.com/aidenybai/cnfast)
 `GitHub`
 
-Fast drop in replacement for `cn`
+O `cnfast` surge como um substituto rápido e direto para a ferramenta `cn`, que é usada para interagir com o serviço de CDN do Alibaba Cloud. Essa substituição é importante porque otimiza a forma como desenvolvedores gerenciam e distribuem conteúdo através da rede de entrega de conteúdo da Alibaba, potencialmente acelerando deployments e melhorando a performance.
 
 ## Indústria
 
 ### [Never Give Them Your Face](https://nevergivethemyourface.com/)
 `Hacker News`
 
-Never Give Them Your Face
+Um novo site, Never Give Them Your Face, oferece um recurso visualmente impactante para demonstrar o quão facilmente imagens de rostos podem ser extraídas de fotos, destacando preocupações com privacidade e vigilância em um mundo cada vez mais digital. Ao permitir que você carregue suas próprias fotos e veja como metadados ocultos, como informações de localização e dados EXIF (que são dados de imagem eletrônicos, como configurações da câmera e hora da foto), podem ser expostos, o projeto serve como um lembrete crucial sobre o controle de nossa identidade digital.
+
+### [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/)
+`MIT Tech Review`
+
+A recente disputa entre a Anthropic e o governo dos EUA, focada no modelo de IA Mythos, destaca a complexa relação entre o avanço da inteligência artificial e a regulamentação. Este confronto sublinha a importância de abordarmos as implicações éticas e de segurança à medida que estas tecnologias evoluem.
+
+### [Google invests in A24 to build AI movie tools](https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership)
+`The Verge`
+
+Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers "expand their storytelling possibilities." As part of this new research and development collaboration, The Wall Street Journal reports that Google is investing "around $75 million" into A24, marking the first time the search giant […]
+
+### [Nvidia says its AI data center design runs hotter to use a lot less water](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)
+`The Verge`
+
+Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has "eliminated massive amounts of power usage and pretty much all water usage." Still, it doesn't address all of the concerns around AI data […]
+
+### [GM installs robots at flagship EV factory after laying off 1,300 workers](https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/)
+`Ars Technica`
+
+US autoworkers union warns of robot automation as dark factory future looms.
 
 ---
 
-Edição gerada automaticamente por stdout · redação extrativo, revisão nenhuma.
+Edição gerada automaticamente por stdout · redação Gemini (gemini-2.5-flash-lite), revisão Gemini.
