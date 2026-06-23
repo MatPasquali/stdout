@@ -37,8 +37,8 @@ jobs:
 
       - name: Publicar (commit & push)
         run: |
-          git config user.name "stdout-bot"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "MatPasquali"
+          git config user.email "matpasqsi@gmail.com"
           git add edicoes docs
           if git diff --cached --quiet; then
             echo "Nenhuma mudança nesta semana."
