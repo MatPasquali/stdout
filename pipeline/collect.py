@@ -25,14 +25,27 @@ USER_AGENT = "stdout-techjournal/0.1 (+https://github.com/your-user/stdout)"
 # Add more (e.g. "cs.RO" robotics, "quant-ph" quantum) to widen coverage.
 ARXIV_CATEGORIES = ["cs.AI", "cs.LG", "cs.CL", "cs.CV"]
 
-# RSS/Atom feeds — tech journalism and science. Add any feed URL here; the
-# source name is whatever you key it by. RSS items carry no popularity signal,
-# so the ranking stage weights them by recency and topic instead.
+# RSS/Atom feeds. The source name (the key) drives categorisation: a few sources
+# map to a fixed section (Hugging Face Blog -> IA; the job feeds -> Mercado de
+# Trabalho), everything else is routed by keyword. RSS items carry no popularity
+# signal, so the ranking stage weights them by recency and topic instead.
 RSS_FEEDS = {
+    # Indústria / geral
     "Ars Technica": "https://feeds.arstechnica.com/arstechnica/index",
     "The Verge": "https://www.theverge.com/rss/index.xml",
     "MIT Tech Review": "https://www.technologyreview.com/feed/",
     "Quanta Magazine": "https://www.quantamagazine.org/feed/",
+    "TechCrunch": "https://techcrunch.com/feed/",
+    "The Register": "https://www.theregister.com/headlines.atom",
+    # Brasil
+    "Tecnoblog": "https://tecnoblog.net/feed/",
+    "Canaltech": "https://canaltech.com.br/rss/",
+    "Olhar Digital": "https://olhardigital.com.br/feed/",
+    # IA
+    "Hugging Face Blog": "https://huggingface.co/blog/feed.xml",
+    # Mercado de trabalho
+    "The Pragmatic Engineer": "https://newsletter.pragmaticengineer.com/feed",
+    "dev.to · carreira": "https://dev.to/feed/tag/career",
 }
 
 _TAG_RE = re.compile(r"<[^>]+>")
@@ -131,7 +144,7 @@ def collect_arxiv(categories: list[str] | None = None, limit: int = 20) -> list[
     return items
 
 
-def collect_rss(feeds: dict[str, str] | None = None, per_feed: int = 8) -> list[Item]:
+def collect_rss(feeds: dict[str, str] | None = None, per_feed: int = 6) -> list[Item]:
     """Latest entries from a set of RSS/Atom feeds (tech & science press)."""
     feeds = feeds or RSS_FEEDS
     items: list[Item] = []
@@ -194,9 +207,58 @@ def collect_github(days: int = 7, min_stars: int = 50, limit: int = 15) -> list[
     return items
 
 
+def collect_huggingface_models(limit: int = 12, min_likes: int = 20) -> list[Item]:
+    """Trending models on Hugging Face — the pulse of new AI model releases."""
+    resp = requests.get(
+        "https://huggingface.co/api/models",
+        params={"sort": "trendingScore", "direction": -1, "limit": limit},
+        headers={"User-Agent": USER_AGENT},
+        timeout=30,
+    )
+    resp.raise_for_status()
+
+    items: list[Item] = []
+    for model in resp.json():
+        likes = model.get("likes", 0)
+        if likes < min_likes:
+            continue
+        model_id = model.get("id") or model.get("modelId", "")
+        task = model.get("pipeline_tag") or "modelo"
+        downloads = model.get("downloads", 0)
+
+        published = None
+        created = model.get("createdAt")
+        if created:
+            try:
+                published = datetime.fromisoformat(created.replace("Z", "+00:00"))
+            except ValueError:
+                published = None
+
+        items.append(
+            Item(
+                title=model_id,
+                url=f"https://huggingface.co/{model_id}",
+                source="Hugging Face",
+                kind="model",
+                summary=f"Modelo no Hugging Face para a tarefa '{task}', com {likes} "
+                        f"likes e {downloads} downloads.",
+                published_at=published,
+                popularity=float(likes),
+                metadata={"pipeline_tag": task, "downloads": downloads},
+            )
+        )
+    return items
+
+
 # Registry of active collectors. Add new sources here and the rest of the
 # pipeline picks them up automatically.
-COLLECTORS = [collect_hacker_news, collect_arxiv, collect_rss, collect_github]
+COLLECTORS = [
+    collect_hacker_news,
+    collect_arxiv,
+    collect_rss,
+    collect_github,
+    collect_huggingface_models,
+]
 
 
 def collect_all() -> list[Item]:

@@ -20,28 +20,46 @@ _PT_RE = re.compile(r"\[PT\](.*?)(?:\[EN\]|$)", re.S)
 _EN_RE = re.compile(r"\[EN\](.*)$", re.S)
 
 
-def call_gemini(api_key: str, prompt: str, retry: bool = True) -> str:
-    """Single generateContent call. Backs off once on a free-tier 429.
+def _retry_delay(resp: requests.Response) -> float | None:
+    """Read the server-suggested wait (e.g. 'retryDelay: 38s') from a 429 body."""
+    try:
+        for detail in resp.json().get("error", {}).get("details", []):
+            raw = detail.get("retryDelay", "")
+            if raw.endswith("s"):
+                return float(raw[:-1])
+    except Exception:  # noqa: BLE001 — malformed body just means "no hint"
+        pass
+    return None
 
-    The key goes in the `x-goog-api-key` header (not the URL) so it can never
-    end up in a logged URL, and errors report the status only — never the key.
+
+def call_gemini(api_key: str, prompt: str, attempts: int = 5) -> str:
+    """Single generateContent call, resilient to free-tier per-minute throttling.
+
+    On a 429 it waits the server-suggested delay (or an exponential backoff) and
+    retries, up to `attempts` times. The key goes in the `x-goog-api-key` header
+    (not the URL) so it can never leak into a logged URL, and errors report the
+    status only — never the key.
     """
-    resp = requests.post(
-        _URL.format(model=GEMINI_MODEL),
-        headers={"x-goog-api-key": api_key},
-        json={
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.7, "maxOutputTokens": 600},
-        },
-        timeout=60,
-    )
-    if resp.status_code == 429 and retry:
-        time.sleep(10)
-        return call_gemini(api_key, prompt, retry=False)
-    if not resp.ok:
-        # Status only — never surface the URL or key in logs.
-        raise RuntimeError(f"Gemini API HTTP {resp.status_code}")
-    return resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+    backoff = 8.0
+    for attempt in range(attempts):
+        resp = requests.post(
+            _URL.format(model=GEMINI_MODEL),
+            headers={"x-goog-api-key": api_key},
+            json={
+                "contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {"temperature": 0.7, "maxOutputTokens": 600},
+            },
+            timeout=60,
+        )
+        if resp.status_code == 429 and attempt < attempts - 1:
+            time.sleep(min(_retry_delay(resp) or backoff, 65))
+            backoff = min(backoff * 2, 60)
+            continue
+        if not resp.ok:
+            # Status only — never surface the URL or key in logs.
+            raise RuntimeError(f"Gemini API HTTP {resp.status_code}")
+        return resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+    raise RuntimeError("Gemini API HTTP 429 (limite por minuto; retries esgotados)")
 
 
 def parse_bilingual(text: str) -> tuple[str, str]:

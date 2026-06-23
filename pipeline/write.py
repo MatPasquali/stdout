@@ -35,8 +35,11 @@ class GeminiWriter:
 
     def write(self, item: Item) -> tuple[str, str]:
         prompt = (
-            "You are a tech journalist drafting a short blurb for a weekly tech & "
-            "science journal.\n\n" + EDITORIAL_VOICE +
+            "You are a tech journalist writing for a weekly tech & science "
+            "journal. Write a short blurb about the item below, then revise your "
+            "own draft so it fully matches the editorial voice before giving the "
+            "final version. Output ONLY the final, polished blurb.\n\n"
+            + EDITORIAL_VOICE +
             "\nWrite the SAME blurb in Brazilian Portuguese and English. Return "
             "EXACTLY this format and nothing else:\n"
             "[PT]\n<portuguese text>\n[EN]\n<english text>\n\n"

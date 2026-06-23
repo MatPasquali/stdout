@@ -12,22 +12,25 @@ inglês. Sem intervenção manual: um robô faz tudo, do começo ao fim.
 ## Como funciona
 
 ```
-┌────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌──────────┐
-│ COLETA │→ │ RANKING │→ │ REDAÇÃO │→ │ REVISÃO │→ │PUBLICAÇÃO│
-└────────┘  └─────────┘  └─────────┘  └─────────┘  └──────────┘
- arXiv,HN,   dedup +      IA redige    IA edita     Markdown +
- RSS,GitHub  relevância   PT + EN      p/ a voz     site (Pages)
-             anti-spam                 editorial
+┌────────┐  ┌─────────┐  ┌─────────┐  ┌──────────┐
+│ COLETA │→ │ RANKING │→ │ REDAÇÃO │→ │PUBLICAÇÃO│
+└────────┘  └─────────┘  └─────────┘  └──────────┘
+ arXiv, HN,  dedup,       IA redige    site (Pages)
+ RSS, GH,    relevância,  e revisa     + Markdown
+ HuggingFace anti-spam,   PT + EN
+             categoriza
 ```
 
-A redação usa o padrão **redator → editor** (LLM-as-editor): a IA escreve o
-rascunho e uma segunda passada revisa o texto contra um guia editorial — sempre
-técnico, porém didático e conversando com todos. A voz fica em
-[`pipeline/style.py`](pipeline/style.py), num lugar só.
+A redação é um único passo de IA que **redige e se auto-revisa** contra um guia
+editorial: sempre técnico, porém didático e conversando com todos. A voz fica em
+[`pipeline/style.py`](pipeline/style.py), num lugar só. As matérias são
+organizadas em seções temáticas (IA, Indústria, Mercado de Trabalho, Ciência &
+Papers, Projetos) e cada edição fecha com uma seção de **Referências**,
+creditando a fonte e a origem de tudo.
 
 ## Estágio atual
 
-- [x] **Fase 1 — Coleta.** Hacker News, arXiv, RSS (Ars Technica, The Verge, MIT Tech Review, Quanta) e GitHub — tudo sem chave.
+- [x] **Fase 1 — Coleta.** Hacker News, arXiv, GitHub, Hugging Face (modelos) e RSS (tech, ciência, Brasil e carreira) — tudo sem chave.
 - [x] **Fase 2 — Redação + revisão.** Ranking heurístico (sem IA) + redação e revisão por IA via Gemini (PT + EN), com fallback extrativo.
 - [x] **Fase 3 — Site.** Edições viram um jornal estático em `docs/` (capa + páginas PT/EN).
 - [x] **Fase 4 — Automação.** Cron semanal via GitHub Actions + publicação no GitHub Pages.
@@ -69,4 +72,4 @@ python -m http.server 8000 --directory docs
 
 ## Stack
 
-Python · APIs públicas (arXiv, Hacker News, RSS, GitHub) · Gemini (redação) · GitHub Actions · GitHub Pages
+Python · APIs públicas (arXiv, Hacker News, GitHub, Hugging Face, RSS) · Gemini (redação) · GitHub Actions · GitHub Pages

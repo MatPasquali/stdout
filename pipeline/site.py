@@ -16,6 +16,7 @@ from __future__ import annotations
 import html
 import json
 from pathlib import Path
+from urllib.parse import urlparse
 
 from .layout import LABELS, group_sections
 
@@ -111,6 +112,13 @@ a{color:var(--teal);text-decoration:none}
 .story h3 a{color:var(--ink)}
 .story h3 a:hover{color:var(--teal)}
 .story p{margin:0;color:#c7cdda}
+.refs{margin:10px 0 0;padding-left:26px;color:var(--muted)}
+.refs li{padding:8px 0;font-size:.84rem;line-height:1.5}
+.refs .ref-src{display:inline-block;font-family:var(--mono);font-size:.62rem;color:var(--teal);
+  text-transform:uppercase;letter-spacing:.06em;margin-right:9px}
+.refs a{color:#c7cdda}
+.refs a:hover{color:var(--teal)}
+.refs .ref-url{font-family:var(--mono);font-size:.7rem;color:var(--muted);margin-left:9px;word-break:break-all}
 
 .editions{list-style:none;margin:8px 0 0;padding:0}
 .editions li{display:flex;align-items:center;gap:14px;padding:17px 0;border-bottom:1px solid var(--rule)}
@@ -139,6 +147,15 @@ a{color:var(--teal);text-decoration:none}
 
 def _esc(text) -> str:
     return html.escape(str(text or ""))
+
+
+def _domain(url: str) -> str:
+    """Bare hostname of a URL — shows the reader where a reference came from."""
+    try:
+        host = urlparse(url).netloc
+        return host[4:] if host.startswith("www.") else host
+    except Exception:  # noqa: BLE001
+        return url
 
 
 def _doc(title: str, body: str, base: str = "", lang: str = "pt") -> str:
@@ -229,6 +246,17 @@ def _edition_html(data: dict, lang: str) -> str:
             )
             body.append(f"<p>{_esc(r[lang])}</p>")
             body.append("</article>")
+
+    # References — explicit attribution: source, title and origin domain.
+    body.append(f'<h2 class="section">{_esc(L["references"])}</h2>')
+    body.append('<ol class="refs">')
+    for r in data["items"]:
+        body.append(
+            f'<li><span class="ref-src">{_esc(r["source"])}</span>'
+            f'<a href="{_esc(r["url"])}" target="_blank" rel="noopener">{_esc(r["title"])}</a>'
+            f'<span class="ref-url">{_esc(_domain(r["url"]))}</span></li>'
+        )
+    body.append("</ol>")
     body.append("</main>")
     body.append(_footer(data.get("credits", "")))
     return _doc(f"stdout · {day}", "\n".join(body), base="../", lang=lang)

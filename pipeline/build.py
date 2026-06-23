@@ -16,7 +16,6 @@ from pathlib import Path
 from .collect import collect_all
 from .layout import LABELS, group_sections
 from .rank import rank
-from .review import get_editor
 from .write import get_writer
 
 EDICOES = Path("edicoes")
@@ -41,29 +40,35 @@ def _render_md(records: list[dict], lang: str, day: str, credits: str) -> str:
         lines += [f"## {heading}", ""]
         for r in group:
             lines += [f"### [{r['title']}]({r['url']})", f"`{r['source']}`", "", r[lang], ""]
-    lines += ["---", "", L["footer"].format(credits=credits)]
+
+    # References — explicit attribution of every source used in the edition.
+    lines += [f"## {L['references']}", ""]
+    for i, r in enumerate(records, 1):
+        lines.append(f"{i}. [{r['title']}]({r['url']}) · `{r['source']}`")
+
+    lines += ["", "---", "", L["footer"].format(credits=credits)]
     return "\n".join(lines)
 
 
-def build_edition(top_n: int = 12) -> Path:
+def build_edition() -> Path:
     items = collect_all()
-    selected = rank(items, top_n=top_n)
+    selected = rank(items)
 
-    writer, editor = get_writer(), get_editor()
-    print(f"\n  Redação: {writer.name}  ·  Revisão: {editor.name}")
+    writer = get_writer()
+    print(f"\n  Redação (com auto-revisão): {writer.name}")
     print("-" * 60)
 
     records: list[dict] = []
     for n, it in enumerate(selected):
-        pt, en = writer.write(it)              # 1) draft
-        pt, en = editor.review(pt, en, it)     # 2) editorial review
-        pt, en = _no_emdash(pt), _no_emdash(en)  # 3) enforce house style
+        pt, en = writer.write(it)                # redige e se auto-revisa (1 chamada)
+        pt, en = _no_emdash(pt), _no_emdash(en)  # impõe o estilo da casa (sem travessão)
         records.append(
             {
                 "title": it.title,
                 "url": it.url,
                 "source": it.source,
                 "kind": it.kind,
+                "category": it.metadata.get("category", "industria"),
                 "pt": pt,
                 "en": en,
                 "score": it.metadata.get("score"),
@@ -71,10 +76,12 @@ def build_edition(top_n: int = 12) -> Path:
         )
         print(f"  ✓ [{it.source}] {it.title[:55]}")
         if n < len(selected) - 1:
-            time.sleep(1.5)  # stay gentle on the free-tier per-minute limit
+            # ~4s/call keeps us under the free-tier limit (20 req/min) without
+            # bursting; the retry in gemini.py absorbs the occasional overshoot.
+            time.sleep(4.0)
 
     day = date.today().isoformat()
-    credits = f"redação {writer.name}, revisão {editor.name}"
+    credits = f"redação {writer.name}"
     out = EDICOES / day
     out.mkdir(parents=True, exist_ok=True)
     (out / "edition.json").write_text(
