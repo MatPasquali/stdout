@@ -64,6 +64,13 @@ a{color:var(--teal);text-decoration:none}
 .story h3 a{color:var(--ink)}
 .story h3 a:hover{color:var(--teal)}
 .story p{margin:0;color:#c7cdda}
+.refs{margin:10px 0 0;padding-left:26px;color:var(--muted)}
+.refs li{padding:8px 0;font-size:.84rem;line-height:1.5}
+.refs .ref-src{display:inline-block;font-family:var(--mono);font-size:.62rem;color:var(--teal);
+  text-transform:uppercase;letter-spacing:.06em;margin-right:9px}
+.refs a{color:#c7cdda}
+.refs a:hover{color:var(--teal)}
+.refs .ref-url{font-family:var(--mono);font-size:.7rem;color:var(--muted);margin-left:9px;word-break:break-all}
 
 .editions{list-style:none;margin:8px 0 0;padding:0}
 .editions li{display:flex;align-items:center;gap:14px;padding:17px 0;border-bottom:1px solid var(--rule)}
