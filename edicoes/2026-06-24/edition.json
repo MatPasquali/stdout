@@ -8,9 +8,9 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "trabalho",
-      "pt": "Fired by Google for creating the Google workspace CLI",
-      "en": "Fired by Google for creating the Google workspace CLI",
-      "score": 0.7321
+      "pt": "Um engenheiro foi demitido pelo Google por criar uma ferramenta de linha de comando para o Google Workspace, que é uma plataforma de produtividade que inclui aplicativos como Gmail, Drive e Docs. Isso importa porque a criação de ferramentas de automação pode ser útil para aumentar a eficiência no uso desses aplicativos, mas também pode ser vista como uma violação das políticas de segurança da empresa. A ferramenta de linha de comando, ou CLI, é uma interface que permite aos usuários interagir com um sistema operacional ou aplicativo usando comandos textuais, em vez de uma interface gráfica. Essa demissão levanta questões sobre a política de inovação e segurança dentro da empresa.",
+      "en": "An engineer was fired by Google for creating a command line interface tool for Google Workspace, which is a productivity platform that includes applications like Gmail, Drive, and Docs. This matters because creating automation tools can be useful for increasing efficiency when using these applications, but it can also be seen as a violation of the company's security policies. The command line interface, or CLI, is an interface that allows users to interact with an operating system or application using textual commands, rather than a graphical interface. This firing raises questions about the company's policy on innovation and security.",
+      "score": 0.7318
     },
     {
       "title": "FUTO Swipe – A new swipe typing model",
@@ -18,9 +18,9 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "industria",
-      "pt": "FUTO Swipe, A new swipe typing model",
-      "en": "FUTO Swipe, A new swipe typing model",
-      "score": 0.7317
+      "pt": "Uma nova tecnologia de digitação por deslize chamada FUTO Swipe foi lançada, o que importa porque pode mudar a forma como interagimos com dispositivos móveis. A FUTO Swipe é um modelo de digitação que permite aos usuários digitar textos deslizando seus dedos sobre o teclado, em vez de pressionar teclas individuais. Isso é possível graças a um algoritmo que reconhece o movimento dos dedos e converte em texto, o que pode ser útil para pessoas que têm dificuldade em digitar em teclados virtuais. A tecnologia pode ser testada no site da FUTO Swipe.",
+      "en": "A new swipe typing technology called FUTO Swipe has been launched, which matters because it could change the way we interact with mobile devices. FUTO Swipe is a typing model that allows users to type text by swiping their fingers over the keyboard, rather than pressing individual keys. This is made possible by an algorithm that recognizes finger movement and converts it into text, which can be useful for people who struggle with typing on virtual keyboards. The technology can be tested on the FUTO Swipe website.",
+      "score": 0.7313
     },
     {
       "title": "bozhouDev/codex-orange-book",
@@ -28,9 +28,9 @@
       "source": "GitHub",
       "kind": "project",
       "category": "projetos",
-      "pt": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "en": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "score": 0.6348
+      "pt": "Um desenvolvedor criou um guia não oficial para o Codex, uma ferramenta de inteligência artificial, que abrange desde a instalação até casos de uso práticos. Isso é importante porque fornece uma fonte de conhecimento aberta e acessível para aqueles que desejam explorar as capacidades do Codex. O guia, disponível no GitHub, inclui um livro eletrônico em PDF que pode ser baixado, oferecendo uma visão geral completa do uso da ferramenta. Essa iniciativa pode ser útil para desenvolvedores e entusiastas de inteligência artificial que buscam entender melhor o Codex.",
+      "en": "A developer has created an unofficial guide for Codex, an artificial intelligence tool, that covers everything from installation to practical use cases. This matters because it provides an open and accessible source of knowledge for those who want to explore Codex's capabilities. The guide, available on GitHub, includes a downloadable PDF ebook that offers a comprehensive overview of using the tool. This initiative may be useful for developers and artificial intelligence enthusiasts who are looking to better understand Codex.",
+      "score": 0.6346
     },
     {
       "title": "Identity verification on Claude",
@@ -38,9 +38,9 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "ia",
-      "pt": "Identity verification on Claude",
-      "en": "Identity verification on Claude",
-      "score": 0.6031
+      "pt": "A plataforma Claude implementou um processo de verificação de identidade para garantir a segurança e a autenticidade dos usuários, o que é fundamental para prevenir fraudes e proteger as informações dos usuários. A verificação de identidade é um procedimento que verifica a identidade de uma pessoa, geralmente por meio de documentos de identificação emitidos pelo governo, como passaportes ou carteiras de identidade. Isso é feito para evitar que pessoas mal-intencionadas criem contas falsas e causem danos. A medida de verificação de identidade da Claude visa criar um ambiente online mais seguro para todos os usuários.",
+      "en": "The Claude platform has implemented an identity verification process to ensure user security and authenticity, which is crucial for preventing fraud and protecting user information. Identity verification is a procedure that checks a person's identity, usually through government-issued identification documents such as passports or identity cards. This is done to prevent malicious individuals from creating fake accounts and causing harm. Claude's identity verification measure aims to create a safer online environment for all users.",
+      "score": 0.6028
     },
     {
       "title": "zai-org/GLM-5.2",
@@ -48,8 +48,8 @@
       "source": "Hugging Face",
       "kind": "model",
       "category": "ia",
-      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 2344 likes e 57186 downloads.",
-      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 2344 likes e 57186 downloads.",
+      "pt": "A equipe do zai-org lançou o modelo GLM-5.2 no Hugging Face, uma plataforma popular para compartilhamento e desenvolvimento de modelos de aprendizado de máquina, o que é notável porque esse modelo é projetado para a tarefa de geração de texto, uma área de pesquisa em inteligência artificial que visa criar textos coerentes e naturais, como se fossem escritos por humanos, e que já recebeu 2344 likes e 57186 downloads. Isso é importante porque a geração de texto é uma habilidade fundamental para muitas aplicações, como chatbots e resumos automáticos. O modelo GLM-5.2 pode ser usado para uma variedade de tarefas, desde a criação de conteúdo até a tradução automática. Com o lançamento desse modelo, os desenvolvedores podem explorar novas possibilidades para a geração de texto.",
+      "en": "The zai-org team released the GLM-5.2 model on Hugging Face, a popular platform for sharing and developing machine learning models, which is notable because this model is designed for the task of text generation, an area of artificial intelligence research that aims to create coherent and natural text, as if written by humans, and has already received 2344 likes and 57186 downloads. This is important because text generation is a fundamental skill for many applications, such as chatbots and automatic summaries. The GLM-5.2 model can be used for a variety of tasks, ranging from content creation to automatic translation. With the release of this model, developers can explore new possibilities for text generation.",
       "score": 0.6
     },
     {
@@ -58,9 +58,9 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "ia",
-      "pt": "Norway imposes near ban on AI in elementary school",
-      "en": "Norway imposes near ban on AI in elementary school",
-      "score": 0.5695
+      "pt": "A Noruega impôs uma proibição quase total do uso de inteligência artificial em escolas primárias, o que pode ter um impacto significativo na forma como a tecnologia é integrada na educação. Isso ocorre porque a inteligência artificial, que se refere à capacidade de máquinas realizar tarefas que normalmente requerem a inteligência humana, como aprender e resolver problemas, está se tornando cada vez mais comum em ambientes educacionais. A proibição visa proteger os alunos de possíveis efeitos negativos da dependência da tecnologia, como a perda de habilidades básicas de matemática e leitura. A medida pode ser um exemplo para outros países que buscam equilibrar a tecnologia com a educação tradicional.",
+      "en": "Norway has imposed a near ban on the use of artificial intelligence in elementary schools, which may have a significant impact on how technology is integrated into education. This comes as artificial intelligence, which refers to the ability of machines to perform tasks that normally require human intelligence, such as learning and problem solving, is becoming increasingly common in educational settings. The ban aims to protect students from potential negative effects of technology dependence, such as the loss of basic math and reading skills. The measure may be an example for other countries seeking to balance technology with traditional education.",
+      "score": 0.5692
     },
     {
       "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
@@ -68,9 +68,9 @@
       "source": "Hugging Face",
       "kind": "model",
       "category": "ia",
-      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 521 likes e 138704 downloads.",
-      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 521 likes e 138704 downloads.",
-      "score": 0.5505
+      "pt": "Um modelo de linguagem de 12 bilhões de parâmetros, chamado gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF, foi publicado no Hugging Face, uma plataforma de modelos de aprendizado de máquina, e já recebeu 521 likes e 138704 downloads, o que demonstra seu potencial para geração de texto de alta qualidade. Isso é importante porque modelos como esse podem ser usados para uma variedade de tarefas, como resumo de texto, tradução e criação de conteúdo. O modelo foi treinado com uma grande quantidade de dados e utiliza técnicas avançadas de processamento de linguagem natural, como a arquitetura de transformador, que permite que os modelos de linguagem entendam e gerem texto de forma mais eficaz. Com o aumento da demanda por modelos de linguagem de alta qualidade, o gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF pode ser uma opção atraente para desenvolvedores e pesquisadores.",
+      "en": "A 12 billion parameter language model, named gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF, was published on Hugging Face, a machine learning model platform, and has already received 521 likes and 138704 downloads, demonstrating its potential for high-quality text generation. This matters because models like this can be used for a variety of tasks, such as text summarization, translation, and content creation. The model was trained on a large amount of data and uses advanced natural language processing techniques, such as the transformer architecture, which allows language models to understand and generate text more effectively. With the increasing demand for high-quality language models, the gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF may be an attractive option for developers and researchers.",
+      "score": 0.5501
     },
     {
       "title": "We’re making Bunny DNS free",
@@ -78,8 +78,8 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "industria",
-      "pt": "We’re making Bunny DNS free",
-      "en": "We’re making Bunny DNS free",
+      "pt": "A empresa Bunny.net anunciou que está tornando seu serviço de DNS, chamado Bunny DNS, gratuito. Isso é importante porque os serviços de DNS, que traduzem nomes de websites em endereços de IP que os computadores podem entender, são fundamentais para a infraestrutura da internet. O Bunny DNS é uma solução de DNS que visa ser rápida e segura, permitindo que os usuários acessem websites e aplicativos com mais eficiência. Com essa mudança, a Bunny.net visa aumentar a acessibilidade e a velocidade da internet para todos os usuários.",
+      "en": "The company Bunny.net has announced that it is making its DNS service, called Bunny DNS, free. This matters because DNS services, which translate website names into IP addresses that computers can understand, are crucial to the internet's infrastructure. Bunny DNS is a DNS solution that aims to be fast and secure, allowing users to access websites and applications more efficiently. By making this change, Bunny.net aims to increase the accessibility and speed of the internet for all users.",
       "score": 0.7183
     },
     {
@@ -88,9 +88,9 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "industria",
-      "pt": "Steam Machine launches today",
-      "en": "Steam Machine launches today",
-      "score": 0.7063
+      "pt": "A Steam Machine foi lançada hoje, o que é notável porque representa uma nova abordagem para jogos de vídeo em consoles, permitindo que os jogadores usem o sistema operacional SteamOS, uma variante do Linux, para acessar uma vasta biblioteca de jogos. Isso importa porque pode mudar a forma como as pessoas jogam e interagem com seus consoles de jogos. A Steam Machine é basicamente um console de jogos projetado para rodar jogos de vídeo de alta qualidade, com a vantagem adicional de ser capaz de rodar em uma plataforma de código aberto. Com isso, os desenvolvedores podem criar jogos mais personalizados e inovadores.",
+      "en": "The Steam Machine launched today, which is notable because it represents a new approach to video gaming on consoles, allowing players to use the SteamOS operating system, a variant of Linux, to access a vast library of games. This matters because it can change the way people play and interact with their gaming consoles. The Steam Machine is essentially a gaming console designed to run high-quality video games, with the added benefit of being able to run on an open-source platform. With this, developers can create more customized and innovative games.",
+      "score": 0.706
     },
     {
       "title": "What we call \"age verification\" is actually mass surveillance",
@@ -98,9 +98,9 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "industria",
-      "pt": "What we call \"age verification\" is actually mass surveillance",
-      "en": "What we call \"age verification\" is actually mass surveillance",
-      "score": 0.6944
+      "pt": "Aconteceu uma discussão sobre a verdadeira natureza da verificação de idade online, que na verdade pode ser considerada uma forma de vigilância em massa, o que é preocupante porque afeta a privacidade dos usuários. Isso importa porque a vigilância em massa pode ter implicações significativas na forma como nossos dados são coletados e utilizados. A verificação de idade, que parece ser uma medida de segurança, pode na verdade ser uma forma de coletar informações pessoais sem o consentimento dos usuários. Essa questão levanta preocupações sobre a necessidade de regulamentação mais rigorosa para proteger a privacidade online.",
+      "en": "A discussion has emerged about the true nature of online age verification, which can actually be considered a form of mass surveillance, which is concerning because it affects user privacy. This matters because mass surveillance can have significant implications for how our data is collected and used. Age verification, which appears to be a security measure, can actually be a way to collect personal information without user consent. This issue raises concerns about the need for more stringent regulation to protect online privacy.",
+      "score": 0.6941
     },
     {
       "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
@@ -108,9 +108,9 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "industria",
-      "pt": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "en": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "score": 0.6821
+      "pt": "O Canadá planeja uma 'renascença nuclear' com a construção de até 10 reatores até 2040, o que pode ser um passo significativo para a geração de energia limpa e reduzir a dependência de fontes de energia fósseis. Isso é importante porque a energia nuclear pode fornecer uma grande quantidade de eletricidade com baixas emissões de gases de efeito estufa. A estratégia federal canadense visa investir em tecnologias de energia nuclear avançadas, como reatores de pequeno porte, que podem ser mais seguros e eficientes do que os modelos tradicionais. Essa iniciativa pode contribuir para o desenvolvimento de uma matriz energética mais sustentável no país.",
+      "en": "Canada is planning a 'nuclear renaissance' with the construction of up to 10 reactors by 2040, which could be a significant step towards generating clean energy and reducing dependence on fossil fuels. This matters because nuclear energy can provide a large amount of electricity with low greenhouse gas emissions. The Canadian federal strategy aims to invest in advanced nuclear energy technologies, such as small modular reactors, which can be safer and more efficient than traditional models. This initiative may contribute to the development of a more sustainable energy mix in the country.",
+      "score": 0.6817
     },
     {
       "title": "Did my old job only exist because of fraud?",
@@ -118,9 +118,9 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "trabalho",
-      "pt": "Did my old job only exist because of fraud?",
-      "en": "Did my old job only exist because of fraud?",
-      "score": 0.6167
+      "pt": "Um ex-funcionário está questionando se seu antigo emprego existia apenas devido a fraude, o que levanta questões importantes sobre a ética e a transparência no local de trabalho. Isso aconteceu porque o autor do artigo refletiu sobre suas experiências passadas e começou a investigar as práticas da empresa. A fraude, que se refere a atividades enganosas ou ilegais, pode ter um impacto significativo na economia e na sociedade, e é essencial entender como ela pode afetar os indivíduos e as organizações. A reflexão do autor pode ser um ponto de partida para uma discussão mais ampla sobre a importância da ética nos negócios.",
+      "en": "A former employee is questioning whether their old job existed solely due to fraud, which raises important issues about workplace ethics and transparency. This happened because the article's author reflected on their past experiences and began to investigate the company's practices. Fraud, which refers to deceptive or illegal activities, can have a significant impact on the economy and society, and it is crucial to understand how it can affect individuals and organizations. The author's reflection may be a starting point for a broader discussion about the importance of ethics in business.",
+      "score": 0.6164
     },
     {
       "title": "I Tore Apart the Architecture of Every Major AI Interview Tool. Here's Why Ntro.io Wins for Coding Rounds — A Systems Engineer's Rebuttal",
@@ -128,9 +128,9 @@
       "source": "dev.to · carreira",
       "kind": "news",
       "category": "trabalho",
-      "pt": "TL;DR for the skimmers: Most AI interview tools are screen-overlay desktop apps with a broken stealth model and a conversational AI bolted onto a meeting recorder. Ntro.io uses a dual-device browser-extension architecture that separates the AI console from the screenshared surface entirely. For live coding interviews specifically, screen-shared, real-time, high-scrutiny, this distinction is not cosmetic. It is the only architecture that actually survives screen sharing, and the Live Coding Cra",
-      "en": "TL;DR for the skimmers: Most AI interview tools are screen-overlay desktop apps with a broken stealth model and a conversational AI bolted onto a meeting recorder. Ntro.io uses a dual-device browser-extension architecture that separates the AI console from the screenshared surface entirely. For live coding interviews specifically, screen-shared, real-time, high-scrutiny, this distinction is not cosmetic. It is the only architecture that actually survives screen sharing, and the Live Coding Cra",
-      "score": 0.3996
+      "pt": "Um engenheiro de sistemas fez uma análise detalhada da arquitetura de ferramentas de entrevista de inteligência artificial, concluindo que a maioria delas apresenta falhas significativas, como modelos de stealth quebrados e interfaces de conversação artificial mal integradas, o que as torna inadequadas para rodadas de codificação ao vivo. A Ntro.io se destaca por usar uma arquitetura de extensão de navegador dual-device, que separa completamente a console de IA da superfície compartilhada, tornando-a a única opção viável para entrevistas de codificação ao vivo com compartilhamento de tela e escrutínio rigoroso. Isso permite que a ferramenta suporte a geração de código anotado e explicável verbalmente. \nA escolha da Ntro.io é fundamentada em sua capacidade de atender às necessidades específicas das rodadas de codificação ao vivo, diferentemente das outras ferramentas que apresentam limitações significativas.",
+      "en": "A systems engineer conducted an in-depth analysis of the architecture of major artificial intelligence interview tools, concluding that most of them have significant flaws, such as broken stealth models and poorly integrated conversational artificial intelligence interfaces, making them inadequate for live coding rounds. Ntro.io stands out by using a dual-device browser-extension architecture, which completely separates the AI console from the shared surface, making it the only viable option for live coding interviews with screen sharing and rigorous scrutiny. This allows the tool to support annotated and verbally explainable code generation. \nThe choice of Ntro.io is based on its ability to meet the specific needs of live coding rounds, unlike other tools that have significant limitations.",
+      "score": 0.3993
     },
     {
       "title": "Trabalhadores da Hyundai aprovam greve em meio a disputa sobre robôs humanoides e salários",
@@ -138,9 +138,9 @@
       "source": "Olhar Digital",
       "kind": "news",
       "category": "trabalho",
-      "pt": "Sindicato sul-coreano reage a plano de automação e pressiona montadora por ganhos e participação nas decisões sobre IA na produção\nO post Trabalhadores da Hyundai aprovam greve em meio a disputa sobre robôs humanoides e salários apareceu primeiro em Olhar Digital.",
-      "en": "Sindicato sul-coreano reage a plano de automação e pressiona montadora por ganhos e participação nas decisões sobre IA na produção\nO post Trabalhadores da Hyundai aprovam greve em meio a disputa sobre robôs humanoides e salários apareceu primeiro em Olhar Digital.",
-      "score": 0.3469
+      "pt": "Trabalhadores da Hyundai aprovaram uma greve devido a uma disputa sobre o uso de robôs humanoides e salários, o que pode afetar a produção da montadora. Isso ocorre porque o sindicato sul-coreano está reagindo ao plano de automação da empresa, que inclui a introdução de robôs humanoides, e está pressionando por ganhos salariais e participação nas decisões sobre inteligência artificial na produção. A greve pode ter consequências significativas para a indústria automobilística, pois a Hyundai é uma das maiores montadoras do mundo. A disputa destaca a importância de considerar as implicações sociais da automação e da inteligência artificial no local de trabalho.",
+      "en": "Workers at Hyundai have approved a strike due to a dispute over the use of humanoid robots and salaries, which may impact the automaker's production. This is happening because the South Korean union is reacting to the company's automation plan, which includes the introduction of humanoid robots, and is pushing for wage gains and participation in decisions about artificial intelligence in production. The strike may have significant consequences for the automotive industry, as Hyundai is one of the world's largest automakers. The dispute highlights the importance of considering the social implications of automation and artificial intelligence in the workplace.",
+      "score": 0.3465
     },
     {
       "title": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI",
@@ -148,9 +148,9 @@
       "source": "dev.to · carreira",
       "kind": "news",
       "category": "trabalho",
-      "pt": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI\n\n\nAs a freelancer, staying ahead of the curve is crucial for success. With the rise of AI-powered tools like ChatGPT, you can revolutionize the way you work and deliver high-quality results to your clients. In this article, we'll dive into the world of ChatGPT prompt engineering, providing you with practical steps and code examples to unlock the full potential of this technology.\n\n\n  \n  \n  What is ChatGPT Prompt Engineering?\n\n",
-      "en": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI\n\n\nAs a freelancer, staying ahead of the curve is crucial for success. With the rise of AI-powered tools like ChatGPT, you can revolutionize the way you work and deliver high-quality results to your clients. In this article, we'll dive into the world of ChatGPT prompt engineering, providing you with practical steps and code examples to unlock the full potential of this technology.\n\n\n  \n  \n  What is ChatGPT Prompt Engineering?\n\n",
-      "score": 0.3467
+      "pt": "Recentemente, um artigo foi publicado sobre como os freelancers podem aproveitar o poder da inteligência artificial por meio da engenharia de prompts do ChatGPT, uma ferramenta que pode revolucionar a forma como trabalhamos e entregamos resultados de alta qualidade aos clientes. A engenharia de prompts do ChatGPT é o processo de design e otimização de prompts de entrada para obter respostas específicas e precisas, e isso pode ser particularmente útil para freelancers que buscam melhorar a eficiência e a qualidade do seu trabalho. Isso é especialmente importante para freelancers, pois staying ahead da curva é crucial para o sucesso. \nA engenharia de prompts do ChatGPT pode ser um recurso poderoso para freelancers, permitindo que eles automatem tarefas e entreguem resultados de alta qualidade aos seus clientes.",
+      "en": "Recently, an article was published on how freelancers can tap into the power of artificial intelligence through ChatGPT prompt engineering, a tool that can revolutionize the way we work and deliver high-quality results to clients. ChatGPT prompt engineering is the process of designing and optimizing input prompts to elicit specific and accurate responses, and this can be particularly useful for freelancers looking to improve the efficiency and quality of their work. This is especially important for freelancers, as staying ahead of the curve is crucial for success. \nChatGPT prompt engineering can be a powerful resource for freelancers, allowing them to automate tasks and deliver high-quality results to their clients.",
+      "score": 0.3464
     },
     {
       "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
@@ -158,9 +158,9 @@
       "source": "arXiv",
       "kind": "paper",
       "category": "papers",
-      "pt": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is increasingly unclear whether they reflect real progress in generative modeling. The natural alternative, i.e., text-to-image (T2I) generation, is perceived as too costly or inconvenient to train and evaluate and is often skipped. We argue that this perception no longer holds. We introduce NanoGen, a",
-      "en": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is increasingly unclear whether they reflect real progress in generative modeling. The natural alternative, i.e., text-to-image (T2I) generation, is perceived as too costly or inconvenient to train and evaluate and is often skipped. We argue that this perception no longer holds. We introduce NanoGen, a",
-      "score": 0.4507
+      "pt": "Uma nova abordagem para avaliar modelos de transformadores de difusão, chamada DiffusionBench, foi proposta em um artigo publicado no arXiv, pois a avaliação atual desses modelos, que são utilizados para geração de imagens, tem se concentrado em uma única configuração de avaliação, a geração condicional de classes no conjunto de dados ImageNet. Isso tem levado a questionamentos sobre se as melhorias nos métricos de avaliação, como o FID, refletem progressos reais nos modelos de geração de imagens. Os autores também apresentam o NanoGen, uma estrutura unificada para treinamento e avaliação de transformadores de difusão, que pode ser facilmente adaptada para diferentes tarefas, incluindo geração de imagem a partir de texto. O NanoGen demonstrou ser competitivo com os modelos atuais de ponta em ImageNet e também pode ser usado para treinar modelos de geração de imagem a partir de texto com apenas 12 linhas de alteração de configuração.",
+      "en": "A new approach to evaluating diffusion transformer models, called DiffusionBench, has been proposed in a paper published on arXiv, as the current evaluation of these models, which are used for image generation, has converged to a single evaluation setup, class-conditional generation on the ImageNet dataset. This has led to questions about whether improvements in evaluation metrics, such as the FID, reflect real progress in generative modeling. The authors also introduce NanoGen, a unified framework for training and evaluating diffusion transformers, which can be easily adapted for different tasks, including text-to-image generation. NanoGen has been shown to be competitive with current state-of-the-art models on ImageNet and can also be used to train text-to-image models with just 12 lines of configuration change.",
+      "score": 0.4503
     },
     {
       "title": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
@@ -168,9 +168,9 @@
       "source": "arXiv",
       "kind": "paper",
       "category": "papers",
-      "pt": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such inconsistencies occur when patient demographics and imaging protocols vary, for example, in detecting small tumors, analyzing scans from different contrast phases, or evaluating patients of different ages or sexes. To quantify these inconsistencies, we develop a large-scale, open benchmark of 85,355 C",
-      "en": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such inconsistencies occur when patient demographics and imaging protocols vary, for example, in detecting small tumors, analyzing scans from different contrast phases, or evaluating patients of different ages or sexes. To quantify these inconsistencies, we develop a large-scale, open benchmark of 85,355 C",
-      "score": 0.4506
+      "pt": "Uma equipe de pesquisadores desenvolveu a BenchX, uma ferramenta de benchmarking para avaliar o desempenho de modelos de inteligência artificial (IA) em detecção e localização de câncer, considerando vieses demográficos e de protocolo. Isso é importante porque os modelos de IA frequentemente apresentam desempenho inconsistente em diferentes contextos clínicos reais, devido a variações em dados demográficos de pacientes e protocolos de imagem. A BenchX é composta por 85.355 exames de tomografia computadorizada e avalia 12 modelos de detecção de tumores, utilizando modelos de linguagem grandes (LLMs) para extrair e organizar informações de subgrupos de dados clínicos. Essa abordagem permite uma análise escalável e reprodutível.",
+      "en": "A team of researchers has developed BenchX, a benchmarking tool to evaluate the performance of artificial intelligence (AI) models in cancer detection and localization, taking into account demographic and protocol biases. This matters because AI models often perform inconsistently across real-world clinical settings, due to variations in patient demographic data and imaging protocols. The BenchX benchmark consists of 85,355 CT scans and evaluates 12 tumor-detection models, using large language models (LLMs) to extract and organize subgroup information from clinical data, making the analysis both scalable and reproducible. This approach enables a thorough assessment of AI models in various clinical scenarios.",
+      "score": 0.4503
     },
     {
       "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
@@ -178,9 +178,9 @@
       "source": "arXiv",
       "kind": "paper",
       "category": "papers",
-      "pt": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward latent scene decoders typically output volumetric 3D Gaussians that lack a well-defined surface, limiting their use in simulation or standard graphics pipelines. This motivates decoding",
-      "en": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward latent scene decoders typically output volumetric 3D Gaussians that lack a well-defined surface, limiting their use in simulation or standard graphics pipelines. This motivates decoding",
-      "score": 0.4505
+      "pt": "Pesquisadores apresentaram um novo método chamado FLAT, que permite a geração de cenas 3D geometricamente precisas a partir de uma única imagem, o que é importante porque pode ser usado em simulações e pipelines de gráficos padrão. O FLAT usa um processo de decodificação direta para converter latentes de difusão de vídeo em primitivas de superfície explícitas, como triângulos, que são fáceis de renderizar e podem ser usadas em aplicativos de realidade virtual e jogos. Isso é uma melhoria em relação aos métodos atuais, que geralmente produzem gaussians 3D volumétricos que não têm uma superfície bem definida. Com o FLAT, é possível criar cenas 3D detalhadas e precisas a partir de uma única imagem, o que pode ser útil em muitas áreas, como arquitetura e engenharia.",
+      "en": "Researchers have introduced a new method called FLAT, which enables the generation of geometrically accurate 3D scenes from a single image, a development that matters because it can be used in simulations and standard graphics pipelines. FLAT uses a direct decoding process to convert video diffusion latents into explicit surface primitives, such as triangles, that are easy to render and can be used in virtual reality applications and games. This is an improvement over current methods, which typically produce volumetric 3D Gaussians that lack a well-defined surface. With FLAT, it is possible to create detailed and accurate 3D scenes from a single image, which can be useful in many fields, such as architecture and engineering.",
+      "score": 0.4501
     },
     {
       "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
@@ -188,9 +188,9 @@
       "source": "arXiv",
       "kind": "paper",
       "category": "papers",
-      "pt": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project addresses this gap with a fully open data curation pipeline for training agentic models. We conduct",
-      "en": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project addresses this gap with a fully open data curation pipeline for training agentic models. We conduct",
-      "score": 0.4499
+      "pt": "Pesquisadores lançaram o projeto OpenThoughts-Agent, que visa criar um pipeline de curação de dados aberto para treinar modelos de linguagem agênticos, capazes de generalizar em tarefas diversas. Isso é importante porque os modelos de linguagem agênticos têm aplicações amplas em inteligência artificial, mas pouco se sabe publicamente sobre como curar dados de treinamento para esses agentes. O projeto realizou mais de 100 experimentos controlados para investigar cada estágio do pipeline, proporcionando insights sobre a importância das fontes de tarefas e diversidade. Com esses insights, os pesquisadores criaram um conjunto de treinamento com 100K exemplos e ajustaram o modelo Qwen3-32B nesse conjunto de dados.",
+      "en": "Researchers have launched the OpenThoughts-Agent project, which aims to create an open data curation pipeline for training agentic language models, capable of generalizing across diverse tasks. This matters because agentic language models have broad applications in artificial intelligence, yet little is publicly known about how to curate training data for these agents. The project conducted over 100 controlled experiments to systematically investigate each stage of the pipeline, yielding insights into the importance of task sources and diversity. With these insights, the researchers assembled a training set of 100K examples and fine-tuned the Qwen3-32B model on this dataset.",
+      "score": 0.4496
     },
     {
       "title": "HKUDS/AgentSpace",
@@ -198,9 +198,9 @@
       "source": "GitHub",
       "kind": "project",
       "category": "projetos",
-      "pt": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "en": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "score": 0.6183
+      "pt": "Um projeto chamado AgentSpace foi lançado no GitHub, o que é notável porque oferece uma plataforma para integração de humanos e agentes inteligentes em um mesmo ambiente de trabalho. Isso importa porque permite que desenvolvedores criem soluções mais eficazes, combinando a capacidade de processamento de agentes inteligentes com a criatividade e o julgamento humanos. Agentes inteligentes, nesse contexto, se referem a programas de computador capazes de realizar tarefas específicas de forma autônoma, como processamento de dados ou controle de sistemas. A plataforma AgentSpace pode ser útil para equipes que buscam colaborar de forma mais eficiente, integrando habilidades humanas e capacidades de agentes inteligentes.",
+      "en": "A project called AgentSpace was launched on GitHub, which is notable because it offers a platform for integrating humans and intelligent agents in the same workspace. This matters because it allows developers to create more effective solutions, combining the processing capability of intelligent agents with human creativity and judgment. Intelligent agents, in this context, refer to computer programs able to perform specific tasks autonomously, such as data processing or system control. The AgentSpace platform can be useful for teams seeking to collaborate more efficiently, integrating human skills and intelligent agent capabilities.",
+      "score": 0.6179
     },
     {
       "title": "baidu/Unlimited-OCR",
@@ -208,9 +208,9 @@
       "source": "GitHub",
       "kind": "project",
       "category": "projetos",
-      "pt": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "en": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "score": 0.5697
+      "pt": "A Baidu lançou o Unlimited-OCR, um projeto de código aberto no GitHub que visa revolucionar a tecnologia de reconhecimento óptico de caracteres (OCR), permitindo a leitura e interpretação de texto em imagens de forma mais precisa e eficiente. Isso é importante porque o OCR é uma ferramenta fundamental em muitas aplicações, desde a digitalização de documentos até a leitura de placas de veículos. O Unlimited-OCR usa técnicas de aprendizado de máquina avançadas, como o one-shot learning, para melhorar a capacidade de parsing de longo prazo. Com isso, o projeto pode ter um impacto significativo na automação de processos e na análise de dados.",
+      "en": "Baidu has released Unlimited-OCR, an open-source project on GitHub that aims to revolutionize optical character recognition (OCR) technology, allowing for more accurate and efficient reading and interpretation of text in images. This matters because OCR is a fundamental tool in many applications, from document digitization to license plate reading. Unlimited-OCR uses advanced machine learning techniques, such as one-shot learning, to improve long-horizon parsing capabilities. With this, the project may have a significant impact on process automation and data analysis.",
+      "score": 0.5694
     },
     {
       "title": "Forsy-AI/agent-apprenticeship",
@@ -218,9 +218,9 @@
       "source": "GitHub",
       "kind": "project",
       "category": "projetos",
-      "pt": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "en": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "score": 0.5656
+      "pt": "Um projeto no GitHub, chamado Forsy-AI/agent-apprenticeship, permite que agentes de inteligência artificial aprendam com trabalhos do mundo real por meio de loops de fluxo de trabalho iterativos, experiências reutilizáveis e troca de sinais de treinamento coletivos. Isso importa porque possibilita que os agentes de IA melhorem continuamente suas habilidades, tornando-os mais eficazes em tarefas complexas. O projeto utiliza um ecossistema vivo, onde os agentes de IA aprendem e se aperfeiçoam com o tempo, o que é fundamental para o desenvolvimento de sistemas de IA mais avançados. Com isso, os pesquisadores e desenvolvedores podem criar sistemas de IA mais capazes e flexíveis.",
+      "en": "A project on GitHub, called Forsy-AI/agent-apprenticeship, allows artificial intelligence agents to learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange. This matters because it enables AI agents to continuously improve their skills, making them more effective in complex tasks. The project uses a living ecosystem, where AI agents learn and refine their abilities over time, which is crucial for developing more advanced AI systems. By doing so, researchers and developers can create more capable and flexible AI systems.",
+      "score": 0.5653
     },
     {
       "title": "lyra81604/zhengxi-views",
@@ -228,9 +228,9 @@
       "source": "GitHub",
       "kind": "project",
       "category": "projetos",
-      "pt": "可溯源的郑希(易方达基金经理)投研 Agent Skill, , 基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "en": "可溯源的郑希(易方达基金经理)投研 Agent Skill, , 基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "score": 0.5423
+      "pt": "Um repositório no GitHub chamado zhengxi-views foi criado para estudar e aprender com as estratégias de investimento de Zheng Xi, um gestor de fundos da EasyFund, utilizando seus pontos de vista e declarações públicas como base para desenvolver um agente de pesquisa que pode avaliar fundos de investimento, o que é útil para entender como os gestores de fundos tomam decisões, pois fornece uma visão transparente dos processos de tomada de decisão, permitindo que os usuários aprendam com as abordagens de investimento de um profissional, e é importante notar que o repositório é apenas para fins de aprendizado e não oferece conselhos de investimento, o que significa que os usuários devem fazer suas próprias pesquisas antes de tomar decisões de investimento. O repositório contém dados reais de fundos de investimento e é baseado nos pontos de vista e declarações públicas de Zheng Xi.",
+      "en": "A GitHub repository called zhengxi-views was created to study and learn from the investment strategies of Zheng Xi, a fund manager at EasyFund, using his public views and statements as a basis for developing a research agent that can evaluate investment funds, which is useful for understanding how fund managers make decisions, as it provides a transparent view of the decision-making processes, allowing users to learn from the investment approaches of a professional, and it is important to note that the repository is for learning purposes only and does not offer investment advice, meaning users should do their own research before making investment decisions. The repository contains real data from investment funds and is based on Zheng Xi's public views and statements.",
+      "score": 0.5419
     }
   ]
 }
