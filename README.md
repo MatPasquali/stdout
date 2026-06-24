@@ -44,7 +44,8 @@ push da pasta `docs/` de volta ao repositório. O GitHub Pages serve esse `docs/
 Para ativar no seu repositório:
 
 1. **Secret:** _Settings → Secrets and variables → Actions → New repository secret_,
-   nome `GEMINI_API_KEY`, valor = sua chave do Gemini.
+   nome `GROQ_API_KEY`, valor = sua chave do Groq (grátis, sem cartão:
+   https://console.groq.com/keys). Opcionalmente, `GEMINI_API_KEY` como fallback.
 2. **Pages:** _Settings → Pages → Build and deployment → Source: Deploy from a
    branch_, branch `main`, pasta `/docs`.
 3. (Opcional) _Actions → stdout · edição semanal → Run workflow_ para gerar a
@@ -54,14 +55,15 @@ Para ativar no seu repositório:
 
 ```bash
 pip install -r requirements.txt
-python run.py                 # gera a edição (coleta→ranking→redação→revisão) e o site
+python run.py                 # gera a edição (coleta→ranking→redação) e o site
 python run.py --collect-only  # só coleta e imprime no terminal
 python run.py --site-only     # reconstrói o site a partir das edições existentes
 ```
 
 Para a IA redigir, copie `.env.example` para `.env` e preencha sua
-`GEMINI_API_KEY` (chave grátis, sem cartão: https://aistudio.google.com/app/apikey).
-Sem chave, o pipeline ainda roda em modo extrativo — nunca quebra.
+`GROQ_API_KEY` (chave grátis, sem cartão: https://console.groq.com/keys). O Gemini
+serve de fallback via `GEMINI_API_KEY`. Sem chave, o pipeline ainda roda em modo
+extrativo, nunca quebra.
 
 ### Pré-visualizar o site localmente
 
