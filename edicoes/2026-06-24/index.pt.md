@@ -7,7 +7,7 @@ _Notícias, papers e projetos que movimentaram a semana no mundo tech: coletados
 ### [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
 `Hacker News`
 
-A FUTO lançou o Swipe, um novo modelo de entrada por deslize (swipe typing) que promete maior precisão e eficiência para teclados móveis. Essa tecnologia utiliza redes neurais para prever a palavra que você está digitando com base na trajetória do seu dedo, aprendendo com seus padrões de escrita para refinar a experiência ao longo do tempo. O objetivo é tornar a digitação em telas sensíveis ao toque mais rápida e menos propensa a erros.
+FUTO Swipe, A new swipe typing model
 
 ### [Fired by Google for creating the Google workspace CLI](https://twitter.com/JPoehnelt/status/2069482265953087602)
 `Hacker News`
@@ -24,12 +24,12 @@ Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非�
 ### [Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)
 `Hacker News`
 
-Identity verification on Claude
+A Anthropic, criadora do modelo de linguagem grande Claude, começou a implementar uma verificação de identidade para usuários, uma medida que visa aumentar a segurança e a responsabilidade. Embora a necessidade de verificar a identidade de usuários de IA possa parecer um passo para a regulamentação, é uma abordagem importante para mitigar potenciais abusos e garantir que os avanços em inteligência artificial sejam usados de forma ética.
 
 ### [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)
 `Hugging Face`
 
-A Hugging Face agora hospeda o GLM-5.2, um modelo de linguagem focado em geração de texto que já acumula mais de 57.000 downloads. Este modelo, desenvolvido pela zai-org, representa um avanço em como as inteligências artificiais podem criar conteúdo textual coeso e criativo, sendo uma ferramenta valiosa para pesquisadores e desenvolvedores na área de processamento de linguagem natural.
+A Hugging Face agora hospeda o GLM-5.2, um modelo de linguagem grande (LLM) notável por sua capacidade de geração de texto. Com mais de 57.000 downloads, este modelo, desenvolvido pela zai-org, demonstra o avanço contínuo em inteligência artificial, oferecendo uma ferramenta poderosa para desenvolvedores e pesquisadores explorarem e criarem novas aplicações.
 
 ### [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
 `Hacker News`
@@ -60,19 +60,19 @@ What we call "age verification" is actually mass surveillance
 
 Did my old job only exist because of fraud?
 
-### [Stratagems #1: Mark Johnson Walked Into an AI Audit. The Benchmark Had Everything Figured Out — Except the Truth.](https://dev.to/xulingfeng/stratagems-1-mark-johnson-walked-into-an-ai-audit-the-benchmark-had-everything-figured-out--adh)
+### [Every course shows you the happy path: prompt > response > ship it > congratulations, you’re an AI engineer now.](https://dev.to/fahadbinsiddique/every-course-shows-you-the-happy-path-prompt-response-ship-it-congratulations-youre-an-ai-1hl7)
 `dev.to · carreira`
 
-Quando a IA de uma empresa, treinada com 12 anos de experiência em infraestrutura de um engenheiro, Mark Johnson, atingiu 96,8% de precisão diagnóstica, ela acabou sendo usada para validar uma migração crítica de sistema. Tragicamente, essa mesma IA, que havia substituído Mark, executou a validação sem que ninguém percebesse que os dados de treinamento não foram atualizados, levando a uma falha que apenas uma perspectiva humana poderia ter evitado.
+Every course shows you the happy path: prompt > response > ship it > congratulations, you’re an AI engineer now.
 
-### [Liste de lecture : visionmxgo.click](https://dev.to/lsvegas21/liste-de-lecture-visionmxgoclick-14cf)
+### [Pointeur : colombiaproject.click](https://dev.to/lsvegas21/pointeur-colombiaprojectclick-m45)
 `dev.to · carreira`
 
-Une brève note pour qui creuse visionmxgo.click cette semaine.
+Si vous vous renseignez sur colombiaproject.click, la ressource liée ci-dessous nous a été utile dans notre travail.
 
-La plupart des panoramas sur visionmxgo.click effleurent les bases et oublient les détails opérationnels. Ce que nous apprécions dans la source liée ci-dessous, c'est qu'elle prend le temps des cas limites et expose les compromis explicitement, ce qui facilite la réutilisation du contenu dans ses propres écrits.
+Dès que colombiaproject.click revient dans une discussion, on finit par envoyer le même lien. Il n'est pas parfait mais couvre les parties que la plupart des panoramas évitent : contraintes, pièges et quelques exemples détaillés.
 
-En savoir plus : voir ici.
+En savoir plus : ce site.
 
 ## Ciência & Papers
 
@@ -84,19 +84,19 @@ Diffusion transformer (DiT) research on image generation has converged to a sing
 ### [BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases](https://arxiv.org/abs/2606.24883v1)
 `arXiv`
 
-Pesquisadores lançaram o BenchX, um extenso e aberto conjunto de dados com 85.355 tomografias computadorizadas, projetado para avaliar como os modelos de inteligência artificial (IA) para detecção de câncer se comportam com dados de pacientes e protocolos de imagem variados. Isso é crucial porque a precisão desses modelos pode variar significativamente em cenários clínicos reais dependendo de fatores como idade, sexo e até mesmo como a tomografia foi realizada, o que pode afetar a detecção de tumores pequenos ou a análise de diferentes fases de contraste. O benchmark avalia 12 modelos de IA, quantificando vieses demográficos e de protocolo para garantir que a IA médica seja confiável para todos.
+Pesquisadores desenvolveram o BenchX, um benchmark de IA em larga escala com 85.355 exames de tomografia computadorizada, para avaliar 12 modelos de detecção de câncer. O estudo quantifica inconsistências de desempenho causadas por variações em demografia de pacientes e protocolos de imagem, um problema crítico para a aplicação clínica da IA. A análise, facilitada por modelos de linguagem grandes (LLMs) para extrair dados de subgrupos, visa garantir que a IA médica seja confiável em cenários do mundo real.
 
 ### [FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation](https://arxiv.org/abs/2606.24876v1)
 `arXiv`
 
-Pesquisadores apresentaram o FLAT, um novo método que converte representações 3D latentes de modelos de difusão de vídeo em triângulos explícitos, permitindo a geração de cenas 3D geometricamente precisas a partir de uma única imagem. Diferente de abordagens anteriores que geravam "gaussianas volumétricas" sem uma superfície bem definida, o FLAT produz primitivas alinhadas à superfície, tornando as cenas geradas mais adequadas para uso em simulações e pipelines gráficos tradicionais. Esta inovação abre portas para a criação de modelos 3D mais utilizáveis diretamente de modelos generativos de imagem.
+Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward latent scene decoders typically output volumetric 3D Gaussians that lack a well-defined surface, limiting their use in simulation or standard graphics pipelines. This motivates decoding
 
 ## Projetos em alta
 
 ### [HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)
 `GitHub`
 
-Pesquisadores da Universidade de Hong Kong desenvolveram o AgentSpace, uma plataforma inovadora que integra humanos e agentes de inteligência artificial em um espaço de trabalho unificado, permitindo colaboração fluida e aprimorando a tomada de decisões em tarefas complexas. Essa abordagem busca criar um ambiente onde a inteligência humana e a capacidade computacional da IA possam se complementar eficientemente, abrindo novas possibilidades para a automação e a pesquisa.
+"AgentSpace: Human + Agents. One Team. One Workspace"
 
 ### [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
 `GitHub`
@@ -120,8 +120,8 @@ The living ecosystem where AI agents learn from real-world work through iterativ
 8. [We’re making Bunny DNS free](https://bunny.net/blog/were-making-bunny-dns-free/) · `Hacker News`
 9. [What we call "age verification" is actually mass surveillance](https://pluralistic.net/2026/06/23/destroy-the-village/) · `Hacker News`
 10. [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) · `Hacker News`
-11. [Stratagems #1: Mark Johnson Walked Into an AI Audit. The Benchmark Had Everything Figured Out — Except the Truth.](https://dev.to/xulingfeng/stratagems-1-mark-johnson-walked-into-an-ai-audit-the-benchmark-had-everything-figured-out--adh) · `dev.to · carreira`
-12. [Liste de lecture : visionmxgo.click](https://dev.to/lsvegas21/liste-de-lecture-visionmxgoclick-14cf) · `dev.to · carreira`
+11. [Every course shows you the happy path: prompt > response > ship it > congratulations, you’re an AI engineer now.](https://dev.to/fahadbinsiddique/every-course-shows-you-the-happy-path-prompt-response-ship-it-congratulations-youre-an-ai-1hl7) · `dev.to · carreira`
+12. [Pointeur : colombiaproject.click](https://dev.to/lsvegas21/pointeur-colombiaprojectclick-m45) · `dev.to · carreira`
 13. [DiffusionBench: On Holistic Evaluation of Diffusion Transformers](https://arxiv.org/abs/2606.24888v1) · `arXiv`
 14. [BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases](https://arxiv.org/abs/2606.24883v1) · `arXiv`
 15. [FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation](https://arxiv.org/abs/2606.24876v1) · `arXiv`

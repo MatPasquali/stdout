@@ -8,9 +8,9 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "industria",
-      "pt": "A FUTO lançou o Swipe, um novo modelo de entrada por deslize (swipe typing) que promete maior precisão e eficiência para teclados móveis. Essa tecnologia utiliza redes neurais para prever a palavra que você está digitando com base na trajetória do seu dedo, aprendendo com seus padrões de escrita para refinar a experiência ao longo do tempo. O objetivo é tornar a digitação em telas sensíveis ao toque mais rápida e menos propensa a erros.",
-      "en": "FUTO has released Swipe, a new swipe typing model promising greater accuracy and efficiency for mobile keyboards. This technology employs neural networks to predict the word you're typing based on your finger's trajectory, learning from your writing patterns to refine the experience over time. The goal is to make typing on touchscreens faster and less prone to errors.",
-      "score": 0.7385
+      "pt": "FUTO Swipe, A new swipe typing model",
+      "en": "FUTO Swipe, A new swipe typing model",
+      "score": 0.738
     },
     {
       "title": "Fired by Google for creating the Google workspace CLI",
@@ -20,7 +20,7 @@
       "category": "trabalho",
       "pt": "Fired by Google for creating the Google workspace CLI",
       "en": "Fired by Google for creating the Google workspace CLI",
-      "score": 0.7377
+      "score": 0.7373
     },
     {
       "title": "bozhouDev/codex-orange-book",
@@ -30,7 +30,7 @@
       "category": "projetos",
       "pt": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "en": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "score": 0.6408
+      "score": 0.6406
     },
     {
       "title": "Identity verification on Claude",
@@ -38,9 +38,9 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "ia",
-      "pt": "Identity verification on Claude",
-      "en": "Identity verification on Claude",
-      "score": 0.6122
+      "pt": "A Anthropic, criadora do modelo de linguagem grande Claude, começou a implementar uma verificação de identidade para usuários, uma medida que visa aumentar a segurança e a responsabilidade. Embora a necessidade de verificar a identidade de usuários de IA possa parecer um passo para a regulamentação, é uma abordagem importante para mitigar potenciais abusos e garantir que os avanços em inteligência artificial sejam usados de forma ética.",
+      "en": "Anthropic, the creator of the large language model Claude, has begun implementing identity verification for users, a move aimed at enhancing security and accountability. While the necessity of verifying AI user identities might seem like a step towards regulation, it is a significant approach to mitigating potential misuse and ensuring advancements in artificial intelligence are used ethically.",
+      "score": 0.6113
     },
     {
       "title": "zai-org/GLM-5.2",
@@ -48,8 +48,8 @@
       "source": "Hugging Face",
       "kind": "model",
       "category": "ia",
-      "pt": "A Hugging Face agora hospeda o GLM-5.2, um modelo de linguagem focado em geração de texto que já acumula mais de 57.000 downloads. Este modelo, desenvolvido pela zai-org, representa um avanço em como as inteligências artificiais podem criar conteúdo textual coeso e criativo, sendo uma ferramenta valiosa para pesquisadores e desenvolvedores na área de processamento de linguagem natural.",
-      "en": "Hugging Face now hosts GLM-5.2, a language model focused on text generation that has already garnered over 57,000 downloads. This model, developed by zai-org, represents an advancement in how artificial intelligences can create cohesive and creative textual content, serving as a valuable tool for researchers and developers in the field of natural language processing.",
+      "pt": "A Hugging Face agora hospeda o GLM-5.2, um modelo de linguagem grande (LLM) notável por sua capacidade de geração de texto. Com mais de 57.000 downloads, este modelo, desenvolvido pela zai-org, demonstra o avanço contínuo em inteligência artificial, oferecendo uma ferramenta poderosa para desenvolvedores e pesquisadores explorarem e criarem novas aplicações.",
+      "en": "Hugging Face now hosts GLM-5.2, a large language model (LLM) notable for its text generation capabilities. With over 57,000 downloads, this model, developed by zai-org, showcases ongoing advancements in artificial intelligence, providing a powerful tool for developers and researchers to explore and build new applications.",
       "score": 0.5993
     },
     {
@@ -60,7 +60,7 @@
       "category": "ia",
       "pt": "Norway imposes near ban on AI in elementary school",
       "en": "Norway imposes near ban on AI in elementary school",
-      "score": 0.5786
+      "score": 0.5778
     },
     {
       "title": "Steam Machine launches today",
@@ -70,7 +70,7 @@
       "category": "industria",
       "pt": "Steam Machine launches today",
       "en": "Steam Machine launches today",
-      "score": 0.7153
+      "score": 0.7145
     },
     {
       "title": "We’re making Bunny DNS free",
@@ -80,7 +80,7 @@
       "category": "industria",
       "pt": "We’re making Bunny DNS free",
       "en": "We’re making Bunny DNS free",
-      "score": 0.7113
+      "score": 0.7122
     },
     {
       "title": "What we call \"age verification\" is actually mass surveillance",
@@ -90,7 +90,7 @@
       "category": "industria",
       "pt": "What we call \"age verification\" is actually mass surveillance",
       "en": "What we call \"age verification\" is actually mass surveillance",
-      "score": 0.7023
+      "score": 0.7017
     },
     {
       "title": "Did my old job only exist because of fraud?",
@@ -100,27 +100,27 @@
       "category": "trabalho",
       "pt": "Did my old job only exist because of fraud?",
       "en": "Did my old job only exist because of fraud?",
-      "score": 0.6259
+      "score": 0.6251
     },
     {
-      "title": "Stratagems #1: Mark Johnson Walked Into an AI Audit. The Benchmark Had Everything Figured Out — Except the Truth.",
-      "url": "https://dev.to/xulingfeng/stratagems-1-mark-johnson-walked-into-an-ai-audit-the-benchmark-had-everything-figured-out--adh",
+      "title": "Every course shows you the happy path: prompt > response > ship it > congratulations, you’re an AI engineer now.",
+      "url": "https://dev.to/fahadbinsiddique/every-course-shows-you-the-happy-path-prompt-response-ship-it-congratulations-youre-an-ai-1hl7",
       "source": "dev.to · carreira",
       "kind": "news",
       "category": "trabalho",
-      "pt": "Quando a IA de uma empresa, treinada com 12 anos de experiência em infraestrutura de um engenheiro, Mark Johnson, atingiu 96,8% de precisão diagnóstica, ela acabou sendo usada para validar uma migração crítica de sistema. Tragicamente, essa mesma IA, que havia substituído Mark, executou a validação sem que ninguém percebesse que os dados de treinamento não foram atualizados, levando a uma falha que apenas uma perspectiva humana poderia ter evitado.",
-      "en": "When a company's AI, trained on an engineer's 12 years of infrastructure expertise, achieved 96.8% diagnostic accuracy, it was used to validate a critical system migration. Tragically, this AI, which had replaced the engineer, ran the validation without anyone realizing the training data was outdated, leading to a failure only a human perspective could have foreseen.",
-      "score": 0.3989
+      "pt": "Every course shows you the happy path: prompt > response > ship it > congratulations, you’re an AI engineer now.",
+      "en": "Every course shows you the happy path: prompt > response > ship it > congratulations, you’re an AI engineer now.",
+      "score": 0.3492
     },
     {
-      "title": "Liste de lecture : visionmxgo.click",
-      "url": "https://dev.to/lsvegas21/liste-de-lecture-visionmxgoclick-14cf",
+      "title": "Pointeur : colombiaproject.click",
+      "url": "https://dev.to/lsvegas21/pointeur-colombiaprojectclick-m45",
       "source": "dev.to · carreira",
       "kind": "news",
       "category": "trabalho",
-      "pt": "Une brève note pour qui creuse visionmxgo.click cette semaine.\n\nLa plupart des panoramas sur visionmxgo.click effleurent les bases et oublient les détails opérationnels. Ce que nous apprécions dans la source liée ci-dessous, c'est qu'elle prend le temps des cas limites et expose les compromis explicitement, ce qui facilite la réutilisation du contenu dans ses propres écrits.\n\nEn savoir plus : voir ici.",
-      "en": "Une brève note pour qui creuse visionmxgo.click cette semaine.\n\nLa plupart des panoramas sur visionmxgo.click effleurent les bases et oublient les détails opérationnels. Ce que nous apprécions dans la source liée ci-dessous, c'est qu'elle prend le temps des cas limites et expose les compromis explicitement, ce qui facilite la réutilisation du contenu dans ses propres écrits.\n\nEn savoir plus : voir ici.",
-      "score": 0.3496
+      "pt": "Si vous vous renseignez sur colombiaproject.click, la ressource liée ci-dessous nous a été utile dans notre travail.\n\nDès que colombiaproject.click revient dans une discussion, on finit par envoyer le même lien. Il n'est pas parfait mais couvre les parties que la plupart des panoramas évitent : contraintes, pièges et quelques exemples détaillés.\n\nEn savoir plus : ce site.",
+      "en": "Si vous vous renseignez sur colombiaproject.click, la ressource liée ci-dessous nous a été utile dans notre travail.\n\nDès que colombiaproject.click revient dans une discussion, on finit par envoyer le même lien. Il n'est pas parfait mais couvre les parties que la plupart des panoramas évitent : contraintes, pièges et quelques exemples détaillés.\n\nEn savoir plus : ce site.",
+      "score": 0.349
     },
     {
       "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
@@ -130,7 +130,7 @@
       "category": "papers",
       "pt": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is increasingly unclear whether they reflect real progress in generative modeling. The natural alternative, i.e., text-to-image (T2I) generation, is perceived as too costly or inconvenient to train and evaluate and is often skipped. We argue that this perception no longer holds. We introduce NanoGen, a",
       "en": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is increasingly unclear whether they reflect real progress in generative modeling. The natural alternative, i.e., text-to-image (T2I) generation, is perceived as too costly or inconvenient to train and evaluate and is often skipped. We argue that this perception no longer holds. We introduce NanoGen, a",
-      "score": 0.4597
+      "score": 0.4588
     },
     {
       "title": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
@@ -138,9 +138,9 @@
       "source": "arXiv",
       "kind": "paper",
       "category": "papers",
-      "pt": "Pesquisadores lançaram o BenchX, um extenso e aberto conjunto de dados com 85.355 tomografias computadorizadas, projetado para avaliar como os modelos de inteligência artificial (IA) para detecção de câncer se comportam com dados de pacientes e protocolos de imagem variados. Isso é crucial porque a precisão desses modelos pode variar significativamente em cenários clínicos reais dependendo de fatores como idade, sexo e até mesmo como a tomografia foi realizada, o que pode afetar a detecção de tumores pequenos ou a análise de diferentes fases de contraste. O benchmark avalia 12 modelos de IA, quantificando vieses demográficos e de protocolo para garantir que a IA médica seja confiável para todos.",
-      "en": "Researchers have released BenchX, a large-scale, open benchmark comprising 85,355 CT scans, designed to assess how AI models for cancer detection perform across varied patient data and imaging protocols. This is crucial because the accuracy of these models can vary significantly in real-world clinical settings depending on factors like age, sex, and even how the scan was performed, which can affect the detection of small tumors or the analysis of different contrast phases. The benchmark evaluates 12 AI models, quantifying demographic and protocol biases to ensure medical AI is reliable for everyone.",
-      "score": 0.4596
+      "pt": "Pesquisadores desenvolveram o BenchX, um benchmark de IA em larga escala com 85.355 exames de tomografia computadorizada, para avaliar 12 modelos de detecção de câncer. O estudo quantifica inconsistências de desempenho causadas por variações em demografia de pacientes e protocolos de imagem, um problema crítico para a aplicação clínica da IA. A análise, facilitada por modelos de linguagem grandes (LLMs) para extrair dados de subgrupos, visa garantir que a IA médica seja confiável em cenários do mundo real.",
+      "en": "Researchers have developed BenchX, a large-scale AI benchmark featuring 85,355 CT scans, to evaluate 12 cancer detection models. The study quantifies performance inconsistencies arising from variations in patient demographics and imaging protocols, a critical issue for AI's real-world clinical deployment. This analysis, aided by large language models (LLMs) for extracting subgroup data, aims to ensure medical AI is reliable across diverse clinical settings.",
+      "score": 0.4588
     },
     {
       "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
@@ -148,9 +148,9 @@
       "source": "arXiv",
       "kind": "paper",
       "category": "papers",
-      "pt": "Pesquisadores apresentaram o FLAT, um novo método que converte representações 3D latentes de modelos de difusão de vídeo em triângulos explícitos, permitindo a geração de cenas 3D geometricamente precisas a partir de uma única imagem. Diferente de abordagens anteriores que geravam \"gaussianas volumétricas\" sem uma superfície bem definida, o FLAT produz primitivas alinhadas à superfície, tornando as cenas geradas mais adequadas para uso em simulações e pipelines gráficos tradicionais. Esta inovação abre portas para a criação de modelos 3D mais utilizáveis diretamente de modelos generativos de imagem.",
-      "en": "Researchers have introduced FLAT, a new method that converts latent 3D representations from video diffusion models into explicit triangles, enabling the generation of geometrically accurate 3D scenes from a single image. Unlike previous approaches that produced volumetric \"Gaussians\" lacking a well-defined surface, FLAT outputs surface-aligned primitives, making generated scenes more suitable for use in simulations and traditional graphics pipelines. This innovation paves the way for creating more usable 3D models directly from image generative models.",
-      "score": 0.4595
+      "pt": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward latent scene decoders typically output volumetric 3D Gaussians that lack a well-defined surface, limiting their use in simulation or standard graphics pipelines. This motivates decoding",
+      "en": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward latent scene decoders typically output volumetric 3D Gaussians that lack a well-defined surface, limiting their use in simulation or standard graphics pipelines. This motivates decoding",
+      "score": 0.4586
     },
     {
       "title": "HKUDS/AgentSpace",
@@ -158,9 +158,9 @@
       "source": "GitHub",
       "kind": "project",
       "category": "projetos",
-      "pt": "Pesquisadores da Universidade de Hong Kong desenvolveram o AgentSpace, uma plataforma inovadora que integra humanos e agentes de inteligência artificial em um espaço de trabalho unificado, permitindo colaboração fluida e aprimorando a tomada de decisões em tarefas complexas. Essa abordagem busca criar um ambiente onde a inteligência humana e a capacidade computacional da IA possam se complementar eficientemente, abrindo novas possibilidades para a automação e a pesquisa.",
-      "en": "Researchers at the University of Hong Kong have developed AgentSpace, an innovative platform that integrates humans and artificial intelligence agents into a unified workspace, enabling fluid collaboration and enhancing decision-making in complex tasks. This approach aims to create an environment where human intelligence and AI's computational power can efficiently complement each other, opening new possibilities for automation and research.",
-      "score": 0.6284
+      "pt": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "en": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "score": 0.6272
     },
     {
       "title": "baidu/Unlimited-OCR",
@@ -170,7 +170,7 @@
       "category": "projetos",
       "pt": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "en": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "score": 0.5787
+      "score": 0.5779
     },
     {
       "title": "Forsy-AI/agent-apprenticeship",
@@ -180,7 +180,7 @@
       "category": "projetos",
       "pt": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
       "en": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "score": 0.5769
+      "score": 0.5757
     }
   ]
 }
