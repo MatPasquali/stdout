@@ -72,4 +72,4 @@ python -m http.server 8000 --directory docs
 
 ## Stack
 
-Python · APIs públicas (arXiv, Hacker News, GitHub, Hugging Face, RSS) · Gemini (redação) · GitHub Actions · GitHub Pages
+Python · APIs públicas (arXiv, Hacker News, GitHub, Hugging Face, RSS) · IA grátis (Groq, com Gemini de fallback) · GitHub Actions · GitHub Pages

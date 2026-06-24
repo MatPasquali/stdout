@@ -56,7 +56,7 @@ def _looks_like_spam(it: Item) -> bool:
     return it.kind == "project" and not it.summary.strip()
 
 
-def rank(items: list[Item], highlights: int = 3, per_section: int = 3,
+def rank(items: list[Item], highlights: int = 3, per_section: int = 4,
          highlight_source_cap: int = 2) -> list[Item]:
     """Return Highlights (top overall) plus the top `per_section` of each section."""
     items = _dedup(items)
