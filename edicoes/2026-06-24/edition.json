@@ -1,17 +1,7 @@
 {
   "date": "2026-06-24",
-  "credits": "redação Gemini (gemini-2.5-flash-lite)",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
   "items": [
-    {
-      "title": "FUTO Swipe – A new swipe typing model",
-      "url": "https://swipe.futo.tech/",
-      "source": "Hacker News",
-      "kind": "news",
-      "category": "industria",
-      "pt": "FUTO Swipe, A new swipe typing model",
-      "en": "FUTO Swipe, A new swipe typing model",
-      "score": 0.738
-    },
     {
       "title": "Fired by Google for creating the Google workspace CLI",
       "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
@@ -20,7 +10,17 @@
       "category": "trabalho",
       "pt": "Fired by Google for creating the Google workspace CLI",
       "en": "Fired by Google for creating the Google workspace CLI",
-      "score": 0.7373
+      "score": 0.7323
+    },
+    {
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "FUTO Swipe, A new swipe typing model",
+      "en": "FUTO Swipe, A new swipe typing model",
+      "score": 0.732
     },
     {
       "title": "bozhouDev/codex-orange-book",
@@ -30,7 +30,7 @@
       "category": "projetos",
       "pt": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "en": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "score": 0.6406
+      "score": 0.6351
     },
     {
       "title": "Identity verification on Claude",
@@ -38,9 +38,9 @@
       "source": "Hacker News",
       "kind": "news",
       "category": "ia",
-      "pt": "A Anthropic, criadora do modelo de linguagem grande Claude, começou a implementar uma verificação de identidade para usuários, uma medida que visa aumentar a segurança e a responsabilidade. Embora a necessidade de verificar a identidade de usuários de IA possa parecer um passo para a regulamentação, é uma abordagem importante para mitigar potenciais abusos e garantir que os avanços em inteligência artificial sejam usados de forma ética.",
-      "en": "Anthropic, the creator of the large language model Claude, has begun implementing identity verification for users, a move aimed at enhancing security and accountability. While the necessity of verifying AI user identities might seem like a step towards regulation, it is a significant approach to mitigating potential misuse and ensuring advancements in artificial intelligence are used ethically.",
-      "score": 0.6113
+      "pt": "Identity verification on Claude",
+      "en": "Identity verification on Claude",
+      "score": 0.6034
     },
     {
       "title": "zai-org/GLM-5.2",
@@ -48,9 +48,9 @@
       "source": "Hugging Face",
       "kind": "model",
       "category": "ia",
-      "pt": "A Hugging Face agora hospeda o GLM-5.2, um modelo de linguagem grande (LLM) notável por sua capacidade de geração de texto. Com mais de 57.000 downloads, este modelo, desenvolvido pela zai-org, demonstra o avanço contínuo em inteligência artificial, oferecendo uma ferramenta poderosa para desenvolvedores e pesquisadores explorarem e criarem novas aplicações.",
-      "en": "Hugging Face now hosts GLM-5.2, a large language model (LLM) notable for its text generation capabilities. With over 57,000 downloads, this model, developed by zai-org, showcases ongoing advancements in artificial intelligence, providing a powerful tool for developers and researchers to explore and build new applications.",
-      "score": 0.5993
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 2343 likes e 57186 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 2343 likes e 57186 downloads.",
+      "score": 0.6
     },
     {
       "title": "Norway imposes near ban on AI in elementary school",
@@ -60,17 +60,17 @@
       "category": "ia",
       "pt": "Norway imposes near ban on AI in elementary school",
       "en": "Norway imposes near ban on AI in elementary school",
-      "score": 0.5778
+      "score": 0.5698
     },
     {
-      "title": "Steam Machine launches today",
-      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "source": "Hacker News",
-      "kind": "news",
-      "category": "industria",
-      "pt": "Steam Machine launches today",
-      "en": "Steam Machine launches today",
-      "score": 0.7145
+      "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 521 likes e 138704 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 521 likes e 138704 downloads.",
+      "score": 0.5508
     },
     {
       "title": "We’re making Bunny DNS free",
@@ -80,7 +80,17 @@
       "category": "industria",
       "pt": "We’re making Bunny DNS free",
       "en": "We’re making Bunny DNS free",
-      "score": 0.7122
+      "score": 0.7182
+    },
+    {
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Steam Machine launches today",
+      "en": "Steam Machine launches today",
+      "score": 0.7066
     },
     {
       "title": "What we call \"age verification\" is actually mass surveillance",
@@ -90,7 +100,17 @@
       "category": "industria",
       "pt": "What we call \"age verification\" is actually mass surveillance",
       "en": "What we call \"age verification\" is actually mass surveillance",
-      "score": 0.7017
+      "score": 0.6947
+    },
+    {
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "en": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "score": 0.6824
     },
     {
       "title": "Did my old job only exist because of fraud?",
@@ -100,27 +120,37 @@
       "category": "trabalho",
       "pt": "Did my old job only exist because of fraud?",
       "en": "Did my old job only exist because of fraud?",
-      "score": 0.6251
+      "score": 0.617
     },
     {
-      "title": "Every course shows you the happy path: prompt > response > ship it > congratulations, you’re an AI engineer now.",
-      "url": "https://dev.to/fahadbinsiddique/every-course-shows-you-the-happy-path-prompt-response-ship-it-congratulations-youre-an-ai-1hl7",
+      "title": "I Tore Apart the Architecture of Every Major AI Interview Tool. Here's Why Ntro.io Wins for Coding Rounds — A Systems Engineer's Rebuttal",
+      "url": "https://dev.to/aijob/i-tore-apart-the-architecture-of-every-major-ai-interview-tool-heres-why-ntroio-wins-for-coding-227k",
       "source": "dev.to · carreira",
       "kind": "news",
       "category": "trabalho",
-      "pt": "Every course shows you the happy path: prompt > response > ship it > congratulations, you’re an AI engineer now.",
-      "en": "Every course shows you the happy path: prompt > response > ship it > congratulations, you’re an AI engineer now.",
-      "score": 0.3492
+      "pt": "TL;DR for the skimmers: Most AI interview tools are screen-overlay desktop apps with a broken stealth model and a conversational AI bolted onto a meeting recorder. Ntro.io uses a dual-device browser-extension architecture that separates the AI console from the screenshared surface entirely. For live coding interviews specifically, screen-shared, real-time, high-scrutiny, this distinction is not cosmetic. It is the only architecture that actually survives screen sharing, and the Live Coding Cra",
+      "en": "TL;DR for the skimmers: Most AI interview tools are screen-overlay desktop apps with a broken stealth model and a conversational AI bolted onto a meeting recorder. Ntro.io uses a dual-device browser-extension architecture that separates the AI console from the screenshared surface entirely. For live coding interviews specifically, screen-shared, real-time, high-scrutiny, this distinction is not cosmetic. It is the only architecture that actually survives screen sharing, and the Live Coding Cra",
+      "score": 0.3999
     },
     {
-      "title": "Pointeur : colombiaproject.click",
-      "url": "https://dev.to/lsvegas21/pointeur-colombiaprojectclick-m45",
+      "title": "Trabalhadores da Hyundai aprovam greve em meio a disputa sobre robôs humanoides e salários",
+      "url": "https://olhardigital.com.br/2026/06/24/pro/trabalhadores-da-hyundai-aprovam-greve-em-meio-a-disputa-sobre-robos-humanoides-e-salarios/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Sindicato sul-coreano reage a plano de automação e pressiona montadora por ganhos e participação nas decisões sobre IA na produção\nO post Trabalhadores da Hyundai aprovam greve em meio a disputa sobre robôs humanoides e salários apareceu primeiro em Olhar Digital.",
+      "en": "Sindicato sul-coreano reage a plano de automação e pressiona montadora por ganhos e participação nas decisões sobre IA na produção\nO post Trabalhadores da Hyundai aprovam greve em meio a disputa sobre robôs humanoides e salários apareceu primeiro em Olhar Digital.",
+      "score": 0.3472
+    },
+    {
+      "title": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI",
+      "url": "https://dev.to/caper_dev/chatgpt-prompt-engineering-for-freelancers-unlocking-the-power-of-ai-2892",
       "source": "dev.to · carreira",
       "kind": "news",
       "category": "trabalho",
-      "pt": "Si vous vous renseignez sur colombiaproject.click, la ressource liée ci-dessous nous a été utile dans notre travail.\n\nDès que colombiaproject.click revient dans une discussion, on finit par envoyer le même lien. Il n'est pas parfait mais couvre les parties que la plupart des panoramas évitent : contraintes, pièges et quelques exemples détaillés.\n\nEn savoir plus : ce site.",
-      "en": "Si vous vous renseignez sur colombiaproject.click, la ressource liée ci-dessous nous a été utile dans notre travail.\n\nDès que colombiaproject.click revient dans une discussion, on finit par envoyer le même lien. Il n'est pas parfait mais couvre les parties que la plupart des panoramas évitent : contraintes, pièges et quelques exemples détaillés.\n\nEn savoir plus : ce site.",
-      "score": 0.349
+      "pt": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI\n\n\nAs a freelancer, staying ahead of the curve is crucial for success. With the rise of AI-powered tools like ChatGPT, you can revolutionize the way you work and deliver high-quality results to your clients. In this article, we'll dive into the world of ChatGPT prompt engineering, providing you with practical steps and code examples to unlock the full potential of this technology.\n\n\n  \n  \n  What is ChatGPT Prompt Engineering?\n\n",
+      "en": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI\n\n\nAs a freelancer, staying ahead of the curve is crucial for success. With the rise of AI-powered tools like ChatGPT, you can revolutionize the way you work and deliver high-quality results to your clients. In this article, we'll dive into the world of ChatGPT prompt engineering, providing you with practical steps and code examples to unlock the full potential of this technology.\n\n\n  \n  \n  What is ChatGPT Prompt Engineering?\n\n",
+      "score": 0.347
     },
     {
       "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
@@ -130,7 +160,7 @@
       "category": "papers",
       "pt": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is increasingly unclear whether they reflect real progress in generative modeling. The natural alternative, i.e., text-to-image (T2I) generation, is perceived as too costly or inconvenient to train and evaluate and is often skipped. We argue that this perception no longer holds. We introduce NanoGen, a",
       "en": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is increasingly unclear whether they reflect real progress in generative modeling. The natural alternative, i.e., text-to-image (T2I) generation, is perceived as too costly or inconvenient to train and evaluate and is often skipped. We argue that this perception no longer holds. We introduce NanoGen, a",
-      "score": 0.4588
+      "score": 0.451
     },
     {
       "title": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
@@ -138,9 +168,9 @@
       "source": "arXiv",
       "kind": "paper",
       "category": "papers",
-      "pt": "Pesquisadores desenvolveram o BenchX, um benchmark de IA em larga escala com 85.355 exames de tomografia computadorizada, para avaliar 12 modelos de detecção de câncer. O estudo quantifica inconsistências de desempenho causadas por variações em demografia de pacientes e protocolos de imagem, um problema crítico para a aplicação clínica da IA. A análise, facilitada por modelos de linguagem grandes (LLMs) para extrair dados de subgrupos, visa garantir que a IA médica seja confiável em cenários do mundo real.",
-      "en": "Researchers have developed BenchX, a large-scale AI benchmark featuring 85,355 CT scans, to evaluate 12 cancer detection models. The study quantifies performance inconsistencies arising from variations in patient demographics and imaging protocols, a critical issue for AI's real-world clinical deployment. This analysis, aided by large language models (LLMs) for extracting subgroup data, aims to ensure medical AI is reliable across diverse clinical settings.",
-      "score": 0.4588
+      "pt": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such inconsistencies occur when patient demographics and imaging protocols vary, for example, in detecting small tumors, analyzing scans from different contrast phases, or evaluating patients of different ages or sexes. To quantify these inconsistencies, we develop a large-scale, open benchmark of 85,355 C",
+      "en": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such inconsistencies occur when patient demographics and imaging protocols vary, for example, in detecting small tumors, analyzing scans from different contrast phases, or evaluating patients of different ages or sexes. To quantify these inconsistencies, we develop a large-scale, open benchmark of 85,355 C",
+      "score": 0.4509
     },
     {
       "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
@@ -150,7 +180,17 @@
       "category": "papers",
       "pt": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward latent scene decoders typically output volumetric 3D Gaussians that lack a well-defined surface, limiting their use in simulation or standard graphics pipelines. This motivates decoding",
       "en": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward latent scene decoders typically output volumetric 3D Gaussians that lack a well-defined surface, limiting their use in simulation or standard graphics pipelines. This motivates decoding",
-      "score": 0.4586
+      "score": 0.4508
+    },
+    {
+      "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
+      "url": "https://arxiv.org/abs/2606.24855v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project addresses this gap with a fully open data curation pipeline for training agentic models. We conduct",
+      "en": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project addresses this gap with a fully open data curation pipeline for training agentic models. We conduct",
+      "score": 0.4502
     },
     {
       "title": "HKUDS/AgentSpace",
@@ -160,7 +200,7 @@
       "category": "projetos",
       "pt": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
       "en": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "score": 0.6272
+      "score": 0.6187
     },
     {
       "title": "baidu/Unlimited-OCR",
@@ -170,7 +210,7 @@
       "category": "projetos",
       "pt": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "en": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "score": 0.5779
+      "score": 0.57
     },
     {
       "title": "Forsy-AI/agent-apprenticeship",
@@ -180,7 +220,17 @@
       "category": "projetos",
       "pt": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
       "en": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "score": 0.5757
+      "score": 0.5659
+    },
+    {
+      "title": "lyra81604/zhengxi-views",
+      "url": "https://github.com/lyra81604/zhengxi-views",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "可溯源的郑希(易方达基金经理)投研 Agent Skill, , 基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "en": "可溯源的郑希(易方达基金经理)投研 Agent Skill, , 基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "score": 0.5427
     }
   ]
 }
