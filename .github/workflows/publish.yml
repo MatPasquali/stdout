@@ -1,13 +1,9 @@
-name: stdout · edição semanal
+name: stdout · edição diária
 
 on:
   schedule:
-    # Toda segunda-feira, 11:00 UTC (08:00 em Brasília). Ajuste se quiser.
-    - cron: "0 11 * * 1"
-    # Agendamento único: 24/06 às 15:00 UTC (12:00 em Brasília) para a primeira
-    # edição com as seções novas. A cota diária do Gemini reseta ~04:00 BRT, então
-    # ao meio-dia já está fresca. Pode remover esta linha depois que rodar.
-    - cron: "0 15 24 6 *"
+    # Todos os dias, 11:00 UTC (08:00 em Brasília). Ajuste se quiser.
+    - cron: "0 11 * * *"
   workflow_dispatch: {}   # também dá pra rodar na mão pelo botão "Run workflow"
 
 # Permite que o job faça commit/push da nova edição e do site de volta ao repo.

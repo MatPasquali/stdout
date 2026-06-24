@@ -21,6 +21,25 @@ from .write import get_writer
 EDICOES = Path("edicoes")
 
 
+def _recent_urls(keep: int = 7) -> set[str]:
+    """URLs published in recent editions, for cross-edition de-duplication.
+
+    Today's edition is excluded, so re-running on the same day still produces a
+    full edition instead of an empty one.
+    """
+    today = date.today().isoformat()
+    files = [f for f in sorted(EDICOES.glob("*/edition.json"), reverse=True)
+             if f.parent.name != today][:keep]
+    urls: set[str] = set()
+    for f in files:
+        try:
+            data = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001 — a malformed past edition shouldn't block today's
+            continue
+        urls.update(i.get("url") for i in data.get("items", []))
+    return urls
+
+
 def _no_emdash(text: str) -> str:
     """House style: no em-dashes or en-dashes, whatever the model returns.
 
@@ -52,7 +71,10 @@ def _render_md(records: list[dict], lang: str, day: str, credits: str) -> str:
 
 def build_edition() -> Path:
     items = collect_all()
-    selected = rank(items)
+    seen = _recent_urls()
+    fresh = [it for it in items if it.url not in seen]
+    print(f"  dedup entre edições: {len(items) - len(fresh)} já publicados removidos")
+    selected = rank(fresh)
 
     writer = get_writer()
     print(f"\n  Redação (com auto-revisão): {writer.name}")

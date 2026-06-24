@@ -14,7 +14,7 @@ SECTION_ORDER = ["ia", "industria", "trabalho", "papers", "projetos"]
 LABELS = {
     "pt": {
         "title": "stdout · Edição de",
-        "intro": "Notícias, papers e projetos que movimentaram a semana no mundo "
+        "intro": "Notícias, papers e projetos que estão movimentando o mundo "
                  "tech: coletados, ranqueados e redigidos automaticamente.",
         "highlights": "Destaques",
         "ia": "Inteligência Artificial",
@@ -27,8 +27,8 @@ LABELS = {
     },
     "en": {
         "title": "stdout · Edition of",
-        "intro": "The news, papers and projects that moved the tech world this "
-                 "week: collected, ranked and written automatically.",
+        "intro": "The news, papers and projects moving the tech world right "
+                 "now: collected, ranked and written automatically.",
         "highlights": "Highlights",
         "ia": "Artificial Intelligence",
         "industria": "Industry",

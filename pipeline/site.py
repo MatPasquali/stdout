@@ -208,7 +208,7 @@ def _about() -> str:
         '<span class="dot g"></span><span class="ttitle">stdout@portfolio: ~</span></div>'
         '<div class="tbody">'
         '<div><span class="prompt">$</span>stdout --how</div>'
-        '<div class="out">Toda semana eu coleto notícias e papers de <b>arXiv</b>, '
+        '<div class="out">Todo dia eu coleto notícias e papers de <b>arXiv</b>, '
         '<b>Hacker News</b>, <b>RSS</b> e <b>GitHub</b>, ranqueio por relevância '
         "(heurística, sem IA), e uma IA <b>redige e revisa</b> cada matéria em "
         "português e inglês. Tudo automático, publicado aqui.</div>"
@@ -271,7 +271,7 @@ def _index_html(editions: list[dict]) -> str:
         "</div>",
         '<header class="hero">',
         '<div class="logo">stdout<span class="cursor">_</span></div>',
-        '<p class="tagline">Um jornal semanal do mundo tech: coletado, curado e '
+        '<p class="tagline">Um jornal diário do mundo tech: coletado, curado e '
         "redigido automaticamente por IA. Em português e inglês.</p>",
         "</header>",
         _about(),

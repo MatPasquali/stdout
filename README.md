@@ -1,10 +1,10 @@
 # `stdout`
 
-> Um jornal semanal do mundo tech — coletado, curado e redigido automaticamente.
+> Um jornal diário do mundo tech — coletado, curado e redigido automaticamente.
 
 ### 🌐 Leia o jornal ao vivo → **[matpasquali.github.io/stdout](https://matpasquali.github.io/stdout/)**
 
-`stdout` é um pipeline de dados que toda semana varre as principais fontes do
+`stdout` é um pipeline de dados que todo dia varre as principais fontes do
 mundo da tecnologia e da ciência (notícias, papers, projetos em alta), filtra o
 que mais importa, e publica uma edição em formato de jornal — em português e
 inglês. Sem intervenção manual: um robô faz tudo, do começo ao fim.
@@ -33,12 +33,12 @@ creditando a fonte e a origem de tudo.
 - [x] **Fase 1 — Coleta.** Hacker News, arXiv, GitHub, Hugging Face (modelos) e RSS (tech, ciência, Brasil e carreira) — tudo sem chave.
 - [x] **Fase 2 — Redação.** Ranking heurístico (sem IA) + redação por IA que se auto-revisa (Groq, com Gemini de fallback), em PT + EN, com modo extrativo de segurança.
 - [x] **Fase 3 — Site.** Edições viram um jornal estático em `docs/` (capa + páginas PT/EN).
-- [x] **Fase 4 — Automação.** Cron semanal via GitHub Actions + publicação no GitHub Pages.
+- [x] **Fase 4 — Automação.** Cron diário via GitHub Actions + publicação no GitHub Pages.
 
 ## Automação
 
 O workflow [`.github/workflows/publish.yml`](.github/workflows/publish.yml) roda
-toda segunda-feira (e pode ser disparado na mão), gera a edição da semana e dá
+todo dia (e pode ser disparado na mão), gera a edição do dia e dá
 push da pasta `docs/` de volta ao repositório. O GitHub Pages serve esse `docs/`.
 
 Para ativar no seu repositório:
@@ -48,7 +48,7 @@ Para ativar no seu repositório:
    https://console.groq.com/keys). Opcionalmente, `GEMINI_API_KEY` como fallback.
 2. **Pages:** _Settings → Pages → Build and deployment → Source: Deploy from a
    branch_, branch `main`, pasta `/docs`.
-3. (Opcional) _Actions → stdout · edição semanal → Run workflow_ para gerar a
+3. (Opcional) _Actions → stdout · edição diária → Run workflow_ para gerar a
    primeira edição automática agora.
 
 ## Rodando localmente
