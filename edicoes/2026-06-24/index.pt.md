@@ -29,7 +29,7 @@ Identity verification on Claude
 ### [zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)
 `Hugging Face`
 
-Modelo no Hugging Face para a tarefa 'text-generation', com 2343 likes e 57186 downloads.
+Modelo no Hugging Face para a tarefa 'text-generation', com 2344 likes e 57186 downloads.
 
 ### [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
 `Hacker News`

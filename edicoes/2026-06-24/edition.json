@@ -10,7 +10,7 @@
       "category": "trabalho",
       "pt": "Fired by Google for creating the Google workspace CLI",
       "en": "Fired by Google for creating the Google workspace CLI",
-      "score": 0.7323
+      "score": 0.7321
     },
     {
       "title": "FUTO Swipe – A new swipe typing model",
@@ -20,7 +20,7 @@
       "category": "industria",
       "pt": "FUTO Swipe, A new swipe typing model",
       "en": "FUTO Swipe, A new swipe typing model",
-      "score": 0.732
+      "score": 0.7317
     },
     {
       "title": "bozhouDev/codex-orange-book",
@@ -30,7 +30,7 @@
       "category": "projetos",
       "pt": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "en": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "score": 0.6351
+      "score": 0.6348
     },
     {
       "title": "Identity verification on Claude",
@@ -40,7 +40,7 @@
       "category": "ia",
       "pt": "Identity verification on Claude",
       "en": "Identity verification on Claude",
-      "score": 0.6034
+      "score": 0.6031
     },
     {
       "title": "zai-org/GLM-5.2",
@@ -48,8 +48,8 @@
       "source": "Hugging Face",
       "kind": "model",
       "category": "ia",
-      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 2343 likes e 57186 downloads.",
-      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 2343 likes e 57186 downloads.",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 2344 likes e 57186 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 2344 likes e 57186 downloads.",
       "score": 0.6
     },
     {
@@ -60,7 +60,7 @@
       "category": "ia",
       "pt": "Norway imposes near ban on AI in elementary school",
       "en": "Norway imposes near ban on AI in elementary school",
-      "score": 0.5698
+      "score": 0.5695
     },
     {
       "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
@@ -70,7 +70,7 @@
       "category": "ia",
       "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 521 likes e 138704 downloads.",
       "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 521 likes e 138704 downloads.",
-      "score": 0.5508
+      "score": 0.5505
     },
     {
       "title": "We’re making Bunny DNS free",
@@ -80,7 +80,7 @@
       "category": "industria",
       "pt": "We’re making Bunny DNS free",
       "en": "We’re making Bunny DNS free",
-      "score": 0.7182
+      "score": 0.7183
     },
     {
       "title": "Steam Machine launches today",
@@ -90,7 +90,7 @@
       "category": "industria",
       "pt": "Steam Machine launches today",
       "en": "Steam Machine launches today",
-      "score": 0.7066
+      "score": 0.7063
     },
     {
       "title": "What we call \"age verification\" is actually mass surveillance",
@@ -100,7 +100,7 @@
       "category": "industria",
       "pt": "What we call \"age verification\" is actually mass surveillance",
       "en": "What we call \"age verification\" is actually mass surveillance",
-      "score": 0.6947
+      "score": 0.6944
     },
     {
       "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
@@ -110,7 +110,7 @@
       "category": "industria",
       "pt": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
       "en": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "score": 0.6824
+      "score": 0.6821
     },
     {
       "title": "Did my old job only exist because of fraud?",
@@ -120,7 +120,7 @@
       "category": "trabalho",
       "pt": "Did my old job only exist because of fraud?",
       "en": "Did my old job only exist because of fraud?",
-      "score": 0.617
+      "score": 0.6167
     },
     {
       "title": "I Tore Apart the Architecture of Every Major AI Interview Tool. Here's Why Ntro.io Wins for Coding Rounds — A Systems Engineer's Rebuttal",
@@ -130,7 +130,7 @@
       "category": "trabalho",
       "pt": "TL;DR for the skimmers: Most AI interview tools are screen-overlay desktop apps with a broken stealth model and a conversational AI bolted onto a meeting recorder. Ntro.io uses a dual-device browser-extension architecture that separates the AI console from the screenshared surface entirely. For live coding interviews specifically, screen-shared, real-time, high-scrutiny, this distinction is not cosmetic. It is the only architecture that actually survives screen sharing, and the Live Coding Cra",
       "en": "TL;DR for the skimmers: Most AI interview tools are screen-overlay desktop apps with a broken stealth model and a conversational AI bolted onto a meeting recorder. Ntro.io uses a dual-device browser-extension architecture that separates the AI console from the screenshared surface entirely. For live coding interviews specifically, screen-shared, real-time, high-scrutiny, this distinction is not cosmetic. It is the only architecture that actually survives screen sharing, and the Live Coding Cra",
-      "score": 0.3999
+      "score": 0.3996
     },
     {
       "title": "Trabalhadores da Hyundai aprovam greve em meio a disputa sobre robôs humanoides e salários",
@@ -140,7 +140,7 @@
       "category": "trabalho",
       "pt": "Sindicato sul-coreano reage a plano de automação e pressiona montadora por ganhos e participação nas decisões sobre IA na produção\nO post Trabalhadores da Hyundai aprovam greve em meio a disputa sobre robôs humanoides e salários apareceu primeiro em Olhar Digital.",
       "en": "Sindicato sul-coreano reage a plano de automação e pressiona montadora por ganhos e participação nas decisões sobre IA na produção\nO post Trabalhadores da Hyundai aprovam greve em meio a disputa sobre robôs humanoides e salários apareceu primeiro em Olhar Digital.",
-      "score": 0.3472
+      "score": 0.3469
     },
     {
       "title": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI",
@@ -150,7 +150,7 @@
       "category": "trabalho",
       "pt": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI\n\n\nAs a freelancer, staying ahead of the curve is crucial for success. With the rise of AI-powered tools like ChatGPT, you can revolutionize the way you work and deliver high-quality results to your clients. In this article, we'll dive into the world of ChatGPT prompt engineering, providing you with practical steps and code examples to unlock the full potential of this technology.\n\n\n  \n  \n  What is ChatGPT Prompt Engineering?\n\n",
       "en": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI\n\n\nAs a freelancer, staying ahead of the curve is crucial for success. With the rise of AI-powered tools like ChatGPT, you can revolutionize the way you work and deliver high-quality results to your clients. In this article, we'll dive into the world of ChatGPT prompt engineering, providing you with practical steps and code examples to unlock the full potential of this technology.\n\n\n  \n  \n  What is ChatGPT Prompt Engineering?\n\n",
-      "score": 0.347
+      "score": 0.3467
     },
     {
       "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
@@ -160,7 +160,7 @@
       "category": "papers",
       "pt": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is increasingly unclear whether they reflect real progress in generative modeling. The natural alternative, i.e., text-to-image (T2I) generation, is perceived as too costly or inconvenient to train and evaluate and is often skipped. We argue that this perception no longer holds. We introduce NanoGen, a",
       "en": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is increasingly unclear whether they reflect real progress in generative modeling. The natural alternative, i.e., text-to-image (T2I) generation, is perceived as too costly or inconvenient to train and evaluate and is often skipped. We argue that this perception no longer holds. We introduce NanoGen, a",
-      "score": 0.451
+      "score": 0.4507
     },
     {
       "title": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
@@ -170,7 +170,7 @@
       "category": "papers",
       "pt": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such inconsistencies occur when patient demographics and imaging protocols vary, for example, in detecting small tumors, analyzing scans from different contrast phases, or evaluating patients of different ages or sexes. To quantify these inconsistencies, we develop a large-scale, open benchmark of 85,355 C",
       "en": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such inconsistencies occur when patient demographics and imaging protocols vary, for example, in detecting small tumors, analyzing scans from different contrast phases, or evaluating patients of different ages or sexes. To quantify these inconsistencies, we develop a large-scale, open benchmark of 85,355 C",
-      "score": 0.4509
+      "score": 0.4506
     },
     {
       "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
@@ -180,7 +180,7 @@
       "category": "papers",
       "pt": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward latent scene decoders typically output volumetric 3D Gaussians that lack a well-defined surface, limiting their use in simulation or standard graphics pipelines. This motivates decoding",
       "en": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-quality generation and implicitly encode multi-view geometric structure in latent space. However, existing feedforward latent scene decoders typically output volumetric 3D Gaussians that lack a well-defined surface, limiting their use in simulation or standard graphics pipelines. This motivates decoding",
-      "score": 0.4508
+      "score": 0.4505
     },
     {
       "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
@@ -190,7 +190,7 @@
       "category": "papers",
       "pt": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project addresses this gap with a fully open data curation pipeline for training agentic models. We conduct",
       "en": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project addresses this gap with a fully open data curation pipeline for training agentic models. We conduct",
-      "score": 0.4502
+      "score": 0.4499
     },
     {
       "title": "HKUDS/AgentSpace",
@@ -200,7 +200,7 @@
       "category": "projetos",
       "pt": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
       "en": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "score": 0.6187
+      "score": 0.6183
     },
     {
       "title": "baidu/Unlimited-OCR",
@@ -210,7 +210,7 @@
       "category": "projetos",
       "pt": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "en": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "score": 0.57
+      "score": 0.5697
     },
     {
       "title": "Forsy-AI/agent-apprenticeship",
@@ -220,7 +220,7 @@
       "category": "projetos",
       "pt": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
       "en": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "score": 0.5659
+      "score": 0.5656
     },
     {
       "title": "lyra81604/zhengxi-views",
@@ -230,7 +230,7 @@
       "category": "projetos",
       "pt": "可溯源的郑希(易方达基金经理)投研 Agent Skill, , 基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "en": "可溯源的郑希(易方达基金经理)投研 Agent Skill, , 基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "score": 0.5427
+      "score": 0.5423
     }
   ]
 }
