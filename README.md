@@ -31,7 +31,7 @@ creditando a fonte e a origem de tudo.
 ## Estágio atual
 
 - [x] **Fase 1 — Coleta.** Hacker News, arXiv, GitHub, Hugging Face (modelos) e RSS (tech, ciência, Brasil e carreira) — tudo sem chave.
-- [x] **Fase 2 — Redação + revisão.** Ranking heurístico (sem IA) + redação e revisão por IA via Gemini (PT + EN), com fallback extrativo.
+- [x] **Fase 2 — Redação.** Ranking heurístico (sem IA) + redação por IA que se auto-revisa (Groq, com Gemini de fallback), em PT + EN, com modo extrativo de segurança.
 - [x] **Fase 3 — Site.** Edições viram um jornal estático em `docs/` (capa + páginas PT/EN).
 - [x] **Fase 4 — Automação.** Cron semanal via GitHub Actions + publicação no GitHub Pages.
 
