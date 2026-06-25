@@ -1,0 +1,236 @@
+{
+  "date": "2026-06-25",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A OpenAI anunciou seu primeiro chip personalizado, construído pela Broadcom, o que é importante porque isso pode permitir que a empresa melhore a eficiência e reduza os custos de seus modelos de inteligência artificial. Isso ocorre porque chips personalizados podem ser projetados para realizar tarefas específicas de forma mais eficiente do que chips genericallyos. Um chip personalizado é basicamente um circuito integrado projetado para atender às necessidades de uma aplicação específica, como processamento de linguagem natural. Com essa nova tecnologia, a OpenAI pode melhorar a capacidade de processamento de seus modelos de inteligência artificial.",
+      "en": "OpenAI announced its first custom chip, built by Broadcom, which matters because it could allow the company to improve the efficiency and reduce the costs of its artificial intelligence models. This is because custom chips can be designed to perform specific tasks more efficiently than general-purpose chips. A custom chip is basically an integrated circuit designed to meet the needs of a specific application, such as natural language processing. With this new technology, OpenAI may be able to enhance the processing capability of its artificial intelligence models.",
+      "score": 0.8458
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Anthropic afirmou que a Alibaba extraiu ilegalmente capacidades do modelo de inteligência artificial Claude, o que pode ter implicações significativas para a indústria de IA, pois a extração de modelos de IA pode permitir que empresas concorrentes acessem tecnologia de ponta sem investir nos recursos necessários para desenvolvê-la. Isso ocorre porque os modelos de IA como o Claude são treinados em grandes conjuntos de dados e requerem significativos recursos computacionais. A acusação da Anthropic pode levar a uma revisão das medidas de segurança atualmente em uso para proteger os modelos de IA. A questão em jogo é como as empresas podem proteger seus ativos de IA de extrações ilegais.",
+      "en": "Anthropic has stated that Alibaba illicitly extracted capabilities from its Claude artificial intelligence model, which may have significant implications for the AI industry, as the extraction of AI models can allow competing companies to access cutting-edge technology without investing in the necessary resources to develop it. This occurs because AI models like Claude are trained on large datasets and require substantial computational resources. Anthropic's accusation may lead to a review of the current security measures in place to protect AI models. The issue at hand is how companies can protect their AI assets from illicit extraction.",
+      "score": 0.8263
+    },
+    {
+      "title": "QwenLM/Qwen-AgentWorld",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo modelo de linguagem foi desenvolvido, chamado Qwen-AgentWorld, que visa permitir que agentes gerais possam entender e interagir com o mundo por meio de linguagem natural. Isso é importante porque pode revolucionar a forma como os sistemas de inteligência artificial se comunicam conosco. Qwen-AgentWorld é um modelo de mundo de linguagem que permite que os agentes aprendam e usem linguagem de forma mais humana. Ele foi lançado no GitHub, permitindo que desenvolvedores e pesquisadores o acessem e o usem em seus próprios projetos.",
+      "en": "A new language model has been developed, called Qwen-AgentWorld, which aims to enable general agents to understand and interact with the world through natural language. This matters because it could revolutionize the way artificial intelligence systems communicate with us. Qwen-AgentWorld is a language world model that allows agents to learn and use language in a more human-like way. It was released on GitHub, allowing developers and researchers to access and use it in their own projects.",
+      "score": 0.7259
+    },
+    {
+      "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um novo modelo de inteligência artificial foi adicionado à plataforma Hugging Face, denominado Qwen-AgentWorld-35B-A3B, que é destinado à tarefa de geração de texto, e isso é importante porque pode ser usado para criar conteúdo de forma automática. O modelo já recebeu 194 curtidas e foi baixado 3389 vezes, o que indica seu potencial de uso prático. A geração de texto é uma técnica que permite que os computadores criem textos semelhantes aos escritos por humanos, utilizando algoritmos e processamento de linguagem natural. Isso pode ser útil em diversas aplicações, como criação de conteúdo para sites e redes sociais.",
+      "en": "A new artificial intelligence model has been added to the Hugging Face platform, called Qwen-AgentWorld-35B-A3B, which is intended for the task of text generation, and this matters because it can be used to create content automatically. The model has already received 194 likes and been downloaded 3389 times, which indicates its potential for practical use. Text generation is a technique that allows computers to create texts similar to those written by humans, using algorithms and natural language processing. This can be useful in a variety of applications, such as creating content for websites and social media.",
+      "score": 0.6145
+    },
+    {
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de processamento de linguagem natural foi disponibilizado no Hugging Face, chamado baidu/Unlimited-OCR, que realiza a tarefa de extração de texto de imagens, conhecida como OCR (Reconhecimento Óptico de Caracteres), e é capaz de traduzir o texto extraído para outros idiomas, isso é importante porque permite a recuperação de informações de imagens de maneira mais eficaz. O modelo já foi baixado mais de 70 mil vezes e recebeu mais de 800 curtidas, o que indica sua utilidade e popularidade. A tecnologia por trás desse modelo é baseada em redes neurais profundas, que são capazes de aprender padrões complexos em dados, como imagens e texto. Isso permite que o modelo realize tarefas de processamento de linguagem natural de forma mais precisa.",
+      "en": "A natural language processing model has been made available on Hugging Face, called baidu/Unlimited-OCR, which performs the task of extracting text from images, known as Optical Character Recognition (OCR), and is able to translate the extracted text into other languages, this matters because it enables the recovery of information from images more effectively. The model has been downloaded over 70 thousand times and has received over 800 likes, which indicates its usefulness and popularity. The technology behind this model is based on deep neural networks, which are capable of learning complex patterns in data, such as images and text. This allows the model to perform natural language processing tasks more accurately.",
+      "score": 0.5698
+    },
+    {
+      "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem chamado gemma-4-12B-coder-fable5-composer2.5-v1-GGUF foi disponibilizado no Hugging Face, uma plataforma popular para compartilhar e descobrir modelos de inteligência artificial, e isso é notável porque o modelo já obteve 2320 curtidas e 495813 downloads, indicando seu potencial para geração de texto. O modelo em questão é uma implementação de código aberto que pode ser usada para tarefas de geração de texto, o que significa que ele pode criar texto novo com base em um conjunto de dados de treinamento. Isso pode ser útil para uma variedade de aplicações, desde a criação de conteúdo automatizado até a assistência na redação de textos. A geração de texto é uma tarefa complexa que envolve a capacidade do modelo de entender o contexto e produzir texto coerente e gramaticalmente correto.",
+      "en": "A language model called gemma-4-12B-coder-fable5-composer2.5-v1-GGUF has been made available on Hugging Face, a popular platform for sharing and discovering artificial intelligence models, and this is notable because the model has already received 2320 likes and 495813 downloads, indicating its potential for text generation. The model in question is an open-source implementation that can be used for text generation tasks, which means it can create new text based on a set of training data. This can be useful for a variety of applications, ranging from automated content creation to assistance with writing texts. Text generation is a complex task that involves the model's ability to understand context and produce coherent and grammatically correct text.",
+      "score": 0.55
+    },
+    {
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial foi disponibilizado no Hugging Face, uma plataforma popular para compartilhamento de modelos de aprendizado de máquina, e isso é importante porque demonstra o crescimento da comunidade de desenvolvedores de modelos de linguagem. O modelo em questão, chamado Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive, é projetado para a tarefa de image-text-to-text, que envolve a geração de texto baseado em imagens e texto de entrada, e já recebeu 2218 likes e 3520206 downloads. Isso sugere um grande interesse na comunidade de desenvolvedores em explorar aplicações práticas dessa tecnologia. O modelo pode ser útil para tarefas como geração de legendas para imagens ou resumo de conteúdo visual.",
+      "en": "A new artificial intelligence model has been made available on Hugging Face, a popular platform for sharing machine learning models, and this matters because it demonstrates the growth of the language model developer community. The model in question, called Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive, is designed for the image-text-to-text task, which involves generating text based on input images and text, and has already received 2218 likes and 3520206 downloads. This suggests a significant interest in the developer community in exploring practical applications of this technology. The model can be useful for tasks such as generating image captions or summarizing visual content.",
+      "score": 0.5471
+    },
+    {
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, o legendário programador John Carmack refletiu sobre suas experiências iniciais e compartilhou algumas lições aprendidas, o que é notável porque Carmack é uma figura proeminente no desenvolvimento de jogos e realidade virtual, tendo co-fundado a id Software. Isso importa porque as lições aprendidas por Carmack podem ser aplicadas por desenvolvedores iniciantes e experientes. Carmack destacou a importância de aprender com erros e de não ter medo de experimentar, o que é fundamental para o crescimento e desenvolvimento de habilidades. Essas lições são relevantes para qualquer um que esteja começando a aprender programação ou desenvolvimento de software.",
+      "en": "Recently, legendary programmer John Carmack looked back on his early experiences and shared some lessons learned, which is notable because Carmack is a prominent figure in game development and virtual reality, having co-founded id Software. This matters because the lessons learned by Carmack can be applied by both novice and experienced developers. Carmack highlighted the importance of learning from mistakes and not being afraid to experiment, which is crucial for growth and skill development. These lessons are relevant to anyone who is starting to learn programming or software development.",
+      "score": 0.7193
+    },
+    {
+      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+      "url": "https://paolino.me/founding-a-company-in-germany/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um empreendedor relatou sua experiência de fundar uma empresa na Alemanha, enfrentando um processo burocrático demorado e complexo que custou cerca de 9600 euros e levou 152 dias, sem ainda conseguir emitir uma fatura, o que destaca as dificuldades de iniciar um negócio no país. Isso ocorre devido às numerous leis e regulamentações que as empresas devem cumprir, como a Lei de Sociedades Anônimas, que exige a criação de um contrato social e a nomeação de um conselho fiscal. Essas exigências podem ser desafiadoras para os empreendedores, especialmente aqueles que não têm experiência em direito comercial. O relato do empreendedor pode servir como um alerta para outros que desejam iniciar um negócio na Alemanha.",
+      "en": "An entrepreneur has reported their experience of founding a company in Germany, facing a lengthy and complex bureaucratic process that cost around 9600 euros and took 152 days, without yet being able to issue an invoice, highlighting the challenges of starting a business in the country. This occurs due to the numerous laws and regulations that companies must comply with, such as the Stock Corporation Act, which requires the creation of a articles of association and the appointment of a supervisory board. These requirements can be challenging for entrepreneurs, especially those without experience in commercial law. The entrepreneur's account can serve as a warning to others who wish to start a business in Germany.",
+      "score": 0.7191
+    },
+    {
+      "title": "F3",
+      "url": "https://github.com/future-file-format/f3",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um novo formato de arquivo chamado F3 foi lançado no GitHub, o que é notável porque oferece uma alternativa ao formato atual de armazenamento de dados. Isso importa porque os formatos de arquivo atuais podem ter limitações em termos de capacidade de armazenamento e eficiência. O F3 visa superar essas limitações, permitindo que os dados sejam armazenados de forma mais compacta e acessados de maneira mais rápida. O F3 é um projeto de código aberto, o que significa que qualquer pessoa pode contribuir para o seu desenvolvimento e aprimoramento.",
+      "en": "A new file format called F3 has been released on GitHub, which is notable because it offers an alternative to the current data storage format. This matters because current file formats can have limitations in terms of storage capacity and efficiency. The F3 aims to overcome these limitations, allowing data to be stored in a more compact form and accessed more quickly. The F3 is an open source project, which means that anyone can contribute to its development and improvement.",
+      "score": 0.6915
+    },
+    {
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um artigo recente homenageia o homem que criou a funcionalidade de sublinhar palavras com squiggles vermelhos e verdes, uma característica comum em editores de código e corretor ortográfico, que indica erros de digitação ou sintaxe. Isso importa porque essa funcionalidade se tornou uma parte essencial da experiência de programação e edição de texto, ajudando a melhorar a produtividade e a precisão. A funcionalidade é baseada em algoritmos de processamento de linguagem natural que analisam o texto e identificam possíveis erros, destacando-os com squiggles coloridos. Essa tecnologia é agora amplamente utilizada em uma variedade de aplicações, desde editores de código até processadores de texto.",
+      "en": "A recent article pays tribute to the man who created the functionality of underlining words with red and green squiggles, a common feature in code editors and spell checkers, which indicates typing or syntax errors. This matters because the feature has become an essential part of the programming and text editing experience, helping to improve productivity and accuracy. The feature is based on natural language processing algorithms that analyze the text and identify potential errors, highlighting them with colored squiggles. This technology is now widely used in a variety of applications, from code editors to word processors.",
+      "score": 0.6872
+    },
+    {
+      "title": "I Analyzed 200 Rejection Emails and Built an AI That Fixes Resumes",
+      "url": "https://dev.to/member_ce2645ea/i-analyzed-200-rejection-emails-and-built-an-ai-that-fixes-resumes-5g00",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um desenvolvedor analisou mais de 200 e-mails de rejeição e criou uma inteligência artificial que ajuda a melhorar currículos, após perceber que o problema não está no currículo em si, mas na falta de correspondência entre as habilidades e experiências listadas e as descrições de vagas específicas, o que pode ser resolvido com uma ferramenta que ajuda a personalizar o currículo para cada vaga, explicando que a maioria dos conselhos sobre currículos é genérica e não leva em conta as necessidades específicas de cada empresa. Isso mostra que a chave para um currículo eficaz é a capacidade de se adaptar às necessidades de cada vaga, e não apenas seguir conselhos gerais. O desenvolvedor utilizou sua experiência para criar uma ferramenta que pode ajudar os demais a melhorar suas chances de serem contratados.",
+      "en": "A developer analyzed over 200 rejection emails and created an artificial intelligence that helps improve resumes, after realizing that the problem lies not with the resume itself, but with the lack of match between the listed skills and experiences and the specific job descriptions, which can be solved with a tool that helps personalize the resume for each job opening, explaining that most resume advice is generic and does not take into account the specific needs of each company. This shows that the key to an effective resume is the ability to adapt to the needs of each job, and not just follow general advice. The developer used their experience to create a tool that can help others improve their chances of being hired.",
+      "score": 0.3495
+    },
+    {
+      "title": "Aim Before You Accelerate",
+      "url": "https://dev.to/sergueyasaelshinder/aim-before-you-accelerate-4b8j",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um artigo destacou a importância de definir metas claras antes de acelerar o desenvolvimento de produtos, especialmente com o uso de inteligência artificial (IA), que pode aumentar a velocidade de entrega, mas não necessariamente a qualidade ou a precisão. Isso porque, se a equipe estiver mal alinhada, a IA pode apenas acelerar a entrega do produto errado. Portanto, é fundamental estabelecer objetivos claros e certificar-se de que todos estejam trabalhando em direção ao mesmo resultado. Com essa abordagem, as equipes podem garantir que a velocidade seja um aliado, e não um obstáculo.",
+      "en": "Recently, an article highlighted the importance of setting clear goals before accelerating product development, especially with the use of artificial intelligence (AI), which can increase delivery speed, but not necessarily quality or accuracy. This is because, if the team is misaligned, AI can simply accelerate the delivery of the wrong product. Therefore, it is crucial to establish clear objectives and ensure that everyone is working towards the same outcome. With this approach, teams can ensure that speed is an ally, not a hindrance.",
+      "score": 0.3485
+    },
+    {
+      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A Ford teve que recontratar engenheiros antigos para corrigir erros cometidos por seus sistemas automatizados, o que mostra que a dependência da empresa de tecnologias automatizadas na produção e design não é tão robusta quanto se pensava. Isso aconteceu porque os sistemas automatizados não conseguiram detectar e resolver problemas de forma eficaz, levando a erros que precisaram ser corrigidos manualmente. A Ford está abrindo sobre esses desafios para celebrar seu novo status como número um no ranking de qualidade inicial da JD Power entre fabricantes de automóveis de linha. Isso destaca a importância de combinar tecnologia com experiência humana para garantir a qualidade dos produtos.",
+      "en": "Ford had to rehire former engineers to fix mistakes made by its automated systems, which shows that the company's reliance on automated technologies in production and design is not as robust as previously thought. This happened because the automated systems were unable to detect and resolve issues effectively, leading to errors that needed to be corrected manually. Ford is opening up about these challenges to celebrate its new status as number one in JD Power's initial quality ranking among mainstream automakers. This highlights the importance of combining technology with human experience to ensure product quality.",
+      "score": 0.3478
+    },
+    {
+      "title": "Elastic stretches workforce 7% thinner as AI does more of the heavy lifting",
+      "url": "https://www.theregister.com/databases/2026/06/25/elastic-stretches-workforce-7-thinner-as-ai-does-more-of-the-heavy-lifting/5261993",
+      "source": "The Register",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A Elastic reduziu sua força de trabalho em 7%, o que é notável, pois isso acontece devido ao aumento do uso de inteligência artificial, que é a capacidade de máquinas executarem tarefas que normalmente exigiriam a inteligência humana, para realizar trabalhos mais pesados, permitindo que as equipes sejam mais enxutas. Isso é possível porque a empresa está dividindo sua área de engenharia em três núcleos principais. A automação, que é o uso de tecnologia para realizar tarefas de forma automatizada, está permitindo que as equipes sejam mais leves e eficientes. Com essa mudança, a Elastic espera se tornar mais ágil e eficaz.",
+      "en": "Elastic has reduced its workforce by 7%, which is notable, as this happens due to the increased use of artificial intelligence, which is the ability of machines to perform tasks that normally require human intelligence, to do more of the heavy lifting, allowing teams to be leaner. This is possible because the company is splitting its engineering area into three core areas. Automation, which is the use of technology to perform tasks in an automated way, is enabling teams to be lighter and more efficient. With this change, Elastic expects to become more agile and effective.",
+      "score": 0.3459
+    },
+    {
+      "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+      "url": "https://arxiv.org/abs/2606.26095v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores recentemente propuseram uma abordagem inovadora para melhorar a capacidade de robôs realizar tarefas de manipulação em diferentes corpos, ou seja, cross-embodiment, introduzindo priores de ação na etapa de pré-treinamento do módulo de ação, antes da alinhamento cross-modal. Isso é importante porque a maioria dos modelos de Visão-Linguagem-Ação (VLA) depende fortemente de uma arquitetura de Visão-Linguagem (VLM) e deixa o módulo de ação aprender o movimento físico quase do zero. Com essa nova abordagem, o módulo de ação é pré-treinado com priores de movimento, permitindo que o robô aprenda a estrutura temporal do movimento antes de começar o treinamento de VLA, o que pode melhorar a capacidade do robô de realizar tarefas em diferentes corpos.",
+      "en": "Researchers have recently proposed an innovative approach to improve the ability of robots to perform manipulation tasks across different bodies, or cross-embodiment, by introducing action priors in the pre-training stage of the action module, before cross-modal alignment. This matters because most Vision-Language-Action (VLA) models heavily rely on a Vision-Language Model (VLM) architecture and leave the action module to learn physical motion almost from scratch. With this new approach, the action module is pre-trained with motion priors, allowing the robot to learn the temporal structure of movement before starting VLA training, which can improve the robot's ability to perform tasks across different bodies.",
+      "score": 0.4657
+    },
+    {
+      "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
+      "url": "https://arxiv.org/abs/2606.26094v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores recentemente desenvolveram o RevengeBench, uma ferramenta que visa reverter o processo de engenharia de políticas de código, permitindo que aprendizes computacionais reconstruam programas de decisão subjacentes a partir de traços comportamentais em ambientes de jogos. Isso é importante porque pode ajudar a entender melhor como os agentes tomam decisões, o que é fundamental em áreas como inteligência artificial e ciência da computação. O RevengeBench é um conjunto de 75 políticas geradas por modelos de linguagem grande, calibradas por Elo, em cinco ambientes de jogos diferentes. A capacidade de projetar experimentos controlados melhora significativamente a reconstrução desses programas.",
+      "en": "Researchers have recently developed RevengeBench, a tool that aims to reverse engineer code-space policies, allowing computational learners to reconstruct underlying decision programs from behavioral traces in game environments. This matters because it can help better understand how agents make decisions, which is crucial in areas such as artificial intelligence and computer science. RevengeBench is a benchmark of 75 large language model generated, Elo-calibrated policies across five different game environments. The ability to design controlled experiments significantly improves the reconstruction of these programs.",
+      "score": 0.4657
+    },
+    {
+      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "url": "https://arxiv.org/abs/2606.26080v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores descobriram uma forma de melhorar a capacidade de aprendizado de modelos de linguagem grande (LLM) após o treinamento, o que é importante porque permite que esses modelos sejam mais precisos e eficazes em ambientes complexos. Isso foi possível graças à utilização de técnicas de aprendizado por reforço (RL), que permitem que os modelos aprendam a partir de interações com o ambiente. A equipe desenvolveu um conceito chamado de \"progress advantage\", que é uma medida da vantagem de uma ação em relação a outra, e mostrou que isso pode ser calculado a partir da razão entre a probabilidade de uma ação ser tomada pelo modelo treinado e a probabilidade de uma ação ser tomada por um modelo de referência.",
+      "en": "Researchers have found a way to improve the learning capabilities of large language models (LLMs) after training, which matters because it enables these models to be more accurate and effective in complex environments. This was made possible through the use of reinforcement learning (RL) techniques, which allow models to learn from interactions with their environment. The team developed a concept called \"progress advantage\", which is a measure of the advantage of one action over another, and showed that this can be calculated from the log-probability ratio between the RL-trained policy and its reference policy, providing a useful tool for fine-grained evaluation of LLMs.",
+      "score": 0.4655
+    },
+    {
+      "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2606.26079v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores descobriram que modelos de linguagem multimodais grandes (MLLMs) não são invariantes à ordem, o que significa que a ordem como as informações são apresentadas pode afetar as respostas desses modelos. Isso é importante porque os benchmarks padrão para MLLMs não levam em conta essa ordem, o que pode levar a resultados inconsistentes. Os pesquisadores desenvolveram uma ferramenta chamada Facet-Probe para auditar a sensibilidade à ordem em 18 MLLMs, e encontraram que as taxas de mudança de resposta variam de 24% a 50%. Essa descoberta é relevante para o desenvolvimento de modelos de linguagem mais confiáveis e transparentes.",
+      "en": "Researchers have found that multimodal large language models (MLLMs) are not order-invariant, meaning that the order in which information is presented can affect the models' responses. This matters because standard benchmarks for MLLMs do not account for this order, which can lead to inconsistent results. The researchers developed a tool called Facet-Probe to audit the order sensitivity of 18 MLLMs, and found that response change rates range from 24% to 50%. This discovery is relevant to the development of more reliable and transparent language models, as it highlights the need to consider the impact of ordering on model performance.",
+      "score": 0.4655
+    },
+    {
+      "title": "goehou/tabbit-toy",
+      "url": "https://github.com/goehou/tabbit-toy",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo pacote de pesquisa baseado no tabbit foi lançado no GitHub, o que é importante porque permite a conversão de dados para o formato OAI, além de incluir funcionalidades como autenticação de usuário e extensão de navegador para extrair cookies de forma rápida. Isso é útil para quem deseja utilizar modelos de linguagem como o claude gpt de forma local. O formato OAI é um padrão para a troca de metadados, ou seja, informações que descrevem outros dados, o que facilita a integração com outros sistemas. Com essa ferramenta, os pesquisadores podem trabalhar de forma mais eficiente com grandes conjuntos de dados.",
+      "en": "A new research package based on tabbit has been released on GitHub, which matters because it enables the conversion of data to the OAI format, in addition to including features such as user authentication and a browser extension to quickly extract cookies. This is useful for those who want to use language models like claude gpt locally. The OAI format is a standard for exchanging metadata, which are information that describe other data, making it easier to integrate with other systems. With this tool, researchers can work more efficiently with large datasets.",
+      "score": 0.6741
+    },
+    {
+      "title": "BohemiaInteractive/CWR",
+      "url": "https://github.com/BohemiaInteractive/CWR",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A Bohemia Interactive lançou o código fonte do jogo Arma: Cold War Assault Remastered em um repositório no GitHub, o que permite que desenvolvedores e entusiastas acessem e modifiquem o código do jogo. Isso é importante porque fornece uma oportunidade para a comunidade de jogadores e desenvolvedores aprenderem com o código e criar modificações personalizadas. O repositório, chamado CWR, contém o código fonte completo do jogo, incluindo a lógica de jogo, gráficos e som. Com isso, os desenvolvedores podem aprender sobre as técnicas de programação utilizadas no jogo, como a implementação de física e inteligência artificial.",
+      "en": "Bohemia Interactive has released the source code of the game Arma: Cold War Assault Remastered in a GitHub repository, allowing developers and enthusiasts to access and modify the game's code. This matters because it provides an opportunity for the gaming community and developers to learn from the code and create customized modifications. The repository, called CWR, contains the full source code of the game, including game logic, graphics, and sound. With this, developers can learn about the programming techniques used in the game, such as the implementation of physics and artificial intelligence.",
+      "score": 0.67
+    },
+    {
+      "title": "samasante/liquid-glass",
+      "url": "https://github.com/samasante/liquid-glass",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado liquid-glass permite criar efeitos visuais semelhantes ao Liquid Glass da Apple em aplicações web, utilizando uma lente headless em React que refrata o DOM em tempo real nos navegadores Safari, Firefox e Chrome, sem necessidade de dependências adicionais. Isso é importante porque possibilita a criação de interfaces de usuário mais atraentes e interativas. A tecnologia headless em React se refere ao uso de bibliotecas que permitem renderizar componentes React no servidor ou em ambientes sem interface gráfica, o que pode melhorar a performance e a acessibilidade. Com o liquid-glass, os desenvolvedores podem criar efeitos visuais complexos de forma mais simples e eficiente.",
+      "en": "A GitHub project called liquid-glass enables the creation of visual effects similar to Apple's Liquid Glass in web applications, using a headless React lens that refracts the live DOM in Safari, Firefox, and Chrome browsers, with zero dependencies. This matters because it allows for the creation of more attractive and interactive user interfaces. The headless technology in React refers to the use of libraries that enable rendering React components on the server or in non-graphical environments, which can improve performance and accessibility. With liquid-glass, developers can create complex visual effects in a simpler and more efficient way.",
+      "score": 0.6183
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um sistema de detecção de movimentos de badminton foi desenvolvido e disponibilizado no GitHub, o que é importante porque pode melhorar a precisão dos juízes em partidas de badminton. O sistema, chamado Good-Badminton, utiliza inteligência artificial para rastrear a trajetória da peteca e detectar infrações, como saques inválidos ou pontos fora de área. Isso é especialmente útil em partidas de alto nível, onde a precisão é fundamental. O sistema pode ser uma ferramenta valiosa para treinadores e árbitros que buscam melhorar a precisão dos juízes.",
+      "en": "A badminton motion detection system has been developed and made available on GitHub, which matters because it can improve the accuracy of judges in badminton matches. The system, called Good-Badminton, uses artificial intelligence to track the trajectory of the shuttlecock and detect infractions, such as invalid serves or points out of bounds. This is particularly useful in high-level matches, where accuracy is crucial. The system can be a valuable tool for coaches and referees looking to improve judging accuracy.",
+      "score": 0.597
+    }
+  ]
+}
