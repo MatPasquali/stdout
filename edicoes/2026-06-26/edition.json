@@ -1,0 +1,236 @@
+{
+  "date": "2026-06-26",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "benchflow-ai/awesome-evals",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um repositório no GitHub chamado awesome-evals foi criado para reunir os melhores recursos para construir e avaliar agentes de inteligência artificial, incluindo papers, blogs, palestras, ferramentas e benchmarks, que são conjuntos de testes padronizados para medir o desempenho de sistemas de inteligência artificial. Isso importa porque fornece uma fonte confiável e gratuita para que desenvolvedores e pesquisadores acessem informações valiosas sobre o assunto. Os recursos são cuidadosamente selecionados e mantidos pela equipe do BenchFlow. Essa iniciativa visa ajudar a comunidade a evitar informações enganosas e se concentrar em soluções comprovadas.",
+      "en": "A GitHub repository called awesome-evals has been created to gather the best resources for building and evaluating artificial intelligence agents, including papers, blogs, talks, tools, and benchmarks, which are standardized test sets used to measure the performance of artificial intelligence systems. This matters because it provides a reliable and free source for developers and researchers to access valuable information on the subject. The resources are carefully curated and maintained by the BenchFlow team. This initiative aims to help the community avoid misleading information and focus on proven solutions.",
+      "score": 0.808
+    },
+    {
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um artigo recente destaca a preocupação de que a internet esteja entrando em uma era de vigilância generalizada, comparável ao clima de controle de identidade do romance distópico \"Papers, Please\", onde os usuários são forçados a revelar suas identidades e atividades online. Isso importa porque afeta diretamente a privacidade dos usuários, permitindo que governos e empresas colem dados pessoais sem consentimento. A expressão \"papers, please\" se refere a um pedido de identificação, geralmente em contextos de vigilância ou controle. Essa tendência de vigilância pode ter implicações significativas para a liberdade e a privacidade na internet.",
+      "en": "A recent article highlights the concern that the internet is entering an era of widespread surveillance, comparable to the identity control climate of the dystopian novel \"Papers, Please\", where users are forced to reveal their identities and online activities. This matters because it directly affects user privacy, allowing governments and companies to collect personal data without consent. The phrase \"papers, please\" refers to a request for identification, often in surveillance or control contexts. This surveillance trend may have significant implications for freedom and privacy on the internet.",
+      "score": 0.7865
+    },
+    {
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Apple aumentou os preços dos MacBooks e iPads devido ao aumento dos custos de memória, o que pode afetar a acessibilidade desses dispositivos para os consumidores. Isso ocorre porque os custos de produção de memória, um componente crucial para a funcionabilidade desses dispositivos, têm subido significativamente. Para entender melhor, a memória se refere à capacidade do dispositivo de armazenar e processar informações, sendo essencial para o desempenho geral do aparelho. Essa mudança de preços pode influenciar as decisões de compra dos usuários.",
+      "en": "Apple has raised the prices of MacBooks and iPads due to skyrocketing memory costs, which may affect the accessibility of these devices for consumers. This occurs because memory production costs, a crucial component for the functionality of these devices, have risen significantly. To put it simply, memory refers to a device's ability to store and process information, being essential for the overall performance of the device. This price change may influence the purchasing decisions of users.",
+      "score": 0.7645
+    },
+    {
+      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Ford enfrentou problemas com seu sistema de inspeção baseado em inteligência artificial, o que levou a empresa a recontratar inspetores experientes, conhecidos como \"gray beard\" inspectors, para garantir a qualidade de seus veículos. Isso ocorreu porque o sistema de IA não foi capaz de detectar todos os problemas de qualidade, demonstrando que a tecnologia ainda não é suficientemente avançada para substituir completamente a experiência humana. A decisão de recontratar inspetores experientes visa garantir a qualidade dos veículos, pois a inspeção humana pode detectar problemas que o sistema de IA não consegue. A Ford está buscando equilibrar a eficiência da tecnologia com a precisão da inspeção humana.",
+      "en": "Ford has encountered issues with its artificial intelligence-based inspection system, prompting the company to rehire experienced inspectors, known as \"gray beard\" inspectors, to ensure the quality of its vehicles. This happened because the AI system was unable to detect all quality issues, showing that the technology is not yet advanced enough to completely replace human experience. The decision to rehire experienced inspectors aims to guarantee vehicle quality, as human inspection can detect problems that the AI system cannot. Ford is seeking to balance the efficiency of technology with the accuracy of human inspection.",
+      "score": 0.7508
+    },
+    {
+      "title": "WeiboAI/VibeThinker-3B",
+      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado WeiboAI/VibeThinker-3B foi adicionado à plataforma Hugging Face, o que é notável porque oferece capacidades avançadas de geração de texto, uma tarefa complexa que envolve a criação de texto coerente e natural soando, e isso é importante porque pode ser usado em uma variedade de aplicações, desde chatbots até sistemas de redação automatizada. O modelo já recebeu 721 likes e foi baixado 54638 vezes, indicando seu potencial e utilidade. A geração de texto é um campo de estudo que se concentra em fazer com que os computadores criem texto que soe natural e atraente, e modelos como o WeiboAI/VibeThinker-3B estão ajudando a avançar nessa área. Com a disponibilidade desse modelo, os desenvolvedores podem criar aplicações mais sofisticadas que envolvam a geração de texto.",
+      "en": "A artificial intelligence model called WeiboAI/VibeThinker-3B has been added to the Hugging Face platform, which is notable because it offers advanced text generation capabilities, a complex task that involves creating coherent and natural sounding text, and this matters because it can be used in a variety of applications, ranging from chatbots to automated writing systems. The model has already received 721 likes and been downloaded 54638 times, indicating its potential and usefulness. Text generation is a field of study that focuses on making computers create text that sounds natural and engaging, and models like WeiboAI/VibeThinker-3B are helping to advance this area. With the availability of this model, developers can create more sophisticated applications that involve text generation.",
+      "score": 0.6
+    },
+    {
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado Qwythos-9B-Claude-Mythos-5-1M-GGUF foi publicado na plataforma Hugging Face, e isso é importante porque representa um avanço significativo na geração de texto, uma tarefa que envolve a criação de texto coerente e natural por meio de algoritmos. Esse modelo, que já recebeu 532 likes e teve 486810 downloads, utiliza uma arquitetura de rede neural para aprender padrões e relações em grandes conjuntos de dados, permitindo que ele gere texto que soe natural e apropriado para uma variedade de contextos. A geração de texto é uma área ativa de pesquisa em inteligência artificial, com aplicações potenciais em marketing, jornalismo e educação, entre outros campos.",
+      "en": "A artificial intelligence model called Qwythos-9B-Claude-Mythos-5-1M-GGUF was published on the Hugging Face platform, and this matters because it represents a significant advancement in text generation, a task that involves creating coherent and natural text through algorithms. This model, which has already received 532 likes and had 486810 downloads, uses a neural network architecture to learn patterns and relationships in large datasets, allowing it to generate text that sounds natural and appropriate for a variety of contexts. Text generation is an active area of research in artificial intelligence, with potential applications in marketing, journalism, and education, among other fields.",
+      "score": 0.5795
+    },
+    {
+      "title": "unsloth/GLM-5.2-GGUF",
+      "url": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem chamado GLM-5.2-GGUF foi disponibilizado na plataforma Hugging Face, uma ferramenta popular para desenvolvedores de inteligência artificial, e já recebeu 398 likes e 107553 downloads, o que demonstra seu potencial para gerar texto de forma eficaz. Esse modelo é específico para a tarefa de text-generation, que é a capacidade de um sistema gerar texto coerente e natural, como se fosse escrito por um humano. A plataforma Hugging Face é conhecida por oferecer acesso a uma variedade de modelos de linguagem, permitindo que os desenvolvedores experimentem e aprimorem suas próprias soluções. Isso é particularmente útil para aplicativos que envolvem processamento de linguagem natural, como chatbots e sistemas de tradução automática.",
+      "en": "A language model called GLM-5.2-GGUF has been made available on the Hugging Face platform, a popular tool for artificial intelligence developers, and has already received 398 likes and 107553 downloads, demonstrating its potential to effectively generate text. This model is specifically designed for the task of text-generation, which is the ability of a system to generate coherent and natural-sounding text, as if it were written by a human. The Hugging Face platform is known for providing access to a variety of language models, allowing developers to experiment with and improve their own solutions. This is particularly useful for applications that involve natural language processing, such as chatbots and machine translation systems.",
+      "score": 0.5049
+    },
+    {
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Uma equipe de pesquisadores conseguiu ler um rolo inteiro de Herculaneum pela primeira vez, o que é notável porque esses rolos, que datam do século I, foram destruídos pela erupção do Monte Vesúvio e geralmente estão muito danificados para serem decifrados. Isso importa porque esses rolos contêm textos antigos que podem fornecer insights valiosos sobre a filosofia e a cultura da época. A leitura do rolo foi possível graças ao uso de técnicas de imagem avançadas, como a tomografia computadorizada, que permitem visualizar o conteúdo do rolo sem danificar o material frágil. Essa descoberta abre novas perspectivas para a pesquisa de textos antigos e pode revelar segredos esquecidos da história.",
+      "en": "A team of researchers has managed to read an entire Herculaneum scroll for the first time, which is notable because these scrolls, dating back to the 1st century, were destroyed by the eruption of Mount Vesuvius and are usually too damaged to be deciphered. This matters because these scrolls contain ancient texts that can provide valuable insights into the philosophy and culture of the time. The scroll was read using advanced imaging techniques, such as computed tomography, which allow the content of the scroll to be visualized without damaging the fragile material. This discovery opens up new avenues for the research of ancient texts and may reveal forgotten secrets of history.",
+      "score": 0.762
+    },
+    {
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Om Malik, um jornalista e empreendedor de tecnologia bem conhecido, faleceu recentemente, o que é notável porque ele foi uma figura proeminente na cobertura da indústria de tecnologia. Malik foi fundador do site de notícias GigaOM, que se tornou uma fonte confiável de informações sobre startups e tendências tecnológicas. Seu legado inclui a criação de uma plataforma que ajudou a moldar a forma como as pessoas entendem e interagem com a tecnologia. Sua morte deixa um vazio significativo na comunidade tecnológica.",
+      "en": "Om Malik, a well-known technology journalist and entrepreneur, has recently passed away, which is notable because he was a prominent figure in covering the technology industry. Malik was the founder of the news site GigaOM, which became a trusted source of information on startups and technology trends. His legacy includes creating a platform that helped shape the way people understand and interact with technology. His death leaves a significant void in the technology community.",
+      "score": 0.7478
+    },
+    {
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "url": "https://hackernewstrends.com",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um desenvolvedor criou um recurso semelhante ao Google Trends, mas focado em comentários do Hacker News, indexando 18 anos de discussões, o que permite aos usuários visualizar tendências e padrões de conversa ao longo do tempo. Isso é importante porque fornece uma visão geral da evolução das discussões e interesses da comunidade de desenvolvedores e entusiastas da tecnologia. O recurso, disponível em hackernewstrends.com, é uma ferramenta útil para entender as mudanças nos tópicos e tecnologias discutidas ao longo dos anos. Com isso, os usuários podem explorar como as conversas e interesses da comunidade mudaram ao longo da história do Hacker News.",
+      "en": "A developer has created a feature similar to Google Trends, but focused on Hacker News comments, by indexing 18 years of discussions, allowing users to visualize trends and conversation patterns over time. This matters because it provides an overview of how discussions and interests have evolved within the developer and tech enthusiast community. The feature, available at hackernewstrends.com, is a useful tool for understanding changes in the topics and technologies discussed over the years. By using it, users can explore how community conversations and interests have shifted throughout Hacker News' history.",
+      "score": 0.7149
+    },
+    {
+      "title": "Half-Life 2 in a Browser",
+      "url": "https://hl2.slqnt.dev/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Acesso a jogos clássicos tornou-se mais fácil com a disponibilidade de Half-Life 2 em um navegador, o que importa porque isso mostra como a tecnologia de emulação pode trazer experiências de jogo antigo para plataformas modernas. Isso foi possível graças a uma combinação de emulação, que é basicamente uma técnica que permite que um sistema de computador se comporte como outro, e transcodificação, que é o processo de converter dados de um formato para outro. Essa abordagem permite que os jogadores experimentem Half-Life 2 diretamente em um navegador, sem a necessidade de instalar o jogo em seu computador. Com isso, o acesso a jogos clássicos se torna mais acessível e conveniente para um público mais amplo.",
+      "en": "Access to classic games has become easier with Half-Life 2 being made available in a browser, which matters because it demonstrates how emulation technology can bring old gaming experiences to modern platforms. This was made possible through a combination of emulation, which is essentially a technique that allows one computer system to behave like another, and transcoding, which is the process of converting data from one format to another. This approach allows players to experience Half-Life 2 directly in a browser, without the need to install the game on their computer. As a result, access to classic games becomes more accessible and convenient for a wider audience.",
+      "score": 0.6921
+    },
+    {
+      "title": "Transform Your Home with Professional Drapery Cleaning Tarzana Services",
+      "url": "https://dev.to/tarzana_cleaners/transform-your-home-with-professional-drapery-cleaning-tarzana-services-592n",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um serviço de limpeza profissional de cortinas em Tarzana chamou a atenção devido à sua importância para a manutenção da beleza e da saúde do lar, pois as cortinas são um dos primeiros detalhes que as pessoas notam ao entrar em uma sala. A limpeza profissional ajuda a restaurar a aparência das cortinas, independentemente do tecido delas, sejam delicados ou pesados, mantendo sua qualidade. Isso é especialmente útil porque as cortinas coletam poeira, alérgenos, pelos de animais e poluentes do dia a dia, tornando-as desgastadas com o tempo.",
+      "en": "Recently, a professional drapery cleaning service in Tarzana has drawn attention due to its importance in maintaining the beauty and health of the home, as drapes are one of the first details people notice when entering a room. Professional cleaning helps restore the appearance of drapes, regardless of their fabric, whether delicate or heavy, while maintaining their quality. This is particularly useful because drapes collect dust, allergens, pet hair, and everyday pollutants, making them look dull over time. The service ensures that the drapes continue to add elegance and soften natural light in the room.",
+      "score": 0.3999
+    },
+    {
+      "title": "Data Analyst CV Keywords: The 2026 ATS Guide",
+      "url": "https://dev.to/cvpilot/data-analyst-cv-keywords-the-2026-ats-guide-3g61",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma pesquisa recente sobre currículos de analistas de dados revelou que a triagem é extremamente técnica, com os sistemas de rastreamento de candidatos (ATS) procurando por linguagens e ferramentas específicas. Isso é importante porque os recrutadores gastam apenas 7,4 segundos em média na primeira leitura de um currículo, e se o seu currículo for filtrado antes de ser lido por um ser humano, é provável que as palavras-chave esperadas pelo ATS estejam faltando. A solução não é simplesmente incluir palavras-chave de forma excessiva, mas sim estruturar o currículo de forma estratégica, começando com uma descrição que destaque as palavras-chave mais fortes e resultados quantificados.",
+      "en": "A recent study on data analyst resumes found that screening is unusually technical, with applicant tracking systems (ATS) looking for specific languages and tools, which is important because recruiters spend an average of just 7.4 seconds on the first pass of a resume, and if your resume is filtered before a human reads it, the keywords an ATS expects are usually missing. The fix is not keyword-stuffing, but rather structuring the resume in a strategic way, starting with a summary that leads with your strongest keywords, anchored to a quantified result. Every bullet should pair a keyword with a number, and tools and systems should be named explicitly so the parser can match them.",
+      "score": 0.3498
+    },
+    {
+      "title": "Cyber Security in Solapur: A Career with Long-Term Potential",
+      "url": "https://dev.to/kartik_debnath_7c179430d0/cyber-security-in-solapur-a-career-with-long-term-potential-4n9e",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A cidade de Solapur está experimentando uma grande demanda por profissionais de segurança cibernética, devido à adoção crescente de tecnologias digitais por empresas e serviços públicos, que necessitam proteger dados sensíveis e sistemas online. Isso torna a carreira em segurança cibernética uma escolha excelente para estudantes e profissionais que buscam crescimento a longo prazo. A segurança cibernética é um campo em constante evolução, pois as organizações dependem cada vez mais de plataformas de nuvem, pagamentos digitais, portais de clientes online e aplicativos de negócios conectados. Como resultado, a segurança cibernética está se tornando uma profissão cada vez mais importante e futurista.",
+      "en": "The city of Solapur is experiencing a high demand for cyber security professionals, due to the increasing adoption of digital technologies by businesses and public services, which need to protect sensitive data and online systems. This makes a career in cyber security an excellent choice for students and professionals seeking long-term growth. Cyber security is a constantly evolving field, as organizations rely more and more on cloud platforms, digital payments, online customer portals, and connected business applications. As a result, cyber security is becoming an increasingly important and future-focused profession.",
+      "score": 0.3492
+    },
+    {
+      "title": "How to Choose the Right Computer Training Institute in 2026: A Practical Guide for Students",
+      "url": "https://dev.to/livewire_trichy/how-to-choose-the-right-computer-training-institute-in-2026-a-practical-guide-for-students-4e49",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um guia prático foi publicado para ajudar estudantes a escolherem o instituto de treinamento de computador certo em 2026, o que é crucial devido à rápida evolução da indústria de tecnologia, que gera novos frameworks, linguagens de programação, ferramentas de inteligência artificial e plataformas de nuvem a cada ano. Escolher o instituto certo não é mais apenas sobre obter um certificado, mas sim sobre adquirir habilidades práticas que os empregadores realmente valorizam. Isso é especialmente importante para estudantes de colégio, recém-formados ou pessoas planejando uma mudança de carreira. A escolha certa pode ter um impacto significativo no futuro de um estudante.",
+      "en": "Recently, a practical guide was published to help students choose the right computer training institute in 2026, which is crucial due to the rapid evolution of the technology industry, generating new frameworks, programming languages, artificial intelligence tools, and cloud platforms every year. Choosing the right institute is no longer just about getting a certificate, but about acquiring practical skills that employers actually value. This is especially important for college students, recent graduates, or people planning a career switch. The right choice can have a significant impact on a student's future.",
+      "score": 0.3487
+    },
+    {
+      "title": "DnA: Denoising Attention for Visual Tasks",
+      "url": "https://arxiv.org/abs/2606.27372v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores propuseram uma nova abordagem para melhorar a atenção em modelos de visão, chamada Denoising Attention (DnA), que visa reduzir o ruído nos padrões de atenção, o que pode degradar o desempenho dos modelos. Isso é importante porque a atenção é uma técnica fundamental em modelos de visão, permitindo que eles se concentrem nos aspectos mais relevantes de uma imagem. A DnA funciona identificando primeiro as características de imagem relevantes e irrelevantes por meio de consultas positivas e negativas, e então projeta essas interações em subespaços distintos para melhorar a separação e a discriminabilidade. Com isso, os autores obtiveram uma melhoria de 0,8% na precisão do modelo ViT-B no conjunto de dados ImageNet-1K.",
+      "en": "Researchers have proposed a new approach to improve attention in vision models, called Denoising Attention (DnA), which aims to reduce noise in attention patterns, potentially degrading model performance. This matters because attention is a fundamental technique in vision models, allowing them to focus on the most relevant aspects of an image. DnA works by first identifying relevant and irrelevant image features through positive and negative queries, and then projecting these interactions into distinct subspaces to improve separation and discriminability. With this, the authors achieved an improvement of 0,8% in the accuracy of the ViT-B model on the ImageNet-1K dataset.",
+      "score": 0.4659
+    },
+    {
+      "title": "PhysiFormer: Learning to Simulate Mechanics in World Space",
+      "url": "https://arxiv.org/abs/2606.27364v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram o PhysiFormer, um modelo de transformador de difusão para simular o movimento de objetos 3D de forma fisicamente plausível. Isso é importante porque o PhysiFormer representa objetos como malhas 3D expressas em coordenadas do mundo, diferente de modelos de mundo de vídeo que operam em espaço de pixel dependente de visão. O modelo usa a posição inicial e a velocidade dos vértices, além do tipo de material do objeto, para prever as trajetórias futuras dos vértices. Essa abordagem permite que o modelo capture a incerteza nas dinâmicas aprendidas, permitindo resultados diversificados.",
+      "en": "Researchers have introduced PhysiFormer, a diffusion transformer model for simulating physically-plausible 3D object motion. This matters because PhysiFormer represents objects as 3D meshes expressed in world coordinates, unlike video world models that operate in view-dependent pixel space. The model uses the initial vertex positions and velocities, as well as the object material type, to predict the future vertex trajectories. This approach allows the model to capture uncertainty in the learned dynamics, enabling diverse results.",
+      "score": 0.4659
+    },
+    {
+      "title": "Autoregressive Boltzmann Generators",
+      "url": "https://arxiv.org/abs/2606.27361v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores propuseram os Autoregressive Boltzmann Generators (ArBG), uma nova abordagem para geração de amostras de sistemas moleculares em equilíbrio termodinâmico, um desafio importante na física estatística. Isso é significativo porque os métodos atuais, como os Boltzmann Generators (BGs), que combinam modelos gerativos com correções de amostragem importante, ainda enfrentam limitações devido ao uso de fluxos normalizadores (NFs), que são limitados por restrições de inversibilidade ou têm likelihoods computacionalmente caras. Os ArBG superam essas limitações ao adotar um framework de modelagem autoregressivo, permitindo uma geração de amostras mais eficiente e precisa.",
+      "en": "Researchers have proposed Autoregressive Boltzmann Generators (ArBG), a new approach to generating samples of molecular systems at thermodynamic equilibrium, a key challenge in statistical physics. This matters because current methods, such as Boltzmann Generators (BGs), which combine generative models with importance sampling corrections, still face limitations due to their reliance on normalizing flows (NFs), which are constrained by invertibility restrictions or have computationally expensive likelihoods. The ArBG overcome these limitations by adopting an autoregressive modeling framework, allowing for more efficient and accurate sample generation.",
+      "score": 0.4658
+    },
+    {
+      "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "url": "https://arxiv.org/abs/2606.27359v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um estudo recente publicado no arXiv investigou a relação entre a probabilidade de sequência e a correção nos grandes modelos de linguagem, o que é fundamental para entender o sucesso de vários métodos de decodificação. A probabilidade de sequência se refere à probabilidade condicional de uma continuação dado um prompt, e os pesquisadores buscaram quantificar essa relação em diferentes níveis, incluindo métodos de decodificação, hiperparâmetros e conjuntos de dados. Os resultados mostram que uma maior probabilidade de sequência é frequentemente um indicador de correção em pares de prompt e resposta. Isso é importante porque ajuda a entender como os modelos de linguagem tomam decisões.",
+      "en": "A recent study published on arXiv investigated the relationship between sequence probability and correctness in large language models, which is crucial for understanding the success of various decoding methods. Sequence probability refers to the conditional probability of a continuation given a prompt, and the researchers sought to quantify this relationship across different levels, including decoding methods, hyperparameters, and datasets. The results show that higher sequence probability is often predictive of correctness in prompt-answer pairs. This matters because it helps explain how language models make decisions.",
+      "score": 0.4658
+    },
+    {
+      "title": "Yu9191/wloc",
+      "url": "https://github.com/Yu9191/wloc",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado wloc, criado por Yu9191, permite modificar as coordenadas de localização retornadas pela rede Apple, conhecida como gs-loc. Isso é particularmente útil para usuários que desejam personalizar ou falsificar suas localizações geográficas, e o projeto oferece suporte a ferramentas como Surge, Quantumult X, Loon e Stash. O projeto também inclui um recurso de atalho para configurar ou restaurar as configurações de localização rapidamente.",
+      "en": "A GitHub project called wloc, created by Yu9191, allows modification of the coordinates returned by Apple's network-based location service, known as gs-loc. This is particularly useful for users who want to customize or spoof their geographic locations, and the project supports tools such as Surge, Quantumult X, Loon, and Stash. The project also includes a shortcut feature to quickly set up or restore location settings.",
+      "score": 0.7025
+    },
+    {
+      "title": "krea-ai/krea-2",
+      "url": "https://github.com/krea-ai/krea-2",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A equipe do Krea AI publicou o código de inferência oficial para o Krea 2 no GitHub, o que é importante porque fornece aos desenvolvedores uma ferramenta para implementar a tecnologia de inteligência artificial do Krea 2 em seus próprios projetos. O Krea 2 é um modelo de inteligência artificial que pode ser usado para uma variedade de tarefas, como processamento de linguagem natural e geração de imagens. O código de inferência é uma parte crucial do modelo, pois permite que os desenvolvedores usem o Krea 2 para fazer previsões ou gerar saídas com base em entradas. Isso pode ser útil para desenvolvedores que desejam criar aplicações que usem a tecnologia de inteligência artificial do Krea 2.",
+      "en": "The Krea AI team has published the official inference code for Krea 2 on GitHub, which matters because it provides developers with a tool to implement Krea 2's artificial intelligence technology in their own projects. Krea 2 is an artificial intelligence model that can be used for a range of tasks, such as natural language processing and image generation. The inference code is a crucial part of the model, as it allows developers to use Krea 2 to make predictions or generate outputs based on inputs. This can be useful for developers who want to create applications that utilize Krea 2's artificial intelligence technology.",
+      "score": 0.6208
+    },
+    {
+      "title": "m1ckc3s/claude-status-bar",
+      "url": "https://github.com/m1ckc3s/claude-status-bar",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo indicador de status para a barra de menu do macOS foi lançado, permitindo que os usuários monitorem o status do Claude Code, uma ferramenta de desenvolvimento, por meio de ícones animados, temporizador e ciclo de abertura e fechamento. Isso é importante porque fornece uma forma conveniente de acompanhar as atividades do Claude Code sem precisar minimizar ou alternar entre janelas. O indicador de status é uma ferramenta útil para desenvolvedores que trabalham com o Claude Code, pois oferece uma visão geral rápida do status da aplicação. O projeto está disponível no GitHub, onde os desenvolvedores podem acessar o código-fonte e contribuir para o projeto.",
+      "en": "A new macOS menu bar status indicator has been released, allowing users to monitor the status of Claude Code, a development tool, through animated icons, a timer, and an open/close lifecycle. This matters because it provides a convenient way to keep track of Claude Code activities without having to minimize or switch between windows. The status indicator is a useful tool for developers working with Claude Code, as it offers a quick overview of the application's status. The project is available on GitHub, where developers can access the source code and contribute to the project.",
+      "score": 0.5334
+    },
+    {
+      "title": "Th0rgal/open_oura",
+      "url": "https://github.com/Th0rgal/open_oura",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um toolkit em Rust foi lançado no GitHub, permitindo que os usuários da Oura Ring (gerações 3, 4 e 5) sincronizem, armazenem e analisem seus dados localmente, o que é importante porque oferece uma alternativa à nuvem da Oura. Isso foi possível graças ao protocolo BLE reverse-engineered e aos decoders de eventos, além de algoritmos de processamento de dados reimplementados. O toolkit, chamado open_oura, é uma ferramenta útil para quem deseja manter seus dados de saúde sob controle. Com essa ferramenta, os usuários podem ter mais controle sobre seus dados de saúde e bem-estar.",
+      "en": "A Rust toolkit has been released on GitHub, allowing Oura Ring users (generations 3, 4, and 5) to sync, store, and analyze their data locally, which matters because it offers an alternative to Oura's cloud. This was made possible by a reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. The toolkit, called open_oura, is a useful tool for those who want to keep their health data under control. With this tool, users can have more control over their health and wellness data.",
+      "score": 0.5168
+    }
+  ]
+}
