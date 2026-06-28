@@ -1,0 +1,226 @@
+{
+  "date": "2026-06-28",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Aconteceu um avanço significativo no campo dos modelos de linguagem grande (LLM), com a introdução do DSpark, uma técnica de decodificação especulativa que visa acelerar a inferência desses modelos. Isso é importante porque os LLMs estão se tornando cada vez mais comuns em aplicações de processamento de linguagem natural, e a capacidade de processar esses modelos de forma mais rápida pode levar a melhorias significativas na eficiência e precisão. A decodificação especulativa é uma técnica que permite ao modelo fazer previsões sobre as saídas prováveis, antes de ter todos os dados disponíveis, o que pode reduzir o tempo de processamento. Com o DSpark, os pesquisadores podem explorar novas possibilidades de melhoria no desempenho dos LLMs.",
+      "en": "A significant advancement has been made in the field of large language models (LLM), with the introduction of DSpark, a speculative decoding technique aimed at accelerating the inference of these models. This matters because LLMs are becoming increasingly common in natural language processing applications, and the ability to process these models more quickly can lead to significant improvements in efficiency and accuracy. Speculative decoding is a technique that allows the model to make predictions about likely outputs before all the data is available, which can reduce processing time. With DSpark, researchers can explore new possibilities for improving LLM performance.",
+      "score": 0.802
+    },
+    {
+      "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado Ornith-1.0-9B-GGUF foi disponibilizado no Hugging Face, uma plataforma que hospeda modelos de aprendizado de máquina, e isso é notável porque o modelo já recebeu 240 likes e foi baixado 36846 vezes, indicando seu potencial para geração de texto. O modelo é destinado à tarefa de geração de texto, que é um campo de estudo que visa criar algoritmos capazes de produzir texto humano-like. A geração de texto é uma tarefa complexa que requer habilidades de processamento de linguagem natural, como compreensão de contexto e capacidade de produzir texto coerente. O modelo Ornith-1.0-9B-GGUF pode ser útil para aplicações que requerem geração automática de texto, como chatbots ou sistemas de resumo de texto.",
+      "en": "A deep learning model called Ornith-1.0-9B-GGUF has been made available on Hugging Face, a platform that hosts machine learning models, and this is notable because the model has already received 240 likes and been downloaded 36846 times, indicating its potential for text generation. The model is intended for the task of text generation, which is a field of study that aims to create algorithms capable of producing human-like text. Text generation is a complex task that requires natural language processing skills, such as understanding context and ability to produce coherent text. The Ornith-1.0-9B-GGUF model may be useful for applications that require automatic text generation, such as chatbots or text summarization systems.",
+      "score": 0.7584
+    },
+    {
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Aconteceu o lançamento do OpenRA, um projeto de código aberto que permite aos jogadores reviver os clássicos jogos de estratégia em tempo real da série Command & Conquer. Isso importa porque oferece uma alternativa gratuita e personalizável para os fãs de jogos de estratégia. O OpenRA permite que os jogadores criem seus próprios mods e cenários, tornando o jogo ainda mais atraente. Com sua comunidade ativa, o OpenRA é uma ótima opção para quem busca uma experiência de jogo de estratégia em tempo real com uma abordagem colaborativa.",
+      "en": "The release of OpenRA has taken place, a open-source project that allows players to relive the classic real-time strategy games of the Command & Conquer series. This matters because it provides a free and customizable alternative for strategy game fans. OpenRA allows players to create their own mods and scenarios, making the game even more appealing. With its active community, OpenRA is a great option for those looking for a real-time strategy gaming experience with a collaborative approach.",
+      "score": 0.755
+    },
+    {
+      "title": "krea/Krea-2-Raw",
+      "url": "https://huggingface.co/krea/Krea-2-Raw",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado Krea-2-Raw foi disponibilizado no Hugging Face, uma plataforma popular para compartilhar e descobrir modelos de aprendizado de máquina, e isso é importante porque permite que os desenvolvedores criem imagens a partir de texto de forma mais eficaz. O modelo Krea-2-Raw é um exemplo de tarefa 'text-to-image', que é uma técnica de processamento de linguagem natural que converte descrições textuais em imagens, e é útil para entender como os modelos de aprendizado de máquina podem ser usados para gerar imagens personalizadas. Com 223 likes e 22622 downloads, o modelo Krea-2-Raw demonstra o interesse da comunidade de desenvolvedores em explorar aplicações de 'text-to-image'. A disponibilidade desse modelo no Hugging Face facilita o acesso a essa tecnologia para desenvolvedores que desejam criar aplicações inovadoras.",
+      "en": "A new artificial intelligence model called Krea-2-Raw has been made available on Hugging Face, a popular platform for sharing and discovering machine learning models, and this matters because it enables developers to create images from text more effectively. The Krea-2-Raw model is an example of a 'text-to-image' task, which is a natural language processing technique that converts textual descriptions into images, and is useful for understanding how machine learning models can be used to generate customized images. With 223 likes and 22622 downloads, the Krea-2-Raw model demonstrates the developer community's interest in exploring 'text-to-image' applications. The availability of this model on Hugging Face makes it easier for developers to access this technology and create innovative applications.",
+      "score": 0.5433
+    },
+    {
+      "title": "O que acontece quando um modelo de IA é \"aposentado\"?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-acontece-quando-um-modelo-de-ia-e-aposentado/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Recentemente, surgiram questionamentos sobre o que acontece quando um modelo de inteligência artificial, como o GPT-5, é \"aposentado\" e deixa de ser utilizado em assistentes virtuais, como o ChatGPT. Isso importa porque esses modelos, treinados com grandes volumes de dados para entender a linguagem e resolver problemas complexos, funcionam como o \"motor\" por trás das respostas dos assistentes. Quando um modelo deixa de ser utilizado, pode dar a impressão de que ele \"sumiu\", mas na verdade, ele pode ter sido substituído por uma versão mais avançada ou aprimorada. Os modelos de IA são versões internas que alimentam assistentes, como ChatGPT, e são constantemente atualizados para melhorar a experiência do usuário.",
+      "en": "Recently, questions have arisen about what happens when an artificial intelligence model, such as GPT-5, is \"retired\" and ceases to be used in virtual assistants, like ChatGPT. This matters because these models, trained on large volumes of data to understand language and solve complex problems, function as the \"engine\" behind the assistants' responses. When a model ceases to be used, it may give the impression that it has \"disappeared\", but in reality, it may have been replaced by a more advanced or refined version. Artificial intelligence models are internal versions that power assistants, such as ChatGPT, and are continually updated to improve the user experience.",
+      "score": 0.3987
+    },
+    {
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Recentemente, o chefe de pagamentos da Índia, Dilip Asbe, expressou sua visão de que a inteligência artificial (IA) desempenhará um papel fundamental no próximo ciclo de crescimento dos pagamentos digitais, pois pode ajudar a tornar as aplicações de pagamento mais competitivas, com um modelo comercial viável. Isso é importante porque o setor de pagamentos digitais está em constante evolução. A IA pode ser usada para melhorar a segurança e a eficiência dos pagamentos, tornando-os mais atraentes para os usuários. Com isso, as aplicações de pagamento baseadas em IA podem se destacar no mercado.",
+      "en": "Recently, India's payments chief, Dilip Asbe, expressed his view that artificial intelligence (AI) will play a crucial role in the next phase of digital payment growth, as it can help make payment applications more competitive, with a viable commercial model. This matters because the digital payments sector is constantly evolving. AI can be used to improve the security and efficiency of payments, making them more attractive to users. With this, AI-based payment applications may stand out in the market.",
+      "score": 0.3871
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Startups de inteligência artificial asiáticas estão lançando modelos semelhantes ao Mythos, uma plataforma de inteligência artificial de última geração, pois a proibição de exportação da Anthropic continua, o que pode significar que os laboratórios de inteligência artificial dos EUA podem perder este enorme mercado para sempre. Isso é importante porque esses modelos podem realizar tarefas complexas, como processamento de linguagem natural, com grande precisão. A proibição de exportação da Anthropic foi um grande obstáculo para os laboratórios de inteligência artificial dos EUA, pois eles não podiam vender seus produtos para países asiáticos. Agora, as startups asiáticas estão preenchendo esse vazio com seus próprios modelos.",
+      "en": "Asian AI startups are launching Mythos-like models, a next-generation artificial intelligence platform, as Anthropic's export ban continues, which may mean that US AI labs will lose this enormous market forever. This matters because these models can perform complex tasks, such as natural language processing, with high accuracy. The Anthropic export ban was a significant hurdle for US AI labs, as they could not sell their products to Asian countries. Now, Asian startups are filling this gap with their own models, which promise similar capabilities without the risk of an export ban.",
+      "score": 0.3567
+    },
+    {
+      "title": "Zuckerberg's war on whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A guerra de Zuckerberg contra os denunciantes ganhou destaque recentemente, o que importa porque isso pode afetar a liberdade de expressão e a capacidade de expor irregularidades nas grandes corporações. Isso se refere ao esforço da empresa para silenciar indivíduos que expõem práticas questionáveis, o que é um tema importante para entender como as empresas lidam com a transparência. A expressão \"Zuckerberg's war on whistleblowers\" se refere à ação tomada pela empresa liderada por Mark Zuckerberg contra aqueles que denunciam irregularidades, um termo que pode ser traduzido como \"guerra contra os denunciantes\". Essa ação pode ter implicações significativas na forma como as empresas lidam com a ética e a responsabilidade.",
+      "en": "Mark Zuckerberg's war on whistleblowers has recently come to the forefront, which matters because it can impact freedom of speech and the ability to expose wrongdoing within large corporations. This refers to the company's effort to silence individuals who reveal questionable practices, an important topic to understand how companies handle transparency. The term \"whistleblowers\" refers to people who report wrongdoing, often at great personal risk, and a company's actions against them can have significant implications for ethics and accountability. This issue highlights the ongoing struggle between corporate interests and individual rights to free speech.",
+      "score": 0.7548
+    },
+    {
+      "title": "Fiat joga preços do Fastback no chão no Move Brasil; veja os descontos",
+      "url": "https://canaltech.com.br/carros/fiat-joga-precos-do-fastback-no-chao-no-move-brasil-veja-os-descontos/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Fiat reduziu significativamente os preços de alguns modelos da linha Fastback para atender ao programa Move Brasil, uma iniciativa do Governo Federal que facilita a compra de veículos zero km a juros baixos para profissionais do transporte, o que torna o Fastback uma opção atraente. Isso foi possível devido a descontos que chegam a quase R$ 60 mil em modelos como o Impetus T200 MHEV e o T200 equipado com o pacote Smart Drive. Esses descontos são resultado da adaptação da Fiat ao programa, que visa incentivar a compra de veículos novos para profissionais do setor de transporte. Com esses preços mais acessíveis, o Fastback se torna uma opção altamente competitiva no mercado.",
+      "en": "Fiat has significantly reduced the prices of some Fastback models to comply with the Move Brasil program, a federal government initiative that facilitates the purchase of zero-kilometer vehicles at low interest rates for transportation professionals, making the Fastback a more attractive option. This was made possible by discounts of up to nearly $60,000 on models such as the Impetus T200 MHEV and the T200 equipped with the Smart Drive package. These discounts are a result of Fiat's adaptation to the program, which aims to encourage the purchase of new vehicles for professionals in the transportation sector. With these more affordable prices, the Fastback becomes a highly competitive option in the market.",
+      "score": 0.3748
+    },
+    {
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Apple está procurando aliviar a pressão sobre sua cadeia de suprimentos, solicitando uma exceção à administração Trump para comprar chips de memória RAM da CXMT, uma empresa chinesa que foi incluída em uma lista negra pelo Pentágono devido a suas ligações com o Exército de Libertação do Povo, de acordo com o Financial Times. A alta dos preços da memória RAM e do armazenamento tem afetado a Apple, que busca uma solução para manter seus custos sob controle. Isso ocorre porque a CXMT é uma das principais fabricantes de chips de memória do mundo, e a Apple precisa desses componentes para produzir seus produtos. A permissão para comprar da CXMT pode ajudar a Apple a reduzir seus custos e manter a competitividade no mercado.",
+      "en": "Apple is seeking to alleviate some of the pressure on its supply chain by requesting an exception from the Trump administration to buy RAM chips from CXMT, a Chinese company that was blacklisted by the Pentagon over its ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple to seek a solution to keep its costs under control, as CXMT is one of the world's leading memory chip manufacturers and Apple needs these components to produce its products. This move is significant because it highlights the complex trade relationships between the US and China, and the challenges that companies like Apple face in managing their supply chains. By obtaining permission to buy from CXMT, Apple may be able to reduce its costs and remain competitive in the market.",
+      "score": 0.3665
+    },
+    {
+      "title": "Volkswagen T-Cross Extreme: vale a pena pagar mais pela versão topo de linha?",
+      "url": "https://canaltech.com.br/carros/volkswagen-t-cross-extreme-vale-a-pena-pagar-mais-pela-versao-topo-de-linha/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Volkswagen lançou a versão topo de linha do T-Cross, chamada Extreme, que custa cerca de R$ 7 mil a mais que a versão Highline. Isso levanta a pergunta: vale a pena pagar mais pela versão Extreme? Para responder a essa pergunta, é importante considerar as diferenças entre as duas versões, como recursos adicionais e melhorias no design. A decisão de pagar mais pela versão Extreme depende das necessidades e prioridades do cliente.",
+      "en": "Volkswagen has released the top-of-the-line version of the T-Cross, called the Extreme, which costs about R$ 7,000 more than the Highline version. This raises the question: is it worth paying more for the Extreme version? To answer this question, it's essential to consider the differences between the two versions, such as additional features and design improvements. The decision to pay more for the Extreme version depends on the customer's needs and priorities.",
+      "score": 0.3498
+    },
+    {
+      "title": "OpenAI Hires Uber’s Prabhjeet Singh to Lead India Operations",
+      "url": "https://dev.to/career_aheadmagazine_0a5/openai-hires-ubers-prabhjeet-singh-to-lead-india-operations-m8a",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A OpenAI nomeou Prabhjeet Singh, ex-executivo da Uber, para liderar as operações na Índia, uma estratégia para aumentar sua presença no mercado de inteligência artificial indiano em rápido crescimento. Essa mudança é importante porque a Índia é um mercado em expansão para a tecnologia de inteligência artificial, e a liderança de Singh deve impulsionar a inovação e a colaboração no ecossistema local de tecnologia. Singh trará sua experiência para ajudar a OpenAI a se estabelecer no país. A nomeação de Singh é um passo significativo para a OpenAI consolidar sua posição no mercado indiano.",
+      "en": "OpenAI has appointed Prabhjeet Singh, a former Uber executive, to lead its operations in India, a strategic move to increase its presence in the rapidly growing Indian artificial intelligence market. This change matters because India is an expanding market for artificial intelligence technology, and Singh's leadership is expected to drive innovation and collaboration within the local tech ecosystem. Singh will bring his experience to help OpenAI establish itself in the country. The appointment of Singh is a significant step for OpenAI to consolidate its position in the Indian market.",
+      "score": 0.3488
+    },
+    {
+      "title": "The New Pattern of 2026 Tech Layoffs: 'Cut and Pivot'",
+      "url": "https://dev.to/merbayerp/the-new-pattern-of-2026-tech-layoffs-cut-and-pivot-3lf4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "No mês passado, enquanto trabalhava em um projeto de um cliente, descobri que um ex-colega de equipe que conhecia da indústria havia sido demitido, o que me chamou a atenção porque a situação foi diferente das explicações de \"redução de equipe\" ou \"otimização de custos\" que nos acostumamos nos últimos anos, pois a empresa demitiu centenas de pessoas ao mesmo tempo e abriu muito menos novas vagas que exigiam conjuntos de habilidades diferentes, ilustrando um exemplo concreto de um novo padrão de demissões que estamos vendo cada vez mais no setor de tecnologia em 2026, conhecido como \"Corte e Mudança de Direção\", que surge à medida que as empresas buscam se transformar rapidamente, o que significa que elas estão tentando mudar sua direção estratégica de forma rápida e eficaz, geralmente em resposta a mudanças no mercado ou na tecnologia. Isso pode incluir a adoção de novas tecnologias ou a mudança para novos mercados, o que pode levar a demissões de funcionários que não possuem as habilidades necessárias para as novas direções da empresa.",
+      "en": "Last month, while working on a client's project, I learned that a former teammate I knew from the industry had been laid off, which caught my attention because the situation was different from the \"team downsizing\" or \"cost optimization\" explanations we've become accustomed to in the past few years, as the company laid off hundreds of people simultaneously and opened far fewer new positions requiring different skill sets, illustrating a concrete example of a new layoff pattern we're increasingly seeing in the tech sector in 2026, known as \"Cut and Pivot\", which emerges as companies strive to rapidly transform their existing talent, meaning they are trying to change their strategic direction quickly and effectively, usually in response to changes in the market or technology. This can include the adoption of new technologies or a shift to new markets, which can lead to layoffs of employees who do not possess the necessary skills for the company's new directions.",
+      "score": 0.348
+    },
+    {
+      "title": "How to Build a Waiting List for Your Freelance Services",
+      "url": "https://dev.to/alfred_p_c0ddb65b3df9fc36/how-to-build-a-waiting-list-for-your-freelance-services-1c9d",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um artigo publicado no dev.to destacou a importância de criar uma lista de espera para serviços de freelancer, o que pode parecer contraintuitivo, mas na verdade é um sinal de que você está entregando trabalhos de alta qualidade e mantendo uma presença constante entre projetos. Isso não se trata de criar escassez artificial, mas sim de manter a visibilidade e a demanda por seus serviços. Para alcançar isso, é necessário mudar a mentalidade, passando a pensar na aquisição de clientes como um processo contínuo, em vez de apenas quando o pipeline está vazio.",
+      "en": "Recently, an article published on dev.to highlighted the importance of building a waiting list for freelance services, which may seem counterintuitive, but is actually a sign that you are delivering high-quality work and maintaining a constant presence between projects. This is not about creating artificial scarcity, but rather about staying visible and desirable, so that when your capacity opens up, people already want to fill it. To achieve this, a mindset shift is required, thinking of client acquisition as an ongoing process, rather than just when the pipeline is empty.",
+      "score": 0.3469
+    },
+    {
+      "title": "Cultivate a Growth Mindset",
+      "url": "https://dev.to/fabiosarmento/cultivate-a-growth-mindset-1ajc",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, foi destacada a importância de cultivar uma mentalidade de crescimento no setor de tecnologia, onde é comum sentir-se sobrecarregado. Isso significa mudar o foco da perfeição para o progresso, considerando os erros como oportunidades de aprendizado e adaptação para avançar. Essa abordagem permite que os profissionais lidem melhor com os desafios e continue em frente.",
+      "en": "Recently, the importance of cultivating a growth mindset in the tech industry was highlighted, where it is easy to feel overwhelmed. This means shifting the focus from perfection to progress, considering mistakes as opportunities for learning and adaptation to move forward. This approach allows professionals to better handle challenges and keep moving forward.",
+      "score": 0.2997
+    },
+    {
+      "title": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models",
+      "url": "https://arxiv.org/abs/2606.27373v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recentemente, modelos multimodais grandes autoevoluídos (LMMs) têm recebido atenção por melhorar a razão visual em um ambiente puramente não supervisionado. No entanto, os esquemas de recompensa de autojogo e autoconsistência em LMMs autoevoluídos existentes otimizam a concordância de respostas sem garantir que o decodificador preste atenção ao conteúdo visual, confiando em vez disso em priores estatísticos da linguagem para produzir saídas autoconsistentes. Isso leva a um modo de falha persistente que chamamos de subcondicionamento visual, onde o decodificador confia em priores da linguagem em vez da imagem durante a geração. \nPara resolver isso, os pesquisadores propõem VISE, uma abordagem que visa melhorar a atenção aos tokens visuais em LMMs autoevoluídos.",
+      "en": "Recently, self-evolving large multimodal models (LMMs) have received attention for improving visual reasoning in a purely unsupervised setting. However, the multi-role self-play and self-consistency reward schemes in existing self-evolving LMMs optimize answer agreement without ensuring the decoder attends to visual content, relying instead on statistical language priors to produce self-consistent outputs, leading to a persistent failure mode known as visual under-conditioning, where the decoder relies on language priors rather than the image during generation. To address this, researchers propose VISE, an approach that aims to improve attention to visual tokens in self-evolving LMMs. This is significant because current self-evolving LMMs struggle with vision-language understanding tasks such as image captioning and visual question answering.",
+      "score": 0.3317
+    },
+    {
+      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "url": "https://arxiv.org/abs/2606.27369v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um recente estudo publicado no arXiv descobriu que o aprendizado por reforço sem soluções de verdade pode melhorar os modelos de linguagem grande, pois os métodos atuais de treinamento desses modelos geralmente dependem de respostas corretas para atribuir recompensas, limitando sua aplicabilidade a tarefas onde a solução correta é desconhecida. Os pesquisadores introduziram um framework chamado RiVER, que treina modelos de linguagem grande em tarefas de otimização baseadas em pontuações sem soluções de verdade, utilizando feedback de execução determinística como supervisão de valor contínuo. Isso pode ser especialmente útil em tarefas onde a resposta correta é desconhecida ou difícil de obter.",
+      "en": "A recent study published on arXiv found that reinforcement learning without ground-truth solutions can improve large language models, as current training methods for these models typically rely on correct answers to assign rewards, limiting their applicability to tasks where the correct solution is unknown. The researchers introduced a framework called RiVER, which trains large language models on score-based optimization tasks without ground-truth solutions, using deterministic execution feedback as continuous-valued supervision. This can be especially useful in tasks where the correct answer is unknown or difficult to obtain, and it addresses key challenges such as scale dominance and frequency dominance that arise when using continuous rewards.",
+      "score": 0.3317
+    },
+    {
+      "title": "Error-Conditioned Neural Solvers",
+      "url": "https://arxiv.org/abs/2606.27354v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram um novo método chamado de Solvers Neurais Condicionalizados por Erro, que visa melhorar a precisão de modelos de substituição neural para resolver equações diferenciais parciais (PDEs), que são fundamentais em muitos campos científicos. Isso é importante porque os modelos atuais de substituição neural têm dificuldade em corrigir suas próprias violações de restrições e extrapolam mal além da distribuição de treinamento. Os Solvers Neurais Condicionalizados por Erro buscam promover a correção física, minimizando o resíduo da PDE de forma mais robusta.",
+      "en": "Researchers introduced a new method called Error-Conditioned Neural Solvers, which aims to improve the accuracy of neural surrogate models for solving partial differential equations (PDEs), a fundamental component in many scientific fields. This matters because current neural surrogate models struggle to correct their own constraint violations and extrapolate poorly beyond the training distribution. Error-Conditioned Neural Solvers seek to promote physical correctness by minimizing the PDE residual in a more robust way.",
+      "score": 0.3316
+    },
+    {
+      "title": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
+      "url": "https://arxiv.org/abs/2606.27347v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um estudo recente publicado no arXiv apresenta uma abordagem inovadora para mapear as redes de elites políticas na Europa, utilizando uma pipeline de extração de entidades e relações multilíngue. Isso é importante porque entender como essas elites se organizam e interagem é fundamental para compreender a governança e a distribuição de recursos públicos. A pesquisa utiliza um modelo de linguagem grande para construir grafos de conhecimento temporais assinados a partir de grandes corpora de notícias não estruturadas, superando limitações de abordagens anteriores que dependiam de codificação manual intensiva ou métodos automatizados simplistas.",
+      "en": "A recent study published on arXiv presents an innovative approach to mapping political-elite networks in Europe, using a multilingual joint entity-relation extraction pipeline. This matters because understanding how these elites organize and interact is crucial for grasping governance and the distribution of public resources. The research uses a large language model to build signed, temporal knowledge graphs from massive unstructured news corpora, overcoming limitations of previous approaches that relied on intensive manual coding or simplistic automated methods.",
+      "score": 0.3315
+    },
+    {
+      "title": "Pluviobyte/video-production-skills",
+      "url": "https://github.com/Pluviobyte/video-production-skills",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Uma biblioteca reutilizável de habilidades de produção de vídeo em inteligência artificial foi lançada no GitHub, permitindo a criação, recriação, design de movimento, aberturas e garantia de qualidade de vídeos. Isso importa porque essa biblioteca pode ajudar a automatizar tarefas de produção de vídeo, tornando o processo mais eficiente. A biblioteca foi desenvolvida pela Pluviobyte e está disponível no repositório do GitHub. Ela pode ser usada por profissionais de produção de vídeo para melhorar a qualidade e a consistência de seus trabalhos.",
+      "en": "A reusable artificial intelligence video production skills library was launched on GitHub, enabling the creation, recreation, motion design, openers, and quality assurance of videos. This matters because the library can help automate video production tasks, making the process more efficient. The library, developed by Pluviobyte, is available on the GitHub repository, and can be used by video production professionals to improve the quality and consistency of their work, with skills such as motion design referring to the process of creating moving graphics and animations.",
+      "score": 0.7378
+    },
+    {
+      "title": "playPlumtown/Plumtown",
+      "url": "https://github.com/playPlumtown/Plumtown",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto chamado Plumtown foi lançado no GitHub, o que é notável porque oferece uma abordagem única ao gênero de simulações de vida, permitindo que os jogadores construam suas casas, dominem habilidades e progridam em carreiras, tudo isso dentro de um ambiente de navegador. Isso importa porque proporciona uma experiência de jogo gratuita que pode ser monetizada, usando a criptomoeda $PLUM, que pode ser trocada por SOL, uma criptomoeda real. Plumtown é baseado em navegador, tornando-o acessível a qualquer pessoa com uma conexão de internet. O projeto combina elementos de jogos de simulação com a economia de criptomoedas, criando uma experiência interessante para jogadores e entusiastas de tecnologia.",
+      "en": "A new project called Plumtown has been released on GitHub, which is notable because it offers a unique take on the life-simulation genre, allowing players to build their homes, master skills, and advance in careers, all within a browser-based environment. This matters because it provides a free-to-play gaming experience that can be monetized, using the cryptocurrency $PLUM, which can be exchanged for SOL, a real cryptocurrency. Plumtown is browser-based, making it accessible to anyone with an internet connection. The project combines elements of simulation games with cryptocurrency economics, creating an interesting experience for gamers and technology enthusiasts.",
+      "score": 0.7187
+    },
+    {
+      "title": "AlexandrosGounis/pdfx",
+      "url": "https://github.com/AlexandrosGounis/pdfx",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Uma extensão do padrão tradicional de PDF foi desenvolvida, permitindo que vários arquivos sejam armazenados em um único arquivo por meio de metadados, o que pode ser útil para organizar e compartilhar conjuntos de documentos relacionados. Isso é possível graças ao projeto pdfx, disponível no GitHub, que visa expandir as funcionalidades do formato de arquivo PDF. Metadados são informações adicionais incluídas em um arquivo que descrevem seu conteúdo, como título, autor e data de criação. Essa inovação pode simplificar a gestão de documentos complexos.",
+      "en": "An extension of the traditional PDF standard has been developed, allowing multiple files to be stored in a single file via metadata, which can be useful for organizing and sharing related document sets. This is made possible by the pdfx project, available on GitHub, which aims to expand the capabilities of the PDF file format. Metadata are additional information included in a file that describe its content, such as title, author, and creation date. This innovation can simplify the management of complex documents.",
+      "score": 0.6292
+    }
+  ]
+}
