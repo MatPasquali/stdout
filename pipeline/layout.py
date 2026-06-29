@@ -23,6 +23,8 @@ LABELS = {
         "papers": "Ciência & Papers",
         "projetos": "Projetos em alta",
         "references": "Referências",
+        "weekly_title": "Resumo da Semana",
+        "weekly_badge": "Semana",
         "footer": "Edição gerada automaticamente por stdout · {credits}.",
     },
     "en": {
@@ -36,6 +38,8 @@ LABELS = {
         "papers": "Science & Papers",
         "projetos": "Trending projects",
         "references": "References",
+        "weekly_title": "Weekly Recap",
+        "weekly_badge": "Week",
         "footer": "Edition generated automatically by stdout · {credits}.",
     },
 }

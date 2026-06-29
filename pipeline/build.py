@@ -10,13 +10,13 @@ from __future__ import annotations
 
 import json
 import time
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 from .collect import collect_all
 from .layout import LABELS, group_sections
 from .rank import rank
-from .write import get_writer
+from .write import get_writer, write_intro
 
 EDICOES = Path("edicoes")
 
@@ -50,9 +50,11 @@ def _no_emdash(text: str) -> str:
     return text
 
 
-def _render_md(records: list[dict], lang: str, day: str, credits: str) -> str:
+def _render_md(records: list[dict], lang: str, day: str, credits: str,
+               title: str | None = None, intro: str | None = None) -> str:
     L = LABELS[lang]
-    lines = [f"# {L['title']} {day}", "", f"_{L['intro']}_", ""]
+    header = title or f"{L['title']} {day}"
+    lines = [f"# {header}", "", f"_{intro or L['intro']}_", ""]
     for heading, group in group_sections(records, lang):
         if not group:
             continue
@@ -113,4 +115,62 @@ def build_edition() -> Path:
     (out / "index.pt.md").write_text(_render_md(records, "pt", day, credits), encoding="utf-8")
     (out / "index.en.md").write_text(_render_md(records, "en", day, credits), encoding="utf-8")
     print(f"\n  Edição salva em {out}")
+    return out
+
+
+WEEKLY_TOP = 12
+
+
+def build_weekly() -> Path:
+    """Compile a 'best of the week' edition from the last 7 daily editions.
+
+    Reuses the blurbs already written during the week (no per-item AI calls) and
+    adds one AI-written opening paragraph. Saved to `edicoes/<date>-semana/`.
+    """
+    today = date.today()
+    files = sorted(
+        (f for f in EDICOES.glob("*/edition.json") if not f.parent.name.endswith("-semana")),
+        reverse=True,
+    )[:7]
+
+    items: list[dict] = []
+    seen: set[str] = set()
+    for f in files:
+        try:
+            data = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            continue
+        for it in data.get("items", []):
+            url = it.get("url")
+            if not url or url in seen:
+                continue
+            seen.add(url)
+            items.append(it)
+
+    items.sort(key=lambda i: i.get("score") or 0, reverse=True)
+    top = items[:WEEKLY_TOP]
+
+    print(f"\n  Resumo da Semana: {len(top)} melhores de {len(items)} itens da semana")
+    intro_pt, intro_en = write_intro([i["title"] for i in top[:8]])
+    intro_pt, intro_en = _no_emdash(intro_pt), _no_emdash(intro_en)
+
+    rng = f"{(today - timedelta(days=6)).strftime('%d/%m')} a {today.strftime('%d/%m')}"
+    credits = "resumo compilado automaticamente por stdout"
+    day = today.isoformat()
+    out = EDICOES / f"{day}-semana"
+    out.mkdir(parents=True, exist_ok=True)
+    (out / "edition.json").write_text(
+        json.dumps(
+            {"date": day, "weekly": True, "range": rng,
+             "intro": {"pt": intro_pt, "en": intro_en}, "credits": credits, "items": top},
+            ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    (out / "index.pt.md").write_text(
+        _render_md(top, "pt", day, credits, title=f"Resumo da Semana ({rng})", intro=intro_pt),
+        encoding="utf-8")
+    (out / "index.en.md").write_text(
+        _render_md(top, "en", day, credits, title=f"Weekly Recap ({rng})", intro=intro_en),
+        encoding="utf-8")
+    print(f"  Resumo da Semana salvo em {out}")
     return out

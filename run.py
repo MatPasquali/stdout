@@ -59,10 +59,14 @@ def main() -> None:
         build_site()
         return
 
-    from pipeline.build import build_edition
+    from datetime import date
+
+    from pipeline.build import build_edition, build_weekly
     from pipeline.site import build_site
 
     build_edition()
+    if date.today().weekday() == 6:  # domingo: publica também o Resumo da Semana
+        build_weekly()
     build_site()
 
 

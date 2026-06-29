@@ -119,6 +119,15 @@ a{color:var(--teal);text-decoration:none}
 .refs a{color:#c7cdda}
 .refs a:hover{color:var(--teal)}
 .refs .ref-url{font-family:var(--mono);font-size:.7rem;color:var(--muted);margin-left:9px;word-break:break-all}
+.badge{display:inline-block;font-family:var(--mono);font-size:.6rem;font-weight:700;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--bg);background:var(--teal);padding:3px 8px;border-radius:5px}
+.weekly-title{margin:12px 0 2px;font-family:var(--mono);font-weight:700;font-size:2rem;letter-spacing:-.02em;
+  background:linear-gradient(90deg,var(--ink) 20%,var(--teal),var(--blue));
+  -webkit-background-clip:text;background-clip:text;color:transparent}
+.weekly-range{font-family:var(--mono);font-size:.78rem;color:var(--muted);letter-spacing:.08em}
+.weekly-intro{margin:18px 0 0;font-size:1.06rem;line-height:1.6;color:var(--ink);
+  border-left:2px solid var(--teal);padding-left:15px}
+.weekly-label .badge{margin-right:7px}
 
 .editions{list-style:none;margin:8px 0 0;padding:0}
 .editions li{display:flex;align-items:center;gap:14px;padding:17px 0;border-bottom:1px solid var(--rule)}
@@ -231,8 +240,16 @@ def _edition_html(data: dict, lang: str) -> str:
         f'<a class="{other_active}" href="en.html">EN</a></nav>',
         "</div>",
         '<main class="wrap">',
-        f'<div class="edition-date">{_esc(day)}</div>',
     ]
+    if data.get("weekly"):
+        body.append(f'<span class="badge">{_esc(L["weekly_badge"])}</span>')
+        body.append(f'<h1 class="weekly-title">{_esc(L["weekly_title"])}</h1>')
+        body.append(f'<div class="weekly-range">{_esc(data.get("range", ""))}</div>')
+        intro = (data.get("intro") or {}).get(lang, "")
+        if intro:
+            body.append(f'<p class="weekly-intro">{_esc(intro)}</p>')
+    else:
+        body.append(f'<div class="edition-date">{_esc(day)}</div>')
     for heading, group in group_sections(data["items"], lang):
         if not group:
             continue
@@ -259,7 +276,8 @@ def _edition_html(data: dict, lang: str) -> str:
     body.append("</ol>")
     body.append("</main>")
     body.append(_footer(data.get("credits", "")))
-    return _doc(f"stdout · {day}", "\n".join(body), base="../", lang=lang)
+    page_title = f"stdout · {L['weekly_title']}" if data.get("weekly") else f"stdout · {day}"
+    return _doc(page_title, "\n".join(body), base="../", lang=lang)
 
 
 def _index_html(editions: list[dict]) -> str:
@@ -281,12 +299,18 @@ def _index_html(editions: list[dict]) -> str:
     ]
     for data in editions:
         day = _esc(data["date"])
+        folder = _esc(data.get("_folder", data["date"]))
         n = len(data["items"])
+        if data.get("weekly"):
+            tag = (f'<span class="count weekly-label"><span class="badge">Semana</span> '
+                   f'Resumo da Semana ({_esc(data.get("range", ""))})</span>')
+        else:
+            tag = f'<span class="count">{n} matérias</span>'
         body.append(
             f'<li><span class="date">{day}</span>'
-            f'<span class="links"><a href="{day}/pt.html">PT</a>'
-            f'<a href="{day}/en.html">EN</a></span>'
-            f'<span class="count">{n} matérias</span></li>'
+            f'<span class="links"><a href="{folder}/pt.html">PT</a>'
+            f'<a href="{folder}/en.html">EN</a></span>'
+            f'{tag}</li>'
         )
     body.append("</ul></main>")
     body.append(_footer())
@@ -303,13 +327,14 @@ def build_site() -> Path:
     editions: list[dict] = []
     for jf in sorted(EDICOES.glob("*/edition.json")):
         data = json.loads(jf.read_text(encoding="utf-8"))
+        data["_folder"] = jf.parent.name
         editions.append(data)
-        out = DOCS / data["date"]
+        out = DOCS / data["_folder"]
         out.mkdir(exist_ok=True)
         (out / "pt.html").write_text(_edition_html(data, "pt"), encoding="utf-8")
         (out / "en.html").write_text(_edition_html(data, "en"), encoding="utf-8")
 
-    editions.sort(key=lambda d: d["date"], reverse=True)
+    editions.sort(key=lambda d: (d["date"], d.get("weekly", False)), reverse=True)
     (DOCS / "index.html").write_text(_index_html(editions), encoding="utf-8")
     print(f"  Site gerado em {DOCS}/ ({len(editions)} edição(ões))")
     return DOCS

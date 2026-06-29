@@ -125,3 +125,38 @@ def get_writer():
         "        Defina uma chave no .env para a IA redigir as matérias."
     )
     return ExtractiveWriter()
+
+
+def write_intro(headlines: list[str]) -> tuple[str, str]:
+    """A short bilingual opening paragraph for the weekly recap, from the top headlines.
+
+    Uses the same provider as get_writer(); falls back to a static line with no key
+    or on failure, so the weekly summary never breaks.
+    """
+    fallback = (
+        "Os destaques de tecnologia da semana, reunidos em uma edição.",
+        "This week's top tech stories, gathered in one edition.",
+    )
+    if os.environ.get("GROQ_API_KEY"):
+        call_fn, key = call_groq, os.environ["GROQ_API_KEY"]
+    elif os.environ.get("GEMINI_API_KEY"):
+        call_fn, key = call_gemini, os.environ["GEMINI_API_KEY"]
+    else:
+        return fallback
+
+    prompt = (
+        "You are a tech journalist writing the opening of a weekly tech recap. In "
+        "2 or 3 sentences, summarise the main themes of the week from the headlines "
+        "below. Engaging but factual: no hype, no emojis, no em-dashes. Write the "
+        "SAME paragraph in Brazilian Portuguese and English. Return EXACTLY this "
+        "and nothing else:\n[PT]\n<portuguese>\n[EN]\n<english>\n\nHeadlines:\n"
+        + "\n".join(f"- {h}" for h in headlines)
+    )
+    try:
+        pt, en = parse_bilingual(call_fn(key, prompt))
+    except Exception as exc:  # noqa: BLE001
+        print(f"[aviso]   intro do resumo semanal falhou: {exc}")
+        return fallback
+    if _looks_degenerate(pt) or _looks_degenerate(en):
+        return fallback
+    return pt, en
