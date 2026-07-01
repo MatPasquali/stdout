@@ -1,0 +1,226 @@
+{
+  "date": "2026-07-01",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Kulaxyz/self-learning-skills",
+      "url": "https://github.com/Kulaxyz/self-learning-skills",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub, intitulado self-learning-skills, está permitindo que agentes de codificação de IA, como o Claude Code e o Cursor, desenvolvam habilidades autodidatas: esses agentes podem agora reconhecer caminhos eficazes em uma sessão e convertê-los em regras reutilizáveis para futuras interações, o que é importante porque melhora a eficiência e a capacidade de aprendizado dos sistemas de IA. Isso acontece por meio de um mecanismo de auto-aperfeiçoamento, que permite aos agentes identificar e armazenar soluções bem-sucedidas para problemas complexos. Essa capacidade de aprendizado é fundamental para o desenvolvimento de sistemas de IA mais avançados. Os desenvolvedores podem acessar o projeto no GitHub para explorar e contribuir para essa tecnologia emergente.",
+      "en": "A project on GitHub, titled self-learning-skills, is enabling AI coding agents, such as Claude Code and Cursor, to develop self-learning skills: these agents can now recognize effective paths in a session and convert them into reusable rules for future interactions, which matters because it improves the efficiency and learning capability of AI systems. This happens through a self-improving mechanism, which allows agents to identify and store successful solutions to complex problems. This learning capability is crucial for the development of more advanced AI systems. Developers can access the project on GitHub to explore and contribute to this emerging technology.",
+      "score": 0.7821
+    },
+    {
+      "title": "mekos2772/ios-location-spoofer",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um aplicativo iOS standalone foi lançado para falsificar a localização do GPS sem a necessidade de jailbreak, o que é notável porque muitas soluções exigem que o dispositivo seja desbloqueado para funcionar. Isso é possível graças a uma combinação de técnicas que permitem ao aplicativo interagir com o sistema operacional de maneira segura. O aplicativo também inclui módulos para integração com outras ferramentas populares, como Shadowrocket, Surge, Loon, QX e Stash. Essa funcionalidade pode ser útil para desenvolvedores e usuários que precisam testar aplicativos que dependem de localização.",
+      "en": "A standalone iOS app has been released to spoof GPS location without the need for a jailbreak, which is notable because many solutions require the device to be unlocked to work. This is made possible by a combination of techniques that allow the app to interact with the operating system in a secure way. The app also includes modules for integration with other popular tools, such as Shadowrocket, Surge, Loon, QX, and Stash. This functionality can be useful for developers and users who need to test apps that rely on location.",
+      "score": 0.7771
+    },
+    {
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Uma descoberta recente revelou que o Claude Code está marcando solicitações de forma esteganográfica, o que significa que está escondendo informações dentro de outros dados de maneira quase imperceptível. Isso é importante porque a esteganografia, um método de ocultar mensagens ou dados dentro de outros arquivos ou transmissões, pode ser usada para fins variados, desde a segurança até a privacidade. A esteganografia funciona embedendo informações secretas dentro de imagens, áudio ou texto de forma que apenas o destinatário pretendido possa extrair a informação oculta. Essa prática pode ter implicações significativas para a privacidade e segurança online.",
+      "en": "A recent discovery has revealed that Claude Code is steganographically marking requests, which means it is hiding information within other data in a nearly imperceptible way. This matters because steganography, a method of hiding messages or data within other files or transmissions, can be used for a variety of purposes, from security to privacy. Steganography works by embedding secret information within images, audio, or text in such a way that only the intended recipient can extract the hidden information. This practice can have significant implications for online privacy and security.",
+      "score": 0.7611
+    },
+    {
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Anthropic lançou o Claude Sonnet 5, uma atualização do seu modelo de linguagem, que é um tipo de inteligência artificial treinada para processar e gerar linguagem humana de forma natural. Isso é importante porque o modelo de linguagem pode ser usado em uma variedade de aplicações, como assistentes virtuais e sistemas de tradução automática. O Claude Sonnet 5 foi projetado para melhorar a capacidade do modelo de entender e responder a perguntas complexas de forma mais precisa. A atualização também inclui melhorias na capacidade do modelo de gerar textos coerentes e naturais.",
+      "en": "Anthropic has released Claude Sonnet 5, an update to its language model, a type of artificial intelligence trained to process and generate human language in a natural way. This matters because the language model can be used in a variety of applications, such as virtual assistants and automatic translation systems. Claude Sonnet 5 was designed to improve the model's ability to understand and respond to complex questions more accurately. The update also includes improvements to the model's ability to generate coherent and natural text.",
+      "score": 0.7237
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um novo modelo de inteligência artificial foi publicado no Hugging Face, chamado DeepSeek-V4-Pro-DSpark, que é destinado à tarefa de geração de texto, uma técnica que permite que máquinas criem textos coerentes e naturais, como se fossem escritos por humanos, utilizando algoritmos de processamento de linguagem natural, que é uma área da ciência da computação que estuda como os computadores podem entender e gerar linguagem humana. Esse modelo já recebeu 269 likes e foi baixado 7629 vezes, o que indica seu potencial para aplicações práticas. A geração de texto é uma ferramenta poderosa que pode ser usada em diversas áreas, como marketing, educação e entretenimento. O modelo DeepSeek-V4-Pro-DSpark é uma contribuição importante para o campo da inteligência artificial.",
+      "en": "A new artificial intelligence model has been published on Hugging Face, called DeepSeek-V4-Pro-DSpark, which is intended for the task of text generation, a technique that allows machines to create coherent and natural texts, as if they were written by humans, using natural language processing algorithms, which is an area of computer science that studies how computers can understand and generate human language. This model has already received 269 likes and been downloaded 7629 times, which indicates its potential for practical applications. Text generation is a powerful tool that can be used in various areas, such as marketing, education, and entertainment. The DeepSeek-V4-Pro-DSpark model is an important contribution to the field of artificial intelligence.",
+      "score": 0.7098
+    },
+    {
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "O Departamento de Comércio dos Estados Unidos removeu as restrições de exportação para os modelos de linguagem Claude Fable 5 e Mythos 5, o que significa que esses modelos agora podem ser compartilhados e utilizados por mais pessoas e organizações em diferentes países. Isso é importante porque esses modelos de linguagem são ferramentas poderosas para processar e gerar texto, e sua disponibilidade pode ter um impacto significativo no desenvolvimento de aplicativos e serviços de inteligência artificial. Os modelos de linguagem como o Claude Fable 5 e o Mythos 5 utilizam técnicas de aprendizado de máquina para gerar texto que parece ter sido escrito por humanos, e podem ser usados para uma variedade de tarefas, desde a criação de conteúdo até a tradução automática. Com a remoção das restrições de exportação, esses modelos podem ser utilizados por mais pessoas e organizações, o que pode levar a avanços significativos na área de inteligência artificial.",
+      "en": "The US Department of Commerce has lifted export controls on the Claude Fable 5 and Mythos 5 language models, meaning these models can now be shared and used by more people and organizations in different countries. This matters because these language models are powerful tools for processing and generating text, and their availability can have a significant impact on the development of artificial intelligence applications and services. Language models like Claude Fable 5 and Mythos 5 use machine learning techniques to generate text that appears to be written by humans, and can be used for a range of tasks, from content creation to automated translation. With the removal of export controls, these models can be used by more people and organizations, which may lead to significant advances in the field of artificial intelligence.",
+      "score": 0.7077
+    },
+    {
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A equipe da IBM Research lançou o ScarfBench, uma ferramenta de benchmarking para avaliar a eficácia de agentes de inteligência artificial em migrações de frameworks Java para empresas, o que é importante porque ajuda as empresas a tomar decisões informadas sobre a adoção de tecnologias de IA. O ScarfBench permite que os desenvolvedores compararem diferentes abordagens de migração e escolham a melhor opção para suas necessidades específicas, considerando fatores como desempenho e escalabilidade. Isso é particularmente útil para empresas que dependem de aplicativos Java e precisam migrar para novas tecnologias, pois podem avaliar a eficácia de diferentes agentes de IA nesse processo. A ferramenta fornece uma abordagem sistemática para avaliar a eficácia dos agentes de IA em migrações de frameworks Java.",
+      "en": "The IBM Research team has released ScarfBench, a benchmarking tool to evaluate the effectiveness of artificial intelligence agents in migrating Java frameworks for enterprises, which matters because it helps companies make informed decisions about adopting AI technologies. ScarfBench allows developers to compare different migration approaches and choose the best option for their specific needs, considering factors such as performance and scalability. This is particularly useful for companies that rely on Java applications and need to migrate to new technologies, as they can assess the effectiveness of different AI agents in this process. The tool provides a systematic approach to evaluating the effectiveness of AI agents in Java framework migrations.",
+      "score": 0.4161
+    },
+    {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Aconteceu o lançamento de um novo domínio de topo, chamado .self, projetado para apoiar o auto-hospedagem de sites e serviços, o que permite que os usuários tenham mais controle sobre seus dados e conteúdo online. Isso é importante porque a auto-hospedagem pode ser uma forma de aumentar a privacidade e a segurança na internet, pois os dados não são armazenados em servidores de terceiros. O domínio .self foi criado com o objetivo de promover uma abordagem mais humana e descentralizada na internet, onde os usuários têm mais autonomia sobre suas informações. Com essa iniciativa, os desenvolvedores esperam incentivar a criação de comunidades online mais seguras e transparentes.",
+      "en": "A new top-level domain, called .self, has been launched to support self-hosting of websites and services, allowing users to have more control over their online data and content. This matters because self-hosting can be a way to increase privacy and security on the internet, as data is not stored on third-party servers. The .self domain was created with the goal of promoting a more human-centered and decentralized approach to the internet, where users have more autonomy over their information. With this initiative, developers hope to encourage the creation of more secure and transparent online communities.",
+      "score": 0.6974
+    },
+    {
+      "title": "European digital ID wallets rely on safety services of Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A União Europeia está desenvolvendo carteiras de identificação digital, que dependem dos serviços de segurança da Google e da Apple, o que pode ser um problema, pois essas empresas são baseadas nos Estados Unidos e estão sujeitas a leis de vigilância de dados, como o Cloud Act, que podem comprometer a privacidade dos cidadãos europeus, portanto, é importante considerar a segurança e a privacidade desses serviços, pois a segurança da informação é um conceito que se refere à proteção de dados contra acessos não autorizados, uso indevido ou outras ameaças, e é fundamental para garantir a confiança nos serviços digitais.",
+      "en": "The European Union is developing digital ID wallets, which rely on the safety services of Google and Apple, a situation that may pose a problem, as these companies are based in the United States and are subject to data surveillance laws, such as the Cloud Act, which can compromise the privacy of European citizens, therefore, it is essential to consider the security and privacy of these services, as information security is a concept that refers to the protection of data against unauthorized access, misuse, or other threats, and is crucial for ensuring trust in digital services.",
+      "score": 0.6764
+    },
+    {
+      "title": "The US ambassador had Belgian police stop our reporting",
+      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A embaixadora dos EUA ordenou que a polícia belga interrompesse nossa reportagem, o que levanta questões sobre a liberdade de imprensa e a influência diplomática. Isso aconteceu porque a embaixadora queria evitar que informações confidenciais fossem divulgadas, mas a ação também pode ser vista como uma tentativa de censurar a imprensa. A liberdade de imprensa é um direito fundamental que permite aos jornalistas investigar e relatar fatos sem interferência, sendo essencial para a democracia. A ação da embaixadora pode ter implicações significativas para a relação entre a imprensa e os governos.",
+      "en": "The US ambassador had Belgian police stop our reporting, which raises questions about press freedom and diplomatic influence. This happened because the ambassador wanted to prevent confidential information from being disclosed, but the action can also be seen as an attempt to censor the press. Press freedom is a fundamental right that allows journalists to investigate and report facts without interference, and it is essential for democracy. The ambassador's action may have significant implications for the relationship between the press and governments.",
+      "score": 0.6742
+    },
+    {
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Rogue Amoeba lançou uma iniciativa chamada Free the Icons, que visa tornar ícones de aplicativos mais acessíveis e personalizáveis. Isso é importante porque os ícones são uma parte fundamental da experiência do usuário em sistemas operacionais, e a capacidade de personalizá-los pode melhorar a usabilidade e a acessibilidade. A iniciativa busca fornecer ícones de alta qualidade e personalizáveis para que os desenvolvedores possam usá-los em seus aplicativos, tornando-os mais atraentes e fáceis de usar. Com isso, os usuários podem ter uma experiência mais personalizada e agradável ao usar seus dispositivos.",
+      "en": "Rogue Amoeba has launched an initiative called Free the Icons, which aims to make application icons more accessible and customizable. This matters because icons are a fundamental part of the user experience in operating systems, and the ability to customize them can improve usability and accessibility. The initiative provides high quality, customizable icons for developers to use in their applications, making them more visually appealing and easier to use. By doing so, users can have a more personalized and enjoyable experience when using their devices.",
+      "score": 0.5541
+    },
+    {
+      "title": "What Leaves When an Engineer Leaves",
+      "url": "https://dev.to/uigerhana/what-leaves-when-an-engineer-leaves-di7",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um engenheiro sênior deixa a equipe após seis anos, levando consigo conhecimento valioso sobre o sistema de reconciliação de faturamento que projetou, incluindo o modelo de consistência escolhido e as exceções negociadas para manter um grande cliente, o que pode ser um desafio para a equipe que fica, pois essas decisões, embora documentadas, podem não ser totalmente compreendidas sem a explicação do engenheiro que as tomou. Isso ocorre porque a documentação de engenharia, apesar de ser completa, pode não capturar totally a lógica por trás das decisões, como por exemplo, o motivo pelo qual um trabalho noturno tenta novamente exatamente quatro vezes e não três ou cinco. A equipe restante precisa entender essas decisões para manter o sistema funcionando corretamente. A saída de um engenheiro experiente pode ter um impacto significativo na equipe, pois o conhecimento tácito que ele possuía pode ser perdido.",
+      "en": "A senior engineer leaves a team after six years, taking valuable knowledge about the billing reconciliation system she designed, including the chosen consistency model and negotiated exceptions to keep a large customer, which can be a challenge for the remaining team, as these decisions, although documented, may not be fully understood without the engineer's explanation. This happens because engineering documentation, although complete, may not fully capture the logic behind the decisions, such as why a nightly job retries exactly four times and not three or five. The remaining team needs to understand these decisions to keep the system working correctly. The departure of an experienced engineer can have a significant impact on the team, as the tacit knowledge she possessed may be lost.",
+      "score": 0.3992
+    },
+    {
+      "title": "Impressions from visiting OpenAI, Anthropic, & Cursor",
+      "url": "https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
+      "source": "The Pragmatic Engineer",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um visitante teve a oportunidade de conhecer os laboratórios de inteligência artificial da OpenAI, Anthropic e Cursor, oferecendo uma visão sobre o futuro da engenharia de software. Essa visita revelou que agentes executando na nuvem são uma tendência significativa, enquanto as ferramentas de codificação estão se espalhando além da simples codificação. Isso sugere que o setor está se movendo em direção a uma abordagem mais integrada e automatizada. Com a crescente importância da inteligência artificial, essas tendências podem ter um impacto profundo no desenvolvimento de software.",
+      "en": "Recently, a visitor had the opportunity to tour the artificial intelligence labs of OpenAI, Anthropic, and Cursor, providing insight into the future of software engineering. This visit revealed that cloud-based agents are a major trend, while coding tools are spreading beyond mere coding. This suggests that the industry is moving towards a more integrated and automated approach, with coding tools being used to streamline development processes. With the growing importance of artificial intelligence, these trends may have a profound impact on software development.",
+      "score": 0.364
+    },
+    {
+      "title": "Mastering the Pomodoro Technique and Time-Blocking for Remote Work",
+      "url": "https://dev.to/_606814433ed422522fed/mastering-the-pomodoro-technique-and-time-blocking-for-remote-work-1o0",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, trabalhar de forma remota tornou-se comum, e com ele, os desafios de manter a produtividade em um ambiente repleto de distrações. Para superar esses obstáculos, dominar a Técnica Pomodoro e o bloqueio de tempo é fundamental, pois esses métodos permitem que você estruture seu dia de trabalho de forma eficaz, alternando períodos de trabalho focado com pausas regulares, o que ajuda a prevenir a exaustão. A Técnica Pomodoro, criada por Francesco Cirillo, consiste em trabalhar em intervalos de 25 minutos, seguidos de uma pausa de cinco minutos, enquanto o bloqueio de tempo envolve dividir o dia em blocos dedicados a tarefas específicas. Isso permite um fluxo de trabalho equilibrado e aumenta a produtividade.",
+      "en": "Recently, remote work has become prevalent, and with it, the challenges of maintaining productivity in a distraction-filled environment. To overcome these obstacles, mastering the Pomodoro Technique and time-blocking is essential, as these methods allow you to structure your workday effectively, alternating focused work periods with regular breaks, which helps prevent burnout. The Pomodoro Technique, created by Francesco Cirillo, consists of working in 25-minute intervals, followed by a five-minute break, while time-blocking involves dividing the day into blocks dedicated to specific tasks. This allows for a balanced workflow and increased productivity.",
+      "score": 0.3491
+    },
+    {
+      "title": "How US Companies Actually Contract With Developers Outside the US",
+      "url": "https://dev.to/czechdevusa/how-us-companies-actually-contract-with-developers-outside-the-us-1pp2",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, empresas nos EUA têm contratado desenvolvedores fora do país, mas o processo de contratação pode ser complicado devido às diferenças nas leis e regulamentações. Isso ocorre porque as empresas americanas geralmente buscam a configuração mais simples possível para contratar freelancers, o que pode incluir um acordo direto com o desenvolvedor, onde ele emite uma fatura e a empresa paga em condições de net terms, com mínimo de papelada extra ou retenção de impostos. É importante entender como isso funciona, pois pode ser diferente do que os desenvolvedores estão acostumados com clientes ou agências locais. A falta de conhecimento sobre esses processos pode ser um obstáculo para candidatos fortes.",
+      "en": "Recently, US companies have been hiring developers outside of the country, but the contracting process can be complicated due to differences in laws and regulations. This happens because US companies usually seek the simplest possible setup to hire freelancers, which can include a direct agreement with the developer, where they invoice the company and it pays on net terms, with minimal extra paperwork or tax withholding. It is essential to understand how this works, as it can be different from what developers are used to with local clients or agencies. A lack of knowledge about these processes can be a hurdle for strong candidates.",
+      "score": 0.349
+    },
+    {
+      "title": "FaceMoE: Mixture of Experts for Low-Resolution Face Recognition",
+      "url": "https://arxiv.org/abs/2606.32040v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores propuseram o FaceMoE, uma arquitetura de transformador baseada em Mixture of Experts (MoE) para reconhecimento facial de baixa resolução, um desafio devido à extração e agregação de recursos pobres, e à lacuna entre imagens de alta e baixa resolução. O FaceMoE é projetado para superar esses desafios, utilizando múltiplas redes especializadas para melhorar a precisão do reconhecimento facial. Isso é importante porque o reconhecimento facial de baixa resolução é uma tarefa fundamental em muitas aplicações de segurança e vigilância. A abordagem MoE permite que o modelo se adapte a diferentes domínios e resoluções, melhorando a eficácia do reconhecimento facial.",
+      "en": "Researchers have proposed FaceMoE, a transformer architecture based on Mixture of Experts (MoE) for low-resolution face recognition, a challenge due to poor feature extraction and aggregation, and the gap between high and low-resolution images. FaceMoE is designed to overcome these challenges by using multiple specialized networks to improve the accuracy of face recognition. This matters because low-resolution face recognition is a fundamental task in many security and surveillance applications. The MoE approach allows the model to adapt to different domains and resolutions, improving the effectiveness of face recognition.",
+      "score": 0.4651
+    },
+    {
+      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2606.32034v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram o QVal, uma abordagem para avaliar sinais de supervisão densa para agentes de modelo de linguagem longa (LLM) que atuam em horizontes longos, onde uma única trajetória pode conter centenas ou milhares de ações. Isso é importante porque, nesses contextos, recompensas baseadas apenas nos resultados são muito esparsas e não fornecem informações sobre a qualidade das ações intermediárias. O QVal permite avaliar a qualidade dos sinais de supervisão de forma barata e direta, sem a necessidade de integrá-los a um pipeline de treinamento, o que é comum na prática atual. Isso facilita a comparação de diferentes métodos de supervisão densa, que antes eram difíceis de comparar devido às variadas configurações de treinamento necessárias.",
+      "en": "Researchers have introduced QVal, an approach to evaluating dense supervision signals for long-horizon language model (LLM) agents, which operate over long periods where a single trajectory can contain hundreds or thousands of actions. This matters because, in these contexts, outcome-only rewards are too sparse and do not provide information about the quality of intermediate actions. QVal allows for the cheap and direct evaluation of supervision signal quality, without the need to integrate them into a training pipeline, which is common current practice. This facilitates the comparison of different dense supervision methods, which were previously difficult to compare due to the varying training setups required.",
+      "score": 0.4651
+    },
+    {
+      "title": "FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning",
+      "url": "https://arxiv.org/abs/2606.32016v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram o FedLAB, uma abordagem inovadora para aprendizado de fundações de grafos multimodais federados, que visa aprender conhecimento reutilizável de grafos enriquecidos com texto, imagens, atributos e topologia relacional. Isso é importante porque, na prática, esses grafos multimodais estão frequentemente distribuídos em clientes descentralizados, onde os conteúdos brutos e estruturas locais não podem ser compartilhados centralmente devido a restrições de privacidade. O FedLAB permite a aprendizagem de representações transferíveis e a rastreabilidade semântica intrínseca, o que é fundamental para o aprendizado de fundações de grafos federados.",
+      "en": "Researchers have introduced FedLAB, a novel approach to federated multimodal graph foundation learning, which aims to learn reusable knowledge from graphs enriched with text, images, attributes, and relational topology. This matters because, in practice, such multimodal graphs are often distributed across decentralized clients, where raw contents and local structures cannot be centrally shared due to privacy constraints. FedLAB enables the learning of transferable representations and intrinsic semantic traceability, which is crucial for federated graph foundation learning.",
+      "score": 0.4647
+    },
+    {
+      "title": "CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation",
+      "url": "https://arxiv.org/abs/2606.32012v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um grupo de pesquisadores propôs o CoMet, um método para estimar a incerteza em modelos de linguagem multimodais grandes (MLLMs), que é um desafio de longa data na área de inteligência artificial, pois envolve \"saber o que você não sabe\". A incerteza em MLLMs pode surgir de diversas fontes e relações entre elas, e o CoMet aborda isso decompondo a incerteza em dois termos: um específico do contexto e outro específico da multiplicidade, capturando a ambiguidade induzida pelo contexto e a incerteza decorrente da variedade de respostas possíveis. Isso é importante porque a estimativa de incerteza é fundamental para que os modelos de inteligência artificial sejam confiáveis e transparentes. Com o CoMet, os pesquisadores buscam avançar na resolução desse desafio.",
+      "en": "Researchers have proposed CoMet, a method for estimating uncertainty in multimodal large language models (MLLMs), a long-standing challenge in artificial intelligence that boils down to \"knowing what you don't know\". Uncertainty in MLLMs can arise from various sources and relationships between them, and CoMet addresses this by decomposing uncertainty into two terms: a context-specific term and a multiplicity-specific term, capturing the ambiguity induced by the given context and the uncertainty stemming from the variety of possible responses. This matters because uncertainty estimation is crucial for artificial intelligence models to be reliable and transparent. With CoMet, researchers aim to advance the resolution of this challenge, which is essential for building trust in AI systems.",
+      "score": 0.4647
+    },
+    {
+      "title": "lycorp-jp/sim-use",
+      "url": "https://github.com/lycorp-jp/sim-use",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto no GitHub, chamado sim-use, permite que agentes de inteligência artificial sejam equipados com \"olhos\" e \"mãos\" virtuais em simuladores de iOS e emuladores/dispositivos Android, o que pode revolucionar a forma como os desenvolvedores testam e aprimoram seus modelos de AI. Isso ocorre porque os desenvolvedores podem agora simular interações humanas de forma mais realista, permitindo que os agentes de AI aprendam e se adaptem de maneira mais eficaz. O projeto sim-use é uma ferramenta poderosa para qualquer um que queira criar modelos de AI mais avançados e realistas. Com essa tecnologia, os desenvolvedores podem criar agentes de AI que interajam com ambientes virtuais de forma mais humana.",
+      "en": "A new project on GitHub, called sim-use, allows artificial intelligence agents to be equipped with virtual \"eyes\" and \"hands\" on iOS simulators and Android emulators/devices, which can revolutionize the way developers test and improve their AI models. This happens because developers can now simulate human interactions in a more realistic way, allowing AI agents to learn and adapt more effectively. The sim-use project is a powerful tool for anyone looking to create more advanced and realistic AI models, as it enables developers to create AI agents that interact with virtual environments in a more human-like way. With this technology, developers can build AI agents that engage with virtual spaces in a more natural and intuitive manner.",
+      "score": 0.6466
+    },
+    {
+      "title": "diinki/linux-antiquity",
+      "url": "https://github.com/diinki/linux-antiquity",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um tema Linux de grande elegância, chamado linux-antiquity, foi criado, inspirado no estilo art-nouveau e em desenhos antigos relacionados à astronomia, ciência e mitologia, o que pode ser útil para usuários que desejam personalizar sua interface de usuário com um visual único. Isso importa porque oferece uma alternativa estética atraente para os ambientes de trabalho padrão. O tema foi disponibilizado no GitHub, permitindo que os desenvolvedores e usuários o acessem e o modifiquem. Com isso, os usuários podem criar um ambiente de trabalho personalizado que combine funcionalidade com estética.",
+      "en": "A highly tasteful Linux theme, called linux-antiquity, has been created, inspired by the art-nouveau style and old drawings related to astronomy, science, and mythology, which can be useful for users who want to customize their user interface with a unique look. This matters because it provides an attractive aesthetic alternative to standard workspace environments. The theme was made available on GitHub, allowing developers and users to access and modify it. With this, users can create a customized workspace that combines functionality with aesthetics.",
+      "score": 0.6228
+    },
+    {
+      "title": "wlzh/dji-4g-vohive-mac",
+      "url": "https://github.com/wlzh/dji-4g-vohive-mac",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado dji-4g-vohive-mac demonstra como executar uma máquina virtual Linux no Mac, utilizando a tecnologia UTM, e emular um módulo 4G da DJI como se fosse um módulo Quectel EC25, permitindo a implantação da plataforma vohive. Isso é possível devido à capacidade da UTM, que significa Virtualização de Tempo de Usuário, uma tecnologia que permite a execução de sistemas operacionais convidados no Mac. O projeto fornece etapas detalhadas para realizar essa tarefa, tanto para processadores Apple Silicon quanto Intel. A emulação do módulo DJI pode ser útil para desenvolvedores que precisam testar a compatibilidade de dispositivos com a plataforma vohive.",
+      "en": "A GitHub project called dji-4g-vohive-mac shows how to run a Linux virtual machine on a Mac, using UTM technology, which stands for User Mode Translation, a technology that allows guest operating systems to run on the Mac, and emulate a DJI 4G module as if it were a Quectel EC25 module, enabling the deployment of the vohive platform. This is made possible by UTM, which allows for the execution of guest operating systems on the Mac. The project provides detailed steps to accomplish this task, for both Apple Silicon and Intel processors. Emulating the DJI module can be useful for developers who need to test device compatibility with the vohive platform.",
+      "score": 0.605
+    }
+  ]
+}
