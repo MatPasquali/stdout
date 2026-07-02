@@ -1,0 +1,226 @@
+{
+  "date": "2026-07-02",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Android Developer Verification: Threat masquerading as Protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um relatório recente destacou uma ameaça em que aplicativos mal-intencionados estão se disfarçando de proteção para os desenvolvedores de Android, o que pode ter implicações significativas para a segurança dos dispositivos móveis. Isso ocorre porque esses aplicativos podem solicitar permissões excessivas, permitindo que os atacantes acessem dados sensíveis. A verificação de desenvolvedores de Android é um processo que visa garantir a autenticidade dos aplicativos, mas nesse caso, está sendo usada de forma maliciosa. Os usuários devem estar cientes dessas ameaças e tomar medidas para proteger seus dispositivos.",
+      "en": "A recent report highlighted a threat where malicious apps are masquerading as protection for Android developers, which can have significant implications for mobile device security. This occurs because these apps can request excessive permissions, allowing attackers to access sensitive data. Android developer verification is a process intended to ensure the authenticity of apps, but in this case, it is being used in a malicious manner. Users should be aware of these threats and take steps to protect their devices.",
+      "score": 0.7823
+    },
+    {
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Uma equipe de cientistas conseguiu construir uma célula a partir do zero, que posteriormente cresceu e se dividiu, um marco importante na biologia sintética. Isso é notável porque as células são as unidades básicas da vida, e a capacidade de construí-las do zero pode levar a avanços significativos na medicina e na biotecnologia. A biologia sintética é um campo que busca projetar e construir sistemas biológicos, como células, para realizar funções específicas. Essa conquista abre caminho para pesquisas mais avançadas sobre o funcionamento das células e como elas podem ser manipuladas para benefícios terapêuticos.",
+      "en": "A team of scientists has successfully built a cell from scratch, which then grew and divided, a major milestone in synthetic biology. This is significant because cells are the basic units of life, and the ability to build them from the ground up could lead to major advances in medicine and biotechnology. Synthetic biology is a field that seeks to design and build biological systems, such as cells, to perform specific functions. This achievement paves the way for more advanced research into how cells work and how they can be manipulated for therapeutic benefits.",
+      "score": 0.7576
+    },
+    {
+      "title": "tryOpenRAM/OpenRAM",
+      "url": "https://github.com/tryOpenRAM/OpenRAM",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Uma plataforma chamada OpenRAM foi lançada no GitHub, permitindo que os usuários aluguem GPUs e executem qualquer modelo de inteligência artificial, pagando em SOL, uma criptomoeda. Isso é notável porque permite que os usuários comprem serviços com $RAM, uma unidade de conta, e todo $RAM gasto é removido de circulação. Essa abordagem é interessante pois combina a computação de alto desempenho com a economia de criptomoedas. A plataforma pode ser útil para desenvolvedores que precisam de recursos de processamento intensivo para treinar modelos de inteligência artificial.",
+      "en": "A platform called OpenRAM has been launched on GitHub, allowing users to rent GPUs and run any artificial intelligence model, paying in SOL, a cryptocurrency. This is noteworthy because it enables users to buy services with $RAM, a unit of account, and every $RAM spent is removed from circulation. This approach is interesting as it combines high-performance computing with cryptocurrency economics. The platform may be useful for developers who need intensive processing resources to train artificial intelligence models.",
+      "score": 0.7072
+    },
+    {
+      "title": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem de última geração, chamado GLM-5.2, foi disponibilizado no Hugging Face, uma plataforma popular para compartilhar e descobrir modelos de aprendizado de máquina, e isso importa porque representa um avanço significativo na tarefa de geração de texto, permitindo que os usuários gerem textos coerentes e naturais. O modelo GLM-5.2, que já obteve 3212 likes e 176154 downloads, é um exemplo de como a inteligência artificial pode ser aplicada para melhorar a comunicação humana. A geração de texto é uma tarefa complexa que envolve a capacidade de entender o contexto e produzir textos que sejam gramaticalmente corretos e semanticamente coerentes. Isso é alcançado por meio de algoritmos de aprendizado de máquina que são treinados em grandes conjuntos de dados textuais.",
+      "en": "A state-of-the-art language model, called GLM-5.2, has been made available on Hugging Face, a popular platform for sharing and discovering machine learning models, and this matters because it represents a significant advancement in the task of text generation, allowing users to generate coherent and natural texts. The GLM-5.2 model, which has already received 3212 likes and 176154 downloads, is an example of how artificial intelligence can be applied to improve human communication. Text generation is a complex task that involves the ability to understand context and produce texts that are grammatically correct and semantically coherent, achieved through machine learning algorithms trained on large datasets of text. This development has the potential to impact various applications, from chatbots to language translation systems.",
+      "score": 0.6
+    },
+    {
+      "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF foi disponibilizado no Hugging Face, uma plataforma popular para compartilhar e descobrir modelos de aprendizado de máquina, e isso é importante porque pode ser usado para gerar texto de forma autônoma, o que pode ser útil em uma variedade de aplicações, como criação de conteúdo e resumo de textos. O modelo já recebeu 937 likes e foi baixado 314374 vezes, o que indica seu potencial e utilidade. O modelo em questão é um exemplo de um modelo de geração de texto, que é uma tarefa que envolve a criação de texto a partir de uma entrada, seja ela um prompt ou um conjunto de dados. Isso é feito por meio de técnicas de processamento de linguagem natural, que permitem que os modelos de inteligência artificial entendam e gerem texto de forma semelhante à humana.",
+      "en": "A artificial intelligence model called gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF has been made available on Hugging Face, a popular platform for sharing and discovering machine learning models, and this matters because it can be used to generate text autonomously, which can be useful in a variety of applications, such as content creation and text summarization. The model has already received 937 likes and been downloaded 314374 times, indicating its potential and usefulness. The model in question is an example of a text generation model, which is a task that involves creating text from an input, whether it be a prompt or a dataset. This is done through natural language processing techniques, which allow artificial intelligence models to understand and generate text in a way similar to humans.",
+      "score": 0.5238
+    },
+    {
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Um startup desenvolveu uma solução para o problema de pensamento grupal da inteligência artificial, que ocorre quando modelos de linguagem grande escala, como LLMs, tendem a produzir respostas muito semelhantes devido à sua formação em grandes conjuntos de dados. Isso é importante porque a capacidade de pensar de forma independente é crucial para o desenvolvimento de sistemas de IA mais avançados. A startup está tentando resolver esse problema, permitindo que os modelos de linguagem sejam mais criativos e menos propensos a seguir a opinião da maioria. Essa abordagem pode levar a avanços significativos na área de inteligência artificial.",
+      "en": "A startup has developed a solution for the groupthink problem in artificial intelligence, which occurs when large language models, such as LLMs, tend to produce very similar responses due to their training on large datasets. This matters because the ability to think independently is crucial for the development of more advanced AI systems. The startup is trying to address this issue, allowing language models to be more creative and less likely to follow the majority opinion. This approach may lead to significant advancements in the field of artificial intelligence.",
+      "score": 0.3987
+    },
+    {
+      "title": "AI Slop impacta mundo dos games e gera reação",
+      "url": "https://tecnoblog.net/noticias/ai-slop-impacta-mundo-dos-games-e-gera-reacao/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Uma recente onda de utilização de inteligência artificial para gerar códigos de jogos está causando impacto no mundo dos games, levando a plataforma open source Godot a considerar a proibição de códigos gerados com essa tecnologia, pois isso pode afetar a autenticidade e a criatividade dos jogos. Isso acontece porque a inteligência artificial, que é um conjunto de algoritmos capazes de realizar tarefas que normalmente exigem inteligência humana, como aprender e resolver problemas, pode ser usada para gerar códigos de forma rápida e eficiente, mas sem a criatividade e a personalidade de um desenvolvedor humano. A comunidade de desenvolvedores de jogos está reagindo a essa tendência, pois ela pode mudar a forma como os jogos são criados e distribuídos. A proibição de códigos gerados com inteligência artificial pela plataforma Godot pode ser um passo importante para garantir a qualidade e a originalidade dos jogos.",
+      "en": "A recent wave of using artificial intelligence to generate game codes is impacting the world of games, leading the open source platform Godot to consider banning codes generated with this technology, as it may affect the authenticity and creativity of games. This is happening because artificial intelligence, which is a set of algorithms capable of performing tasks that normally require human intelligence, such as learning and problem solving, can be used to generate codes quickly and efficiently, but without the creativity and personality of a human developer. The game development community is reacting to this trend, as it may change the way games are created and distributed. The ban on codes generated with artificial intelligence by the Godot platform may be an important step to ensure the quality and originality of games.",
+      "score": 0.3733
+    },
+    {
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Sony anunciou que a produção de discos físicos para novos jogos no PlayStation terminará em janeiro de 2028, o que marca uma mudança significativa na forma como os jogos são distribuídos e consumidos. Isso acontece porque a indústria de jogos eletrônicos está cada vez mais se movendo em direção a modelos de distribuição digital, que permitem aos jogadores baixar e acessar jogos diretamente em seus consoles, sem a necessidade de discos físicos. A Sony está fazendo essa mudança para se adaptar a essa tendência e reduzir os custos e o impacto ambiental associados à produção e distribuição de discos físicos. Essa decisão afetará apenas novos jogos, enquanto os jogos existentes continuarão a ser produzidos em discos físicos.",
+      "en": "Sony has announced that physical disc production for new games on the PlayStation will end in January 2028, marking a significant shift in how games are distributed and consumed. This comes as the video game industry is increasingly moving towards digital distribution models, which allow players to download and access games directly on their consoles, without the need for physical discs. Sony is making this change to adapt to this trend and reduce the costs and environmental impact associated with physical disc production and distribution. This decision will only affect new games, while existing games will continue to be produced on physical discs.",
+      "score": 0.7405
+    },
+    {
+      "title": "Most arguments are about ego, not ideas",
+      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um artigo recente publicado no site de Wangcong aponta que a maioria das discussões é motivada pelo ego, e não por ideias ou conceitos, o que é importante porque isso pode ajudar as pessoas a entenderem melhor as dinâmicas por trás de uma discussão. Isso ocorre porque, muitas vezes, as pessoas se concentram mais em defender sua própria visão do que em realmente ouvir e considerar os pontos de vista dos outros. Em outras palavras, o objetivo deixa de ser o intercâmbio de ideias e se torna uma questão de orgulho pessoal. Ao reconhecer esse padrão, podemos começar a abordar as discussões de uma maneira mais construtiva.",
+      "en": "A recent article on Wangcong's site points out that most arguments are driven by ego, rather than ideas or concepts, which matters because it can help people better understand the dynamics behind a discussion. This happens because people often focus more on defending their own view than on actually listening to and considering others' viewpoints. In other words, the goal shifts from being an exchange of ideas to being a matter of personal pride. By recognizing this pattern, we can start to approach discussions in a more constructive way.",
+      "score": 0.7389
+    },
+    {
+      "title": "Amazon faz promoção de Galaxy S25 Ultra: desconto de R$ 1.109 na versão de 256GB",
+      "url": "https://canaltech.com.br/smartphone/amazon-faz-promocao-de-galaxy-s25-ultra-desconto-de-r-1109-na-versao-de-256gb/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Amazon está oferecendo uma promoção no Galaxy S25 Ultra, com um desconto de R$ 1.109 na versão de 256GB, que agora pode ser adquirida por R$ 4.439 à vista, desde que o pagamento seja feito via Pix. Isso representa uma redução significativa no preço original, tornando esse smartphone Android completo mais acessível. O Galaxy S25 Ultra é equipado com tela AMOLED de alta resolução, câmera principal de 200 MP, S Pen integrada e o processador Snapdragon 8 Elite for Galaxy, o que o torna um dos melhores smartphones da Samsung. Com essa oferta, os consumidores podem adquirir um dispositivo de alta qualidade por um preço mais baixo.",
+      "en": "Amazon is offering a promotion on the Galaxy S25 Ultra, with a discount of R$ 1,109 on the 256GB version, which can now be purchased for R$ 4,439 upfront, provided the payment is made via Pix. This represents a substantial reduction in the original price, making this complete Android smartphone more affordable. The Galaxy S25 Ultra is equipped with a high-resolution AMOLED display, a 200 MP primary camera, integrated S Pen, and the Snapdragon 8 Elite for Galaxy processor, making it one of Samsung's best smartphones. With this offer, consumers can purchase a high-quality device at a lower price.",
+      "score": 0.3993
+    },
+    {
+      "title": "Derreteu o preço: Monitor Gigabyte QHD com mais de 50% OFF no KaBuM!",
+      "url": "https://canaltech.com.br/hardware/derreteu-o-preco-monitor-gigabyte-qhd-com-mais-de-50-off-no-kabum/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um monitor de alta qualidade acaba de receber um desconto significativo: o Monitor Gamer Gigabyte 27 polegadas QHD, modelo GS27QA-AS, está sendo vendido com mais de 50% de desconto no site KaBuM!, o que é notável porque normalmente esses dispositivos são caros devido à sua capacidade de exibir imagens em alta resolução, como a resolução QHD, que significa Quad High Definition, ou seja, quatro vezes a resolução de um vídeo Full HD. Isso é importante para jogos competitivos, pois reduz atrasos e melhora a nitidez das imagens, melhorando o desempenho do jogador. O monitor em questão, que normalmente custa R$ 2.272,72, agora pode ser adquirido por menos da metade desse valor, desde que se utilize um cupom e se pague via PIX.",
+      "en": "A high-quality monitor has just received a significant discount: the Gigabyte 27-inch QHD Gaming Monitor, model GS27QA-AS, is being sold with over 50% off on the KaBuM! website, which is notable because such devices are usually expensive due to their ability to display high-resolution images, such as QHD resolution, which stands for Quad High Definition, meaning four times the resolution of a Full HD video. This is important for competitive gaming, as it reduces delays and improves image clarity, thus enhancing the player's performance. The monitor in question, which normally costs $2,272.72, can now be acquired for less than half that price, provided a coupon is used and payment is made via PIX.",
+      "score": 0.3986
+    },
+    {
+      "title": "How to Land a Forward-Deployed Engineer Role in AI (2026)",
+      "url": "https://dev.to/rishi_kora/how-to-land-a-forward-deployed-engineer-role-in-ai-2026-36n9",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma nova oportunidade de carreira em inteligência artificial (IA) está emergindo, com a função de engenheiro de implantação avançada (FDE), que combina conhecimentos de engenharia, operação e gestão de contas para garantir que os produtos de IA atendam às necessidades dos clientes. Essa função é crucial, pois envolve integrar o produto de IA dentro do ambiente do cliente, lidar com casos de bordo complexos e transformar problemas recorrentes em solicitações de recursos do produto. Isso exige uma combinação única de habilidades técnicas e de comunicação.",
+      "en": "A new career opportunity in artificial intelligence (AI) is emerging, with the role of a forward-deployed engineer (FDE), which combines engineering, operation, and account management skills to ensure AI products meet customer needs. This role is crucial, as it involves integrating the AI product within the customer's environment, handling complex edge cases, and turning recurring problems into product feature requests. It requires a unique combination of technical and communication skills, making it a challenging yet rewarding career path.",
+      "score": 0.3993
+    },
+    {
+      "title": "The whole PM craft, packed into ~68 skills, and the one that made me stop and look",
+      "url": "https://dev.to/yimtheppariyapol/the-whole-pm-craft-packed-into-68-skills-and-the-one-that-made-me-stop-and-look-47",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma plataforma chamada pm-skills foi criada por Pawel Huryn, autor da newsletter Product Compass, e reúne cerca de 68 habilidades para gestão de produtos em 9 plugins, abrangendo estratégia, descoberta, pesquisa de mercado e entrega de inteligência artificial. Cada habilidade é um framework nomeado e fonte, e não um mero prompt, permitindo que os gestores de produtos usem ferramentas práticas para melhorar seu trabalho. Isso é particularmente útil na era de código escrito por inteligência artificial, pois uma das habilidades audita a lacuna entre documentação e código. Essa abordagem sistemática pode ajudar os profissionais a aprimorar suas habilidades em gestão de produtos.",
+      "en": "A platform called pm-skills was created by Pawel Huryn, author of the Product Compass newsletter, and packs around 68 skills for product management into 9 plugins, covering strategy, discovery, market research, and AI shipping. Each skill is a named, sourced framework, and not just a loose prompt, allowing product managers to use practical tools to improve their work. This is particularly useful in the era of AI-written code, as one of the skills audits the gap between documentation and code. This systematic approach can help professionals improve their skills in product management.",
+      "score": 0.3992
+    },
+    {
+      "title": "The SaaS Behavior Modeling Project (CohortPace Focus)",
+      "url": "https://dev.to/hafsa_motiwala/the-saas-behavior-modeling-project-cohortpace-focus-25a4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Aconteceu um projeto de modelagem de comportamento de SaaS, conhecido como CohortPace, que busca entender os principais motivadores da Receita Recorrente Mensal (MRR) a longo prazo. Isso é importante porque as métricas tradicionais de usuários ativos podem ser enganosas e não refletir a real saúde de uma plataforma de SaaS. O projeto usou subconsultas avançadas do MySQL e junções relacionais para modelar transações de usuários em diferentes perfis comportamentais de SaaS. Os resultados mostraram um padrão estrutural fascinante que pode ajudar a prever a rotatividade de usuários.",
+      "en": "A SaaS behavior modeling project, known as CohortPace, was undertaken to understand the core drivers of long-term Monthly Recurring Revenue (MRR). This matters because traditional active-user metrics can be misleading and not reflect the true health of a SaaS platform. The project used advanced MySQL subqueries and relational joins to model user transactions across multiple SaaS behavioral profiles. The results revealed a fascinating structural pattern that can help predict user churn, which occurs when a user suddenly cancels their subscription despite appearing active beforehand.",
+      "score": 0.3972
+    },
+    {
+      "title": "today i realized: the hardest part of building in public",
+      "url": "https://dev.to/tarunai/today-i-realized-the-hardest-part-of-building-in-public-28ia",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um desenvolvedor recentemente compartilhou suas reflexões sobre o desafio de construir projetos em público, e o que mais importa não é a complexidade tecnológica, mas sim saber quando parar de falar. Isso ocorre porque muitas vezes os desenvolvedores esperam por permissão para compartilhar seus conhecimentos, quando na verdade ninguém lhes concede essa permissão, e é necessário começar a compartilhar, mesmo que de forma imperfeita, e melhorar com o tempo. Essa abordagem de começar a compartilhar, mesmo quando se sente constrangido, é fundamental para o crescimento e o aprendizado. Ao compartilhar suas experiências e conhecimentos, os desenvolvedores podem aprender e melhorar juntos.",
+      "en": "A developer recently shared their reflections on the challenge of building projects in public, and what matters most is not the technological complexity, but rather knowing when to stop talking. This occurs because many developers wait for permission to share their knowledge, when in fact no one grants them that permission, and it is necessary to start sharing, even if imperfectly, and improve over time. This approach of starting to share, even when feeling embarrassed, is crucial for growth and learning. By sharing their experiences and knowledge, developers can learn and improve together.",
+      "score": 0.3494
+    },
+    {
+      "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+      "url": "https://arxiv.org/abs/2607.01232v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Uma equipe de pesquisadores realizou um estudo sistemático sobre o treinamento de modelos de linguagem grande por reforço, e o que eles descobriram é surpreendente: treinar apenas uma camada de transformador pode ser suficiente para alcançar a maioria dos ganhos obtidos pelo treinamento completo de parâmetros, e em alguns casos, até superá-los. Isso é notável porque os modelos de linguagem grande normalmente têm muitas camadas, e o treinamento de todas elas pode ser computacionalmente caro. A equipe introduziu uma nova medida chamada contribuição da camada, que ajuda a quantificar a importância de cada camada no processo de treinamento.",
+      "en": "A team of researchers conducted a systematic study on the training of large language models by reinforcement learning, and what they found is surprising: training just one transformer layer can be enough to achieve most of the gains obtained by full parameter training, and in some cases even surpass it. This is notable because large language models typically have many layers, and training all of them can be computationally expensive. The team introduced a new measure called layer contribution, which helps quantify the importance of each layer in the training process.",
+      "score": 0.4662
+    },
+    {
+      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "url": "https://arxiv.org/abs/2607.01224v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram o AutoMem, uma abordagem que permite que modelos de linguagem grande aprendam a gerenciar sua memória como uma habilidade cognitiva, tornando mais eficiente o processo de aprendizado e tomada de decisões. Isso é importante porque a memória é uma habilidade aprendida que envolve saber o que codificar, quando recuperar e como organizar o conhecimento, conhecida como metamemória na ciência cognitiva. Com o AutoMem, os modelos podem decidir como gerenciar sua própria memória, melhorando sua capacidade de realizar tarefas de longo prazo. Isso é alcançado por meio da promoção de operações de sistema de arquivos a ações de memória de primeira classe, permitindo que o modelo aprenda a gerenciar sua memória de forma autônoma.",
+      "en": "Researchers have developed AutoMem, an approach that enables large language models to learn memory management as a cognitive skill, making the learning and decision-making process more efficient. This matters because memory is a learned skill that involves knowing what to encode, when to retrieve, and how to organize knowledge, known as metamemory in cognitive science. With AutoMem, models can decide how to manage their own memory, improving their ability to perform long-term tasks. This is achieved by promoting file-system operations to first-class memory actions, allowing the model to learn to manage its memory autonomously.",
+      "score": 0.4662
+    },
+    {
+      "title": "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
+      "url": "https://arxiv.org/abs/2607.01222v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram o Ink3D, uma nova abordagem para criar ativos 3D com texturas extremamente complexas, utilizando modelos generativos de vídeo, que são treinados em grandes conjuntos de dados e excelentemente modelam padrões visuais complexos. Isso é importante porque os modelos generativos 3D atuais têm dificuldade em reproduzir texturas intricadas de imagens de referência, devido à escassez de dados de treinamento 3D em grande escala com rica aparência de superfície. O Ink3D funciona reconstruindo uma geometria de malha branca usando um modelo de geração 3D padrão, e então emprega o OrbitPainter, um modelo generativo de vídeo condicional, para produzir vídeos de varredura orbital densos que capturam a aparência do objeto em diferentes pontos de vista. Essa abordagem permite a criação de texturas extremamente complexas para ativos 3D.",
+      "en": "Researchers have introduced Ink3D, a new approach to creating 3D assets with extremely complex textures, using video generative models that are trained on large datasets and excel at modeling complex visual patterns. This matters because current 3D generative models struggle to reproduce intricate textures from reference images, largely due to the scarcity of large-scale 3D training data with rich surface appearance. Ink3D works by first reconstructing a white-mesh geometry using an off-the-shelf 3D generation model, and then employing OrbitPainter, a conditional video generative model, to produce dense orbit-scan videos that capture object appearance across viewpoints. This approach enables the creation of extremely complex textures for 3D assets.",
+      "score": 0.4661
+    },
+    {
+      "title": "Quantum vs. Classical Machine Learning: A Unified Empirical Comparison",
+      "url": "https://arxiv.org/abs/2607.01197v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um estudo recente publicado no arXiv comparou o desempenho de modelos de aprendizado de máquina quântica (QML) e clássica, com o objetivo de avaliar as vantagens computacionais do paradigma quântico. Embora os resultados mostrem que os modelos QML não superam os baselines clássicos em termos de desempenho de previsão, estabilidade de políticas ou tempo de treinamento, a abordagem quântica ainda é promissora para filtrar ruídos e melhorar a precisão em certos contextos. A aprendizado de máquina quântica é uma área em desenvolvimento que busca explorar as propriedades únicas da computação quântica para melhorar a eficiência e a precisão dos algoritmos de aprendizado de máquina. Isso é importante porque pode levar a avanços significativos em áreas como a inteligência artificial e a análise de dados.",
+      "en": "A recent study published on arXiv compared the performance of quantum machine learning (QML) models and their classical counterparts, with the goal of assessing the computational advantages of the quantum paradigm. Although the results show that QML models do not surpass classical baselines in terms of prediction performance, policy stability, or training time, the quantum approach is still promising for filtering noise and improving accuracy in certain contexts. Quantum machine learning is a developing area that seeks to leverage the unique properties of quantum computing to improve the efficiency and accuracy of machine learning algorithms. This matters because it could lead to significant advances in areas such as artificial intelligence and data analysis.",
+      "score": 0.4654
+    },
+    {
+      "title": "aquace/CVE-2026-41940-PoC",
+      "url": "https://github.com/aquace/CVE-2026-41940-PoC",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um prova de conceito para a vulnerabilidade de bypass de autenticação CVE-2026-41940 foi disponibilizada no GitHub, o que é importante porque permite que desenvolvedores e pesquisadores de segurança entendam melhor a vulnerabilidade e como ela pode ser explorada, uma vulnerabilidade de bypass de autenticação ocorre quando um atacante pode contornar os mecanismos de segurança de um sistema sem fornecer as credenciais necessárias, isso pode ser feito por meio de várias técnicas, incluindo a exploração de falhas no código do sistema ou a utilização de métodos de engenharia social. A prova de conceito disponibilizada no GitHub fornece uma demonstração prática de como a vulnerabilidade pode ser explorada.",
+      "en": "A proof of concept for the CVE-2026-41940 authentication bypass vulnerability has been made available on GitHub, which matters because it allows developers and security researchers to better understand the vulnerability and how it can be exploited, an authentication bypass vulnerability occurs when an attacker can circumvent a system's security mechanisms without providing the necessary credentials, this can be done through various techniques, including exploiting flaws in the system's code or using social engineering methods. The proof of concept made available on GitHub provides a practical demonstration of how the vulnerability can be exploited.",
+      "score": 0.6184
+    },
+    {
+      "title": "Jia-Ethan/codex-keysmith",
+      "url": "https://github.com/Jia-Ethan/codex-keysmith",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto foi lançado no GitHub, chamado codex-keysmith, que permite a instalação de arquivos de instrução do Codex CLI para configuração local. Isso é importante porque facilita a personalização e a automação de tarefas para os usuários do Codex. O codex-keysmith é basicamente um instalador que ajuda a gerenciar arquivos de configuração, tornando mais fácil a utilização do Codex CLI. Com isso, os desenvolvedores podem se concentrar em criar soluções personalizadas sem se preocupar com a complexidade da configuração.",
+      "en": "A new project has been released on GitHub, called codex-keysmith, which allows for the installation of Codex CLI instruction files for local configuration. This matters because it simplifies customization and automation of tasks for Codex users. The codex-keysmith is essentially an installer that helps manage configuration files, making it easier to use the Codex CLI. With this, developers can focus on creating customized solutions without worrying about the complexity of configuration.",
+      "score": 0.585
+    },
+    {
+      "title": "Leron-X/leronx",
+      "url": "https://github.com/Leron-X/leronx",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo plataforma de geração de imagens e vídeos por inteligência artificial, chamada LeronX, foi lançada no GitHub, o que é importante porque oferece uma ferramenta acessível para desenvolvedores e pesquisadores trabalharem com geração de mídia por AI. A plataforma LeronX permite a criação de imagens e vídeos personalizados usando algoritmos de inteligência artificial, que são conjuntos de instruções que um computador pode executar para realizar tarefas específicas, como processamento de imagens. Isso pode ser útil para uma variedade de aplicações, desde a criação de conteúdo até a simulação de cenários. A plataforma é open source, o que significa que o código fonte está disponível para que qualquer pessoa possa visualizá-lo, modificá-lo e distribuí-lo.",
+      "en": "A new artificial intelligence image and video generation platform, called LeronX, has been launched on GitHub, which matters because it provides an accessible tool for developers and researchers to work with AI-generated media. The LeronX platform allows for the creation of customized images and videos using artificial intelligence algorithms, which are sets of instructions that a computer can execute to perform specific tasks, such as image processing. This can be useful for a range of applications, from content creation to scenario simulation. The platform is open source, meaning the source code is available for anyone to view, modify, and distribute.",
+      "score": 0.5611
+    }
+  ]
+}
