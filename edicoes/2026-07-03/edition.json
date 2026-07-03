@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-03",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "O governo da Espanha ordenou que empresas públicas e privadas não trabalhem com a Palantir, uma empresa de tecnologia dos Estados Unidos conhecida por seus serviços de análise de dados e inteligência artificial. Isso ocorre porque a Palantir tem sido associada a projetos de vigilância e coleta de dados, o que levanta preocupações sobre a privacidade e a segurança dos cidadãos. A decisão é importante porque afeta como as empresas lidam com a privacidade dos dados e a segurança da informação. A Palantir fornece ferramentas de análise de dados que podem ser usadas para monitorar e tracking de indivíduos, o que pode ser um problema para a privacidade.",
+      "en": "The Spanish government has ordered public and private companies to stop working with Palantir, a US tech company known for its data analysis and artificial intelligence services. This matters because Palantir has been linked to surveillance and data collection projects, which raises concerns about citizen privacy and security. The decision is significant because it affects how companies handle data privacy and information security. Palantir provides data analysis tools that can be used to monitor and track individuals, which can be a problem for privacy.",
+      "score": 0.7948
+    },
+    {
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Virgínia proibiu a venda de dados de geolocalização, o que significa que as empresas não podem mais vender informações sobre a localização física de indivíduos sem o seu consentimento. Isso é importante porque os dados de geolocalização podem ser usados para rastrear o movimento de pessoas e criar perfis detalhados de seus hábitos. A proibição foi estabelecida para proteger a privacidade dos cidadãos, pois os dados de geolocalização podem ser considerados sensíveis. A medida é um exemplo de como os governos estão começando a regular o uso de dados pessoais.",
+      "en": "Virginia has banned the sale of geolocation data, meaning companies can no longer sell information about an individual's physical location without their consent. This matters because geolocation data, which can be used to track a person's movement and create detailed profiles of their habits, is considered sensitive. The ban was established to protect citizens' privacy, as geolocation data can be used to infringe on a person's right to anonymity. The measure is an example of how governments are starting to regulate the use of personal data.",
+      "score": 0.7718
+    },
+    {
+      "title": "xuchonglang/xiaoyinsi-wiki",
+      "url": "https://github.com/xuchonglang/xiaoyinsi-wiki",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um repositório no GitHub chamado xiaoyinsi-wiki foi criado para fornecer um índice oficial e aberto de conhecimento sobre investimentos, incluindo ações americanas, opções e criptomoedas, o que é importante porque fornece uma estrutura de conhecimento para investidores. Isso significa que os investidores podem acessar informações valiosas sobre esses tópicos, desde conceitos básicos até estratégias avançadas. A criação desse repositório pode ser útil para aqueles que buscam entender melhor os mercados financeiros e como funcionam as criptomoedas. O repositório oferece uma abordagem didática para explicar termos técnicos e jargões financeiros, tornando-o acessível a leitores sem experiência prévia no assunto.",
+      "en": "A GitHub repository called xiaoyinsi-wiki has been created to provide an official and open index of knowledge about investments, including US stocks, options, and cryptocurrencies, which matters because it provides a knowledge framework for investors. This means that investors can access valuable information on these topics, ranging from basic concepts to advanced strategies. The creation of this repository can be useful for those seeking to better understand financial markets and how cryptocurrencies work. The repository offers a didactic approach to explaining technical terms and financial jargon, making it accessible to readers without prior experience in the subject.",
+      "score": 0.7671
+    },
+    {
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado Unlimited-OCR, desenvolvido pela Baidu, foi disponibilizado na plataforma Hugging Face, onde alcançou 1671 curtidas e 885040 downloads, o que é notável porque demonstra o interesse da comunidade em tecnologias de reconhecimento óptico de caracteres, que permitem extrair texto de imagens, um processo conhecido como image-text-to-text, que envolve a capacidade de um sistema entender e processar tanto imagens quanto texto. Isso é importante porque esse tipo de tecnologia pode ser usado em uma variedade de aplicações, desde a digitalização de documentos até a tradução automática de textos em imagens. O modelo Unlimited-OCR é um exemplo de como a inteligência artificial pode ser aplicada para melhorar a eficiência e a precisão nesses processos. Com isso, pesquisadores e desenvolvedores podem explorar novas possibilidades de uso dessa tecnologia.",
+      "en": "A notable artificial intelligence model called Unlimited-OCR, developed by Baidu, has been made available on the Hugging Face platform, where it has garnered 1671 likes and 885040 downloads, which is significant because it highlights the community's interest in optical character recognition technologies, which enable the extraction of text from images, a process known as image-text-to-text, that involves a system's ability to understand and process both images and text. This matters because such technology can be used in a range of applications, from document digitization to automatic translation of text within images. The Unlimited-OCR model is an example of how artificial intelligence can be applied to improve efficiency and accuracy in these processes. With this, researchers and developers can explore new possibilities for using this technology.",
+      "score": 0.6
+    },
+    {
+      "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem chamado Qwen-AgentWorld-35B-A3B foi disponibilizado no Hugging Face, uma plataforma de modelos de inteligencia artificial, e isso é importante porque esse modelo pode ser usado para gerar textos de maneira automática, o que pode ser útil para tarefas como criação de conteúdo e resumo de textos, o modelo já recebeu 518 likes e teve 45455 downloads, o que indica seu potencial e utilidade. O Qwen-AgentWorld-35B-A3B é um exemplo de modelo de text-generation, que é uma tarefa de processamento de linguagem natural que envolve a criação de textos a partir de um conjunto de dados de treinamento. Isso pode ser alcançado por meio de algoritmos complexos e técnicas de aprendizado de máquina.",
+      "en": "A language model called Qwen-AgentWorld-35B-A3B has been made available on Hugging Face, a platform for artificial intelligence models, and this matters because the model can be used to automatically generate text, which can be useful for tasks such as content creation and text summarization, the model has already received 518 likes and had 45455 downloads, which indicates its potential and usefulness. The Qwen-AgentWorld-35B-A3B is an example of a text-generation model, which is a natural language processing task that involves creating text from a set of training data. This can be achieved through complex algorithms and machine learning techniques.",
+      "score": 0.5212
+    },
+    {
+      "title": "nvidia/Qwen3.6-27B-NVFP4",
+      "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem de grande escala foi disponibilizado no Hugging Face, o que é importante porque isso pode melhorar a geração de texto em aplicações de inteligência artificial. O modelo, chamado Qwen3.6-27B-NVFP4, foi desenvolvido pela NVIDIA e já teve 218 curtidas e 94.465 downloads. Isso demonstra o interesse da comunidade em soluções de processamento de linguagem natural, que são capazes de entender e gerar texto de forma mais humana. O modelo usa uma arquitetura de rede neural para aprender padrões em grandes conjuntos de dados, o que permite melhorar a precisão da geração de texto.",
+      "en": "A large-scale language model has been made available on Hugging Face, which matters because it can improve text generation in artificial intelligence applications. The model, called Qwen3.6-27B-NVFP4, was developed by NVIDIA and has already received 218 likes and 94,465 downloads. This shows the community's interest in natural language processing solutions, which are able to understand and generate text in a more human-like way. The model uses a neural network architecture to learn patterns in large datasets, allowing it to improve the accuracy of text generation.",
+      "score": 0.4131
+    },
+    {
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Mark Zuckerberg informou aos funcionários que os agentes de inteligência artificial não progrediram tão rápido quanto ele havia esperado, o que é importante porque isso afeta o desenvolvimento de tecnologias avançadas na empresa Meta. Isso significa que os esforços para criar sistemas de inteligência artificial capazes de realizar tarefas complexas não estão avançando no ritmo desejado. A inteligência artificial, ou IA, refere-se a sistemas de computador projetados para realizar tarefas que normalmente exigiriam inteligência humana, como aprender, resolver problemas e entender linguagem. Essa notícia é relevante porque a Meta está investindo pesadamente em tecnologias de IA.",
+      "en": "Mark Zuckerberg told staff that AI agents have not progressed as quickly as he had hoped, which matters because it affects the development of advanced technologies at Meta. This means that efforts to create artificial intelligence systems capable of performing complex tasks are not moving at the desired pace. Artificial intelligence, or AI, refers to computer systems designed to perform tasks that would normally require human intelligence, such as learning, problem-solving, and understanding language. This news is relevant because Meta is heavily investing in AI technologies.",
+      "score": 0.3764
+    },
+    {
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "url": "https://github.com/Chocobozzz/PeerTube",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "O PeerTube, uma plataforma de videos descentralizada e federada, foi lançada como uma alternativa livre ao YouTube, permitindo que os usuários sejam donos de seus próprios dados e conteúdo. Isso importa porque muitas pessoas estão procurando por opções mais privadas e transparentes para compartilhar e assistir videos. PeerTube alcança isso por meio de uma rede de servidores interconectados, permitindo que os usuários criem suas próprias instâncias e sejam responsáveis por sua própria moderação de conteúdo. Com isso, o PeerTube oferece uma abordagem mais democrática e descentralizada para a hospedagem de videos.",
+      "en": "PeerTube, a decentralized and federated video platform, has been launched as a free alternative to YouTube, allowing users to own their own data and content. This matters because many people are looking for more private and transparent options for sharing and watching videos. PeerTube achieves this through a network of interconnected servers, allowing users to create their own instances and be responsible for their own content moderation. By doing so, PeerTube offers a more democratic and decentralized approach to video hosting.",
+      "score": 0.7324
+    },
+    {
+      "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+      "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um motorista da Tesla está enfrentando acusações de homicídio culposo devido a um acidente ocorrido no Texas, que resultou na morte de uma mulher dentro de sua própria casa, o que é um evento preocupante pois levanta questões sobre a segurança do sistema de direção autônoma da empresa, conhecido como Full-Self Driving (FSD), que é um sistema de tecnologia avançada que permite que os carros sejam operados sem a necessidade de intervenção humana, utilizando uma combinação de sensores e algoritmos para navegar pelas estradas. O caso é notável porque destaca os riscos potenciais associados à tecnologia de direção autônoma, que é uma área em rápida evolução, com muitas empresas, incluindo a Tesla, trabalhando para desenvolver veículos que possam operar de forma segura e eficaz sem a necessidade de um motorista. O sistema FSD da Tesla utiliza uma combinação de câmeras, radar e sensores ultrassônicos para detectar e responder ao ambiente ao seu redor, permitindo que o carro acelere, freie e vire automaticamente. O caso também levanta questões sobre a responsabilidade do motorista e do fabricante do veículo em acidentes envolvendo veículos autônomos.",
+      "en": "A Tesla driver is facing manslaughter charges over a crash in Texas that killed a woman inside her home, a concerning event that raises questions about the safety of the company's Full-Self Driving (FSD) system, an advanced technology that allows cars to be operated without human intervention, using a combination of sensors and algorithms to navigate roads. The case is notable because it highlights the potential risks associated with autonomous driving technology, a rapidly evolving field with many companies, including Tesla, working to develop vehicles that can operate safely and effectively without a driver. Tesla's FSD system uses a combination of cameras, radar, and ultrasonic sensors to detect and respond to its surroundings, allowing the car to accelerate, brake, and turn automatically. The case also raises questions about the responsibility of the driver and the vehicle manufacturer in accidents involving autonomous vehicles.",
+      "score": 0.3737
+    },
+    {
+      "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+      "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A IQM, a primeira empresa de quantum pública da Europa, admitiu que o futuro da tecnologia é incerto, o que é notável considerando que a empresa acaba de ser listada na Nasdaq com uma valorização de aproximadamente 1,9 bilhão de dólares. Isso ocorre porque a tecnologia quântica, que utiliza os princípios da mecânica quântica para processar informações, ainda está em estágios iniciais de desenvolvimento. A IQM, uma empresa finlandesa de pilha completa de quantum, reconhece as incertezas em torno da adoção e do impacto da tecnologia quântica. A valorização da empresa pode ser um indicador de que os investidores estão dispostos a apostar no potencial da tecnologia quântica.",
+      "en": "IQM, Europe's first public quantum company, has admitted that the future of the technology is uncertain, which is notable given that the company just listed on the Nasdaq at a valuation of approximately $1.9 billion. This is because quantum technology, which uses the principles of quantum mechanics to process information, is still in its early stages of development. IQM, a Finnish full-stack quantum company, recognizes the uncertainties surrounding the adoption and impact of quantum technology. The company's valuation may be an indicator that investors are willing to bet on the potential of quantum technology, which utilizes quantum mechanics principles to process information in ways that are different from classical computers.",
+      "score": 0.3711
+    },
+    {
+      "title": "Why California’s carbon manure math doesn’t add up",
+      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, um problema foi identificado nas políticas climáticas da Califórnia, que pagam aos agricultores de gado em todo o país para converter o metano emitido pelo esterco de gado em gás natural, incentivando o setor lácteo a produzir um gás que queimamos em vez de um que polui o ar. Isso se tornou muito popular devido ao potencial de reduzir as emissões de gases de efeito estufa, mas a matemática por trás desse sistema não está funcionando como esperado. O metano é um potente gás de efeito estufa, cerca de 28 vezes mais eficaz que o dióxido de carbono em armazenar calor na atmosfera, e a ideia era que a conversão em gás natural reduziria as emissões. No entanto, a eficácia desse sistema está sendo questionada devido a falhas nos cálculos de redução de carbono.",
+      "en": "Recently, a problem was identified in California's climate policies, which pay cattle farmers across the country to convert the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. This has become very popular due to its potential to reduce greenhouse gas emissions, but the math behind this system is not working as expected. Methane is a potent greenhouse gas, about 28 times more effective than carbon dioxide at trapping heat in the atmosphere, and the idea was that conversion to natural gas would reduce emissions. However, the effectiveness of this system is being questioned due to flaws in the carbon reduction calculations.",
+      "score": 0.3502
+    },
+    {
+      "title": "A quick reference for smartfundsph.click",
+      "url": "https://dev.to/lsvegas21/a-quick-reference-for-smartfundsphclick-nh1",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, uma referência rápida foi publicada para esclarecer dúvidas sobre smartfundsph.click, um tópico que tem sido amplamente discutido, mas pouco explorado de forma prática. Essa referência é útil porque fornece exemplos concretos, em vez de apenas apresentar definições. Isso é importante porque muitos artigos sobre smartfundsph.click não oferecem respostas claras para as perguntas práticas. A referência pode ser encontrada no link https://dev.to/lsvegas21/a-quick-reference-for-smartfundsphclick-nh1.",
+      "en": "Recently, a quick reference was published to clarify questions about smartfundsph.click, a topic that has been widely discussed, but little explored in a practical way. This reference is useful because it provides concrete examples, rather than just presenting definitions. This matters because many articles about smartfundsph.click do not offer clear answers to practical questions. The reference can be found at https://dev.to/lsvegas21/a-quick-reference-for-smartfundsphclick-nh1.",
+      "score": 0.4
+    },
+    {
+      "title": "Working notes — mexory.click",
+      "url": "https://dev.to/lsvegas21/working-notes-mexoryclick-3fk3",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um artigo no dev.to apresentou uma explicação detalhada sobre mexory.click, abordando casos de bordo e explicitando as compensações, o que facilita a reutilização do material em outros textos. Isso é importante porque a maioria das visões gerais sobre mexory.click apenas tocam as bases e pulam os detalhes operacionais. O artigo em questão, disponível no link https://dev.to/lsvegas21/working-notes-mexoryclick-3fk3, oferece uma visão mais aprofundada do assunto. Com isso, os leitores podem entender melhor como mexory.click funciona e como aplicar seus conceitos em diferentes contextos.",
+      "en": "Recently, an article on dev.to presented a detailed explanation of mexory.click, addressing edge cases and explicitly stating the trade-offs, which makes it easier to reuse the material in other write-ups. This is important because most overviews of mexory.click only touch on the basics and skip the operational details. The article in question, available at https://dev.to/lsvegas21/working-notes-mexoryclick-3fk3, provides a more in-depth view of the subject, allowing readers to better understand how mexory.click works and how to apply its concepts in different contexts. By doing so, it fills a gap in the existing literature on the topic.",
+      "score": 0.35
+    },
+    {
+      "title": "A short write-up on hamblink.click",
+      "url": "https://dev.to/lsvegas21/a-short-write-up-on-hamblinkclick-lc1",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um artigo recente foi publicado sobre hamblink.click, um recurso importante que muitas vezes é mencionado em discussões, mas cujos detalhes são frequentemente omitidos, o que torna essa cobertura útil, pois aborda restrições, armadilhas e exemplos práticos, fornecendo uma visão mais completa: os autores destacam que embora não seja perfeito, o artigo preenche lacunas em muitas visões gerais, como as restrições e as armadilhas que os desenvolvedores podem enfrentar. Isso é particularmente útil porque fornece uma visão mais clara do que os desenvolvedores podem esperar. O artigo está disponível em um link externo para quem quiser saber mais.",
+      "en": "A recent article was published about hamblink.click, an important feature that is often mentioned in discussions but whose details are frequently skipped, making this coverage useful as it addresses constraints, pitfalls, and practical examples, providing a more comprehensive view: the authors note that while it is not perfect, the article fills gaps in many overviews, such as the constraints and pitfalls that developers may encounter, which is particularly useful because it provides a clearer view of what developers can expect. The article is available at an external link for those who want to learn more.",
+      "score": 0.3497
+    },
+    {
+      "title": "Reading list: firosix.click",
+      "url": "https://dev.to/lsvegas21/reading-list-firosixclick-cik",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um artigo na plataforma dev.to abordou o tópico de firosix.click de uma maneira prática, o que é notável, pois muitos artigos sobre o assunto tendem a se limitar a definições genéricas. O que torna esse artigo útil é a sua abordagem baseada em exemplos concretos, permitindo uma compreensão mais profunda do tema. Isso é particularmente valioso, pois firosix.click é um tópico que pode ser complexo para iniciantes. A leitura desse artigo pode ser acessada através do link https://dev.to/lsvegas21/reading-list-firosixclick-cik.",
+      "en": "Recently, an article on the dev.to platform addressed the topic of firosix.click in a practical way, which is notable, since many articles on the subject tend to be limited to generic definitions. What makes this article useful is its approach based on concrete examples, allowing for a deeper understanding of the topic. This is particularly valuable, as firosix.click is a topic that can be complex for beginners. The article can be read through the link https://dev.to/lsvegas21/reading-list-firosixclick-cik.",
+      "score": 0.3495
+    },
+    {
+      "title": "Alignment Is All You Need For X-to-4D Generation",
+      "url": "https://arxiv.org/abs/2607.02516v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram um novo framework chamado Align4D, que permite a geração de vídeos e conteúdo 3D a partir de qualquer modalidade de entrada, como imagens ou textos, utilizando técnicas de alinhamento de distância de objetos e alinhamento de movimento e geometria, para criar pares de vídeos e 3D coerentes. Isso é importante porque a geração de conteúdo 4D é um desafio devido ao alto custo de construir conjuntos de dados diversificados e à limitada escalabilidade dos métodos existentes. O Align4D pode ser usado para criar vídeos e 3D personalizados com base em entradas arbitrárias, o que pode ter aplicações em áreas como cinema, jogos e realidade virtual. Com essa abordagem, os pesquisadores buscam resolver o problema da geração de conteúdo 4D de forma mais flexível e escalável.",
+      "en": "Researchers have introduced a new framework called Align4D, which enables the generation of videos and 3D content from any input modality, such as images or text, using techniques like object distance alignment and motion-geometry joint alignment, to create coherent video-3D pairs. This matters because 4D content generation is a challenge due to the high cost of constructing diverse datasets and the limited scalability of existing methods. Align4D can be used to create customized videos and 3D content based on arbitrary inputs, which may have applications in fields like film, games, and virtual reality. By taking this approach, researchers aim to address the 4D content generation problem in a more flexible and scalable way.",
+      "score": 0.4663
+    },
+    {
+      "title": "Distributed Attacks in Persistent-State AI Control",
+      "url": "https://arxiv.org/abs/2607.02514v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Uma nova pesquisa publicada no arXiv destaca a importância de considerar a segurança dos agentes de codificação de inteligência artificial (IA) que trabalham de forma autônoma e iterativa, pois eles podem criar um novo vetor de ataque: a distribuição de ataques ao longo do tempo e em diferentes solicitações de pull (PRs), aproveitando a persistência do código. Isso ocorre porque esses agentes podem manter um estado persistente entre as sessões, o que os torna vulneráveis a ataques mal-intencionados. A pesquisa apresenta o Iterative VibeCoding, um cenário de controle de IA que visa estudar a dinâmica desses ataques e como preveni-los. Os autores utilizam o Claude Sonnet 4.5 como agente de ataque e o GPT-4o como modelo de referência.",
+      "en": "A new study published on arXiv highlights the importance of considering the security of autonomous and iterative artificial intelligence (AI) coding agents, as they can create a new attack surface: distributing attacks over time and across multiple pull requests (PRs), leveraging the persistence of the code. This occurs because these agents can maintain a persistent state between sessions, making them vulnerable to malicious attacks. The research introduces Iterative VibeCoding, a setting for AI control that aims to study the dynamics of these attacks and how to prevent them. The authors use Claude Sonnet 4.5 as the attack agent and GPT-4o as the reference model, testing their approach on a range of tasks, including CLI tools and Flask web services.",
+      "score": 0.4663
+    },
+    {
+      "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "url": "https://arxiv.org/abs/2607.02513v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores criaram o LACUNA, uma plataforma de teste para avaliar a precisão da localização de dados em modelos de linguagem grande (LLM), que é crucial para o desaprendizado de informações sensíveis, como dados pessoais identificáveis (PII). Isso é importante porque os LLMs memorizam esses dados durante o treinamento, o que pode criar problemas de privacidade. O LACUNA é o primeiro teste a avaliar a localização de parâmetros em nível de modelo, em vez de apenas no nível de saída, permitindo uma compreensão mais profunda de como os modelos de linguagem aprendem e esquecem. Com isso, os pesquisadores podem desenvolver métodos mais eficazes para remover dados sensíveis dos modelos.",
+      "en": "Researchers have created LACUNA, a testbed for evaluating localization precision in large language models (LLMs), which is crucial for unlearning sensitive information, such as personally identifiable information (PII). This matters because LLMs memorize such data during training, which can create privacy issues. LACUNA is the first test to evaluate parameter-level localization, rather than just output level, allowing for a deeper understanding of how language models learn and forget. With this, researchers can develop more effective methods for removing sensitive data from models.",
+      "score": 0.4663
+    },
+    {
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "https://arxiv.org/abs/2607.02512v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Uma equipe de pesquisadores propôs um novo paradigma de programação chamado de \"Program-as-Weights\" (PAW), que permite compilar funções fuzzy a partir de especificações em linguagem natural em artefatos neurais compactos e executáveis localmente. Isso é importante porque muitas tarefas de programação do dia a dia não podem ser implementadas de forma limpa e baseada em regras, e muitas vezes são terceirizadas para APIs de modelos de linguagem grandes, o que pode comprometer a localidade, a reproduzibilidade e o preço. O PAW utiliza um compilador de 4B treinado em FuzzyBench, um conjunto de dados com 10 milhões de exemplos, para emitir adaptadores eficientes de parâmetros para um interpretador leve e congelado. Com isso, um interpretador Qwen3 de 0,6B executando programas PAW pode atingir o mesmo nível de desempenho de um Qwen3-32B, mas utilizando cerca de um cinquenta avos dos recursos.",
+      "en": "A team of researchers has proposed a new programming paradigm called \"Program-as-Weights\" (PAW), which allows compiling fuzzy functions from natural-language specifications into compact, locally-executable neural artifacts. This matters because many everyday programming tasks resist clean rule-based implementation, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. PAW uses a 4B compiler trained on FuzzyBench, a 10M-example dataset, to emit parameter-efficient adapters for a frozen, lightweight interpreter. A 0.6B Qwen3 interpreter executing PAW programs can match the performance of directly prompting a Qwen3-32B, while using roughly one fiftieth of the resources.",
+      "score": 0.4663
+    },
+    {
+      "title": "asz798838958/FrciblyK12",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado FrciblyK12 foi criado para automatizar o registro de contas gratuitas em um espaço de armazenamento chamado K12, utilizando uma técnica chamada de multithreading, que permite que múltiplas tarefas sejam executadas simultaneamente, aumentando a eficiência do processo. Isso é notável porque o registro de contas gratuitas pode ser um processo demorado e trabalhoso. O projeto utiliza uma abordagem automática para realizar esse registro, o que pode ser útil para usuários que precisam de armazenamento adicional. A utilização de multithreading permite que o processo seja realizado de forma mais rápida e eficiente.",
+      "en": "A GitHub project called FrciblyK12 was created to automate the registration of free accounts in a storage space called K12, using a technique called multithreading, which allows multiple tasks to be executed simultaneously, increasing the efficiency of the process. This is notable because registering for free accounts can be a time-consuming and laborious process. The project uses an automated approach to perform this registration, which can be useful for users who need additional storage. The use of multithreading allows the process to be performed more quickly and efficiently.",
+      "score": 0.7282
+    },
+    {
+      "title": "HUANGCHIHHUNGLeo/claude-real-video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub permite que o modelo de linguagem Claude, ou qualquer outro grande modelo de linguagem, assista a um vídeo de forma inteligente, processando quadros de forma deduplicada e gerando uma transcrição, seja a partir de uma URL ou de um arquivo local, tudo rodando localmente e licenciado sob o MIT. Isso é importante porque marca um avanço na capacidade dos modelos de linguagem de entender melhor o conteúdo de mídia. O projeto é open source e pode ser encontrado no repositório do GitHub. Com isso, abre-se um leque de possibilidades para aplicações que exigem a compreensão de vídeo por modelos de linguagem.",
+      "en": "A project on GitHub enables the language model Claude, or any other large language model, to intelligently watch a video, processing frames in a deduplicated manner and generating a transcript, whether from a URL or a local file, all running locally and licensed under MIT. This matters because it marks an advancement in language models' ability to better understand media content. The project is open source and can be found on the GitHub repository. This opens up a range of possibilities for applications that require video understanding by language models.",
+      "score": 0.7179
+    },
+    {
+      "title": "offchainthoughts/Amber",
+      "url": "https://github.com/offchainthoughts/Amber",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto open source chamado Amber foi lançado no GitHub, permitindo que os usuários realizem cálculos computacionais caros uma única vez e então os armazenem offline em um arquivo que pode comprovar sua autenticidade, o que é útil para aplicações que requerem segurança e verificabilidade. Isso importa porque pode ajudar a reduzir os custos e melhorar a eficiência em diversas áreas, como criptografia e análise de dados. O Amber funciona gerando um arquivo que contém a prova do cálculo realizado, que pode ser verificado posteriormente sem a necessidade de reexecutar o cálculo. Com isso, os usuários podem confiar que os resultados são autênticos e não foram alterados.",
+      "en": "A new open source project called Amber has been released on GitHub, allowing users to perform expensive computational calculations once and then store them offline in a file that can prove its authenticity, which is useful for applications that require security and verifiability. This matters because it can help reduce costs and improve efficiency in various areas, such as cryptography and data analysis. Amber works by generating a file that contains proof of the calculation performed, which can be verified later without the need to re-run the calculation. With this, users can trust that the results are authentic and have not been altered.",
+      "score": 0.6334
+    },
+    {
+      "title": "kui123456789/cdk-redeem-only-extension",
+      "url": "https://github.com/kui123456789/cdk-redeem-only-extension",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo repositório foi criado no GitHub, chamado cdk-redeem-only-extension, que parece ser uma extensão para sistemas de pagamento, especificamente para a funcionalidade de resgate via UPI, que é um sistema de pagamento instantâneo baseado em mensagem. Isso é importante porque pode ajudar a simplificar processos de pagamento online. A UPI, ou Interface de Pagamento Unificada, é um sistema de pagamento que permite transferências de dinheiro entre contas bancárias utilizando apenas o número de telefone ou um endereço de pagamento virtual. O repositório fornece uma implementação de extensão para essa funcionalidade.",
+      "en": "A new repository has been created on GitHub, called cdk-redeem-only-extension, which appears to be an extension for payment systems, specifically for the redeem functionality via UPI, which is an instant payment system based on messaging. This matters because it can help simplify online payment processes. UPI, or Unified Payments Interface, is a payment system that allows money transfers between bank accounts using only a phone number or a virtual payment address. The repository provides an extension implementation for this functionality.",
+      "score": 0.5406
+    }
+  ]
+}
