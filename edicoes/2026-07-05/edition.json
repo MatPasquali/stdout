@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-05",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um estudo recente sugere que a concentração de dióxido de carbono (CO2) no ar pode afetar negativamente a tomada de decisões, o que pode ser um problema em ambientes fechados, como salas de reunião. Isso acontece porque altos níveis de CO2 podem levar a uma diminuição na capacidade cognitiva, tornando mais difícil para as pessoas se concentrarem e tomarem decisões informadas. A redução da ventilação e o aumento da ocupação em espaços fechados podem contribuir para esse problema. Portanto, é importante considerar a qualidade do ar ao projetar ou utilizar esses ambientes.",
+      "en": "A recent study suggests that the concentration of carbon dioxide (CO2) in the air can negatively impact decision making, which can be a problem in enclosed environments, such as meeting rooms. This occurs because high levels of CO2 can lead to a decrease in cognitive ability, making it more difficult for people to focus and make informed decisions. Reduced ventilation and increased occupancy in enclosed spaces can contribute to this issue. Therefore, it is important to consider air quality when designing or using these environments.",
+      "score": 0.7971
+    },
+    {
+      "title": "elder-plinius/T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto foi disponibilizado no GitHub, chamado T3MP3ST, que é uma plataforma de teste de segurança ofensiva autônoma e multiagente. Isso importa porque pode ajudar a melhorar a segurança cibernética, permitindo que os desenvolvedores e seguranças testem suas defesas de maneira mais eficaz, utilizando uma abordagem de \"red teaming\" que simula ataques reais. A plataforma T3MP3ST atua como uma ferramenta de harness meta, o que significa que ela fornece uma estrutura para que múltiplos agentes de teste trabalhem juntos, simulando diferentes tipos de ataques cibernéticos. Isso pode ser útil para identificar vulnerabilidades nos sistemas de segurança antes que ataques reais ocorram.",
+      "en": "A new project has been made available on GitHub, called T3MP3ST, which is an autonomous and multi-agent offensive security testing platform. This matters because it can help improve cybersecurity by allowing developers and security professionals to test their defenses more effectively, using a \"red teaming\" approach that simulates real attacks. The T3MP3ST platform acts as a meta-harness tool, meaning it provides a framework for multiple testing agents to work together, simulating different types of cyber attacks. This can be useful for identifying vulnerabilities in security systems before real attacks occur.",
+      "score": 0.7816
+    },
+    {
+      "title": "Leaking YouTube creators' private videos",
+      "url": "https://javoriuski.com/post/youtube",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um problema de segurança foi descoberto no YouTube, permitindo que vídeos privados de criadores fossem acessados por terceiros, o que é preocupante porque expõe conteúdo que não era destinado ao público, como trabalhos em andamento ou materiais sensíveis. Isso acontece porque o YouTube usa um sistema de identificadores únicos para vídeos, que podem ser previstos e acessados por pessoas mal-intencionadas. Essa vulnerabilidade é particularmente problemática para criadores que usam o YouTube para compartilhar conteúdo privado com colaboradores ou patrocinadores. A questão levanta preocupações sobre a segurança dos dados no YouTube.",
+      "en": "A security issue was discovered on YouTube, allowing private videos of creators to be accessed by third parties, which is concerning because it exposes content that was not intended for public view, such as works in progress or sensitive materials. This occurs because YouTube uses a system of unique identifiers for videos, which can be predicted and accessed by malicious individuals. This vulnerability is particularly problematic for creators who use YouTube to share private content with collaborators or sponsors. The issue raises concerns about data security on YouTube.",
+      "score": 0.7492
+    },
+    {
+      "title": "nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "A equipe da Nvidia desenvolveu um modelo de inteligência artificial chamado LocateAnything-3B, disponibilizado no Hugging Face, que realiza a tarefa de image-text-to-text, ou seja, processa imagens e texto para gerar respostas textuais, o que pode ser útil em aplicações de busca de objetos em imagens. Esse modelo já recebeu 2612 likes e teve mais de 1 milhão de downloads. A tarefa de image-text-to-text envolve a combinação de processamento de linguagem natural e visão computacional, permitindo que o modelo entenda o conteúdo de uma imagem e responda a perguntas sobre ela. Isso pode ser alcançado por meio de técnicas de aprendizado de máquina, como redes neurais profundas, que são treinadas em grandes conjuntos de dados para aprender a fazer previsões precisas.",
+      "en": "The Nvidia team has developed an artificial intelligence model called LocateAnything-3B, available on Hugging Face, which performs the image-text-to-text task, meaning it processes images and text to generate textual responses, which can be useful in applications such as object search in images. This model has already received 2612 likes and had over 1 million downloads. The image-text-to-text task involves the combination of natural language processing and computer vision, allowing the model to understand the content of an image and answer questions about it. This can be achieved through machine learning techniques, such as deep neural networks, which are trained on large datasets to learn to make accurate predictions.",
+      "score": 0.55
+    },
+    {
+      "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "A comunidade de inteligência artificial está dando atenção ao modelo Ornith-1.0-35B-GGUF, disponível no Hugging Face, que é uma plataforma para o desenvolvimento e compartilhamento de modelos de aprendizado de máquina. Esse modelo em particular é projetado para a tarefa de geração de texto, que é uma técnica de processamento de linguagem natural que permite que os computadores criem texto semelhante ao humano. Com 717 curtidas e 394164 downloads, é claro que os desenvolvedores e pesquisadores estão interessados nessa tecnologia. A geração de texto é uma área importante da inteligência artificial, pois pode ser usada em uma variedade de aplicações, desde a criação de conteúdo até a resposta a perguntas.",
+      "en": "The artificial intelligence community is taking notice of the Ornith-1.0-35B-GGUF model, available on Hugging Face, which is a platform for the development and sharing of machine learning models. This particular model is designed for the task of text generation, which is a natural language processing technique that allows computers to create human-like text. With 717 likes and 394164 downloads, it is clear that developers and researchers are interested in this technology. Text generation is an important area of artificial intelligence, as it can be used in a variety of applications, ranging from content creation to answering questions.",
+      "score": 0.5179
+    },
+    {
+      "title": "google/tabfm-1.0.0-pytorch",
+      "url": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de classificação de tabelas foi lançado no Hugging Face, uma plataforma de aprendizado de máquina, com o nome de tabfm-1.0.0-pytorch, que já recebeu 208 likes e teve 2670 downloads. Isso é importante porque os modelos de classificação de tabelas podem ser usados para analisar e entender grandes conjuntos de dados, como planilhas eletrônicas, o que pode ser útil em diversas áreas, como negócios e ciência. O modelo tabfm-1.0.0-pytorch foi implementado em pytorch, uma biblioteca de aprendizado de máquina que permite aos desenvolvedores criar e treinar modelos de rede neural. Essa ferramenta pode ser útil para desenvolvedores e pesquisadores que precisam analisar dados tabulares.",
+      "en": "A table classification model was released on Hugging Face, a machine learning platform, named tabfm-1.0.0-pytorch, which has already received 208 likes and had 2670 downloads. This matters because table classification models can be used to analyze and understand large datasets, such as spreadsheets, which can be useful in various fields, like business and science. The tabfm-1.0.0-pytorch model was implemented in pytorch, a machine learning library that allows developers to create and train neural network models. This tool can be useful for developers and researchers who need to analyze tabular data.",
+      "score": 0.4518
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Mistral AI, uma empresa que oferece modelos de inteligência artificial de código aberto, atraiu financiamento significativo desde sua criação em 2023, com a ambição de \"colocar inteligência artificial de ponta nas mãos de todos\". Isso é notável porque a Mistral AI está se posicionando como uma concorrente da OpenAI, empresa conhecida por seus modelos de linguagem avançados. A inteligência artificial de código aberto permite que desenvolvedores e pesquisadores acessem e modifiquem os códigos-fonte dos modelos, o que pode levar a avanços mais rápidos na área. Com a Mistral AI, os usuários terão acesso a ferramentas de inteligência artificial avançadas, o que pode ser útil para uma variedade de aplicações, desde processamento de linguagem natural até análise de dados.",
+      "en": "Mistral AI, a company offering open source artificial intelligence models, has raised significant funding since its creation in 2023, with the ambition to \"put frontier AI in the hands of everyone\". This is notable because Mistral AI is positioning itself as a competitor to OpenAI, a company known for its advanced language models. Open source artificial intelligence allows developers and researchers to access and modify the source code of the models, which can lead to faster advancements in the field. With Mistral AI, users will have access to advanced artificial intelligence tools, which can be useful for a range of applications, from natural language processing to data analysis.",
+      "score": 0.4137
+    },
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um projeto no GitHub permite que o jogo Command and Conquer Generals seja executado nativamente em dispositivos macOS, iPhone e iPad, graças à utilização do framework Fable, que possibilita a transcompilação de código C# para outras plataformas. Isso é notável porque permite que os fãs do jogo o joguem em dispositivos móveis e de desktop da Apple sem a necessidade de emulação. O Fable é uma ferramenta que permite a execução de código .NET em múltiplas plataformas, o que é útil para desenvolvedores que desejam expandir a compatibilidade de seus aplicativos. O projeto é um exemplo de como a comunidade de código aberto pode trazer jogos clássicos para novas plataformas.",
+      "en": "A project on GitHub allows the game Command and Conquer Generals to run natively on macOS, iPhone, and iPad devices, thanks to the use of the Fable framework, which enables the transcompilation of C# code to other platforms. This is notable because it allows fans of the game to play it on Apple mobile and desktop devices without the need for emulation. Fable is a tool that allows .NET code to run on multiple platforms, which is useful for developers who want to expand the compatibility of their applications. The project is an example of how the open source community can bring classic games to new platforms.",
+      "score": 0.7491
+    },
+    {
+      "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Valve abriu o código-fonte da tela e-ink da Steam Machine, permitindo que os usuários criem suas próprias versões, o que é significativo porque isso pode levar a inovações e personalizações interessantes. A tela e-ink é um tipo de display que consome pouca energia e é conhecida por ser fácil de ler, especialmente em ambientes com muita luz. Isso pode ser particularmente útil para dispositivos portáteis ou aplicativos que exigem baixo consumo de energia. Com a liberação do código-fonte, os desenvolvedores podem criar suas próprias versões personalizadas da tela e-ink.",
+      "en": "Valve has open-sourced the e-ink screen of the Steam Machine, allowing users to create their own versions, which matters because it can lead to interesting innovations and customizations. The e-ink screen is a type of display that consumes little power and is known for being easy to read, especially in bright environments. This can be particularly useful for portable devices or applications that require low power consumption. With the release of the source code, developers can create their own customized versions of the e-ink screen.",
+      "score": 0.7455
+    },
+    {
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Suprema Corte dos EUA decidiu que mandados de geocercação, que permitem às autoridades coletar dados de localização de dispositivos móveis dentro de uma área específica, necessitam de proteções constitucionais, o que significa que as autoridades precisam ter uma causa provável e um mandado específico para coletar esses dados. Isso é importante porque afeta a privacidade dos cidadãos, pois a geocercação pode ser usada para coletar dados de muitas pessoas ao mesmo tempo. A geocercação é uma técnica de vigilância que usa dados de localização de celulares para identificar dispositivos dentro de uma área específica, geralmente um local de crime. Essa decisão pode ter implicações significativas para a forma como as autoridades usam a tecnologia para investigar crimes.",
+      "en": "The US Supreme Court has ruled that geofence warrants, which allow authorities to collect location data from mobile devices within a specific area, require constitutional protections, meaning authorities need probable cause and a specific warrant to collect this data. This matters because it affects citizens' privacy, as geofencing can be used to collect data from many people at once. Geofencing is a surveillance technique that uses cellphone location data to identify devices within a specific area, usually a crime scene. This decision may have significant implications for how authorities use technology to investigate crimes.",
+      "score": 0.5306
+    },
+    {
+      "title": "Transforme sua TV com os melhores dispositivos de streaming em oferta agora",
+      "url": "https://olhardigital.com.br/2026/07/05/reviews/transforme-sua-tv-com-os-melhores-dispositivos-de-streaming-em-oferta-agora-2/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, uma seleção de dispositivos de streaming foi destacada como opções para atualizar televisores tradicionais, permitindo que os usuários acessem conteúdo de streaming com qualidade e praticidade. Isso é particularmente relevante porque muitas pessoas ainda não migraram para a era do streaming, e esses dispositivos podem ser uma solução atraente. Os dispositivos mencionados incluem o Amazon Fire TV Stick HD, que vem com um Controle Remoto por Voz com Alexa, permitindo que os usuários controlem seu dispositivo de streaming com comandos de voz. Essas ofertas podem ser uma boa oportunidade para quem deseja modernizar sua experiência de entretenimento em casa.",
+      "en": "Recently, a selection of streaming devices was highlighted as options for upgrading traditional TVs, allowing users to access streaming content with quality and convenience. This is particularly relevant because many people have yet to transition to the streaming era, and these devices can be an attractive solution. The mentioned devices include the Amazon Fire TV Stick HD, which comes with a Voice Remote with Alexa, allowing users to control their streaming device with voice commands. These offers may be a good opportunity for those looking to modernize their home entertainment experience.",
+      "score": 0.3991
+    },
+    {
+      "title": "Built faster with AI and quietly lost the thread on my own systems",
+      "url": "https://dev.to/mjmirza/built-faster-with-ai-and-quietly-lost-the-thread-on-my-own-systems-245k",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "No mês passado, um desenvolvedor abriu um arquivo que havia criado na semana anterior e não conseguiu explicar por que ele funcionava, apesar de ter sido seu próprio projeto, repositório e nome nos commits. Isso ocorreu porque ele havia utilizado inteligência artificial (IA) para acelerar o desenvolvimento, permitindo que o agente de IA escrevesse o código, enquanto ele apenas o direcionava. Com o tempo, o código se tornou estranho para o desenvolvedor, que não conseguia entender como ele funcionava. Esse é um desafio comum para aqueles que constroem sistemas com IA, pois a velocidade e a eficiência podem vir com o custo de perder o controle e a compreensão do próprio código.",
+      "en": "Last month, a developer opened a file he had built the week before and could not explain why it worked, despite it being his own project, repository, and name on the commits. This happened because he had used artificial intelligence (AI) to speed up development, allowing the AI agent to write the code, while he only steered it. Over time, the code became foreign to the developer, who could not understand how it worked. This is a common challenge for those who build systems with AI, as speed and efficiency can come at the cost of losing control and understanding of one's own code.",
+      "score": 0.3998
+    },
+    {
+      "title": "rheinflow.click, in brief",
+      "url": "https://dev.to/lsvegas21/rheinflowclick-in-brief-30fj",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma visão geral concisa sobre rheinflow.click foi publicada recentemente, abordando aspectos operacionais e casos de bordo que muitas vezes são ignorados em outras explicações. Isso é particularmente útil para aqueles que desejam entender melhor como rheinflow.click funciona e como pode ser aplicado em seus próprios projetos. A explicação clara e acessível dos trade-offs envolvidos torna mais fácil reutilizar o material em seus próprios textos. Com isso, os leitores podem aproveitar ao máximo os recursos adicionais disponíveis.",
+      "en": "A concise overview of rheinflow.click was recently published, addressing operational aspects and edge cases that are often overlooked in other explanations. This is particularly useful for those who want to better understand how rheinflow.click works and how it can be applied to their own projects. The clear and accessible explanation of the trade-offs involved makes it easier to reuse the material in their own write-ups, allowing readers to get the most out of the additional resources available.",
+      "score": 0.3497
+    },
+    {
+      "title": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI for Business Growth",
+      "url": "https://dev.to/caper_dev/chatgpt-prompt-engineering-for-freelancers-unlocking-the-power-of-ai-for-business-growth-oh9",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um artigo foi publicado sobre engenharia de prompts do ChatGPT para freelancers, o que é importante porque muitos profissionais autônomos buscam maneiras de se manter atualizados e competitivos no mercado. A engenharia de prompts do ChatGTP envolve projetar e otimizar entradas de texto para obter respostas precisas e relevantes do modelo de linguagem, o que pode ser útil para os negócios. Isso é feito por meio de técnicas como a definição de parâmetros e a criação de cadeias de prompts, que permitem que os freelancers usem o ChatGPT de forma eficaz. Com essas habilidades, os freelancers podem automatizar tarefas, melhorar a comunicação com os clientes e aumentar a produtividade.",
+      "en": "Recently, an article was published on ChatGPT prompt engineering for freelancers, which matters because many freelancers are looking for ways to stay up to date and competitive in the market. ChatGPT prompt engineering involves designing and optimizing text inputs to get accurate and relevant responses from the language model, which can be useful for businesses. This is done through techniques such as parameter definition and prompt chaining, which allow freelancers to use ChatGPT effectively. With these skills, freelancers can automate tasks, improve communication with clients, and increase productivity.",
+      "score": 0.3494
+    },
+    {
+      "title": "Use o ChatGPT para descobrir talentos ocultos e transformar a sua carreira",
+      "url": "https://canaltech.com.br/inteligencia-artificial/use-o-chatgpt-para-descobrir-talentos-ocultos-e-transformar-a-sua-carreira/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, o ChatGPT tem sido utilizado para ajudar na autoanálise e na descoberta de talentos ocultos por meio de uma conversa guiada, onde o usuário responde perguntas sobre carreira e vida pessoal, e a inteligência artificial (IA) identifica padrões de comportamento, transformando essas informações em pontos fortes e sugestões para a vida profissional. Isso é possível porque a IA pode processar grandes quantidades de dados e reconhecer relações entre eles, o que pode ser útil para quem busca uma mudança de carreira ou deseja melhorar seu desempenho atual. Para aproveitar ao máximo essa ferramenta, é fundamental responder às perguntas da IA com sinceridade e fornecer o máximo de detalhes possível. Com essa abordagem, os usuários podem obter insights valiosos sobre suas habilidades e potencial.",
+      "en": "Recently, ChatGPT has been used to help with self-analysis and discovery of hidden talents through a guided conversation, where the user answers questions about their career and personal life, and the artificial intelligence (AI) identifies behavior patterns, turning this information into strengths and suggestions for professional life. This is possible because AI can process large amounts of data and recognize relationships between them, which can be useful for those seeking a career change or looking to improve their current performance. To get the most out of this tool, it is crucial to answer the AI's questions honestly and provide as much detail as possible. With this approach, users can gain valuable insights into their skills and potential.",
+      "score": 0.323
+    },
+    {
+      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+      "url": "https://arxiv.org/abs/2607.02501v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram Embodied.cpp, uma nova infraestrutura de inferência portátil para modelos de inteligência artificial incorporados em robôs heterogêneos, que visa resolver a fragmentação atual na implantação prática desses modelos, permitindo a execução eficiente em dispositivos de borda diversificados. Isso é importante porque os modelos de IA incorporados estão cada vez mais presentes em aplicações que combinam visão, linguagem e ação, e necessitam de uma abordagem mais unificada e flexível para serem executados em diferentes tipos de robôs. A solução foi desenvolvida em C++ e se baseia em uma análise arquitetural de modelos representativos, buscando oferecer uma execução multi-taxa dentro de controles de loop fechado e inferência de baixa latência. Com isso, os desenvolvedores podem criar interfaces incorporadas extensíveis além da entrada e saída de tokens fixos.",
+      "en": "Researchers have introduced Embodied.cpp, a new portable inference runtime for embodied artificial intelligence models on heterogeneous robots, aiming to address the current fragmentation in the practical deployment of these models, allowing for efficient execution on diverse edge devices. This matters because embodied AI models are increasingly present in applications that combine vision, language, and action, and require a more unified and flexible approach to be run on different types of robots. The solution was developed in C++ and is based on an architectural analysis of representative models, seeking to provide multi-rate execution within closed-loop control and low-latency inference. With this, developers can create extensible embodied interfaces beyond fixed token input and output.",
+      "score": 0.3818
+    },
+    {
+      "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "url": "https://arxiv.org/abs/2607.02499v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores recentemente descobriram que otimizadores de matriz estruturada, como SOAP e Muon, podem treinar modelos de potenciais interatômicos de aprendizado de máquina com mais rapidez e eficiência de rótulos do que o otimizador Adam, amplamente utilizado, o que é importante porque esses modelos são fundamentais para simulações científicas precisas. Isso ocorre porque esses novos otimizadores podem convergir mais rapidamente e atingir precisões finais mais altas, melhorando a capacidade de prever comportamentos de materiais complexos. Os resultados mostram que SOAP e SOAP-Muon são métodos robustos e consistentemente fortes, enquanto Muon oferece ganhos parciais em relação ao Adam. Essas descobertas têm implicações para o desenvolvimento de modelos de aprendizado de máquina mais eficientes e precisos.",
+      "en": "Researchers have recently found that matrix-structured optimizers, such as SOAP and Muon, can train machine learning interatomic potential models with greater speed and label efficiency than the widely used Adam optimizer, which is important because these models are crucial for accurate scientific simulations. This is because these new optimizers can converge more quickly and achieve higher final accuracies, improving the ability to predict complex material behaviors. The results show that SOAP and SOAP-Muon are robust and consistently strong methods, while Muon offers partial gains relative to Adam. These findings have implications for the development of more efficient and accurate machine learning models.",
+      "score": 0.3817
+    },
+    {
+      "title": "Seek to Segment: Active Perception for Panoramic Referring Segmentation",
+      "url": "https://arxiv.org/abs/2607.02497v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores recentemente introduziram uma nova tarefa chamada Segmentação de Referência Panorâmica Ativa (APRS), que permite que agentes de inteligência artificial explorem ambientes em 360 graus para buscar objetos especificados por instruções do usuário. Isso é importante porque os modelos de segmentação de referência existentes são limitados por processar imagens estáticas capturadas de perspectivas fixas. A equipe propôs o PanoSeeker, um agente com memória aumentada que integra um Modelo de Visão-Língua (VLM) com EgoSphere, uma memória visual espacial explícita. Essa abordagem permite que o agente busque objetos de forma eficiente.",
+      "en": "Researchers have recently introduced a new task called Active Panoramic Referring Segmentation (APRS), which allows artificial intelligence agents to explore 360-degree environments to seek objects specified by user instructions. This matters because existing referring segmentation models are limited by passively processing static images captured from fixed perspectives. The team proposed PanoSeeker, a memory-augmented agent that integrates a Vision-Language Model (VLM) with EgoSphere, an explicit spatial visual memory. This approach enables the agent to efficiently seek objects, a key capability in Embodied AI applications.",
+      "score": 0.3817
+    },
+    {
+      "title": "Controllable Sim Agents with Behavior Latents",
+      "url": "https://arxiv.org/abs/2607.02496v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores criaram um framework de agentes simulados controlláveis, chamado Controllable Neural Variational Agents (CNeVA), que permite que engenheiros isollem variáveis e reproduzam casos de bordo específicos em simulações de tráfego realistas, o que é essencial para testar sistemas autônomos sem riscos no mundo real. A CNeVA aprende a inferir um comportamento latente gaussiano por agente, utilizando atualizações variacionais conjugadas em forma fechada e um gerador de trajetórias treinado em um currículo de máscara de canal misto. Isso é particularmente útil para lidar com a escassez de sinais de recompensa, pois os gates de eligibilidade suaves substituem limiares binários rígidos por decadência exponencial suave, preservando o gradiente.",
+      "en": "Researchers have created a controllable simulated-agent framework, called Controllable Neural Variational Agents (CNeVA), which allows engineers to isolate variables and reproduce specific edge cases in realistic traffic simulations, a crucial aspect of testing autonomous systems without real-world risk. CNeVA learns to infer a per-agent Gaussian behavior latent, using closed-form conjugate variational updates and a trajectory generator trained on a mixed channel-mask curriculum. This is particularly useful for addressing the scarcity of reward signals, as soft eligibility gates replace hard binary thresholds with smooth exponential decay, preserving the gradient.",
+      "score": 0.3817
+    },
+    {
+      "title": "Kulaxyz/token-diet",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um recurso de eficiência de tokens foi desenvolvido para agentes de codificação, como Claude Code, Codex, Cursor, Windsurf e Cline, que visa reduzir o custo de utilização desses agentes sem comprometer a correção dos resultados. Isso é alcançado por meio de uma habilidade sempre-ativa que otimiza o uso de tokens, resultando em uma redução média de cerca de 31% nos custos. Essa otimização é particularmente útil para desenvolvedores que utilizam esses agentes frequentemente, pois pode ajudar a reduzir os gastos sem afetar a qualidade do trabalho. O recurso está disponível no repositório GitHub de Kulaxyz.",
+      "en": "A token-efficiency feature has been developed for coding agents such as Claude Code, Codex, Cursor, Windsurf, and Cline, which aims to reduce the cost of using these agents without compromising the correctness of the results. This is achieved through an always-on skill that optimizes token usage, resulting in an average reduction of around 31% in costs. This optimization is particularly useful for developers who frequently use these agents, as it can help reduce spending without affecting the quality of work. The feature is available in Kulaxyz's GitHub repository.",
+      "score": 0.7394
+    },
+    {
+      "title": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Aconteceu um avanço significativo para os fãs de jogos vintage, pois um projeto no GitHub chamado Generals-Mac-iOS-iPad permite que o jogo Command & Conquer Generals: Zero Hour rode nativamente em dispositivos macOS, iPhone e iPad, o que é notável porque envolve a utilização de um mecanismo de renderização chamado DXVK/MoltenVK, que converte chamadas de DirectX para Vulkan ou Metal, permitindo que o jogo seja executado em plataformas que normalmente não suportam DirectX. Isso é possível graças ao uso do código-fonte do motor de jogo da EA, licenciado sob a versão 3 da Licença Pública Geral GNU, e adaptado via GeneralsX. O projeto inclui controles de toque para jogos de estratégia em tempo real, tornando a experiência mais acessível em dispositivos móveis. No entanto, é importante notar que os ativos do jogo, como gráficos e áudio, não são incluídos no projeto.",
+      "en": "A significant development has occurred for vintage game enthusiasts, as a GitHub project called Generals-Mac-iOS-iPad allows the game Command & Conquer Generals: Zero Hour to run natively on macOS, iPhone, and iPad devices, which is notable because it involves the use of a rendering mechanism called DXVK/MoltenVK, which converts DirectX calls to Vulkan or Metal, enabling the game to run on platforms that normally do not support DirectX. This is made possible through the use of EA's game engine source code, licensed under version 3 of the GNU General Public License, and adapted via GeneralsX. The project includes touch controls for real-time strategy games, making the experience more accessible on mobile devices. However, it is important to note that the game's assets, such as graphics and audio, are not included in the project.",
+      "score": 0.7083
+    },
+    {
+      "title": "lingbol088-spec/reverse-flow-skill",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado reverse-flow-skill foi criado para fornecer uma habilidade de engenharia reversa para agentes de inteligência artificial, como o Codex, em desafios de CTF (Capture The Flag) locais. Isso importa porque permite que os desenvolvedores melhorem a capacidade dos agentes de IA de entender e superar desafios de segurança. A habilidade funciona em ambientes de sandbox, CTF, crackme, wargame ou treinamento, seguindo um fluxo de análise, relatório, engenharia reversa e julgamento de vulnerabilidades. O projeto é uma contribuição significativa para a comunidade de segurança cibernética e desenvolvimento de IA.",
+      "en": "A GitHub project called reverse-flow-skill has been created to provide a reverse engineering skill for artificial intelligence agents, such as Codex, in local CTF (Capture The Flag) challenges. This matters because it enables developers to improve the ability of AI agents to understand and overcome security challenges. The skill works in sandbox, CTF, crackme, wargame, or training environments, following a flow of analysis, reporting, reverse engineering, and vulnerability judgment. The project is a significant contribution to the cybersecurity and AI development community.",
+      "score": 0.6452
+    },
+    {
+      "title": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A equipe da Evolink-AI criou um repositório no GitHub chamado Awesome-Blender-Seedance-Workflow-Usecases, que reúne fluxos de trabalho curados para a criação de filmes com inteligência artificial, utilizando o software Blender e a ferramenta Seedance. Isso é importante porque esses fluxos de trabalho podem ajudar a melhorar a eficiência e a qualidade da produção de filmes, permitindo que os criadores usem recursos como pré-visualização, controle de câmera e agentes guiados. O repositório inclui casos de uso para pré-visualização, controle de câmera, MCP do Blender e vídeo de referência. Esses recursos podem ser úteis para profissionais de cinema e estudantes de produção de filmes que desejam explorar as possibilidades da criação de filmes com inteligência artificial.",
+      "en": "The Evolink-AI team has created a GitHub repository called Awesome-Blender-Seedance-Workflow-Usecases, which curates workflows for artificial intelligence filmmaking using the Blender software and the Seedance tool. This matters because these workflows can help improve the efficiency and quality of film production, allowing creators to use features such as previsualization, camera control, and agent-guided use cases. The repository includes use cases for previsualization, camera control, Blender MCP, and reference video. These resources can be useful for film professionals and film production students who want to explore the possibilities of artificial intelligence filmmaking.",
+      "score": 0.5725
+    }
+  ]
+}

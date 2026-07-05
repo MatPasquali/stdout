@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-05",
+  "weekly": true,
+  "range": "29/06 a 05/07",
+  "intro": {
+    "pt": "Esta semana foi marcada por notícias sobre desenvolvimentos em tecnologia de código aberto, com a HackerRank tornando seu sistema de rastreamento de candidatos disponível como código aberto, e novos projetos surgindo em plataformas de inteligência artificial. Além disso, houve discussões sobre desempenho de modelos de linguagem e questões de privacidade e segurança. A Espanha também ordenou que empresas públicas e privadas evitassem a empresa Palantir.",
+    "en": "This week was marked by news about developments in open source technology, with HackerRank making its applicant tracking system available as open source, and new projects emerging in artificial intelligence platforms. Additionally, there were discussions about language model performance and privacy and security issues. Spain also ordered public and private companies to blacklist the company Palantir."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A HackerRank abriu o código-fonte de seu Sistema de Gerenciamento de Requisitos (ATS, do inglês Applicant Tracking System), uma ferramenta usada para gerenciar currículos e processos de contratação, o que pode ser útil para empresas e desenvolvedores que desejam personalizar e melhorar seus próprios sistemas de recrutamento. Isso significa que qualquer pessoa pode acessar e modificar o código para atender às suas necessidades específicas. O sistema foi testado por seu criador, que obteve pontuações variadas para seu próprio currículo, o que destaca a importância de entender como esses sistemas avaliam os candidatos. Com essa abertura, a HackerRank visa contribuir para a comunidade de desenvolvimento de software.",
+      "en": "HackerRank has open sourced its Applicant Tracking System (ATS), a tool used to manage resumes and hiring processes, which can be useful for companies and developers looking to customize and improve their own recruitment systems. This means anyone can access and modify the code to suit their specific needs. The system was tested by its creator, who received varying scores for their own resume, highlighting the importance of understanding how these systems evaluate candidates. By open sourcing its ATS, HackerRank aims to contribute to the software development community.",
+      "score": 0.8548
+    },
+    {
+      "title": "jmerelnyc/Talos",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo cliente de trabalhador de GPU foi lançado para a rede Talos, permitindo que os usuários pareiem sua conta Talos com um cliente que executa trabalhos de inferência de modelos abertos via WebSocket e relata o tempo de atividade para pagamentos. Isso é importante porque permite que os usuários contribuam com recursos de processamento para a rede Talos, que é uma plataforma que fornece serviços de processamento de dados. O cliente é executado em um ambiente de trabalho de GPU, o que significa que utiliza a unidade de processamento gráfico de um computador para realizar cálculos intensivos. O projeto está disponível no GitHub, permitindo que desenvolvedores contribuam e aprimorem o código.",
+      "en": "A new GPU worker client has been released for the Talos network, allowing users to pair their Talos account with a client that runs open-model inference jobs over a WebSocket and reports uptime for payouts. This matters because it enables users to contribute processing resources to the Talos network, which is a platform that provides data processing services. The client runs in a GPU worker environment, meaning it utilizes a computer's graphics processing unit to perform intense calculations. The project is available on GitHub, allowing developers to contribute and improve the code.",
+      "score": 0.8476
+    },
+    {
+      "title": "TianhangZhuzth/Fundamental-Ava",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado Fundamental-Ava, criado por TianhangZhuzth, busca construir seres humanos digitais autônomos, capazes de colaborar e interagir socialmente de forma inteligente, o que pode revolucionar a forma como as máquinas interagem conosco. Isso é possível graças ao uso de algoritmos avançados de inteligência artificial, que permitem que esses agentes aprendam e se adaptem a novas situações. A criação de agentes autônomos e colaborativos pode ter impactos significativos em áreas como robótica, medicina e educação. Com essa tecnologia, podemos esperar melhorias na interação humano-máquina.",
+      "en": "A GitHub project called Fundamental-Ava, created by TianhangZhuzth, aims to build autonomous digital human beings that can collaborate and socially interact in an intelligent way, which may revolutionize how machines interact with us. This is made possible by the use of advanced artificial intelligence algorithms, which allow these agents to learn and adapt to new situations. The creation of autonomous and collaborative agents can have significant impacts on areas such as robotics, medicine, and education. With this technology, we can expect improvements in human-machine interaction.",
+      "score": 0.8285
+    },
+    {
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Uma equipe de desenvolvedores realizou um benchmark comparando o GLM 5.2 e o Claude, dois modelos de linguagem, e os resultados mostram que o GLM 5.2 supera o Claude em seus testes. Isso é importante porque os benchmarks são uma forma de medir o desempenho de diferentes modelos, ajudando a identificar quais são mais eficazes em tarefas específicas. O GLM 5.2 e o Claude são modelos de linguagem que usam redes neurais para processar e gerar texto, e entender suas diferenças de desempenho pode ajudar a melhorar a inteligência artificial. Os resultados podem ser encontrados no link fornecido, que explica os detalhes dos testes e como os modelos foram comparados.",
+      "en": "A team of developers conducted a benchmark comparing GLM 5.2 and Claude, two language models, and the results show that GLM 5.2 outperforms Claude in their tests. This matters because benchmarks are a way to measure the performance of different models, helping to identify which ones are more effective in specific tasks. GLM 5.2 and Claude are language models that use neural networks to process and generate text, and understanding their performance differences can help improve artificial intelligence. The results can be found at the provided link, which explains the details of the tests and how the models were compared.",
+      "score": 0.8127
+    },
+    {
+      "title": "uzairansaruzi/hermex",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo aplicativo nativo para iPhone foi lançado, chamado Hermex, que serve como uma interface para o agente Hermes, permitindo que os usuários acessem suas funcionalidades de forma mais conveniente. Isso é importante porque o agente Hermes é uma ferramenta de automação que pode ser útil para muitas tarefas, e uma interface de usuário amigável pode aumentar sua adoção. O aplicativo Hermex foi desenvolvido por uzairansaruzi e está disponível no GitHub. O Hermex pode ser uma ferramenta valiosa para aqueles que desejam explorar as capacidades do agente Hermes de forma mais fácil.",
+      "en": "A new native iPhone app called Hermex has been released, serving as an interface for the Hermes agent, allowing users to access its functionalities in a more convenient way. This matters because the Hermes agent is an automation tool that can be useful for many tasks, and a user-friendly interface can increase its adoption. The Hermex app was developed by uzairansaruzi and is available on GitHub. Hermex can be a valuable tool for those who want to explore the capabilities of the Hermes agent in a more straightforward way.",
+      "score": 0.8009
+    },
+    {
+      "title": "jamesob/local-llm",
+      "url": "https://github.com/jamesob/local-llm",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um repositório no GitHub chamado local-llm foi criado por jamesob, que reúne conhecimentos sobre como executar modelos de linguagem grande (LLM) localmente, o que é importante porque permite que os desenvolvedores trabalhem com esses modelos sem depender de serviços de nuvem, tornando o processo mais controlável e seguro. Isso é particularmente útil para proteger dados sensíveis e garantir a conformidade com regulamentações de privacidade. Os LLMs são redes neurais treinadas em grandes conjuntos de dados textuais, capazes de gerar texto similar ao humano.",
+      "en": "A GitHub repository called local-llm was created by jamesob, which gathers knowledge on how to run large language models (LLMs) locally, which matters because it allows developers to work with these models without relying on cloud services, making the process more controllable and secure. This is particularly useful for protecting sensitive data and ensuring compliance with privacy regulations. LLMs are neural networks trained on large textual datasets, capable of generating human-like text.",
+      "score": 0.7987
+    },
+    {
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um estudo recente sugere que a concentração de dióxido de carbono (CO2) no ar pode afetar negativamente a tomada de decisões, o que pode ser um problema em ambientes fechados, como salas de reunião. Isso acontece porque altos níveis de CO2 podem levar a uma diminuição na capacidade cognitiva, tornando mais difícil para as pessoas se concentrarem e tomarem decisões informadas. A redução da ventilação e o aumento da ocupação em espaços fechados podem contribuir para esse problema. Portanto, é importante considerar a qualidade do ar ao projetar ou utilizar esses ambientes.",
+      "en": "A recent study suggests that the concentration of carbon dioxide (CO2) in the air can negatively impact decision making, which can be a problem in enclosed environments, such as meeting rooms. This occurs because high levels of CO2 can lead to a decrease in cognitive ability, making it more difficult for people to focus and make informed decisions. Reduced ventilation and increased occupancy in enclosed spaces can contribute to this issue. Therefore, it is important to consider air quality when designing or using these environments.",
+      "score": 0.7971
+    },
+    {
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "O governo da Espanha ordenou que empresas públicas e privadas não trabalhem com a Palantir, uma empresa de tecnologia dos Estados Unidos conhecida por seus serviços de análise de dados e inteligência artificial. Isso ocorre porque a Palantir tem sido associada a projetos de vigilância e coleta de dados, o que levanta preocupações sobre a privacidade e a segurança dos cidadãos. A decisão é importante porque afeta como as empresas lidam com a privacidade dos dados e a segurança da informação. A Palantir fornece ferramentas de análise de dados que podem ser usadas para monitorar e tracking de indivíduos, o que pode ser um problema para a privacidade.",
+      "en": "The Spanish government has ordered public and private companies to stop working with Palantir, a US tech company known for its data analysis and artificial intelligence services. This matters because Palantir has been linked to surveillance and data collection projects, which raises concerns about citizen privacy and security. The decision is significant because it affects how companies handle data privacy and information security. Palantir provides data analysis tools that can be used to monitor and track individuals, which can be a problem for privacy.",
+      "score": 0.7948
+    },
+    {
+      "title": "Android Developer Verification: Threat masquerading as Protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um relatório recente destacou uma ameaça em que aplicativos mal-intencionados estão se disfarçando de proteção para os desenvolvedores de Android, o que pode ter implicações significativas para a segurança dos dispositivos móveis. Isso ocorre porque esses aplicativos podem solicitar permissões excessivas, permitindo que os atacantes acessem dados sensíveis. A verificação de desenvolvedores de Android é um processo que visa garantir a autenticidade dos aplicativos, mas nesse caso, está sendo usada de forma maliciosa. Os usuários devem estar cientes dessas ameaças e tomar medidas para proteger seus dispositivos.",
+      "en": "A recent report highlighted a threat where malicious apps are masquerading as protection for Android developers, which can have significant implications for mobile device security. This occurs because these apps can request excessive permissions, allowing attackers to access sensitive data. Android developer verification is a process intended to ensure the authenticity of apps, but in this case, it is being used in a malicious manner. Users should be aware of these threats and take steps to protect their devices.",
+      "score": 0.7823
+    },
+    {
+      "title": "Kulaxyz/self-learning-skills",
+      "url": "https://github.com/Kulaxyz/self-learning-skills",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub, intitulado self-learning-skills, está permitindo que agentes de codificação de IA, como o Claude Code e o Cursor, desenvolvam habilidades autodidatas: esses agentes podem agora reconhecer caminhos eficazes em uma sessão e convertê-los em regras reutilizáveis para futuras interações, o que é importante porque melhora a eficiência e a capacidade de aprendizado dos sistemas de IA. Isso acontece por meio de um mecanismo de auto-aperfeiçoamento, que permite aos agentes identificar e armazenar soluções bem-sucedidas para problemas complexos. Essa capacidade de aprendizado é fundamental para o desenvolvimento de sistemas de IA mais avançados. Os desenvolvedores podem acessar o projeto no GitHub para explorar e contribuir para essa tecnologia emergente.",
+      "en": "A project on GitHub, titled self-learning-skills, is enabling AI coding agents, such as Claude Code and Cursor, to develop self-learning skills: these agents can now recognize effective paths in a session and convert them into reusable rules for future interactions, which matters because it improves the efficiency and learning capability of AI systems. This happens through a self-improving mechanism, which allows agents to identify and store successful solutions to complex problems. This learning capability is crucial for the development of more advanced AI systems. Developers can access the project on GitHub to explore and contribute to this emerging technology.",
+      "score": 0.7821
+    },
+    {
+      "title": "elder-plinius/T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto foi disponibilizado no GitHub, chamado T3MP3ST, que é uma plataforma de teste de segurança ofensiva autônoma e multiagente. Isso importa porque pode ajudar a melhorar a segurança cibernética, permitindo que os desenvolvedores e seguranças testem suas defesas de maneira mais eficaz, utilizando uma abordagem de \"red teaming\" que simula ataques reais. A plataforma T3MP3ST atua como uma ferramenta de harness meta, o que significa que ela fornece uma estrutura para que múltiplos agentes de teste trabalhem juntos, simulando diferentes tipos de ataques cibernéticos. Isso pode ser útil para identificar vulnerabilidades nos sistemas de segurança antes que ataques reais ocorram.",
+      "en": "A new project has been made available on GitHub, called T3MP3ST, which is an autonomous and multi-agent offensive security testing platform. This matters because it can help improve cybersecurity by allowing developers and security professionals to test their defenses more effectively, using a \"red teaming\" approach that simulates real attacks. The T3MP3ST platform acts as a meta-harness tool, meaning it provides a framework for multiple testing agents to work together, simulating different types of cyber attacks. This can be useful for identifying vulnerabilities in security systems before real attacks occur.",
+      "score": 0.7816
+    },
+    {
+      "title": "mekos2772/ios-location-spoofer",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um aplicativo iOS standalone foi lançado para falsificar a localização do GPS sem a necessidade de jailbreak, o que é notável porque muitas soluções exigem que o dispositivo seja desbloqueado para funcionar. Isso é possível graças a uma combinação de técnicas que permitem ao aplicativo interagir com o sistema operacional de maneira segura. O aplicativo também inclui módulos para integração com outras ferramentas populares, como Shadowrocket, Surge, Loon, QX e Stash. Essa funcionalidade pode ser útil para desenvolvedores e usuários que precisam testar aplicativos que dependem de localização.",
+      "en": "A standalone iOS app has been released to spoof GPS location without the need for a jailbreak, which is notable because many solutions require the device to be unlocked to work. This is made possible by a combination of techniques that allow the app to interact with the operating system in a secure way. The app also includes modules for integration with other popular tools, such as Shadowrocket, Surge, Loon, QX, and Stash. This functionality can be useful for developers and users who need to test apps that rely on location.",
+      "score": 0.7771
+    }
+  ]
+}
