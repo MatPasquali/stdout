@@ -1,0 +1,226 @@
+{
+  "date": "2026-07-09",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Aconteceu um acordo entre a John Deere e a Comissão Federal de Comércio (FTC) que permite aos proprietários de equipamentos da empresa consertá-los, o que é importante porque muitos agricultores e empresas dependem desses equipamentos para suas operações diárias. Isso significa que os donos de tratores e outros equipamentos agrícolas da John Deere terão acesso a manuais de reparo e peças de reposição, tornando mais fácil e acessível a manutenção de seus equipamentos. A Comissão Federal de Comércio é uma agência do governo que regula práticas comerciais justas, e nesse caso, está garantindo que os consumidores tenham o direito de reparar seus próprios equipamentos. Essa decisão pode ter um impacto significativo na indústria agrícola, pois pode reduzir os custos de manutenção e aumentar a eficiência.",
+      "en": "A settlement between John Deere and the Federal Trade Commission (FTC) has given owners of the company's equipment the right to repair it, which matters because many farmers and businesses rely on these machines for their daily operations. This means that owners of John Deere tractors and other agricultural equipment will have access to repair manuals and replacement parts, making it easier and more affordable to maintain their equipment. The Federal Trade Commission is a government agency that regulates fair business practices, and in this case, is ensuring that consumers have the right to repair their own equipment. This decision may have a significant impact on the agricultural industry, as it can reduce maintenance costs and increase efficiency.",
+      "score": 0.8085
+    },
+    {
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A plataforma Chatto foi liberada como código aberto, o que significa que seu código fonte está agora disponível para que qualquer pessoa possa visualizá-lo, modificá-lo e distribuí-lo. Isso é importante porque permite que desenvolvedores contribuam para a melhoria da plataforma e a adaptem para suas próprias necessidades. O código aberto é uma licença que permite o uso livre do software, desde que as alterações sejam compartilhadas da mesma forma. Com isso, a comunidade de desenvolvedores pode colaborar e melhorar a plataforma de forma coletiva.",
+      "en": "The Chatto platform is now open source, which means its source code is available for anyone to view, modify, and distribute. This matters because it allows developers to contribute to the platform's improvement and adapt it to their own needs. Open source is a license that allows free use of the software, as long as changes are shared in the same way. With this, the developer community can collaborate and improve the platform collectively.",
+      "score": 0.7881
+    },
+    {
+      "title": "simonlin1212/Vibe-Research",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto chamado Vibe-Research foi lançado no GitHub, uma plataforma de desenvolvimento colaborativo, e é importante porque oferece uma ferramenta personalizada para pesquisas de negociação de ações. Vibe-Research é um agente de pesquisa de negociação pessoal que fornece recursos como revisão diária, radar de notícias, dados de ações individuais, centro de setores, carteira de ações e registros de pesquisa. Isso permite que os usuários tenham uma visão abrangente do mercado e tomem decisões informadas com base em dados e análise, utilizando tecnologias de inteligência artificial para impulsionar a pesquisa de investimentos. Com essa ferramenta, os investidores podem ter mais controle e insights sobre suas estratégias de negociação.",
+      "en": "A project called Vibe-Research has been launched on GitHub, a collaborative development platform, and it matters because it offers a personalized tool for stock trading research. Vibe-Research is a personal trading research agent that provides features such as daily review, news radar, individual stock data, sector center, portfolio, and research records. This allows users to have a comprehensive view of the market and make informed decisions based on data and analysis, using artificial intelligence technologies to drive investment research. With this tool, investors can have more control and insights over their trading strategies.",
+      "score": 0.7265
+    },
+    {
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A OpenAI lançou o GPT-Live, uma versão atualizada do modelo de linguagem GPT, que permite uma interação mais dinâmica e personalizada com os usuários. Isso importa porque oferece uma maneira mais eficaz de processar e responder a perguntas e comandos, tornando a experiência do usuário mais natural e intuitiva. O GPT-Live utiliza aprendizado de máquina e processamento de linguagem natural para gerar respostas mais precisas e relevantes, o que pode ser útil em aplicações como chatbots e assistentes virtuais. Com essa atualização, a OpenAI visa melhorar a capacidade do modelo de entender e responder a perguntas complexas de forma mais eficaz.",
+      "en": "OpenAI has released GPT-Live, an updated version of the GPT language model, which allows for more dynamic and personalized interaction with users. This matters because it provides a more effective way to process and respond to questions and commands, making the user experience more natural and intuitive. GPT-Live uses machine learning and natural language processing to generate more accurate and relevant responses, which can be useful in applications such as chatbots and virtual assistants. With this update, OpenAI aims to improve the model's ability to understand and respond to complex questions more effectively.",
+      "score": 0.7174
+    },
+    {
+      "title": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem de código aberto chamado GLM-5.2 foi disponibilizado no Hugging Face, uma plataforma popular para compartilhar e descobrir modelos de inteligência artificial, o que é notável porque oferece uma ferramenta poderosa para geração de texto, com 3693 likes e 362300 downloads, indicando seu valor para a comunidade de desenvolvedores. O GLM-5.2 é um exemplo de modelo de linguagem grande, que é um tipo de modelo de inteligência artificial treinado em grandes conjuntos de dados textuais para gerar texto coerente e natural. Isso é importante porque pode ser usado em uma variedade de aplicações, desde chatbots até sumarização de texto. A disponibilidade desse modelo no Hugging Face facilita o acesso a essa tecnologia para desenvolvedores e pesquisadores.",
+      "en": "An open-source language model called GLM-5.2 has been made available on Hugging Face, a popular platform for sharing and discovering artificial intelligence models, which is notable because it offers a powerful tool for text generation, with 3693 likes and 362300 downloads, indicating its value to the developer community. The GLM-5.2 is an example of a large language model, which is a type of artificial intelligence model trained on large datasets of text to generate coherent and natural-sounding text. This is important because it can be used in a variety of applications, from chatbots to text summarization. The availability of this model on Hugging Face makes it easier for developers and researchers to access this technology.",
+      "score": 0.6
+    },
+    {
+      "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um novo modelo de inteligência artificial foi disponibilizado no Hugging Face, chamado ThinkingCap-Qwen3.6-27B, que é capaz de realizar a tarefa de image-text-to-text, ou seja, processar imagens e texto para gerar texto. Isso é importante porque esses modelos podem ser usados em uma variedade de aplicações, como descrição de imagens para pessoas com deficiência visual, ou geração de legendas para imagens. O modelo já recebeu 161 likes e foi baixado 2189 vezes, o que indica seu potencial de uso prático.",
+      "en": "A new artificial intelligence model has been made available on Hugging Face, called ThinkingCap-Qwen3.6-27B, which is capable of performing the image-text-to-text task, meaning it can process images and text to generate text. This matters because these models can be used in a variety of applications, such as image description for visually impaired people, or generating captions for images. The model has already received 161 likes and been downloaded 2189 times, indicating its potential for practical use.",
+      "score": 0.5803
+    },
+    {
+      "title": "meituan-longcat/LongCat-2.0",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-2.0",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um novo modelo de linguagem chamado LongCat-2.0 foi adicionado à plataforma Hugging Face, o que é notável porque oferece uma abordagem inovadora para a geração de texto, uma tarefa que envolve a criação de texto coerente e natural soando por meio de algoritmos, sendo que isso é especialmente útil para aplicativos como chatbots e sumarização de texto, com 158 curtidas e 1107 downloads até o momento. O modelo LongCat-2.0 é uma atualização significativa, indicando que a comunidade de inteligência artificial está ativamente desenvolvendo e aprimorando ferramentas para geração de texto. Isso é importante porque a geração de texto de qualidade pode melhorar significativamente a interação humano-máquina. A disponibilidade desse modelo no Hugging Face facilita que desenvolvedores e pesquisadores o acessem e o usem em seus próprios projetos.",
+      "en": "A new language model called LongCat-2.0 has been added to the Hugging Face platform, which is notable because it offers an innovative approach to text generation, a task that involves creating coherent and naturally sounding text through algorithms, which is particularly useful for applications such as chatbots and text summarization, with 158 likes and 1107 downloads so far. The LongCat-2.0 model is a significant update, indicating that the artificial intelligence community is actively developing and refining tools for text generation. This is important because high-quality text generation can significantly improve human-machine interaction. The availability of this model on Hugging Face makes it easier for developers and researchers to access and use it in their own projects.",
+      "score": 0.4628
+    },
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um script bash obfuscado foi encontrado em uma camiseta da Uniqlo, o que levanta questões sobre como ele foi parar lá e por que foi escrito de forma a dificultar a sua leitura. Isso é importante porque scripts obfuscados podem ser usados para fins mal-intencionados, como a execução de comandos maliciosos. Um script obfuscado é basicamente um código que foi modificado para ser difícil de entender, mas ainda assim é executado normalmente pelo computador. O autor do artigo conseguiu decodificar o script e descobriu que ele foi fornecido por meio de uma rede de distribuição de conteúdo, o que sugere que pode ter sido um erro de configuração.",
+      "en": "A obfuscated bash script was found on a Uniqlo t-shirt, which raises questions about how it ended up there and why it was written in a way that makes it hard to read. This matters because obfuscated scripts can be used for malicious purposes, such as executing harmful commands. An obfuscated script is basically code that has been modified to be difficult to understand, but is still executed normally by the computer. The author of the article was able to decode the script and found that it was supplied through a content delivery network, which suggests that it may have been a configuration error.",
+      "score": 0.7483
+    },
+    {
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A equipe por trás do Bun, uma plataforma de desenvolvimento de software, decidiu reescrever seu código em Rust, o que pode melhorar a segurança e a eficiência do sistema, pois Rust é uma linguagem de programação que prioriza a segurança de memória e a concorrência, permitindo que os desenvolvedores criem aplicativos mais confiáveis. Isso é importante porque o Bun é usado por muitos desenvolvedores para criar aplicativos web e móveis. A reescrita do código em Rust pode levar a melhorias significativas na performance e na estabilidade do sistema. Com essa mudança, a equipe do Bun busca proporcionar uma plataforma mais robusta e segura para os desenvolvedores.",
+      "en": "The team behind Bun, a software development platform, has decided to rewrite its code in Rust, which can improve the system's security and efficiency, as Rust is a programming language that prioritizes memory safety and concurrency, allowing developers to create more reliable applications. This matters because Bun is used by many developers to create web and mobile applications. Rewriting the code in Rust may lead to significant improvements in the system's performance and stability. With this change, the Bun team aims to provide a more robust and secure platform for developers.",
+      "score": 0.7211
+    },
+    {
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A equipe da x.ai lançou a versão 4.5 do Grok, uma ferramenta de inteligência artificial que visa melhorar a automação de tarefas, o que é importante porque pode aumentar a eficiência em diversas áreas. O Grok é um sistema que utiliza algoritmos de aprendizado de máquina para entender e executar tarefas de forma autônoma. Isso significa que o Grok pode ser treinado para realizar tarefas específicas, como agendamento de reuniões ou resposta a e-mails, sem a necessidade de intervenção humana. Com a nova versão, a equipe da x.ai busca melhorar a capacidade do Grok de aprender e se adaptar a novas tarefas.",
+      "en": "The team at x.ai has released version 4.5 of Grok, an artificial intelligence tool aimed at improving task automation, which matters because it can increase efficiency in various areas. Grok is a system that uses machine learning algorithms to understand and execute tasks autonomously. This means Grok can be trained to perform specific tasks, such as scheduling meetings or responding to emails, without the need for human intervention. With the new version, the x.ai team aims to improve Grok's ability to learn and adapt to new tasks.",
+      "score": 0.7177
+    },
+    {
+      "title": "TypeScript 7",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Microsoft anunciou recentemente o lançamento do TypeScript 7, que é uma linguagem de programação de código aberto que adiciona recursos de tipagem estática ao JavaScript, permitindo que os desenvolvedores catchem erros de tipo em tempo de compilação em vez de em tempo de execução. Isso é importante porque ajuda a melhorar a segurança e a confiabilidade do código, especialmente em grandes projetos. O TypeScript 7 traz várias melhorias e novos recursos, incluindo suporte aprimorado para inferência de tipos e melhorias na experiência do usuário. Com essa atualização, os desenvolvedores podem criar códigos mais robustos e escaláveis.",
+      "en": "Microsoft recently announced the release of TypeScript 7, which is an open source programming language that adds static typing features to JavaScript, allowing developers to catch type errors at compile time rather than runtime. This matters because it helps improve code security and reliability, especially in large projects. TypeScript 7 brings several improvements and new features, including enhanced support for type inference and improvements to the user experience. With this update, developers can create more robust and scalable code.",
+      "score": 0.7108
+    },
+    {
+      "title": "A short write-up on aztexqlia.click",
+      "url": "https://dev.to/lsvegas21/a-short-write-up-on-aztexqliaclick-cmo",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um artigo recente em dev.to apresenta uma análise detalhada de aztexqlia.click, o que é notável porque a maioria das visões gerais sobre o assunto tende a simplificar demais os conceitos básicos e ignorar os detalhes operacionais, enquanto este artigo se aprofunda nos casos de bordo e explicita as compensações, tornando mais fácil reutilizar o material em seus próprios textos, o que é útil para qualquer um que queira entender melhor o tópico. Isso é particularmente valioso porque comparações como as feitas em aztexqlia.click são difíceis de encontrar em outros lugares. O artigo fornece uma visão clara e acessível do assunto, o que o torna uma leitura recomendada.",
+      "en": "A recent article on dev.to provides a detailed analysis of aztexqlia.click, which is noteworthy because most overviews of the subject tend to oversimplify the basic concepts and ignore the operational details, while this article delves into the edge cases and explicitly states the trade-offs, making it easier to reuse the material in your own write-ups, which is useful for anyone looking to gain a better understanding of the topic. This is particularly valuable because comparisons like the one made on aztexqlia.click are hard to find elsewhere. The article provides a clear and accessible view of the subject, making it a recommended read.",
+      "score": 0.3498
+    },
+    {
+      "title": "valornext.click, in brief",
+      "url": "https://dev.to/lsvegas21/valornextclick-in-brief-8ii",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um artigo sobre valornext.click foi publicado no site dev.to, abordando de forma prática as questões relacionadas a esse tópico, o que é incomum, pois muitos artigos apenas definem conceitos sem fornecer exemplos concretos. Isso é importante porque fornece uma visão mais clara sobre como valornext.click funciona. O artigo oferece uma visão geral clara e acessível, tornando-o uma leitura recomendada. Ele pode ser encontrado no link https://dev.to/lsvegas21/valornextclick-in-brief-8ii.",
+      "en": "Recently, an article about valornext.click was published on the dev.to website, addressing practical questions related to this topic in a hands-on way, which is unusual, as many articles only define concepts without providing concrete examples. This matters because it provides a clearer view of how valornext.click works. The article offers a clear and accessible overview, making it a highly recommended read, available at https://dev.to/lsvegas21/valornextclick-in-brief-8ii.",
+      "score": 0.3495
+    },
+    {
+      "title": "5 AI tools that generated $50k for creators in 2026 — steal this strategy",
+      "url": "https://dev.to/already_herellc_c954583f/5-ai-tools-that-generated-50k-for-creators-in-2026-steal-this-strategy-50hj",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Em 2026, o cenário da criação de conteúdo mudou para sempre, pois uma série de criadores começou a usar ferramentas de inteligência artificial para gerar receita de forma automática. Esses criadores não gastaram milhares de dólares em funcionários ou meses em desenvolvimento de produtos, mas sim usaram uma combinação específica de ferramentas de IA para construir, marcar e vender produtos digitais de forma autônoma. Isso é particularmente importante porque mostra como a tecnologia pode ser usada para criar oportunidades de negócios inovadoras. A inteligência artificial, que pode ser definida como a capacidade de uma máquina realizar tarefas que normalmente exigiriam a inteligência humana, está sendo usada de forma criativa nesses casos.",
+      "en": "In 2026, the content creation landscape changed forever as a group of creators began using artificial intelligence tools to generate revenue automatically. These creators did not spend thousands of dollars on staff or months on product development, but instead used a specific combination of AI tools to build, market, and sell digital products on autopilot. This is particularly significant because it shows how technology can be used to create innovative business opportunities. Artificial intelligence, which can be defined as a machine's ability to perform tasks that would normally require human intelligence, is being used in a creative way in these cases.",
+      "score": 0.3494
+    },
+    {
+      "title": "Pointer: growfundsph.click",
+      "url": "https://dev.to/lsvegas21/pointer-growfundsphclick-1ek7",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um artigo recente no dev.to abordou o tópico de growfundsph.click, fornecendo uma explicação prática e concreta sobre o assunto, o que é raro em meio a tantos artigos que apenas definem o termo sem explorar suas implicações. Isso é importante porque muitas pessoas buscam entender como funciona e como pode ser utilizado. O artigo em questão oferece exemplos concretos, tornando-o uma leitura útil para quem procura aprofundar seu conhecimento sobre o assunto. O link para o artigo está disponível para quem deseja saber mais.",
+      "en": "A recent article on dev.to addressed the topic of growfundsph.click, providing a practical and concrete explanation of the subject, which is rare among the many articles that only define the term without exploring its implications. This matters because many people are looking to understand how it works and how it can be used. The article in question offers concrete examples, making it a useful read for those looking to deepen their understanding of the subject. The link to the article is available for those who want to learn more.",
+      "score": 0.349
+    },
+    {
+      "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+      "url": "https://arxiv.org/abs/2607.07708v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram um modelo de inteligência artificial chamado SciReasoner, que visa explicar como as propriedades de moléculas e materiais surgem a partir de sua estrutura tridimensional, o que é fundamental para entender como funcionam os processos biológicos, químicos e físicos. Isso é importante porque permite uma compreensão mais profunda das relações entre a estrutura e as propriedades, o que pode levar a avanços em áreas como a biologia, química e ciência de materiais. O SciReasoner é capaz de preservar informações estruturais nativas e mostrar como evidências específicas apoiam previsões sob restrições científicas, tornando-o uma ferramenta poderosa para a comunidade científica. Isso pode ajudar a acelerar o desenvolvimento de novos materiais e terapias.",
+      "en": "Researchers have introduced a new artificial intelligence model called SciReasoner, which aims to explain how the properties of molecules and materials emerge from their three-dimensional structure, a fundamental concept in understanding biological, chemical, and physical processes. This matters because it allows for a deeper understanding of the relationships between structure and properties, which can lead to advances in fields such as biology, chemistry, and materials science. SciReasoner is capable of preserving native structural information and showing how specific evidence supports predictions under scientific constraints, making it a powerful tool for the scientific community. This can help accelerate the development of new materials and therapies.",
+      "score": 0.4647
+    },
+    {
+      "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+      "url": "https://arxiv.org/abs/2607.07702v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram uma nova abordagem para otimizar agentes de longo prazo, que dependem de mecanismos baseados em reflexão, onde um grande modelo de linguagem atua como otimizador para diagnosticar falhas e melhorar as políticas dos agentes. No entanto, as trilhas de execução reais são difíceis de usar diretamente para otimização devido à redundância e heterogeneidade, o que pode levar à ineficiência e ao sobreajuste a falhas de baixo valor. A estrutura STRACE (Análise Estrutural de Trajetória e Extração Causal) foi introduzida para resolver esse dilema, construindo sinais de alta qualidade a partir de trilhas de execução, permitindo uma otimização mais eficaz. Isso pode ser útil para melhorar a eficiência dos agentes em tarefas complexas.",
+      "en": "Researchers have developed a new approach to optimize long-horizon agents, which rely on reflection-based mechanisms, where a large language model acts as an optimizer to diagnose failures and improve agent policies. However, real execution traces are difficult to use directly for optimization due to redundancy and heterogeneity, which can lead to inefficiency and overfitting to low-value failures. The STRACE (Structural Trajectory Analysis and Causal Extraction) framework was introduced to resolve this dilemma, building high-quality signals from execution traces, allowing for more efficient optimization. This can be useful for improving the efficiency of agents in complex tasks.",
+      "score": 0.4647
+    },
+    {
+      "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass",
+      "url": "https://arxiv.org/abs/2607.07696v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram uma abordagem inovadora chamada Jailbreak, que permite bypassar o mecanismo de leitura de bancos de dados tradicionais, como JDBC ou ODBC, permitindo o acesso direto a arquivos de armazenamento e melhorando o desempenho em workloads analíticas, isso é importante porque melhora a eficiência em que os dados são acessados e processados. A Jailbreak utiliza modelos de linguagem grande (LLMs) para sintetizar componentes de leitura de tabelas personalizados, sem a necessidade de lógica de parsing manual. Isso é possível porque os formatos de arquivos de bancos de dados, embora complexos, são completamente especificados por seu código fonte e documentação. A Jailbreak é uma solução que pode ser útil para muitas aplicações que necessitam de acesso rápido e eficiente a grandes volumes de dados.",
+      "en": "Researchers have introduced an innovative approach called Jailbreak, which enables bypassing traditional database reading mechanisms, such as JDBC or ODBC, allowing direct access to storage files and improving performance in analytical workloads, this matters because it improves the efficiency with which data is accessed and processed. Jailbreak utilizes Large Language Models (LLMs) to synthesize custom table reading components, without the need for manual parsing logic. This is possible because database file formats, although complex, are fully specified by their source code and documentation. Jailbreak is a solution that can be useful for many applications that require fast and efficient access to large volumes of data.",
+      "score": 0.4646
+    },
+    {
+      "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+      "url": "https://arxiv.org/abs/2607.07695v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram uma nova metodologia de avaliação para garantir a segurança de sistemas de inteligência artificial (IA) multiagente, chamada de institutional red-teaming, que testa as regras de implantação em vez de apenas os modelos: isso é feito mantendo os agentes, objetivos e estado da tarefa fixos, variando apenas uma regra e atribuindo a mudança resultante no comportamento coletivo a essa regra. Isso é importante porque as regras de implantação podem afetar a segurança coletiva, com mudanças em apenas uma regra alterando a taxa de fatalidade em 22 a 58 pontos percentuais. A metodologia foi testada em um benchmark chamado IABench-CA, que abrange 228 contextos e cinco regras canônicas.",
+      "en": "Researchers have introduced a new evaluation methodology to ensure the safety of multiagent artificial intelligence (AI) systems, called institutional red-teaming, which tests deployment rules rather than just models: this is done by keeping the agents, objectives, and task state fixed, varying only one rule, and attributing the resulting change in collective behavior to that rule. This matters because deployment rules can affect collective safety, with changes to just one rule altering fatality rates by 22 to 58 percentage points. The methodology was tested on a benchmark called IABench-CA, which spans 228 contexts and five canonical rules.",
+      "score": 0.4646
+    },
+    {
+      "title": "Robbyant/lingbot-vision",
+      "url": "https://github.com/Robbyant/lingbot-vision",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado lingbot-vision, desenvolvido por Robbyant, está atraindo atenção devido ao seu enfoque em aprendizado auto-supervisionado para percepção espacial. Isso importa porque permite que os sistemas de visão computacional aprendam a entender o ambiente sem a necessidade de dados rotulados, o que é uma tarefa desafiadora na área de inteligência artificial. A percepção espacial é fundamental para robôs e veículos autônomos, que precisam navegar e interagir com o ambiente de forma eficaz. O projeto lingbot-vision oferece uma abordagem inovadora para essa questão, utilizando técnicas de aprendizado de máquina para melhorar a compreensão do espaço.",
+      "en": "A project on GitHub called lingbot-vision, developed by Robbyant, is gaining attention due to its focus on self-supervised learning for spatial perception. This matters because it allows computer vision systems to learn to understand their environment without the need for labeled data, which is a challenging task in the field of artificial intelligence. Spatial perception is crucial for robots and autonomous vehicles, which need to navigate and interact with their environment effectively. The lingbot-vision project offers an innovative approach to this issue, using machine learning techniques to improve spatial understanding.",
+      "score": 0.6305
+    },
+    {
+      "title": "wouterdebie/davit",
+      "url": "https://github.com/wouterdebie/davit",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado davit, criado por wouterdebie, está atraindo atenção por oferecer uma interface do usuário nativa do macOS para a plataforma da Apple, o que significa que os desenvolvedores podem criar aplicativos com uma aparência e sensação consistentes com o sistema operacional, facilitando a integração com outros aplicativos e melhorando a experiência do usuário. Isso é importante porque permite que os desenvolvedores criem aplicativos mais intuitivos e fáceis de usar. A plataforma da Apple é um conjunto de ferramentas e tecnologias que permitem que os desenvolvedores criem aplicativos para dispositivos da Apple, como iPhones e Macs. O projeto davit está disponível no GitHub para que os desenvolvedores possam explorar e contribuir.",
+      "en": "A GitHub project called davit, created by wouterdebie, is gaining attention for providing a native macOS user interface for Apple's platform, which means developers can create applications with a look and feel consistent with the operating system, making it easier to integrate with other applications and improve the user experience. This matters because it allows developers to create more intuitive and user-friendly applications. Apple's platform is a set of tools and technologies that enable developers to create applications for Apple devices, such as iPhones and Macs. The davit project is available on GitHub for developers to explore and contribute.",
+      "score": 0.5637
+    },
+    {
+      "title": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto de código aberto chamado os-taxonomy foi criado no GitHub, o que é importante porque oferece uma classificação sistemática de sistemas operacionais. Isso significa que os desenvolvedores podem usar essa taxonomia para entender melhor as relações entre diferentes sistemas operacionais e como eles funcionam. A taxonomia, um termo que se refere a um sistema de classificação, é útil para identificar padrões e diferenças entre os sistemas. Com isso, os desenvolvedores podem criar soluções mais personalizadas e eficazes.",
+      "en": "An open source project called os-taxonomy has been created on GitHub, which matters because it provides a systematic classification of operating systems. This means that developers can use this taxonomy to better understand the relationships between different operating systems and how they work. Taxonomy, a term that refers to a system of classification, is useful for identifying patterns and differences between systems. With this, developers can create more customized and effective solutions.",
+      "score": 0.075
+    }
+  ]
+}
