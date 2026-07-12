@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-12",
+  "weekly": true,
+  "range": "06/07 a 12/07",
+  "intro": {
+    "pt": "A semana foi marcada por disputas legais e avanços em tecnologias abertas, com Apple processando a OpenAI por suposta violação de segredos comerciais e a FTC chegando a um acordo com a John Deere para permitir que os proprietários consertem seus próprios equipamentos. Além disso, houve lançamentos e atualizações de projetos de código aberto, como o OpenWrt e o OpenPrinter. Isso reflete a tendência de maior controle do usuário sobre a tecnologia e a crescente importância da inteligência artificial.",
+    "en": "The week was marked by legal disputes and advances in open technologies, with Apple suing OpenAI for alleged trade secret violations and the FTC reaching a settlement with John Deere to allow owners to repair their own equipment. Additionally, there were launches and updates of open source projects, such as OpenWrt and OpenPrinter. This reflects the trend of greater user control over technology and the growing importance of artificial intelligence."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Apple processou a OpenAI, acusando ex-funcionários de roubar segredos comerciais, o que pode ter implicações significativas para a indústria de inteligência artificial, pois esses segredos podem ser cruciais para o desenvolvimento de tecnologias avançadas. Isso aconteceu porque a Apple acredita que esses ex-funcionários levaram informações confidenciais para a OpenAI, que é uma empresa de inteligência artificial que desenvolve modelos de linguagem como o ChatGPT. Segredos comerciais referem-se a informações confidenciais e valiosas que uma empresa usa para manter sua vantagem competitiva no mercado. A Apple está buscando proteger seus investimentos em pesquisa e desenvolvimento.",
+      "en": "Apple has sued OpenAI, accusing former employees of stealing trade secrets, which could have significant implications for the artificial intelligence industry, as these secrets may be crucial for the development of advanced technologies. This happened because Apple believes that these former employees took confidential information to OpenAI, which is an artificial intelligence company that develops language models like ChatGPT. Trade secrets refer to confidential and valuable information that a company uses to maintain its competitive edge in the market. Apple is seeking to protect its investments in research and development.",
+      "score": 0.8232
+    },
+    {
+      "title": "synthetic-sciences/openscience",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto de código aberto chamado openscience foi lançado no GitHub, o que é importante porque oferece uma plataforma de trabalho de inteligência artificial para pesquisas científicas, permitindo que cientistas e pesquisadores colaborem e compartilhem seus trabalhos de forma mais eficiente. Isso se deve ao fato de que a plataforma fornece ferramentas e recursos para coletar, analisar e visualizar dados, além de permitir a integração com outras ferramentas e tecnologias. A plataforma openscience é baseada em inteligência artificial, o que significa que utiliza algoritmos e técnicas de aprendizado de máquina para ajudar a analisar e interpretar os dados. Com isso, os cientistas podem se concentrar em suas pesquisas, em vez de gastar tempo e recursos com tarefas manuais.",
+      "en": "A new open-source project called openscience has been launched on GitHub, which matters because it provides an artificial intelligence workbench for scientific research, allowing scientists and researchers to collaborate and share their work more efficiently. This is due to the fact that the platform provides tools and resources to collect, analyze, and visualize data, in addition to allowing integration with other tools and technologies. The openscience platform is based on artificial intelligence, meaning it uses algorithms and machine learning techniques to help analyze and interpret the data. With this, scientists can focus on their research, rather than spending time and resources on manual tasks.",
+      "score": 0.8181
+    },
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Aconteceu um acordo entre a John Deere e a Comissão Federal de Comércio (FTC) que permite aos proprietários de equipamentos da empresa consertá-los, o que é importante porque muitos agricultores e empresas dependem desses equipamentos para suas operações diárias. Isso significa que os donos de tratores e outros equipamentos agrícolas da John Deere terão acesso a manuais de reparo e peças de reposição, tornando mais fácil e acessível a manutenção de seus equipamentos. A Comissão Federal de Comércio é uma agência do governo que regula práticas comerciais justas, e nesse caso, está garantindo que os consumidores tenham o direito de reparar seus próprios equipamentos. Essa decisão pode ter um impacto significativo na indústria agrícola, pois pode reduzir os custos de manutenção e aumentar a eficiência.",
+      "en": "A settlement between John Deere and the Federal Trade Commission (FTC) has given owners of the company's equipment the right to repair it, which matters because many farmers and businesses rely on these machines for their daily operations. This means that owners of John Deere tractors and other agricultural equipment will have access to repair manuals and replacement parts, making it easier and more affordable to maintain their equipment. The Federal Trade Commission is a government agency that regulates fair business practices, and in this case, is ensuring that consumers have the right to repair their own equipment. This decision may have a significant impact on the agricultural industry, as it can reduce maintenance costs and increase efficiency.",
+      "score": 0.8085
+    },
+    {
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A União Europeia está implementando o Chat Control, uma regulamentação que visa detectar e reportar conteúdo ilegal em plataformas de comunicação online, o que pode ter implicações significativas para a privacidade dos usuários. Isso acontece porque a regulamentação exige que as plataformas usem tecnologias de inteligência artificial para scannerizar mensagens privadas em busca de conteúdo ilegal, o que pode ser um desafio para a segurança dos dados. A versão 1.0 do Chat Control se concentra na detecção de conteúdo relacionado à exploração sexual de crianças, enquanto a versão 2.0 visa uma abordagem mais ampla, incluindo outros tipos de conteúdo ilegal. Essa regulamentação pode ter impactos importantes na forma como as empresas de tecnologia lidam com a privacidade dos usuários.",
+      "en": "The European Union is implementing Chat Control, a regulation aimed at detecting and reporting illegal content on online communication platforms, which may have significant implications for user privacy. This is because the regulation requires platforms to use artificial intelligence technologies to scan private messages for illegal content, which can be a challenge for data security. Chat Control 1.0 focuses on detecting content related to child sexual exploitation, while version 2.0 takes a broader approach, including other types of illegal content. This regulation may have important impacts on how tech companies handle user privacy.",
+      "score": 0.804
+    },
+    {
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A plataforma Chatto foi liberada como código aberto, o que significa que seu código fonte está agora disponível para que qualquer pessoa possa visualizá-lo, modificá-lo e distribuí-lo. Isso é importante porque permite que desenvolvedores contribuam para a melhoria da plataforma e a adaptem para suas próprias necessidades. O código aberto é uma licença que permite o uso livre do software, desde que as alterações sejam compartilhadas da mesma forma. Com isso, a comunidade de desenvolvedores pode colaborar e melhorar a plataforma de forma coletiva.",
+      "en": "The Chatto platform is now open source, which means its source code is available for anyone to view, modify, and distribute. This matters because it allows developers to contribute to the platform's improvement and adapt it to their own needs. Open source is a license that allows free use of the software, as long as changes are shared in the same way. With this, the developer community can collaborate and improve the platform collectively.",
+      "score": 0.7881
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Um artigo publicado recentemente discute a versão 5.2 do modelo de linguagem GLM e seu potencial impacto na economia da inteligência artificial, o que pode levar a uma crise de margens de lucro na indústria. Isso acontece porque o GLM 5.2 oferece capacidades avançadas de processamento de linguagem natural, permitindo que os modelos de inteligência artificial sejam treinados com maior eficiência e precisão. O modelo GLM, que significa General Language Model, é uma arquitetura de rede neural projetada para processar e gerar texto semelhante ao humano. Com a disponibilidade de tecnologias como o GLM 5.2, as empresas de inteligência artificial podem precisar repensar suas estratégias de negócios para manter a competitividade.",
+      "en": "A recently published article discusses version 5.2 of the GLM language model and its potential impact on the artificial intelligence economy, which could lead to a margin collapse in the industry. This happens because GLM 5.2 offers advanced natural language processing capabilities, allowing artificial intelligence models to be trained with greater efficiency and accuracy. The GLM model, which stands for General Language Model, is a neural network architecture designed to process and generate human-like text. With technologies like GLM 5.2 becoming available, artificial intelligence companies may need to rethink their business strategies to remain competitive.",
+      "score": 0.7674
+    },
+    {
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A equipe por trás do OpenWrt, um projeto de código aberto para routers, lançou o OpenWrt One, um roteador de hardware aberto que permite aos usuários personalizar e controlar completamente seu dispositivo. Isso é significativo porque routers tradicionais frequentemente têm limitações de software e segurança que os fabricantes não divulgam. O OpenWrt One é baseado em um hardware totalmente documentado e modificável, permitindo que os usuários apliquem patches de segurança e atualizações personalizadas. Com isso, os usuários podem ter mais controle sobre a segurança e o desempenho de sua rede.",
+      "en": "The team behind OpenWrt, an open-source project for routers, has released the OpenWrt One, an open hardware router that allows users to fully customize and control their device. This matters because traditional routers often have undisclosed software and security limitations imposed by manufacturers. The OpenWrt One is based on fully documented and modifiable hardware, allowing users to apply security patches and customized updates. With this, users can have more control over the security and performance of their network.",
+      "score": 0.7664
+    },
+    {
+      "title": "OpenPrinter",
+      "url": "https://www.opentools.studio/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Uma nova ferramenta chamada OpenPrinter foi lançada, o que é notável porque oferece uma solução de código aberto para impressão, permitindo que os desenvolvedores criem e personalizem suas próprias soluções de impressão. Isso é importante porque muitas soluções de impressão atuais são fechadas e proprietárias, o que pode limitar a flexibilidade e a inovação. A OpenPrinter pode ser acessada através do site opentools.studio, onde os desenvolvedores podem encontrar mais informações e começar a trabalhar com a ferramenta. A OpenPrinter é uma ferramenta técnica que permite aos desenvolvedores trabalhar com impressão de forma mais aberta e personalizada.",
+      "en": "A new tool called OpenPrinter has been released, which is notable because it offers an open-source solution for printing, allowing developers to create and customize their own printing solutions. This matters because many current printing solutions are closed and proprietary, which can limit flexibility and innovation. OpenPrinter can be accessed through the opentools.studio website, where developers can find more information and start working with the tool. OpenPrinter is a technical tool that enables developers to work with printing in a more open and customized way.",
+      "score": 0.7649
+    },
+    {
+      "title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A União Europeia tornou obrigatório o uso de câmeras de monitoramento de motoristas em todos os carros novos vendidos, o que significa que esses veículos devem ser equipados com tecnologia de detecção de distração ao volante. Isso é importante porque pode ajudar a reduzir o número de acidentes causados por motoristas distraídos. A tecnologia de detecção de distração ao volante utiliza câmeras e algoritmos para monitorar o comportamento do motorista e alertá-lo se ele estiver distraído. Essa medida visa melhorar a segurança nas estradas europeias.",
+      "en": "The European Union has made it mandatory for all new cars sold to include a driver monitoring camera, which means these vehicles must be equipped with driver distraction detection technology. This matters because it can help reduce the number of accidents caused by distracted drivers. Driver distraction detection technology uses cameras and algorithms to monitor the driver's behavior and alert them if they are distracted. This measure aims to improve road safety in Europe.",
+      "score": 0.7624
+    },
+    {
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Acaba de ser lançado o CoMaps, um aplicativo de mapas offline de código aberto, que permite aos usuários acessar mapas sem necessidade de conexão com a internet, o que é particularmente útil em áreas com cobertura de rede limitada. Isso importa porque muitas pessoas dependem de mapas para se deslocar, e a falta de acesso a esses serviços pode ser um grande problema. O CoMaps utiliza dados de fontes abertas, como o OpenStreetMap, para fornecer mapas precisos e atualizados. Com essa ferramenta, os usuários podem baixar mapas de cidades ou regiões específicas e acessá-los offline, utilizando a funcionalidade de geolocalização do dispositivo para determinar sua localização.",
+      "en": "The CoMaps application, an open source offline maps service, has just been released, allowing users to access maps without the need for an internet connection, which is particularly useful in areas with limited network coverage. This matters because many people rely on maps to get around, and lack of access to these services can be a significant problem. CoMaps uses data from open sources, such as OpenStreetMap, to provide accurate and up to date maps. With this tool, users can download maps of specific cities or regions and access them offline, using the device's geolocation feature to determine their location.",
+      "score": 0.7609
+    },
+    {
+      "title": "Robbyant/lingbot-video",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub, intitulado Robbyant/lingbot-video, está atraindo atenção devido ao seu potencial em pré-treinamento de vídeos para inteligência incorporada, que é uma área de pesquisa que visa permitir que os sistemas de inteligência artificial entendam melhor o mundo físico. Isso é importante porque pode levar a avanços significativos em áreas como robótica e interação homem-máquina. O projeto utiliza uma abordagem chamada Mixture-of-Experts, que é uma técnica de aprendizado de máquina que combina vários especialistas para resolver problemas complexos. Essa abordagem pode ser útil para entender melhor como os sistemas de inteligência artificial podem aprender a partir de dados de vídeo.",
+      "en": "A project on GitHub, titled Robbyant/lingbot-video, is gaining attention due to its potential in video pretraining for embodied intelligence, which is a research area that aims to enable artificial intelligence systems to better understand the physical world. This matters because it could lead to significant advances in areas such as robotics and human-machine interaction. The project uses an approach called Mixture-of-Experts, which is a machine learning technique that combines multiple experts to solve complex problems. This approach can be useful for understanding how artificial intelligence systems can learn from video data.",
+      "score": 0.7608
+    },
+    {
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A OpenAI lançou o GPT-5.6, uma versão atualizada do modelo de linguagem que visa melhorar a capacidade de processamento e entendimento de texto, o que pode ter um impacto significativo no desenvolvimento de tecnologias de inteligência artificial, como chatbots e assistentes virtuais, pois esses modelos são capazes de aprender e se adaptar a novos padrões de linguagem, permitindo que os sistemas se tornem mais precisos e eficazes. Isso ocorre porque o GPT-5.6 foi treinado com uma grande quantidade de dados, o que permite que ele entenda e gere texto de forma mais natural e humana. O modelo de linguagem é uma técnica de processamento de linguagem natural que utiliza redes neurais para aprender padrões e relações em grandes conjuntos de dados. Com o GPT-5.6, os desenvolvedores podem criar sistemas que são mais capazes de entender e responder às necessidades dos usuários.",
+      "en": "OpenAI has released GPT-5.6, an updated version of the language model that aims to improve text processing and understanding capabilities, which can have a significant impact on the development of artificial intelligence technologies, such as chatbots and virtual assistants, because these models are able to learn and adapt to new language patterns, allowing systems to become more accurate and effective. This happens because GPT-5.6 was trained with a large amount of data, which enables it to understand and generate text in a more natural and human-like way. The language model is a natural language processing technique that uses neural networks to learn patterns and relationships in large datasets. With GPT-5.6, developers can create systems that are better able to understand and respond to user needs.",
+      "score": 0.7593
+    }
+  ]
+}
