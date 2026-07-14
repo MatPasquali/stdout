@@ -2,15 +2,23 @@ name: stdout · edição diária
 
 on:
   schedule:
-    # Todos os dias, 11:00 UTC (08:00 em Brasília). Ajuste se quiser.
-    - cron: "0 11 * * *"
+    # Todos os dias, 11:23 UTC (08:23 em Brasília). Fora da "hora cheia" de
+    # propósito: nos minutos :00 o Actions congestiona e runs agendados
+    # atrasam horas ou falham por indisponibilidade momentânea.
+    - cron: "23 11 * * *"
+    # Rede de segurança, 15:23 UTC (12:23 em Brasília): só age se a rodada da
+    # manhã não publicou (falha de infra do GitHub, por exemplo). Com tudo no
+    # ar, termina em segundos sem gastar nada.
+    - cron: "23 15 * * *"
   workflow_dispatch: {}   # também dá pra rodar na mão pelo botão "Run workflow"
 
-# Permite que o job faça commit/push da nova edição e do site de volta ao repo.
+# Permite commit/push da nova edição e pedir a republicação do GitHub Pages.
 permissions:
   contents: write
+  pages: write
 
-# Evita duas execuções simultâneas pisando uma na outra.
+# Evita duas execuções simultâneas pisando uma na outra (se a rodada da manhã
+# ainda estiver na fila, a rede de segurança espera a vez em vez de duplicar).
 concurrency:
   group: stdout-publish
   cancel-in-progress: false
@@ -22,15 +30,31 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Verificar o que falta hoje
+        id: hoje
+        run: |
+          TODAY=$(date -u +%F)
+          SITE="https://matpasquali.github.io/stdout/$TODAY/pt.html"
+          if [ ! -f "edicoes/$TODAY/edition.json" ]; then
+            echo "modo=build" >> "$GITHUB_OUTPUT"   # a edição de hoje ainda não existe
+          elif ! curl -sfo /dev/null "$SITE"; then
+            echo "modo=pages" >> "$GITHUB_OUTPUT"   # edição no repo, mas o site não atualizou
+          else
+            echo "modo=skip" >> "$GITHUB_OUTPUT"    # tudo publicado; nada a fazer
+          fi
+
       - name: Configurar Python
+        if: steps.hoje.outputs.modo == 'build'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Instalar dependências
+        if: steps.hoje.outputs.modo == 'build'
         run: pip install -r requirements.txt
 
       - name: Gerar edição + site
+        if: steps.hoje.outputs.modo == 'build'
         env:
           # Groq é o preferido (free tier generoso); Gemini fica como fallback.
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
@@ -38,13 +62,22 @@ jobs:
         run: python run.py
 
       - name: Publicar (commit & push)
+        if: steps.hoje.outputs.modo == 'build'
         run: |
           git config user.name "MatPasquali"
           git config user.email "matpasqsi@gmail.com"
           git add edicoes docs
           if git diff --cached --quiet; then
-            echo "Nenhuma mudança nesta semana."
+            echo "Nenhuma mudança hoje."
           else
             git commit -m "edição automática $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      - name: Republicar o GitHub Pages
+        if: steps.hoje.outputs.modo == 'pages'
+        run: |
+          curl -sf -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/pages/builds"
