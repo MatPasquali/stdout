@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-15",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A equipe por trás do Bonsai 27B anunciou um modelo de inteligência artificial de classe 27B que pode ser executado em um telefone, o que é notável porque a maioria dos modelos de IA dessa escala requerem grande quantidade de recursos computacionais e de memória. Isso significa que o Bonsai 27B pode processar e aprender de grandes conjuntos de dados em dispositivos móveis, tornando a inteligência artificial mais acessível e prática para uma ampla gama de aplicações. Um modelo de classe 27B se refere a uma rede neural que contém 27 bilhões de parâmetros, que são os componentes que permitem que a rede aprenda e faça previsões. A capacidade de executar um modelo tão grande em um dispositivo móvel pode ter implicações significativas para o desenvolvimento de aplicações de inteligência artificial em uma variedade de campos.",
+      "en": "The team behind Bonsai 27B has announced a 27B-class artificial intelligence model that can run on a phone, which is notable because most AI models of this scale require a large amount of computational resources and memory. This means that Bonsai 27B can process and learn from large datasets on mobile devices, making artificial intelligence more accessible and practical for a wide range of applications. A 27B-class model refers to a neural network that contains 27 billion parameters, which are the components that allow the network to learn and make predictions. The ability to run such a large model on a mobile device can have significant implications for the development of artificial intelligence applications in a variety of fields.",
+      "score": 0.8457
+    },
+    {
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um artigo detalhado foi publicado sobre os computadores presentes no filme Jurassic Park, o que é interessante porque mostra como a tecnologia da época foi representada na obra. O artigo fornece uma análise minuciosa dos hardwares e softwares utilizados nos computadores do parque, explicando termos técnicos de forma clara para que todos possam entender. Isso permite que os leitores apreciem a precisão e a atenção ao detalhe que os criadores do filme tiveram ao representar a tecnologia da década de 1990. A análise também destaca a importância de considerar a representação da tecnologia em obras de ficção científica.",
+      "en": "A detailed article has been published about the computers featured in the movie Jurassic Park, which matters because it shows how the technology of the time was represented in the film. The article provides an in-depth analysis of the hardware and software used in the park's computers, explaining technical terms in plain language so everyone can understand. This allows readers to appreciate the accuracy and attention to detail that the film's creators had in representing 1990s technology. The analysis also highlights the importance of considering the representation of technology in science fiction works.",
+      "score": 0.8065
+    },
+    {
+      "title": "oil-oil/beautify-github-readme",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado beautify-github-readme permite que desenvolvedores criem páginas iniciais de README personalizadas e claras para seus repositórios, utilizando títulos em SVG, provas reais e Markdown mantível. Isso importa porque uma boa página de README pode ajudar a atrair colaboradores e melhorar a compreensão do projeto. O projeto fornece uma abordagem temática para o design, tornando mais fácil para os desenvolvedores criar páginas iniciais atraentes. Com isso, os desenvolvedores podem se concentrar em escrever um bom conteúdo, sabendo que a formatação e o design estão sendo tratados de forma eficaz.",
+      "en": "A GitHub project called beautify-github-readme allows developers to create customized and clear README homepages for their repositories, using SVG titles, real proof, and maintainable Markdown. This matters because a good README page can help attract collaborators and improve understanding of the project. The project provides a theme-based approach to design, making it easier for developers to create attractive homepages. With this, developers can focus on writing good content, knowing that formatting and design are being handled effectively.",
+      "score": 0.6914
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Recentemente, um problema com o modelo de linguagem Claude foi discutido, onde ele insiste em dizer \"load-bearing\" de forma inadequada, e um desenvolvedor encontrou uma solução para esse problema, o que é importante porque afeta a qualidade e a precisão das respostas geradas pelo modelo. O termo \"load-bearing\" se refere a uma estrutura ou componente que suporta carga, e nesse contexto, o modelo de linguagem estava usando o termo de forma inapropriada. A solução encontrada pelo desenvolvedor pode ser útil para melhorar a performance do modelo, tornando-o mais confiável para uso em aplicações práticas. Isso é particularmente relevante para desenvolvedores que trabalham com modelos de linguagem e buscam melhorar a qualidade das respostas geradas.",
+      "en": "Recently, an issue with the Claude language model was discussed, where it insists on saying \"load-bearing\" inappropriately, and a developer found a solution to this problem, which matters because it affects the quality and accuracy of the responses generated by the model. The term \"load-bearing\" refers to a structure or component that supports a load, and in this context, the language model was using the term inappropriately. The solution found by the developer can be useful for improving the model's performance, making it more reliable for use in practical applications. This is particularly relevant for developers who work with language models and seek to improve the quality of the generated responses.",
+      "score": 0.7256
+    },
+    {
+      "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem chamado Ternary-Bonsai-27B-gguf foi disponibilizado no Hugging Face, uma plataforma popular para compartilhar e descobrir modelos de aprendizado de máquina, e isso é importante porque pode ser usado para gerar texto de forma eficaz. Esse modelo é específico para a tarefa de geração de texto, que é um tipo de processo em que um sistema de inteligência artificial cria texto baseado em um conjunto de regras ou padrões. O modelo Ternary-Bonsai-27B-gguf já recebeu 313 likes e foi baixado 23 vezes, o que indica um interesse considerável da comunidade de desenvolvedores e pesquisadores. A geração de texto é uma técnica que pode ser usada em uma variedade de aplicações, desde chatbots até resumo de artigos.",
+      "en": "A language model called Ternary-Bonsai-27B-gguf has been made available on Hugging Face, a popular platform for sharing and discovering machine learning models, and this matters because it can be used to generate text effectively. This model is specific to the task of text generation, which is a type of process where an artificial intelligence system creates text based on a set of rules or patterns. The Ternary-Bonsai-27B-gguf model has already received 313 likes and been downloaded 23 times, indicating considerable interest from the developer and researcher community. Text generation is a technique that can be used in a variety of applications, ranging from chatbots to article summaries.",
+      "score": 0.6
+    },
+    {
+      "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Uma equipe de desenvolvedores criou um modelo no Hugging Face chamado MOSS-Transcribe-Diarize, que realiza a tarefa de transcrição e diarização de áudio, ou seja, a capacidade de converter áudio em texto e identificar os falantes, o que é útil para aplicações como a transcrição de reuniões ou entrevistas. Isso matters porque permite que os usuários tenham acesso a uma ferramenta de código aberto para essa tarefa, sem precisar desenvolver suas próprias soluções. O modelo já teve 204 likes e 65109 downloads, o que demonstra seu potencial. A diarização é um processo que envolve a identificação dos trechos de áudio em que cada falante está falando, o que pode ser útil para organizar e resumir o conteúdo de uma gravação.",
+      "en": "A team of developers created a model on Hugging Face called MOSS-Transcribe-Diarize, which performs the task of audio-text-to-text, meaning it can convert audio into text and identify the speakers, which is useful for applications such as transcribing meetings or interviews. This matters because it gives users access to an open-source tool for this task, without having to develop their own solutions. The model has already had 204 likes and 65109 downloads, which demonstrates its potential. Diarization is a process that involves identifying the segments of audio where each speaker is speaking, which can be useful for organizing and summarizing the content of a recording.",
+      "score": 0.5129
+    },
+    {
+      "title": "Motorola lança \"matador de top de linha\": MagSafe, chip poderoso e preço baixo",
+      "url": "https://canaltech.com.br/smartphone/motorola-lanca-matador-de-top-de-linha-mag-safe-chip-poderoso-e-preco-baixo/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Motorola lançou o Motorola Edge 70 Max, um smartphone que promete ser um \"matador de top de linha\" devido ao seu conjunto de recursos premium a um preço mais acessível. O dispositivo é equipado com o chip Snapdragon 8 Gen 5 de 3 nm, da Qualcomm, que permite executar tarefas exigentes como recursos de inteligência artificial e jogos pesados com fluidez, graças à combinação com memórias RAM LPDDR5X e armazenamento ultrarrápido UFS 4.1. Além disso, o smartphone suporta carregamento magnético, uma característica comum em dispositivos de alta gama. Isso pode ser um atrativo para os consumidores que buscam um dispositivo poderoso sem gastar muito.",
+      "en": "Motorola has launched the Motorola Edge 70 Max, a smartphone that promises to be a \"top of the line killer\" due to its set of premium features at a more affordable price. The device is equipped with the Snapdragon 8 Gen 5 chip, a 3 nm processor from Qualcomm, which allows it to run demanding tasks such as artificial intelligence features and heavy games smoothly, thanks to the combination with LPDDR5X RAM and ultra-fast UFS 4.1 storage. Additionally, the smartphone supports magnetic charging, a feature commonly found in high-end devices. This may be an attractive option for consumers looking for a powerful device without breaking the bank.",
+      "score": 0.3998
+    },
+    {
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Uma nova análise comparativa foi publicada, avaliando o desempenho do SpeechAnalyzer API da Apple em relação ao Whisper e seu antecessor, o que importa porque oferece uma visão detalhada sobre as capacidades e limitações dessas tecnologias de reconhecimento de fala. O SpeechAnalyzer API é uma ferramenta que permite aos desenvolvedores integrar funcionalidades de reconhecimento de fala em seus aplicativos, utilizando algoritmos avançados para transcrever áudio em texto. Essa comparação é útil para entender como essas tecnologias podem ser aplicadas em diferentes contextos, desde assistentes virtuais até sistemas de transcrição automática. A análise fornece informações valiosas sobre a precisão e a eficiência dessas tecnologias.",
+      "en": "A new comparative analysis has been published, benchmarking Apple's SpeechAnalyzer API against Whisper and its predecessor, which matters because it provides a detailed insight into the capabilities and limitations of these speech recognition technologies. The SpeechAnalyzer API is a tool that allows developers to integrate speech recognition features into their applications, using advanced algorithms to transcribe audio into text. This comparison is useful for understanding how these technologies can be applied in different contexts, from virtual assistants to automatic transcription systems. The analysis provides valuable information about the accuracy and efficiency of these technologies.",
+      "score": 0.7902
+    },
+    {
+      "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
+      "url": "https://19thnews.org/2026/07/noaa-climate-data-website/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Ex-funcionários da NOAA criaram o Climate.us para preservar dados e recursos climáticos, o que é importante porque esses dados são fundamentais para entender as mudanças climáticas e desenvolver soluções eficazes. O site foi criado em resposta a preocupações sobre a disponibilidade e acessibilidade de dados climáticos, que são coletados e analisados por agências como a NOAA, que é a Administração Nacional de Oceanos e Atmosfera dos EUA. Os dados climáticos são essenciais para cientistas e pesquisadores que estudam o clima e desenvolvem modelos para prever mudanças futuras. O Climate.us oferece uma plataforma para acessar e compartilhar esses dados de forma transparente e aberta.",
+      "en": "Former NOAA employees built Climate.us to preserve climate data and resources, which matters because these data are essential to understanding climate change and developing effective solutions. The site was created in response to concerns about the availability and accessibility of climate data, which are collected and analyzed by agencies like NOAA, the US National Oceanic and Atmospheric Administration. Climate data are crucial for scientists and researchers who study the climate and develop models to predict future changes, with NOAA being a key provider of such data. Climate.us provides a platform to access and share these data in a transparent and open manner.",
+      "score": 0.745
+    },
+    {
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Uma aplicação de verificação de idade na Europa está gerando controvérsia, pois exige que todos os usuários utilizem dispositivos Android ou iOS, o que pode ser um problema para aqueles que preferem outras plataformas, como o sistema operacional Linux, por exemplo, que é um conjunto de softwares que gerencia o hardware de um computador e fornece serviços para programas, permitindo que eles funcionem corretamente. Isso é importante porque afeta a liberdade dos usuários em escolher seu próprio sistema operacional, que é o software que gerencia o hardware de um dispositivo e fornece uma interface para os usuários interagirem com ele. A preocupação é que essa limitação possa levar a uma falta de diversidade no mercado de dispositivos, o que pode ter implicações negativas para a inovação e a concorrência. A discussão está acontecendo no GitHub, uma plataforma de desenvolvimento colaborativo de software, onde os desenvolvedores podem compartilhar e discutir seu trabalho.",
+      "en": "A European age verification app is causing controversy as it requires all users to utilize Android or iOS devices, which can be a problem for those who prefer other platforms, such as the Linux operating system, for example, which is a set of software that manages a computer's hardware and provides services for programs, allowing them to function properly. This is important because it affects users' freedom to choose their own operating system, which is the software that manages a device's hardware and provides an interface for users to interact with it. The concern is that this limitation could lead to a lack of diversity in the device market, which can have negative implications for innovation and competition. The discussion is taking place on GitHub, a collaborative software development platform, where developers can share and discuss their work.",
+      "score": 0.7181
+    },
+    {
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um desenvolvedor identificou que muitos aplicativos podem ser substituídos por páginas da web, pois oferecem funcionalidades semelhantes, e criou uma solução para converter esses aplicativos em páginas da web, o que é importante porque pode melhorar a acessibilidade e reduzir a complexidade. Isso foi possível porque muitos aplicativos executam tarefas simples, como exibir informações ou fornecer links, que podem ser facilmente reproduzidas em uma página da web. A solução foi apresentada em um artigo no site danq.me, onde o desenvolvedor explica como conseguiu fazer essa conversão. Essa abordagem pode ser útil para desenvolvedores que desejam simplificar seus aplicativos e melhorar a experiência do usuário.",
+      "en": "A developer found that many apps could be replaced with web pages, as they offer similar functionality, and created a solution to convert these apps into web pages, which matters because it can improve accessibility and reduce complexity. This was possible because many apps perform simple tasks, such as displaying information or providing links, that can be easily replicated on a web page. The solution was presented in an article on the danq.me website, where the developer explains how they achieved this conversion. This approach can be useful for developers looking to simplify their apps and enhance the user experience.",
+      "score": 0.6207
+    },
+    {
+      "title": "How to Start Learning AI Without a Computer Science Background",
+      "url": "https://dev.to/subha_74/how-to-start-learning-ai-without-a-computer-science-background-n7m",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, o campo de Inteligência Artificial (IA) ultrapassou as barreiras da engenharia de software e da graduação em ciência da computação, sendo agora utilizado por profissionais de diversas áreas como negócios, saúde, finanças, marketing, educação, direito e muitas outras para melhorar a produtividade e resolver problemas do mundo real. A boa notícia é que não é necessário ter um diploma em Ciência da Computação para começar a aprender IA. Com a disponibilidade de cursos online, ferramentas de IA, recursos de código aberto e plataformas amigáveis para iniciantes, qualquer pessoa com curiosidade e disposição para aprender pode iniciar sua jornada em IA. Isso se deve à acessibilidade de recursos que permitem que indivíduos de diversas formações, como administração, comércio, artes, mestrado em administração, engenharia e ciências, possam explorar o campo da IA.",
+      "en": "Recently, the field of Artificial Intelligence (AI) has expanded beyond software engineering and computer science graduates, and is now being used by professionals in various fields such as business, healthcare, finance, marketing, education, law, and many others to improve productivity and solve real-world problems. The good news is that you do not need a Computer Science degree to start learning AI. With the availability of online courses, AI tools, open-source resources, and beginner-friendly platforms, anyone with curiosity and a willingness to learn can begin their AI journey. This is due to the accessibility of resources that allow individuals from diverse backgrounds, such as business administration, commerce, arts, master of business administration, engineering, and science, to explore the field of AI.",
+      "score": 0.4465
+    },
+    {
+      "title": "They Won't Fire You. They'll Just Stop Replacing the Developers Who Leave.",
+      "url": "https://dev.to/mic_ayokpon_b4af2743c25b9/they-wont-fire-you-theyll-just-stop-replacing-the-developers-who-leave-1gan",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Acarreia de desenvolvedores está mudando, e isso pode ser um sinal de que as empresas estão ajustando suas necessidades de tecnologia da informação. Isso porque, assim como os operadores de máquinas de escrever foram gradualmente substituídos por processadores de texto e computadores, os desenvolvedores podem enfrentar uma situação semelhante, onde não serão demitidos, mas as vagas simply não serão repostas. Isso acontece porque as empresas podem estar otimizando seus processos e tecnologias, tornando algumas habilidades menos necessárias. Com a automação e a inteligência artificial em constante evolução, é importante que os desenvolvedores estejam preparados para se adaptar e aprender novas habilidades.",
+      "en": "The developer career landscape is shifting, and this may be a sign that companies are adjusting their information technology needs. This is because, just like typists were gradually replaced by word processors and computers, developers may face a similar situation, where they won't be fired, but positions simply won't be refilled. This happens because companies may be optimizing their processes and technologies, making some skills less necessary. With automation and artificial intelligence constantly evolving, it is crucial that developers be prepared to adapt and learn new skills.",
+      "score": 0.399
+    },
+    {
+      "title": "DIY NAS vs Synology: Which Homelab Adds More Value to Your Career?",
+      "url": "https://dev.to/merbayerp/diy-nas-vs-synology-which-homelab-adds-more-value-to-your-career-4agd",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um jovem amigo mencionou que deseja configurar um homelab, e minha primeira pergunta foi \"qual é o seu objetivo\", pois existem basicamente dois grupos no mercado: soluções prontas e aquelas que você constrói do zero com as próprias mãos. Se olharmos para isso como um investimento na carreira, acredito que soluções NAS DIY (Faça Você Mesmo) adicionam muito mais valor em comparação com sistemas prontos como o Synology. Isso ocorre porque soluções DIY permitem um maior aprofundamento técnico, o que é essencial para o desenvolvimento de habilidades em uma carreira de sistemas. Com quase 20 anos de experiência como arquiteto de sistemas e desenvolvedor, o autor explora o impacto de ambas as abordagens no desenvolvimento de carreira.",
+      "en": "Recently, a young friend mentioned that he wants to set up a homelab, and my first question was \"what's your goal\", because there are basically two groups in the market: ready-made solutions and those you build from scratch with your own hands. If we look at it as an investment in your career, I believe DIY (Do It Yourself) NAS solutions add much more value compared to ready-made systems like Synology. This is because DIY solutions allow for a deeper technical understanding, which is essential for skill development in a systems career. With nearly 20 years of experience as a systems architect and developer, the author explores the impact of both approaches on career development.",
+      "score": 0.3496
+    },
+    {
+      "title": "Checklists, Handoffs, and Reliable Software Workflows",
+      "url": "https://dev.to/franksmithiii/checklists-handoffs-and-reliable-software-workflows-3070",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um artigo destacou a importância de checklists e handoffs em workflows de software confiáveis, o que é fundamental para garantir a entrega de projetos de alta qualidade. Isso ocorre porque checklists ajudam a evitar que detalhes importantes se tornem testes de memória, permitindo que os desenvolvedores verifiquem itens como links, layouts responsivos e rotas de API. Além disso, handoffs bem estruturados facilitam a transição de tarefas entre equipes, garantindo que todos estejam cientes do que foi feito, do que ainda precisa ser feito e do que não deve ser assumido. Essa abordagem pode ser especialmente útil em projetos full-stack, onde a complexidade é maior.",
+      "en": "Recently, an article highlighted the importance of checklists and handoffs in reliable software workflows, which is crucial for delivering high-quality projects. This matters because checklists help prevent important details from becoming memory tests, allowing developers to verify items such as links, responsive layouts, and API routes. Additionally, well-structured handoffs facilitate task transitions between teams, ensuring everyone is aware of what has been done, what still needs to be done, and what should not be assumed. This approach can be particularly useful in full-stack projects, where complexity is greater.",
+      "score": 0.3482
+    },
+    {
+      "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+      "url": "https://arxiv.org/abs/2607.13034v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores propuseram uma abordagem para tornar agentes de inteligência artificial (IA) mais eficientes, capacitando-os a avaliar a complexidade de tarefas antes de executá-las, o que pode reduzir o consumo de recursos e melhorar a produtividade. Isso é alcançado por meio da estimativa do escopo de execução da tarefa, julgando a dificuldade e a informação necessária, e então executando o caminho mais curto e confiável. Essa capacidade de avaliação de complexidade pode ser alcançada por meio do uso de técnicas como a razão de redundância cognitiva do agente (ACRR) e a proposta E3 (Estimativa, Execução, Expansão). A aplicação dessas técnicas pode melhorar a automação de fluxos de trabalho em engenharia e informática.",
+      "en": "Researchers have proposed an approach to make artificial intelligence (AI) agents more efficient by enabling them to assess the complexity of tasks before executing them, which can reduce resource consumption and improve productivity. This is achieved through task execution scope estimation, judging the task's difficulty and the information it truly needs, and then executing the shortest reliable path. This complexity assessment capability can be achieved through the use of techniques such as the Agent Cognitive Redundancy Ratio (ACRR) and the proposed E3 (Estimate, Execute, Expand) approach. The application of these techniques can improve the automation of engineering and informatics workflows.",
+      "score": 0.4665
+    },
+    {
+      "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
+      "url": "https://arxiv.org/abs/2607.13028v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram o TerraZero, um simulador de direção procedural para treinamento de agentes autônomos de direção sem demonstração, que é capaz de executar 1,3 milhão de passos de agente por segundo em uma única placa gráfica de servidor, tornando-o mais rápido do que os simuladores existentes. Isso é importante porque o treinamento de agentes autônomos de direção robustos requer um simulador que seja rápido o suficiente para o aprendizado por reforço em larga escala, realista o suficiente para basear o comportamento na estrutura de mapa do mundo real e diverso o suficiente para cobrir a cauda longa de segurança crítica que os dados registrados raramente contêm. O TerraZero usa um motor C configurável que executa a simulação na CPU e a inferência de política na GPU por um caminho de cópia zero, mantendo a fidelidade. \nO TerraZero pode ser usado para treinar agentes autônomos de direção de forma mais eficiente e eficaz.",
+      "en": "Researchers have introduced TerraZero, a procedural driving simulator for training autonomous driving agents without demonstration, which is capable of executing 1.3 million agent-steps per second on a single server-grade graphics card, making it faster than existing simulators. This matters because training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse enough to cover the safety-critical long tail that logged data rarely contains. TerraZero uses a configurable C engine that runs simulation on the CPU and policy inference on the GPU over a zero-copy path, maintaining fidelity. \nTerraZero can be used to train autonomous driving agents more efficiently and effectively.",
+      "score": 0.4665
+    },
+    {
+      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+      "url": "https://arxiv.org/abs/2607.13027v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram o PalmClaw, um framework de agente nativo para dispositivos móveis, que permite a execução de tarefas multi-etapas diretamente no dispositivo, sem a necessidade de desktops ou servidores. Isso é importante porque os dispositivos móveis são amplamente acessíveis e contêm dados, sensores e aplicativos de uso diário dos usuários. O PalmClaw é uma alternativa às abordagens atuais, que geralmente operam os smartphones por meio de ações de interface gráfica do usuário, como tocar, deslizar e digitar, que podem formar sequências longas e dependentes da interface. O framework é de código aberto e pode ser executado nativamente em dispositivos móveis.",
+      "en": "Researchers have developed PalmClaw, a native agent framework for mobile devices, which enables the execution of multi-step tasks directly on the device, without the need for desktops or servers. This matters because mobile devices are widely accessible and contain users' data, sensors, and daily-use applications. PalmClaw is an alternative to current approaches, which typically operate smartphones through graphical user interface actions such as tapping, swiping, and typing, that can form long, interface-dependent sequences. The framework is open-source and can run natively on mobile devices.",
+      "score": 0.4665
+    },
+    {
+      "title": "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models",
+      "url": "https://arxiv.org/abs/2607.13017v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram o FlowWAM, uma abordagem inovadora que utiliza o fluxo óptico como uma representação unificada de ações para os Modelos de Ação Mundial (WAMs), permitindo uma melhor integração com geradores de vídeo pré-treinados. Isso é importante porque os WAMs podem aproveitar geradores de vídeo pré-treinados para modelar o mundo e prever ações, mas a representação de ações é um desafio. O fluxo óptico é uma técnica que mede o deslocamento de pixels entre frames de vídeo, proporcionando uma rica informação de movimento. Ao utilizar o fluxo óptico como representação de ações, o FlowWAM pode ser usado para controle preciso em aplicações de visão computacional.",
+      "en": "Researchers have developed FlowWAM, an innovative approach that uses optical flow as a unified action representation for World Action Models (WAMs), enabling better integration with pretrained video generators. This matters because WAMs can leverage pretrained video generators for world modeling and action prediction, but action representation is a challenge. Optical flow is a technique that measures pixel displacement between video frames, providing rich motion information. By using optical flow as an action representation, FlowWAM can be used for accurate control in computer vision applications.",
+      "score": 0.4664
+    },
+    {
+      "title": "Kappaemme-git/codex-first-customer-finder-skill",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo recurso no GitHub, chamado de codex-first-customer-finder-skill, permite que desenvolvedores encontrem potenciais primeiros clientes com base em sinais públicos recentes, o que é útil para startups e negócios em estágio inicial, pois ajuda a identificar oportunidades de mercado: isso é feito por meio de uma habilidade do Codex, que é uma plataforma que fornece acesso a uma grande quantidade de dados e informações. A habilidade em questão usa evidências para encontrar esses potenciais clientes, o que a torna uma ferramenta valiosa para quem procura entender melhor o mercado. Isso é particularmente importante para empresas que buscam validar suas ideias e produtos.",
+      "en": "A new feature on GitHub, called codex-first-customer-finder-skill, allows developers to find evidence-backed potential first customers based on recent public signals, which is useful for startups and early-stage businesses, as it helps identify market opportunities: this is done through a Codex skill, which is a platform that provides access to a large amount of data and information. The skill in question uses evidence to find these potential customers, making it a valuable tool for those looking to better understand the market. This is particularly important for companies seeking to validate their ideas and products.",
+      "score": 0.6468
+    },
+    {
+      "title": "William-Lu-stack/Flawless",
+      "url": "https://github.com/William-Lu-stack/Flawless",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto chamado Flawless foi publicado no GitHub, o que é notável porque oferece uma abordagem inovadora para a operação de infraestruturas em nuvem e Kubernetes, utilizando inteligência artificial e SRE (Engenharia de Confiabilidade de Sites), uma disciplina que visa garantir a confiabilidade e desempenho de sistemas complexos. Isso importa porque muitas empresas estão migrando suas operações para a nuvem e precisam de soluções eficazes para gerenciar esses ambientes. O Flawless, desenvolvido por William-Lu-stack, parece ser uma ferramenta potencialmente útil nesse contexto, pois combina AI com práticas de SRE para melhorar a gestão de infraestruturas. Com o Flawless, os usuários podem esperar uma abordagem mais automatizada e eficiente para lidar com desafios de operação em ambientes de nuvem e Kubernetes.",
+      "en": "A project called Flawless was published on GitHub, which is notable because it offers an innovative approach to operating cloud and Kubernetes infrastructures, using artificial intelligence and SRE (Site Reliability Engineering), a discipline that aims to ensure the reliability and performance of complex systems. This matters because many companies are moving their operations to the cloud and need effective solutions to manage these environments. Flawless, developed by William-Lu-stack, appears to be a potentially useful tool in this context, as it combines AI with SRE practices to improve infrastructure management. With Flawless, users can expect a more automated and efficient approach to handling operational challenges in cloud and Kubernetes environments.",
+      "score": 0.6398
+    },
+    {
+      "title": "yetone/kill-ai-slop",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado kill-ai-slop está ganhando atenção por oferecer uma solução inovadora para um problema comum: a detecção e remoção de elementos visuais e de texto característicos de produtos gerados por inteligência artificial. Isso importa porque muitos produtos gerados por AI apresentam tiques visuais e de cópia que podem ser facilmente identificados, o que pode ser um problema para os criadores que desejam que seus produtos sejam mais autênticos. O kill-ai-slop oferece um guia de campo para identificar esses tiques e um agente de habilidade que pode varrer um projeto e removê-los. Com isso, os criadores podem produzir conteúdo mais original e de qualidade.",
+      "en": "A GitHub project called kill-ai-slop is gaining attention for offering an innovative solution to a common problem: detecting and removing the visual and text tics characteristic of AI-generated products. This matters because many AI-generated products exhibit visual and copy tics that can be easily identified, which can be a problem for creators who want their products to be more authentic. The kill-ai-slop project provides a field guide to identifying these tics and an agent skill that can scan a project and strip them out. With this, creators can produce higher quality, more original content.",
+      "score": 0.6223
+    },
+    {
+      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um plugin Codex foi lançado no GitHub, permitindo que imagens de objetos sejam convertidas em modelos procedurais do Three.js, prontos para animação, apenas com código. Isso é importante porque facilita o processo de criação de modelos 3D para desenvolvedores e designers. O plugin utiliza a biblioteca Three.js, que é uma ferramenta popular para criar gráficos 3D no navegador, e o Codex, que é uma plataforma de modelagem de objetos. Com essa ferramenta, os usuários podem criar modelos complexos sem precisar de conhecimentos avançados de modelagem 3D.",
+      "en": "A Codex plugin was released on GitHub, enabling object images to be converted into code-only, animation-ready procedural Three.js models. This matters because it streamlines the process of creating 3D models for developers and designers. The plugin utilizes the Three.js library, a popular tool for creating 3D graphics in the browser, and Codex, a platform for object modeling. With this tool, users can create complex models without requiring advanced knowledge of 3D modeling.",
+      "score": 0.5994
+    }
+  ]
+}
