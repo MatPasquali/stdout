@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-18",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "nethical6/conversation-steganography",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub, chamado conversation-steganography, está explorando a utilização de Modelos de Linguagem Grande (LLMs) para esconder mensagens secretas dentro de conversas que parecem normais, o que pode ter implicações significativas para a privacidade e segurança online. Isso funciona porque os LLMs podem gerar textos que soam naturais, permitindo que as mensagens ocultas sejam disfarçadas como parte de uma conversa comum. Essa técnica é conhecida como esteganografia, que é a prática de esconder informações em plaino de vista. A utilização de LLMs nesse contexto pode levar a novas formas de comunicação segura.",
+      "en": "A GitHub project, called conversation-steganography, is exploring the use of Large Language Models (LLMs) to hide secret messages inside conversations that appear normal, which can have significant implications for online privacy and security. This works because LLMs can generate text that sounds natural, allowing the hidden messages to be disguised as part of a common conversation. This technique is known as steganography, which is the practice of hiding information in plain sight. The use of LLMs in this context may lead to new forms of secure communication.",
+      "score": 0.77
+    },
+    {
+      "title": "Blueturboguy07/cue",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto de código aberto chamado cue foi lançado no GitHub, o que importa porque oferece uma alternativa a ferramentas de inteligência artificial existentes para macOS. Este projeto permite que um assistente de IA flutue sobre a tela, ouça reuniões e permaneça oculto das compartilhamentos de tela, tudo isso de forma personalizada com a própria chave. O cue pode ser visto como uma alternativa ao Cluely, com a vantagem de ser de código aberto e permitir que os usuários usem sua própria chave. Isso significa que os usuários têm mais controle sobre a segurança e a privacidade de seus dados.",
+      "en": "A new open-source project called cue has been released on GitHub, which matters because it offers an alternative to existing artificial intelligence tools for macOS. This project allows an AI assistant to float over the screen, listen to meetings, and remain hidden from screen shares, all of this in a customized way with a bring-your-own-key approach. The cue can be seen as an alternative to Cluely, with the advantage of being open-source and allowing users to use their own key. This means that users have more control over the security and privacy of their data.",
+      "score": 0.7665
+    },
+    {
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "O que aconteceu é que a Amazon Web Services (AWS) está enfrentando um problema com os dados de faturamento estimados, que são usados para prever os custos dos serviços de nuvem, o que pode levar a erros significativos, como um total de 1,7 bilhão de dólares, e isso importa porque pode afetar a forma como as empresas gerenciam seus orçamentos de TI. Isso ocorre porque os dados de faturamento estimados são calculados com base em padrões de uso passados, e se esses padrões mudam, os dados podem se tornar imprecisos. Em termos simples, os dados de faturamento estimados são como uma previsão do tempo, ajudando as empresas a planejar seus gastos, mas se a previsão estiver errada, pode causar problemas. Portanto, é fundamental que as empresas monitorem seus gastos de TI com precisão.",
+      "en": "What happened is that Amazon Web Services (AWS) is facing an issue with estimated billing data, which is used to forecast the costs of cloud services, and this can lead to significant errors, such as a total of 1.7 billion dollars, and this matters because it can affect how businesses manage their IT budgets. This occurs because estimated billing data is calculated based on past usage patterns, and if these patterns change, the data can become inaccurate. In simple terms, estimated billing data is like a weather forecast, helping businesses plan their spending, but if the forecast is wrong, it can cause problems. Therefore, it is crucial that businesses monitor their IT spending with accuracy.",
+      "score": 0.7528
+    },
+    {
+      "title": "empero-ai/Qwythos-9B-v2-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado Qwythos-9B-v2-GGUF foi publicado na plataforma Hugging Face, e isso é importante porque representa um avanço na tarefa de image-text-to-text, que envolve a conversão de imagens e texto em saídas de texto. Essa tarefa é útil em aplicações como descrição de imagens para acessibilidade ou geração de legendas para fotos. O modelo já recebeu 166 likes e foi baixado 103504 vezes, indicando seu potencial para ser utilizado em projetos de processamento de linguagem natural. A plataforma Hugging Face é uma comunidade popular para desenvolvedores e pesquisadores de inteligência artificial, onde eles podem compartilhar e descobrir modelos como o Qwythos-9B-v2-GGUF.",
+      "en": "A artificial intelligence model called Qwythos-9B-v2-GGUF has been published on the Hugging Face platform, and this matters because it represents an advancement in the image-text-to-text task, which involves converting images and text into text outputs. This task is useful in applications such as image description for accessibility or caption generation for photos. The model has already received 166 likes and been downloaded 103504 times, indicating its potential for use in natural language processing projects. The Hugging Face platform is a popular community for artificial intelligence developers and researchers, where they can share and discover models like Qwythos-9B-v2-GGUF.",
+      "score": 0.6
+    },
+    {
+      "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um novo modelo de linguagem foi disponibilizado no Hugging Face, plataforma de compartilhamento de modelos de inteligência artificial, e isso é importante porque oferece uma ferramenta avançada para geração de texto, permitindo que os desenvolvedores criem aplicações que podem produzir textos coerentes e naturais. O modelo, chamado MiniCPM5-1B-Claude-Opus-Fable5-Thinking, é uma implementação de um modelo de geração de texto que utiliza técnicas de processamento de linguagem natural, como a aprendizagem profunda, para gerar textos. Isso pode ser útil para uma variedade de tarefas, desde a criação de conteúdo automatizado até a tradução de textos. Com 138 likes e 5271 downloads, esse modelo está se tornando uma ferramenta popular entre os desenvolvedores.",
+      "en": "A new language model has been made available on Hugging Face, a platform for sharing artificial intelligence models, and this matters because it provides an advanced tool for text generation, allowing developers to create applications that can produce coherent and natural-sounding text. The model, called MiniCPM5-1B-Claude-Opus-Fable5-Thinking, is an implementation of a text generation model that uses natural language processing techniques, such as deep learning, to generate text. This can be useful for a range of tasks, from creating automated content to translating text. With 138 likes and 5271 downloads, this model is becoming a popular tool among developers.",
+      "score": 0.5321
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Vertu lançou um agente de inteligência artificial que custa 6.880 dólares, visando executivos, o que levanta questões sobre o valor da tecnologia, considerando que a inteligência artificial refere-se a sistemas de computador capazes de realizar tarefas que normalmente exigiriam inteligência humana, como aprender e resolver problemas. Essa tecnologia é integrada a um dispositivo de luxo, um telefone dobrável, que oferece recursos como fluxos de trabalho de IA, vida útil da bateria e segurança. A empresa está apostando que esses recursos justifiquem o alto preço do dispositivo. O desempenho do agente de IA é um fator crucial na avaliação do valor do produto.",
+      "en": "Vertu has launched an artificial intelligence agent priced at 6,880 dollars, targeting executives, which raises questions about the value of the technology, given that artificial intelligence refers to computer systems able to perform tasks that would normally require human intelligence, such as learning and problem solving. This technology is integrated into a luxury device, a foldable phone, which offers features like AI workflows, battery life and security. The company is betting that these features will justify the high price of the device. The performance of the AI agent is a crucial factor in evaluating the product's value.",
+      "score": 0.4264
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Databricks atingiu uma valorização de 188 bilhões de dólares, consolidando sua posição como empresa favorita da inteligência artificial, o que é notável porque a empresa conseguiu se recriar como uma empresa de inteligência artificial, publicando pesquisas sobre os custos de modelos de peso aberto para codificação. Isso é importante porque mostra como a inteligência artificial está impulsionando o crescimento de empresas de tecnologia. A valorização da Databricks é resultado de sua capacidade de se adaptar e inovar em um mercado em constante mudança. Com isso, a empresa reforça sua posição no mercado de inteligência artificial.",
+      "en": "Databricks has reached a valuation of 188 billion dollars, solidifying its position as the favorite company of artificial intelligence, which is notable because the company managed to remake itself as an artificial intelligence company, publishing research on the cost savings of open weight AI models for coding. This matters because it shows how artificial intelligence is driving the growth of technology companies. Databricks' valuation is the result of its ability to adapt and innovate in a constantly changing market. By doing so, the company strengthens its position in the artificial intelligence market.",
+      "score": 0.4252
+    },
+    {
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um usuário agradeceu a comunidade Hacker News por 15 anos de apoio, o que o ajudou a encontrar seu trabalho de vida, mostrando como plataformas online podem desempenhar um papel importante na descoberta de carreiras e no crescimento profissional. Isso importa porque destaca a influência de comunidades online no desenvolvimento de interesses e habilidades. A gratidão do usuário reflete a capacidade da comunidade de fornecer recursos e conexões valiosas. Essa história ilustra o impacto positivo de redes de suporte online.",
+      "en": "A user thanked the Hacker News community for 15 years of support, which helped him find his life's work, demonstrating how online platforms can play a significant role in career discovery and professional growth. This matters because it highlights the influence of online communities on the development of interests and skills. The user's gratitude reflects the community's ability to provide valuable resources and connections. This story illustrates the positive impact of online support networks.",
+      "score": 0.7218
+    },
+    {
+      "title": "How Our Rust-to-Zig Rewrite Is Going",
+      "url": "https://rtfeldman.com/rust-to-zig",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Uma equipe de desenvolvedores está reescrevendo um projeto de Rust para Zig, o que é notável porque ambos são linguagens de programação de sistemas que visam fornecer segurança e desempenho. Isso importa porque a reescrita pode ajudar a identificar as diferenças e semelhanças entre as duas linguagens, permitindo que os desenvolvedores escolham a melhor ferramenta para seus projetos. A reescrita também pode ajudar a melhorar a documentação e a comunidade em torno da linguagem Zig, que é considerada uma alternativa ao Rust. O processo de reescrita está sendo documentado em um blog, que fornece insights valiosos sobre as experiências e desafios enfrentados pela equipe.",
+      "en": "A team of developers is rewriting a Rust project in Zig, which is notable because both are systems programming languages that aim to provide safety and performance. This matters because the rewrite can help identify the differences and similarities between the two languages, allowing developers to choose the best tool for their projects. The rewrite can also help improve the documentation and community around the Zig language, which is considered an alternative to Rust. The rewriting process is being documented on a blog, which provides valuable insights into the team's experiences and challenges.",
+      "score": 0.6541
+    },
+    {
+      "title": "Building and shipping Mac and iOS apps without opening Xcode",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um desenvolvedor encontrou uma maneira de criar e distribuir aplicativos para Mac e iOS sem precisar abrir o Xcode, o que é notável porque o Xcode é a ferramenta oficial de desenvolvimento da Apple para essas plataformas. Isso foi possível por meio do uso de ferramentas de linha de comando e scripts personalizados, que permitem que os desenvolvedores automatizem o processo de compilação e distribuição de aplicativos. O Xcode é uma ferramenta complexa que fornece recursos avançados de depuração e otimização, mas também pode ser intimidante para alguns desenvolvedores, então essa abordagem pode ser útil para aqueles que preferem trabalhar com ferramentas de linha de comando. A capacidade de criar e distribuir aplicativos sem o Xcode pode ser particularmente útil para desenvolvedores que trabalham em ambientes de desenvolvimento automatizado.",
+      "en": "A developer has found a way to build and ship Mac and iOS apps without ever opening Xcode, which is notable because Xcode is Apple's official development tool for these platforms. This was made possible through the use of command line tools and custom scripts, which allow developers to automate the process of building and distributing apps. Xcode is a complex tool that provides advanced debugging and optimization features, but it can also be intimidating for some developers, so this approach may be helpful for those who prefer working with command line tools. The ability to build and ship apps without Xcode may be particularly useful for developers working in automated development environments.",
+      "score": 0.541
+    },
+    {
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um análise em nível de wire do build CLI do Grok, da xAI, revelou detalhes sobre o que é enviado para a xAI. Isso importa porque fornece insights sobre como a xAI processa e utiliza os dados enviados por seus usuários. O build CLI do Grok é uma ferramenta de linha de comando que facilita a interação com a xAI, permitindo que os usuários executem tarefas específicas, como o treinamento de modelos de inteligência artificial. A análise em nível de wire explica como os dados são transmitidos e processados, fornecendo uma visão detalhada do funcionamento interno da xAI.",
+      "en": "A wire-level analysis of xAI's Grok build CLI has revealed details about what is sent to xAI. This matters because it provides insight into how xAI processes and uses the data sent by its users. The Grok build CLI is a command-line tool that facilitates interaction with xAI, allowing users to perform specific tasks, such as training artificial intelligence models. The wire-level analysis explains how data is transmitted and processed, providing a detailed view of xAI's internal workings.",
+      "score": 0.516
+    },
+    {
+      "title": "How to Scrape Ashby Job Listings (With Salary Ranges) to JSON",
+      "url": "https://dev.to/ratiotech/how-to-scrape-ashby-job-listings-with-salary-ranges-to-json-4en3",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma guia foi publicada sobre como extrair listagens de vagas de emprego do Ashby, incluindo faixas salariais, para o formato JSON, o que é útil para quem está construindo uma plataforma de vagas de emprego, realizando benchmarking de compensação ou conduzindo pesquisas de mercado de trabalho. Isso é especialmente valioso porque as páginas de carreira alimentadas pelo Ashby frequentemente publicam faixas salariais diretamente nas postagens, diferentemente da maioria dos sistemas de rastreamento de candidatos. O Ashby é uma boa opção para extração de dados devido à sua amigabilidade para extração de informações. \nO Ashby é o sistema de rastreamento de candidatos por trás das páginas de carreira de muitas startups bem financiadas, e duas características o tornam particularmente adequado para extração de dados:",
+      "en": "A guide has been published on how to scrape Ashby job listings, including salary ranges, to JSON format, which is useful for those building a job board, performing compensation benchmarking, or conducting labor market research. This is especially valuable because Ashby-powered career pages frequently publish salary ranges directly on the postings, unlike most applicant tracking systems. The Ashby is a good option for data extraction due to its friendliness for data extraction. \nThe Ashby is the applicant tracking system behind the career pages of many well-funded startups, and two features make it particularly suitable for data extraction:",
+      "score": 0.3994
+    },
+    {
+      "title": "Three months of freelancing with AI — what actually changed (2026-07-18)",
+      "url": "https://dev.to/hal_gobvan_16a285d49bda97/three-months-of-freelancing-with-ai-what-actually-changed-2026-07-18-14gd",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Três meses atrás, um desenvolvedor iniciou o uso de inteligência artificial em todas as etapas do seu fluxo de trabalho como freelancer, e agora ele relata as mudanças que ocorreram, tanto positivas quanto negativas. O que ficou mais rápido inclui a escrita de código boilerplate, testes e documentação, pois a inteligência artificial pode automatizar essas tarefas, tornando o processo mais eficiente. No entanto, a escolha entre bibliotecas se tornou mais lenta, pois a inteligência artificial fornece várias opções, cada uma com pontos positivos e negativos, o que exige mais tempo para avaliar. Isso mostra que a inteligência artificial pode ser uma ferramenta poderosa, mas também pode introduzir novos desafios.",
+      "en": "Three months ago, a developer started using artificial intelligence in every part of their freelance workflow, and now they report the changes that occurred, both positive and negative. What got faster includes writing boilerplate code, tests, and documentation, as artificial intelligence can automate these tasks, making the process more efficient. However, choosing between libraries became slower, as artificial intelligence provides multiple options, each with tradeoffs, requiring more time to evaluate. This shows that artificial intelligence can be a powerful tool, but it can also introduce new challenges.",
+      "score": 0.3973
+    },
+    {
+      "title": "Why Intellectual Property Matters to Software Engineers: Key Takeaways from Zone01 Kisumu",
+      "url": "https://dev.to/taheera04/why-intellectual-property-matters-to-software-engineers-key-takeaways-from-zone01-kisumu-35hp",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma sessão de treinamento sobre propriedade intelectual (PI) foi realizada recentemente no Zone01 Kisumu, destacando a importância de entender como o software é legalmente protegido, possuído e compartilhado, o que não é apenas uma questão para advogados corporativos, mas uma habilidade essencial para os engenheiros modernos. A propriedade intelectual é um aspecto crítico do desenvolvimento de tecnologia sustentável, paralelo ao tempo gasto pensando em complexidade de tempo de execução, arquitetura limpa e escalabilidade de sistemas. Isso envolve compreender conceitos como direitos autorais, patentes e marcas registradas, que são fundamentais para proteger a criatividade e inovação no campo da engenharia de software. \nA sessão abordou os quatro principais pilares da propriedade intelectual, fornecendo uma visão geral técnica de como esses conceitos impactam o trabalho dos engenheiros de software.",
+      "en": "A recent intellectual property (IP) training session was held at Zone01 Kisumu, highlighting the importance of understanding how software is legally protected, owned, and shared, which is not just a concern for corporate lawyers, but an essential skill for modern engineers. Intellectual property is a critical aspect of building sustainable technology, parallel to the time spent thinking about runtime complexity, clean architecture, and system scalability. This involves understanding concepts such as copyrights, patents, and trademarks, which are fundamental to protecting creativity and innovation in the field of software engineering. \nThe session covered the four main pillars of intellectual property, providing a technical overview of how these concepts impact the work of software engineers.",
+      "score": 0.3498
+    },
+    {
+      "title": "What Hiring Data Taught Me About Skill Verification Outside Tech",
+      "url": "https://dev.to/suvarna_bellamkonda_/what-hiring-data-taught-me-about-skill-verification-outside-tech-4b88",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um estudo sobre dados de contratação revelou uma tendência interessante sobre a verificação de habilidades fora do setor de tecnologia, o que é relevante porque destaca a importância de avaliar habilidades práticas em vez de apenas confiar em certificações. Isso foi observado em um estudo sobre contratação em marketing digital em Hyderabad, onde os candidatos foram solicitados a demonstrar suas habilidades em ferramentas como o Google Ads e o GA4. A verificação de habilidades é um processo que envolve pedir ao candidato que execute tarefas específicas para avaliar suas habilidades, como depurar um código ou explicar um relatório. Essa abordagem é útil para garantir que os candidatos possuam habilidades reais e não apenas certificações teóricas.",
+      "en": "A study on hiring data has revealed an interesting trend about skill verification outside the tech sector, which matters because it highlights the importance of assessing practical skills rather than just relying on certifications. This was observed in a study on digital marketing hiring in Hyderabad, where candidates were asked to demonstrate their skills in tools like Google Ads and GA4. Skill verification is a process that involves asking a candidate to perform specific tasks to assess their skills, such as debugging code or explaining a report. This approach is useful for ensuring that candidates possess real skills and not just theoretical certifications.",
+      "score": 0.3488
+    },
+    {
+      "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+      "url": "https://arxiv.org/abs/2607.15263v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores publicaram um estudo no arXiv que aborda a avaliação de agentes de segurança ofensivos e defensivos, destacando a importância de considerar o custo além da taxa de sucesso. Isso é relevante porque, em segurança operacional, cada passo de raciocínio, chamada de ferramenta, consulta de telemetria e solicitação de enriquecimento consome orçamento. Os autores avaliam agentes de segurança baseados em modelos de linguagem por meio de um lente de custo e sucesso, comparando modelos em níveis de custo fixos e decompondo o desempenho por gastos de inferência e gastos de ferramentas. Os resultados mostram regimes de escalabilidade distintos para tarefas de equipe vermelha e azul.",
+      "en": "Researchers published a study on arXiv that addresses the evaluation of offensive and defensive security agents, highlighting the importance of considering cost beyond success rate. This matters because, in operational security, every reasoning step, tool call, telemetry query, and enrichment request consumes budget. The authors evaluate language-model security agents through a cost-success lens, comparing models at fixed cost levels and decomposing performance by inference spend and tool spend. The results show distinct scaling regimes for red- and blue-team tasks.",
+      "score": 0.4246
+    },
+    {
+      "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
+      "url": "https://arxiv.org/abs/2607.15258v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um estudo recente publicado na plataforma arXiv apresenta uma abordagem inovadora para analisar o sentimento do mercado de Bitcoin, combinando dados de transações na blockchain com posts no Twitter e dados financeiros. Isso é importante porque pode ajudar a entender melhor o comportamento do mercado de criptomoedas, que tem sido cada vez mais utilizado como ativo digital descentralizado e ferramenta de investimento. A pesquisa utiliza técnicas de aprendizado de máquina, como o Gradient Boosting, para classificar o sentimento do mercado com precisão. O modelo resultante pode ser útil para investidores e pesquisadores que buscam entender as tendências do mercado de Bitcoin.",
+      "en": "A recent study published on the arXiv platform presents a novel approach to analyzing Bitcoin market sentiment by combining blockchain transaction data with Twitter posts and financial data. This matters because it can help better understand the behavior of the cryptocurrency market, which has been increasingly used as a decentralized digital asset and investment tool. The research uses machine learning techniques, such as Gradient Boosting, to accurately classify market sentiment. The resulting model can be useful for investors and researchers seeking to understand Bitcoin market trends.",
+      "score": 0.4245
+    },
+    {
+      "title": "HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning",
+      "url": "https://arxiv.org/abs/2607.15255v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores propuseram um novo modelo chamado HoloGeo para melhorar a localização geográfica de imagens, mitigando o viés de pontos de referência que afeta os modelos de visão e linguagem atuais. Esse viés ocorre quando os modelos dão mais peso a pontos de referência, como monumentos, do que a características geográficas, o que pode levar a resultados imprecisos. O HoloGeo utiliza uma abordagem baseada em evidências para melhorar a confiabilidade da localização geográfica, apoiada por um conjunto de dados de alta qualidade chamado BF-30k. Isso é importante porque a localização geográfica de imagens é uma tarefa fundamental em muitas aplicações, incluindo fotografia, mapeamento e monitoramento ambiental.",
+      "en": "Researchers have proposed a new model called HoloGeo to improve the geographic localization of images, mitigating the landmark bias that affects current vision-language models. This bias occurs when models give more weight to landmarks, such as monuments, than to geographic features, which can lead to inaccurate results. HoloGeo uses an evidence-driven approach to improve the reliability of geographic localization, supported by a high-quality dataset called BF-30k. This matters because image geolocation is a fundamental task in many applications, including photography, mapping, and environmental monitoring.",
+      "score": 0.4245
+    },
+    {
+      "title": "teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data",
+      "url": "https://arxiv.org/abs/2607.15254v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram um sistema chamado teLLMe para análise causal exploratória de conjuntos de dados de direção urbana, o que é importante porque agora as agências de trânsito têm acesso a grandes volumes de dados derivados de vídeos para estudar segurança e congestionamento. Esses dados são em sua maioria observacionais e coletados sem intervenções, tornando difícil responder a perguntas causais como \"Como a chuva afetaria a densidade do tráfego\". O sistema teLLMe combina aprendizado de estrutura causal com algoritmos de verificação de estabilidade e estimativa de efeitos utilizando regressão linear. Isso permite que os usuários especifiquem tratamentos, resultados e subpopulações por meio de perguntas em linguagem natural, tornando a análise de dados mais acessível.",
+      "en": "Researchers have developed a system called teLLMe for exploratory causal analysis of urban driving datasets, which matters because traffic agencies now have access to large volumes of video-derived data for studying safety and congestion. Most of these data are observational and collected without interventions, making it difficult to answer causal questions such as \"How would rain change traffic density\". The teLLMe system combines causal structure learning with stability checks and effect estimation using linear regression, allowing users to specify treatments, outcomes, and subpopulations through natural-language questions. This makes data analysis more accessible by mapping plain-language queries to structured causal queries, enabling a more detailed understanding of urban driving data.",
+      "score": 0.4245
+    },
+    {
+      "title": "x4gKing/Marzban-Node",
+      "url": "https://github.com/x4gKing/Marzban-Node",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto de código aberto chamado Marzban-Node foi publicado no GitHub, o que é notável porque fornece uma implementação de nó para redes de comunicação de dados, permitindo que os desenvolvedores criem suas próprias soluções de rede personalizadas. Isso importa porque os nós de rede são componentes críticos em muitas aplicações, desde sistemas de comunicação até redes de sensores. Marzban-Node pode ser usado como um ponto de partida para projetos que exigem uma infraestrutura de rede robusta e flexível. Os desenvolvedores podem utilizar esse projeto para criar soluções personalizadas, aproveitando a flexibilidade e a customização que o código aberto oferece.",
+      "en": "An open source project called Marzban-Node was published on GitHub, which is notable because it provides a node implementation for data communication networks, allowing developers to create their own customized network solutions. This matters because network nodes are critical components in many applications, ranging from communication systems to sensor networks. Marzban-Node can be used as a starting point for projects that require a robust and flexible network infrastructure. Developers can utilize this project to create customized solutions, leveraging the flexibility and customization that open source code provides.",
+      "score": 0.0561
+    }
+  ]
+}
