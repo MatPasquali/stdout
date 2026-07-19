@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-19",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um relatório recente revelou que monitores LG estão instalando silenciosamente software por meio do Windows Update sem o consentimento do usuário, o que levanta preocupações sobre privacidade e segurança. Isso ocorre porque os monitores LG estão sendo reconhecidos pelo Windows como dispositivos que necessitam de drivers e software adicionais, que são então baixados e instalados automaticamente. É importante notar que essa instalação silenciosa pode ser um problema, pois os usuários não têm controle sobre o que está sendo instalado em seus computadores. Os usuários devem estar cientes disso e verificar suas configurações de atualização para ter mais controle sobre o que está sendo instalado.",
+      "en": "A recent report revealed that LG monitors are silently installing software through Windows Update without user consent, which raises concerns about privacy and security. This occurs because LG monitors are being recognized by Windows as devices that require additional drivers and software, which are then downloaded and installed automatically. It is essential to note that this silent installation can be a problem, as users have no control over what is being installed on their computers. Users should be aware of this and check their update settings to have more control over what is being installed.",
+      "score": 0.754
+    },
+    {
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Enfermeiros da Kaiser afirmam que a inteligência artificial e a vigilância estão piorando seus trabalhos e os cuidados com os pacientes, o que importa porque afeta a qualidade da atenção médica que os pacientes recebem. A inteligência artificial, que se refere à capacidade de máquinas realizar tarefas que normalmente exigem inteligência humana, como aprender e resolver problemas, está sendo usada em hospitais para automatizar certas tarefas, mas os enfermeiros relatam que isso pode levar a erros e falta de compreensão do contexto. Isso ocorre porque os sistemas de inteligência artificial dependem de dados e algoritmos, que podem não capturar a complexidade das necessidades dos pacientes. Além disso, a vigilância no local de trabalho pode criar um ambiente de estresse e medo entre os enfermeiros.",
+      "en": "Nurses at Kaiser say that artificial intelligence and surveillance are making their jobs and patient care worse, which matters because it affects the quality of medical attention that patients receive. Artificial intelligence, which refers to the ability of machines to perform tasks that normally require human intelligence, such as learning and problem solving, is being used in hospitals to automate certain tasks, but nurses report that this can lead to errors and a lack of understanding of context. This happens because artificial intelligence systems rely on data and algorithms, which may not capture the complexity of patient needs. Additionally, workplace surveillance can create an environment of stress and fear among nurses.",
+      "score": 0.731
+    },
+    {
+      "title": "v-modal/vmodal_sdk_flutter",
+      "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Uma nova biblioteca de software foi lançada no GitHub, chamada v-modal/vmodal_sdk_flutter, que permite a integração da tecnologia de busca da V-Modal AI em aplicativos móveis desenvolvidos com o framework Flutter. Isso é importante porque fornece uma maneira fácil de adicionar funcionalidades de busca avançada a esses aplicativos, permitindo que os usuários encontrem informações relevantes de forma rápida e eficiente. A biblioteca fornece uma interface de programação de aplicativos (API) que pode ser usada por desenvolvedores para incorporar a tecnologia de busca da V-Modal AI em seus aplicativos. Com isso, os desenvolvedores podem criar aplicativos mais intuitivos e fáceis de usar.",
+      "en": "A new software library has been released on GitHub, called v-modal/vmodal_sdk_flutter, which enables the integration of V-Modal AI's search technology into mobile apps developed with the Flutter framework. This matters because it provides an easy way to add advanced search functionality to these apps, allowing users to find relevant information quickly and efficiently. The library provides an application programming interface (API) that can be used by developers to incorporate V-Modal AI's search technology into their apps. With this, developers can create more intuitive and user-friendly applications.",
+      "score": 0.6874
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Uma equipe de pesquisadores utilizou o GPT-5.6, uma versão avançada do modelo de linguagem GPT, para resolver um problema de otimização convexa que permanecia sem solução por 30 anos, o que é significativo porque a otimização convexa é uma ferramenta fundamental em muitas áreas da ciência e engenharia, permitindo que os pesquisadores encontrem os melhores resultados possíveis em problemas complexos. A otimização convexa é um método que visa encontrar o mínimo ou máximo de uma função dentro de um conjunto de restrições, e é amplamente utilizada em campos como machine learning e análise de dados. O uso do GPT-5.6 para resolver esse problema demonstra o potencial dos modelos de linguagem para contribuir para avanços em áreas específicas da matemática. Isso pode levar a novos desenvolvimentos em áreas como inteligência artificial e ciência de dados.",
+      "en": "A team of researchers used GPT-5.6, an advanced version of the GPT language model, to solve a convex optimization problem that had gone unsolved for 30 years, which matters because convex optimization is a fundamental tool in many areas of science and engineering, allowing researchers to find the best possible outcomes in complex problems. Convex optimization is a method that aims to find the minimum or maximum of a function within a set of constraints, and is widely used in fields such as machine learning and data analysis. The use of GPT-5.6 to solve this problem demonstrates the potential of language models to contribute to advances in specific areas of mathematics, which may lead to new developments in areas like artificial intelligence and data science. This breakthrough highlights the growing role of machine learning in solving complex mathematical problems.",
+      "score": 0.7094
+    },
+    {
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial para a tarefa de image-text-to-text, que envolve a conversão de imagens e texto em saídas de texto, foi disponibilizado no Hugging Face, uma plataforma popular para compartilhamento de modelos de aprendizado de máquina. Esse modelo, chamado Qwythos-9B-Claude-Mythos-5-1M-GGUF, já recebeu 2327 likes e foi baixado mais de 2 milhões de vezes, o que indica seu potencial para aplicações práticas. A tarefa de image-text-to-text é um desafio complexo que exige a capacidade de processar e entender tanto imagens quanto texto, e then gerar respostas textuais relevantes. Isso pode ser útil em diversas áreas, como processamento de linguagem natural e visão computacional.",
+      "en": "A model for the image-text-to-text task, which involves converting images and text into text outputs, has been made available on Hugging Face, a popular platform for sharing machine learning models. This model, named Qwythos-9B-Claude-Mythos-5-1M-GGUF, has already received 2327 likes and been downloaded over 2 million times, indicating its potential for practical applications. The image-text-to-text task is a complex challenge that requires the ability to process and understand both images and text, and then generate relevant text responses. This can be useful in various areas, such as natural language processing and computer vision.",
+      "score": 0.6
+    },
+    {
+      "title": "conradlocke/krea2-identity-edit",
+      "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado krea2-identity-edit foi publicado na plataforma Hugging Face, uma comunidade popular para compartilhar e descobrir modelos de aprendizado de máquina. Esse modelo é projetado para realizar tarefas de edição de identidade, que envolvem alterar ou manipular características de imagens ou vídeos. A plataforma Hugging Face permite que desenvolvedores e pesquisadores compartilhem e acessem uma ampla variedade de modelos de inteligência artificial, facilitando a colaboração e o avanço nessa área. Com 407 likes e 0 downloads, o modelo krea2-identity-edit ainda não foi amplamente adotado, mas sua presença na plataforma pode ser um indicador de interesse crescente em tarefas de edição de identidade.",
+      "en": "A machine learning model called krea2-identity-edit has been published on the Hugging Face platform, a popular community for sharing and discovering machine learning models. This model is designed to perform identity editing tasks, which involve altering or manipulating characteristics of images or videos. The Hugging Face platform allows developers and researchers to share and access a wide range of artificial intelligence models, facilitating collaboration and advancement in this field. With 407 likes and 0 downloads, the krea2-identity-edit model has not yet been widely adopted, but its presence on the platform may be an indicator of growing interest in identity editing tasks.",
+      "score": 0.4377
+    },
+    {
+      "title": "AngelSlim/Hy3-GGUF",
+      "url": "https://huggingface.co/AngelSlim/Hy3-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem chamado AngelSlim/Hy3-GGUF foi publicado no Hugging Face, uma plataforma popular para compartilhar e descobrir modelos de inteligência artificial, e isso é importante porque demonstra o interesse crescente na geração de texto automatizada. Esse modelo específico foi projetado para a tarefa de text-generation, que é o processo de criar texto a partir de um conjunto de regras ou padrões, e isso pode ser útil para aplicativos como resumo de textos ou criação de conteúdo. O modelo recebeu 131 likes e foi baixado 109749 vezes, o que indica sua popularidade e utilidade. A geração de texto é uma técnica de processamento de linguagem natural que permite que os computadores criem texto que parece ter sido escrito por humanos.",
+      "en": "A language model called AngelSlim/Hy3-GGUF was published on Hugging Face, a popular platform for sharing and discovering artificial intelligence models, and this matters because it shows the growing interest in automated text generation. This specific model was designed for the task of text-generation, which is the process of creating text from a set of rules or patterns, and this can be useful for applications such as text summarization or content creation. The model received 131 likes and was downloaded 109749 times, which indicates its popularity and usefulness. Text generation is a natural language processing technique that allows computers to create text that appears to have been written by humans.",
+      "score": 0.4066
+    },
+    {
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um projeto de código aberto chamado Transcribe.cpp foi lançado, o que é notável porque oferece uma solução de transcrição de áudio para texto utilizando técnicas de processamento de linguagem natural, que é um campo da inteligência artificial que permite que os computadores entendam e gerenciem linguagem humana. Isso importa porque pode ser útil para pessoas que precisam transcrever áudios ou vídeos, como jornalistas ou pesquisadores. O projeto está disponível no link fornecido, onde os desenvolvedores podem encontrar mais informações sobre como utilizar e contribuir para o Transcribe.cpp. A utilização de técnicas de processamento de linguagem natural torna o Transcribe.cpp uma ferramenta poderosa para a transcrição de áudio.",
+      "en": "A new open source project called Transcribe.cpp has been released, which is notable because it offers an audio to text transcription solution using natural language processing techniques, a field of artificial intelligence that allows computers to understand and manage human language. This matters because it can be useful for people who need to transcribe audio or video, such as journalists or researchers. The project is available at the provided link, where developers can find more information on how to use and contribute to Transcribe.cpp. The use of natural language processing techniques makes Transcribe.cpp a powerful tool for audio transcription.",
+      "score": 0.7303
+    },
+    {
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um projeto chamado Regressive JPEGs está chamando a atenção por sua abordagem peculiar em compactar imagens, utilizando uma técnica que reduz a qualidade da imagem de forma incremental, o que pode ser útil para entender como as imagens são comprimidas e como isso afeta a percepção visual. Isso importa porque nos permite explorar os limites da compressão de imagens e como diferentes algoritmos de compressão podem afetar a qualidade da imagem. A compressão de imagem é um processo que reduz o tamanho de um arquivo de imagem, tornando-o mais fácil de armazenar e transmitir, e é frequentemente realizada usando algoritmos como o JPEG, que utilizam uma combinação de técnicas de compressão para reduzir a quantidade de dados necessários para representar a imagem. Ao entender melhor como esses algoritmos funcionam, podemos desenvolver métodos mais eficazes de compressão de imagem.",
+      "en": "A project called Regressive JPEGs is gaining attention for its unusual approach to image compression, using a technique that incrementally reduces image quality, which can be useful for understanding how images are compressed and how this affects visual perception. This matters because it allows us to explore the limits of image compression and how different compression algorithms can affect image quality. Image compression is a process that reduces the size of an image file, making it easier to store and transmit, and is often performed using algorithms such as JPEG, which use a combination of compression techniques to reduce the amount of data needed to represent the image. By better understanding how these algorithms work, we can develop more effective methods of image compression.",
+      "score": 0.7044
+    },
+    {
+      "title": "BYD domina lista de elétricos usados mais baratos de 2026",
+      "url": "https://canaltech.com.br/carros/byd-domina-lista-de-eletricos-usados-mais-baratos-de-2026/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, o mercado de carros elétricos usados tornou-se mais acessível, com opções atraentes para aqueles que não podem investir em um modelo novo. Isso ocorre porque o crescimento das vendas de elétricos novos em 2024 aumentou a frota circulante, resultando em uma maior disponibilidade de seminovos, o que permite que os consumidores migrem para a mobilidade elétrica sem gastar tanto, aproveitando preços competitivos e garantias de fábrica para baterias. A BYD está liderando a lista de elétricos usados mais baratos de 2026, oferecendo uma opção econômica para os consumidores. Além da economia inicial, os elétricos usados também oferecem vantagens como menor custo de manutenção.",
+      "en": "Recently, the used electric car market has become more accessible, with attractive options for those who cannot invest in a new model. This is because the growth in sales of new electric vehicles in 2024 increased the circulating fleet, resulting in a greater availability of used cars, allowing consumers to switch to electric mobility without spending too much, taking advantage of competitive prices and manufacturer warranties for batteries. BYD is leading the list of the cheapest used electric vehicles in 2026, providing an economical option for consumers. In addition to the initial savings, used electric vehicles also offer advantages such as lower maintenance costs.",
+      "score": 0.3999
+    },
+    {
+      "title": "Fire TV Stick em promoção: encontre o modelo ideal para transformar sua TV",
+      "url": "https://olhardigital.com.br/2026/07/19/reviews/fire-tv-stick-em-promocao-encontre-o-modelo-ideal-para-transformar-sua-tv/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, a Amazon lançou uma promoção para os dispositivos Fire TV Stick, o que pode ser um bom momento para atualizar o seu setup de streaming. Isso importa porque os Fire TV Stick podem transformar qualquer TV em uma plataforma de entretenimento moderna, com acesso a uma variedade de serviços de streaming. Os modelos disponíveis variam do Fire TV Stick HD, que é mais acessível, até o modelo 4K com suporte a Dolby Vision e wi-fi 6, oferecendo opções para diferentes necessidades e orçamentos. Com essas opções, os usuários podem escolher o modelo que melhor se adapta às suas necessidades de streaming.",
+      "en": "Recently, Amazon launched a promotion for Fire TV Stick devices, which could be a good time to upgrade your streaming setup. This matters because Fire TV Sticks can turn any TV into a modern entertainment platform, with access to a variety of streaming services. The available models range from the more affordable Fire TV Stick HD to the 4K model with Dolby Vision and wi-fi 6 support, offering options for different needs and budgets. With these options, users can choose the model that best fits their streaming needs.",
+      "score": 0.3992
+    },
+    {
+      "title": "Coming Back to Writing - and My First Cybersecurity Project",
+      "url": "https://dev.to/mabdullah06/coming-back-to-writing-and-my-first-cybersecurity-project-3kp5",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um desenvolvedor retornou a escrever sobre suas experiências, após um hiato, e escolheu compartilhar seu primeiro projeto de cibersegurança, um pequeno ferramenta de nível iniciante. Isso importa porque mostra como a documentação do processo de aprendizado pode ser mais valiosa do que apenas anunciar o lançamento de um produto. O autor, que vem de uma background de desenvolvimento full-stack, quer resgatar o hábito de registrar suas experiências, destacando a importância da reflexão e do registro do processo de aprendizado. Ao compartilhar suas primeiras experiências em cibersegurança, o autor nos lembra que a aprendizagem contínua é fundamental para o crescimento profissional.",
+      "en": "A developer has returned to writing about their experiences, after a hiatus, and has chosen to share their first cybersecurity project, a small beginner-level tool. This matters because it shows how documenting the learning process can be more valuable than just announcing a product launch. The author, who comes from a full-stack development background, wants to revive the habit of documenting their experiences, highlighting the importance of reflection and recording the learning process. By sharing their early experiences in cybersecurity, the author reminds us that continuous learning is essential for professional growth.",
+      "score": 0.3985
+    },
+    {
+      "title": "Week 21:- Every Student Has Their Own Breaking Point",
+      "url": "https://dev.to/baint_computer_1b47584c10/week-21-every-student-has-their-own-breaking-point-okm",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Esta semana nos lembrou por que construir BAINT é diferente, pois ao invés de tentar adivinhar as necessidades dos estudantes, perguntamos diretamente a eles. Um estudante de Geoinformática e Levantamento nos disse que o cálculo de ajuste foi o curso mais difícil devido às complexas operações matemáticas, e que ter acesso às fórmulas facilitaria o aprendizado. Já um estudante de Ciência da Computação teve uma perspectiva diferente, afirmando que o difícil não era o conceito de HTML, mas sim a quantidade de linhas de código necessárias para exibir algo pequeno.",
+      "en": "This week reminded us why building BAINT is different, as instead of trying to guess what students need, we ask them directly. A Survey and Geoinformatics student told us that Adjustment Computation was the hardest course due to the complex mathematical calculations, and that having access to formulas would make learning easier. A Computer Science student had a different perspective, stating that HTML was not difficult because of the concepts, but rather because writing a large amount of code to display something small felt overwhelming.",
+      "score": 0.3497
+    },
+    {
+      "title": "What 25 Years Built · Sole-Prop Lessons Learned",
+      "url": "https://dev.to/brett_zandes_5c560d9b6027/what-25-years-built-sole-prop-lessons-learned-35m9",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um empresário compartilhou lições aprendidas após 25 anos construindo uma empresa individual de mais de 2 milhões de dólares, utilizando sistemas desenvolvidos em tempo real com clientes reais. Essa experiência foi distilada em um produto chamado Boxed Business, que oferece um plano de negócios prático sem caminhos complicados ou ofertas adicionais. O sistema aborda temas como contatos pessoais, networking natural, referências em tempo real e ausência de anúncios pagos. Isso pode ser útil para empreendedores que buscam estratégias comprovadas para crescer seus negócios.",
+      "en": "An entrepreneur has shared lessons learned after 25 years of building a sole proprietorship worth over 2 million dollars, using systems developed in real-time with real customers. This experience has been distilled into a product called Boxed Business, which offers a practical business playbook without complicated sales funnels or upsells. The system covers topics such as personal contacts, natural networking, real-time referrals, and the absence of paid advertisements. This can be useful for entrepreneurs looking for proven strategies to grow their businesses.",
+      "score": 0.347
+    },
+    {
+      "title": "JavaScript Guess the Output Challenges",
+      "url": "https://dev.to/amitkumar13/javascript-guess-the-output-challenges-1f6k",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um desafio de programação em JavaScript foi lançado, onde os participantes precisam prever a saída exata de um trecho de código, erro ou ordem de execução, sem executar o código antes de escolher uma opção. Isso é importante porque ajuda a avaliar a compreensão dos conceitos de linguagem, como coerção de strings, que ocorre quando o JavaScript tenta converter um valor de um tipo para outro, como de número para string. Os desafios seguirão o formato de cartões de entrevista, onde o participante lê o código, escolhe uma opção e só então pode ver a explicação. Os desafios também abordarão tópicos como event-loop e referências, que são fundamentais para entender o comportamento do JavaScript em aplicações de interface de usuário.",
+      "en": "A JavaScript programming challenge has been released, where participants must predict the exact output of a code snippet, error, or execution order, without running the code before choosing an option. This matters because it helps assess understanding of language concepts, such as string coercion, which occurs when JavaScript tries to convert a value from one type to another, like from number to string. The challenges will follow an interview-card format, where the participant reads the code, chooses an option, and only then can view the explanation. The challenges will also cover topics like event-loop and references, which are crucial to understanding JavaScript behavior in user interface applications.",
+      "score": 0.3464
+    },
+    {
+      "title": "ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors",
+      "url": "https://arxiv.org/abs/2607.15246v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram o ARMOR++, um framework multi-agente robusto projetado para evasão de detecção de deepfakes de alta transferibilidade, que pode ser usado para testar a segurança de detecção de deepfakes em diferentes cenários, o que é importante porque os detecção de deepfakes frequentemente perdem a eficácia em ataques adversários, os quais exploram vulnerabilidades nos modelos de detecção, como a dependência de pistas forenses frágeis e dependentes da arquitetura, o framework ARMOR++ utiliza o modelo de visão-linguagem Qwen2.5-VL para fornecer priores semânticos espaciais, enquanto o modelo de linguagem grande Qwen3 orquestra a seleção de primitivas, a reparametrização de hiperparâmetros adaptativa e a regularização de entropia. Isso permite que o ARMOR++ seja mais eficaz em ataques de transferência, mesmo em condições de restrição de consulta, o que é um desafio para os ataques de transferência existentes, os quais frequentemente carecem de consciência semântica e lutam para manter a eficácia quando as perturbações são transferidas de surrogados convolucionais para alvos baseados em transformadores.",
+      "en": "Researchers have introduced ARMOR++, a robust multi-agent framework designed for high-transferability deepfake evasion, which can be used to test the security of deepfake detection in various scenarios, and this matters because deepfake detectors often lose effectiveness in adversarial attacks, which exploit vulnerabilities in the detection models, such as their reliance on fragile, architecture-dependent forensic cues, the ARMOR++ framework utilizes the Qwen2.5-VL Vision-Language Model (VLM) to provide spatial semantic priors, while the Qwen3 Large Language Model (LLM) orchestrates primitive selection, adaptive hyperparameter reparameterization, and entropy regularization. This allows ARMOR++ to be more effective in transfer attacks, even under strict no-query constraints, which is a challenge for existing transfer attacks, that often lack semantic awareness and struggle to maintain effectiveness when perturbations are transferred from convolutional surrogates to transformer-based targets.",
+      "score": 0.3815
+    },
+    {
+      "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+      "url": "https://arxiv.org/abs/2607.15277v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores publicaram um estudo no arXiv que investiga a autoconsistência estatística em modelos de linguagem, o que é importante porque esses modelos são cada vez mais usados em aplicações práticas. A autoconsistência estatística se refere à capacidade do modelo de produzir estimativas que atendam a identidades probabilísticas básicas, como a lei da probabilidade total. Os autores usaram árvores binárias para dividir a população em subpopulações cada vez mais detalhadas e então avaliaram as estimativas do modelo de linguagem em relação a essas subpopulações. Isso permite entender como os modelos de linguagem lidam com a inferência condicional e a agregação de distribuições condicionais.",
+      "en": "Researchers published a study on arXiv that investigates statistical self-consistency in language models, which matters because these models are increasingly used in practical applications. Statistical self-consistency refers to the model's ability to produce estimates that satisfy basic probabilistic identities, such as the law of total probability. The authors used binary trees to partition the population into increasingly fine-grained subpopulations and then evaluated the language model's estimates with respect to these subpopulations. This allows us to understand how language models handle conditional inference and the aggregation of conditional distributions.",
+      "score": 0.3319
+    },
+    {
+      "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
+      "url": "https://arxiv.org/abs/2607.15265v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram o SceneBind, uma representação omni-modal de cenas realistas que combina compreensão semântica e espacial 3D across visão, áudio e linguagem. Isso é importante porque os codificadores omni-modais existentes são bons em semântica de nível de instância, mas muitas vezes carecem de estrutura espacial explícita, ou seja, eles sabem o que está presente, mas não onde exatamente. O SceneBind aborda essa lacuna representando cada cena como uma entidade semântico-espacial, combinando um embedding semântico global com slots semântico-espaciais centrados em objetos. Essa representação captura explicitamente a semântica de nível de objeto, atributos espaciais e incerteza.",
+      "en": "Researchers introduced SceneBind, an omni-modal representation of realistic scenes that combines semantic and 3D spatial understanding across vision, audio, and language. This matters because existing omni-modal encoders excel at instance-level semantics, but often lack explicit spatial structure, meaning they know what is present, but not exactly where. SceneBind addresses this gap by representing each scene as a semantic-spatial entity, combining a global semantic embedding with object-centric semantic-spatial slots. This representation explicitly captures object-level semantics, spatial attributes, and uncertainty.",
+      "score": 0.3318
+    },
+    {
+      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+      "url": "https://arxiv.org/abs/2607.15257v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores recentemente desenvolveram o SearchOS-V1, um sistema que busca melhorar a colaboração entre agentes de busca de informações em domínios abertos. Isso é importante porque os atuais sistemas de busca, incluindo os que utilizam modelos de linguagem grandes integrados a ferramentas, podem se perder em loops repetitivos e desperdiçar orçamentos de busca quando não conseguem encontrar evidências úteis. O SearchOS-V1 aborda esse problema tornando o progresso da busca explícito e compartilhado entre os agentes, o que pode melhorar a qualidade e a completude dos resultados finais. Com isso, os agentes podem descobrir entidades, preencher atributos em tabelas vinculadas e ancorar cada descoberta com citações concretas.",
+      "en": "Researchers have recently developed SearchOS-V1, a system designed to improve collaboration among information-seeking agents in open domains. This matters because current search systems, including those using tool-integrated large language models, can get stuck in repetitive loops and waste search budgets when they fail to find useful evidence. SearchOS-V1 addresses this issue by making search progress explicit and shared among agents, which can improve the quality and completeness of the final output. By doing so, agents can discover entities, populate attributes across linked tables, and anchor each discovery with grounded citations.",
+      "score": 0.3317
+    },
+    {
+      "title": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto foi lançado no GitHub, chamado yoinks, que permite ao usuário baixar vídeos de sua linha de comando, sem a necessidade de lidar com anúncios suspeitos. Isso é particularmente útil para aqueles que desejam evitar a publicidade intrusiva encontrada em muitos sites de download de vídeo. O projeto yoinks é uma ferramenta de linha de comando que pode ser usada para baixar vídeos de forma rápida e segura. Com essa ferramenta, os usuários podem ter mais controle sobre o conteúdo que baixam.",
+      "en": "A new project has been launched on GitHub, called yoinks, which allows users to download videos from their command line, without having to deal with shady ads. This is particularly useful for those who want to avoid the intrusive advertising found on many video download sites. The yoinks project is a command line tool that can be used to download videos quickly and securely, giving users more control over the content they download. With this tool, users can easily retrieve videos from their terminal.",
+      "score": 0.6624
+    },
+    {
+      "title": "stackblitz/bolt-slides",
+      "url": "https://github.com/stackblitz/bolt-slides",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A equipe do Stackblitz lançou o bolt-slides, uma ferramenta no GitHub que permite criar apresentações interativas e personalizadas, utilizando qualquer agente. Isso importa porque as apresentações interativas podem melhorar a experiência de aprendizado e engajamento do público. O bolt-slides pode ser usado para criar slides dinâmicos, com recursos como código executável e visualização de dados em tempo real. Com essa ferramenta, os usuários podem criar apresentações mais atraentes e eficazes.",
+      "en": "The Stackblitz team has released bolt-slides, a tool on GitHub that allows users to create interactive and customized presentations using any agent. This matters because interactive presentations can enhance the learning experience and audience engagement. Bolt-slides can be used to create dynamic slides, with features such as executable code and real-time data visualization. With this tool, users can create more engaging and effective presentations.",
+      "score": 0.6135
+    }
+  ]
+}
