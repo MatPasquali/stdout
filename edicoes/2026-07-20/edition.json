@@ -1,0 +1,226 @@
+{
+  "date": "2026-07-20",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um repositório no GitHub foi criado por Ryan Lopopolo, que reúne uma antologia, um guia de campo e um conjunto de contextos de agente para engenharia de harness, o que importa porque fornece uma coleção valiosa de recursos para engenheiros que trabalham com sistemas de harness, que são conjuntos de componentes que trabalham juntos para fornecer uma funcionalidade específica, como um sistema de suspensão em veículos. A engenharia de harness envolve o projeto e desenvolvimento desses sistemas, e esse repositório pode ser útil para profissionais que buscam melhorar suas habilidades nessa área. O repositório inclui uma variedade de recursos, incluindo guias, tutoriais e exemplos de códigos, que podem ser úteis para engenheiros que estão começando a trabalhar com engenharia de harness ou que buscam aprimorar suas habilidades.",
+      "en": "A GitHub repository was created by Ryan Lopopolo, which brings together an anthology, a field guide, and an agent context bundle for harness engineering, which matters because it provides a valuable collection of resources for engineers working with harness systems, which are sets of components that work together to provide a specific functionality, such as a suspension system in vehicles. Harness engineering involves the design and development of these systems, and this repository can be useful for professionals looking to improve their skills in this area. The repository includes a variety of resources, including guides, tutorials, and code examples, that can be useful for engineers who are just starting to work with harness engineering or who are looking to improve their skills.",
+      "score": 0.7672
+    },
+    {
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um usuário do Hacker News substituiu um sistema de centro de boliche que custava 120 mil dólares por uma solução que utiliza módulos ESP32, que são pequenos microcontroladores de código aberto baseados em Wi-Fi, por um custo total de 1.600 dólares. Isso é notável porque mostra como tecnologias acessíveis e personalizadas podem substituir sistemas caros e proprietários. O ESP32 é um microcontrolador que pode ser programado para realizar uma variedade de tarefas, desde controle de dispositivos até coleta de dados. Essa substituição é um exemplo de como a inovação e a criatividade podem levar a soluções mais acessíveis e eficientes.",
+      "en": "A Hacker News user replaced a 120 thousand dollar bowling center system with a solution that utilizes ESP32 modules, which are small open-source Wi-Fi based microcontrollers, for a total cost of 1,600 dollars. This is notable because it shows how affordable and customized technologies can replace expensive and proprietary systems. The ESP32 is a microcontroller that can be programmed to perform a variety of tasks, from device control to data collection. This replacement is an example of how innovation and creativity can lead to more accessible and efficient solutions.",
+      "score": 0.7596
+    },
+    {
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A prefeitura de Nova York está considerando uma lei que exige que proprietários e corretores de imóveis divulguem o uso de inteligência artificial em anúncios de propriedades, o que pode ter um impacto significativo na transparência do mercado imobiliário. Isso significa que os consumidores terão mais informações sobre as imagens e descrições de propriedades que estão vendo, pois a inteligência artificial pode ser usada para criar imagens realistas de espaços que não existem exatamente como são apresentados. A inteligência artificial, ou IA, refere-se a sistemas de computador que podem aprender e realizar tarefas que normalmente exigiriam a inteligência humana, como criar imagens realistas. Essa mudança é importante porque pode ajudar a proteger os consumidores contra práticas desonestas de marketing.",
+      "en": "The city of New York is considering a law that would require landlords and real estate agents to disclose the use of artificial intelligence in property listings, which could have a significant impact on the transparency of the real estate market. This means that consumers will have more information about the images and descriptions of properties they are seeing, since artificial intelligence can be used to create realistic images of spaces that do not exist exactly as they are presented. Artificial intelligence, or AI, refers to computer systems that can learn and perform tasks that would normally require human intelligence, such as creating realistic images. This change is important because it could help protect consumers from deceptive marketing practices.",
+      "score": 0.6854
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Claude Code agora utiliza o Bun, que foi escrito em Rust, o que é notável porque o Rust é uma linguagem de programação que prioriza a segurança e a performance, permitindo que os desenvolvedores criem aplicativos robustos e eficientes. Isso é importante porque mostra como a indústria de tecnologia está adotando linguagens de programação mais seguras e eficientes. O Bun é um runtime de JavaScript que permite que os desenvolvedores criem aplicativos web rápidos e escaláveis. A escolha da Claude Code em utilizar o Bun em Rust reflete a tendência da indústria em buscar soluções mais seguras e performáticas.",
+      "en": "Claude Code now uses Bun, which was written in Rust, a programming language that prioritizes security and performance, allowing developers to create robust and efficient applications. This matters because it shows how the tech industry is adopting safer and more efficient programming languages. Bun is a JavaScript runtime that enables developers to create fast and scalable web applications. Claude Code's choice to use Bun in Rust reflects the industry's trend of seeking more secure and performant solutions.",
+      "score": 0.6551
+    },
+    {
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "A equipe do Hugging Face apresentou o modelo baidu/Unlimited-OCR, uma ferramenta de reconhecimento óptico de caracteres (OCR) que converte imagens em texto, com uma aplicação prática na tarefa de image-text-to-text. Isso é importante porque permite a extração de informações de imagens e documentos digitalizados, tornando-os mais acessíveis e úteis. O modelo já recebeu 2317 likes e teve mais de 2 milhões de downloads, demonstrando sua utilidade e popularidade. Com essa tecnologia, é possível automatizar a leitura e interpretação de textos em imagens, melhorando a eficiência em diversas aplicações.",
+      "en": "The Hugging Face team introduced the baidu/Unlimited-OCR model, an optical character recognition (OCR) tool that converts images into text, with a practical application in the image-text-to-text task. This matters because it enables the extraction of information from images and digitized documents, making them more accessible and useful. The model has already received 2317 likes and had over 2 million downloads, demonstrating its usefulness and popularity. With this technology, it is possible to automate the reading and interpretation of text in images, improving efficiency in various applications.",
+      "score": 0.6
+    },
+    {
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "source": "Ars Technica",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Recentemente, Vinay Perneti, da Augment Code, discutiu a importância de uma estrutura de codificação enriquecida com contexto, que vá além da simples busca por padrões, como o grep, e integre modelos de inteligência artificial para melhorar a produtividade dos desenvolvedores, o que pode ser especialmente útil para lidar com códigos complexos e grandes bases de dados. Isso pode melhorar a capacidade dos desenvolvedores de encontrar e corrigir problemas rapidamente. A ideia é criar uma ferramenta que forneça contexto e soluções personalizadas, em vez de apenas resultados de busca. Essa abordagem pode revolucionar a forma como os desenvolvedores trabalham com código.",
+      "en": "Recently, Vinay Perneti from Augment Code discussed the importance of a context-rich coding harness that goes beyond simple pattern searching, like grep, and integrates artificial intelligence models to improve developer productivity, which can be especially useful for dealing with complex code and large databases. This can improve developers' ability to find and fix problems quickly. The idea is to create a tool that provides context and personalized solutions, rather than just search results. This approach can revolutionize the way developers work with code.",
+      "score": 0.3965
+    },
+    {
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A China acaba de desferir um golpe duplo na dominância dos EUA em inteligência artificial, com as principais empresas de IA do país, como a Moonshot e a Alibaba, lançando modelos que afirmam ser capazes de rivalizar com os melhores da OpenAI e da Anthropic por uma fração do custo, o que significa que a liderança americana na fronteira da IA está se tornando cada vez mais apertada. Isso ocorre porque esses modelos podem ser utilizados para diversas aplicações, como processamento de linguagem natural, que é a capacidade de um computador entender e gerar linguagem humana. A inteligência artificial, ou IA, refere-se à criação de sistemas de computador capazes de realizar tarefas que normalmente requerem inteligência humana, como aprender, raciocinar e resolver problemas.",
+      "en": "China has just delivered a one-two punch to America's AI dominance, with the country's leading AI companies, such as Moonshot and Alibaba, unveiling models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost, which means America's lead at the AI frontier is becoming increasingly tight. This matters because these models can be used for various applications, such as natural language processing, which is the ability of a computer to understand and generate human language. Artificial intelligence, or AI, refers to the creation of computer systems capable of performing tasks that normally require human intelligence, such as learning, reasoning, and problem-solving.",
+      "score": 0.3946
+    },
+    {
+      "title": "Qwen 3.8",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A versão 3.8 do Qwen foi lançada, o que é notável porque marca uma atualização significativa no produto, que pode ser um sistema de gerenciamento ou plataforma, embora os detalhes específicos sejam desconhecidos. Isso importa porque as atualizações de software podem trazer melhorias de segurança, correções de bugs e novos recursos, tornando o produto mais confiável e eficaz. Como não há informações adicionais disponíveis, é difícil determinar o impacto exato dessa atualização. A falta de contexto torna necessário buscar mais informações para entender as implicações da versão 3.8 do Qwen.",
+      "en": "The Qwen 3.8 version has been released, which is notable because it marks a significant update to the product, which may be a management system or platform, although specific details are unknown. This matters because software updates can bring security improvements, bug fixes, and new features, making the product more reliable and effective. As there is no additional information available, it is difficult to determine the exact impact of this update. The lack of context makes it necessary to seek more information to understand the implications of Qwen version 3.8.",
+      "score": 0.683
+    },
+    {
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um blogueiro publicou um artigo intitulado O Momento Kimi K3, que discute um conceito interessante, embora o conteúdo específico do artigo não esteja claro. O que parece ser um momento ou evento específico chamado de Kimi K3 foi abordado, mas sem mais detalhes. Isso pode ser um tópico técnico ou uma referência a um evento, e para entender melhor, seria necessário mais contexto. O artigo pode ser encontrado no link fornecido para aqueles que desejam saber mais sobre o assunto.",
+      "en": "A blogger published an article titled The Kimi K3 Moment, which discusses an interesting concept, although the specific content of the article is not clear. What appears to be a specific moment or event called the Kimi K3 was addressed, but without further details. This could be a technical topic or a reference to an event, and to understand it better, more context would be needed. The article can be found at the provided link for those who want to learn more about the subject.",
+      "score": 0.6309
+    },
+    {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um projeto de código aberto no GitHub, chamado Moonshine, desenvolveu um sistema de reconhecimento de fala e síntese de fala (TTS) que pode ser executado em dispositivos com recursos limitados, pois seu tamanho é inferior a 500kb, o que é notável, pois a maioria dos sistemas de reconhecimento de fala requerem grandes quantidades de dados e recursos computacionais. Isso é possível devido ao uso de algoritmos de aprendizado de máquina leves e técnicas de compressão de modelos. O sistema pode ser útil em aplicações de Internet das Coisas (IoT) e em dispositivos móveis. O projeto é um exemplo de como a inteligência artificial pode ser aplicada em dispositivos com recursos limitados.",
+      "en": "A open-source project on GitHub, called Moonshine, has developed a speech recognition and text-to-speech (TTS) system that can run on devices with limited resources, as its size is under 500kb, which is notable, since most speech recognition systems require large amounts of data and computational resources. This is made possible by the use of lightweight machine learning algorithms and model compression techniques. The system can be useful in Internet of Things (IoT) applications and mobile devices, where resources are limited. The project is an example of how artificial intelligence can be applied to devices with limited capabilities.",
+      "score": 0.4567
+    },
+    {
+      "title": "Dobrável \"em forma de passaporte\" pode superar modelo comum da Samsung",
+      "url": "https://canaltech.com.br/smartphone/dobravel-em-forma-de-passaporte-pode-superar-modelo-comum-da-samsung/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Samsung pode estar planejando uma mudança significativa em sua linha de smartphones dobráveis, com o Galaxy Z Fold 8 Wide, que tem um formato semelhante ao de um passaporte, podendo superar o modelo comum da empresa. Isso é importante porque o modelo Wide pode ter uma produção maior, com 2,8 milhões de unidades, em comparação com os 2 milhões previstos para o Galaxy Z Fold 8 Ultra, que geralmente é considerado o produto mais avançado da linha. O aumento da produção pode ser um sinal de que a empresa está apostando mais no formato de passaporte, que pode oferecer mais espaço de tela e mais funcionalidades para os usuários. A produção inicial do Galaxy Z Fold 8 Wide e outros modelos ainda não foi confirmada pela Samsung.",
+      "en": "Samsung may be planning a significant shift in its line of foldable smartphones, with the Galaxy Z Fold 8 Wide, which has a passport-like shape, potentially outperforming the company's standard model. This matters because the Wide model may have a higher production volume, with 2.8 million units, compared to the 2 million units expected for the Galaxy Z Fold 8 Ultra, which is typically considered the most advanced product in the line. The increased production may be a sign that the company is betting more on the passport-like format, which can offer more screen space and features for users. The initial production of the Galaxy Z Fold 8 Wide and other models has not been confirmed by Samsung yet.",
+      "score": 0.3993
+    },
+    {
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Pesquisadores descobriram que inteligência artificial (IA) é mais propensa a formar viés do que seres humanos durante o processo de contratação, o que é preocupante considerando que muitas empresas estão começando a utilizar IA para selecionar currículos antes mesmo de um humano os ver. Isso ocorre porque os modelos de linguagem grandes (LLMs) podem aprender e reproduzir viés de seus dados de treinamento, e também desenvolver seus próprios viés de forma independente. Essa descoberta é importante porque pode afetar a equidade no mercado de trabalho. A IA pode ser influenciada por seus dados de treinamento, que podem conter viés, e isso pode levar a decisões injustas durante o processo de contratação.",
+      "en": "Researchers have found that artificial intelligence (AI) is more likely to form biases than humans during the hiring process, which is concerning given that many companies are starting to use AI to screen resumes before a human sees them. This occurs because large language models (LLMs) can learn and replicate biases from their training data, and also develop their own biases independently. This discovery is important because it can affect fairness in the job market. AI can be influenced by its training data, which may contain biases, and this can lead to unfair decisions during the hiring process.",
+      "score": 0.4417
+    },
+    {
+      "title": "AI Coding Agents Can Make Junior Developers Faster. Can They Still Make Them Better?",
+      "url": "https://dev.to/balrajola/ai-coding-agents-can-make-junior-developers-faster-can-they-still-make-them-better-38gl",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, foi discutido como agentes de codificação de inteligência artificial podem ajudar desenvolvedores júnior a entregar projetos mais rapidamente, mas também pode haver um custo oculto: atrasar o desenvolvimento de habilidades seniores. Isso ocorre porque esses agentes, embora excelentes em remover trabalho repetitivo, explorar códigos desconhecidos e escrever testes, não substituem a aprendizagem prática que vem de cometer erros e aprender com eles. A habilidade em engenharia de software é construída mediante uma combinação de experiências, incluindo depurar códigos e aprender com a documentação. Portanto, é importante considerar como esses agentes podem ser utilizados para apoiar o crescimento dos desenvolvedores, em vez de apenas aumentar sua velocidade.",
+      "en": "Recently, it was discussed how artificial intelligence coding agents can help junior developers deliver projects more quickly, but there may be a hidden cost: slowing down the development of senior skills. This occurs because these agents, although excellent at removing repetitive work, exploring unfamiliar code, and writing tests, do not replace the practical learning that comes from making mistakes and learning from them. Software engineering skill is built through a combination of experiences, including debugging code and learning from documentation. Therefore, it is important to consider how these agents can be used to support the growth of developers, rather than just increasing their speed.",
+      "score": 0.3997
+    },
+    {
+      "title": "Why the skills-first CV breaks text extraction, and what parses cleanly",
+      "url": "https://dev.to/cvpilot/why-the-skills-first-cv-breaks-text-extraction-and-what-parses-cleanly-2nkf",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, foi descoberto que os currículos que priorizam as habilidades em detrimento da experiência cronológica podem causar problemas na extração de texto por sistemas de rastreamento de candidatos, pois esses sistemas dependem de uma estrutura cronológica para reconstruir a história de emprego de um candidato. Isso ocorre porque esses sistemas geralmente seguem um formato de layout específico, como uma coluna única e um arquivo do tipo .docx, para extrair o texto de forma limpa e estruturada. Layouts de duas colunas, detalhes de contato no cabeçalho e arquivos PDF criados com ferramentas de design são comuns pontos de falha nesse processo.",
+      "en": "Recently, it was discovered that skills-first resumes can cause problems with text extraction by applicant tracking systems, as these systems rely on a chronological structure to reconstruct a candidate's employment history. This is because these systems typically follow a specific layout format, such as a single column and a .docx file, to extract text in a clean and structured way. Two-column layouts, contact details in the header, and design-tool generated PDFs are common failure points in this process.",
+      "score": 0.3494
+    },
+    {
+      "title": "Job Hunting Is a Job Nobody Pays You For",
+      "url": "https://dev.to/beyond_code7a733987/job-hunting-is-a-job-nobody-pays-you-for-33bj",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Na segunda-feira de manhã, muitas pessoas se veem diante de uma rotina familiar: abrir o laptop, com um café ao lado, e começar a procurar emprego em sites como o LinkedIn e portais de vagas. Isso pode levar a uma jornada de aplicação para várias vagas antes do almoço, sem garantia de que esses esforços resultarão em oportunidades no futuro. Essa realidade é frequentemente descrita como \"encontrar um emprego é um trabalho em tempo integral\", pois exige dedicação constante, sem remuneração ou benefícios, como fins de semana livres ou férias anuais. Isso destaca a importância de entender que a procura por emprego é um processo complexo que vai além de apenas clicar em \"aplicar\".",
+      "en": "On Monday morning, many people find themselves facing a familiar routine: opening their laptop, with a cup of coffee beside them, and starting their job search on sites like LinkedIn and job portals. This can lead to a journey of applying for several positions before lunch, with no guarantee that these efforts will result in future opportunities. This reality is often described as \"finding a job is a full-time job\", because it requires constant dedication, without pay or benefits, such as weekends off or annual leave. This highlights the importance of understanding that job hunting is a complex process that involves more than just clicking \"apply\".",
+      "score": 0.3491
+    },
+    {
+      "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
+      "url": "https://arxiv.org/abs/2607.16193v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um novo benchmark chamado UAV-DualCog foi criado para avaliar a capacidade de modelos de linguagem multimodais grandes (MLLMs) em cenários aéreos, especificamente em tarefas que requerem compreensão espacial e temporal, como a navegação de veículos aéreos não tripulados (UAVs). Isso é importante porque os MLLMs têm se saído bem em tarefas de visão e linguagem, mas ainda precisam ser mais explorados em cenários aéreos. O UAV-DualCog inclui tarefas de imagem e vídeo para avaliar a capacidade do modelo de entender tanto o estado do próprio UAV quanto o ambiente ao seu redor.",
+      "en": "A new benchmark called UAV-DualCog has been created to evaluate the ability of multimodal large language models (MLLMs) in aerial scenarios, specifically in tasks that require spatial and temporal understanding, such as navigation of unmanned aerial vehicles (UAVs). This matters because MLLMs have performed well in vision and language tasks, but still need to be further explored in aerial scenarios. The UAV-DualCog benchmark includes both image and video tasks to assess the model's ability to understand both the UAV's own state and the environment around it, a capability known as dual-cognition.",
+      "score": 0.3798
+    },
+    {
+      "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
+      "url": "https://arxiv.org/abs/2607.16177v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram um novo paradigma de aprendizado de reforço, chamado PEARL, que combina técnicas de aprendizado de reforço com controle ótimo tradicional para sistemas dinâmicos complexos. Isso é importante porque o aprendizado de reforço é uma abordagem promissora para controlar sistemas não lineares, mas sofre com a ineficiência de amostragem e a necessidade de muitas interações com o ambiente. O PEARL explora a diferenciabilidade das dinâmicas dos sistemas para otimizar o controle em tempo real, o que pode ser útil para aplicação em sistemas de alta dimensionalidade. Com isso, os pesquisadores buscam superar a limitação de sensores e atuadores esparsos em sistemas complexos.",
+      "en": "Researchers have developed a new reinforcement learning paradigm, called PEARL, which combines reinforcement learning techniques with traditional optimal control for complex dynamical systems. This matters because reinforcement learning is a promising approach to controlling nonlinear systems, but it suffers from sample inefficiency and the need for many interactions with the environment. PEARL leverages the differentiability of system dynamics to optimize real-time control, which can be useful for application in high-dimensional systems. By doing so, researchers aim to overcome the limitation of sparse sensors and actuators in complex systems.",
+      "score": 0.3797
+    },
+    {
+      "title": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
+      "url": "https://arxiv.org/abs/2607.16175v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Uma equipe de pesquisadores avaliou o uso de modelos de linguagem grande (LLMs) de peso aberto para gerar informações de ameaças estruturadas sobre vulnerabilidades em veículos autônomos, o que é crucial para garantir a segurança desses veículos, que dependem de componentes de software e hardware interconectados. Essas vulnerabilidades são geralmente documentadas em texto simples no banco de dados Common Vulnerabilities and Exposures (CVE), mas os profissionais de segurança precisam de informações estruturadas sobre ativos afetados, tipos de fraquezas e comportamentos de ataque para mitigar efetivamente os riscos. Os LLMs foram usados para gerar informações de ameaças em um formato estruturado chamado Structured Threat Information Expression (STIX), que é amplamente utilizado para representar informações de ameaças. Essa abordagem pode ajudar a melhorar a segurança dos veículos autônomos.",
+      "en": "A team of researchers has evaluated the use of open-weight Large Language Models (LLMs) to generate structured threat information about vulnerabilities in autonomous vehicles, which is crucial for ensuring the safety of these vehicles that rely on interconnected software and hardware components. These vulnerabilities are commonly documented in plain text in the Common Vulnerabilities and Exposures (CVE) database, but security practitioners need structured information about affected assets, types of weaknesses, and attack behaviors to effectively mitigate the risks. The LLMs were used to generate threat information in a structured format called Structured Threat Information Expression (STIX), which is widely used to represent threat information. This approach can help improve the security of autonomous vehicles.",
+      "score": 0.3796
+    },
+    {
+      "title": "Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting",
+      "url": "https://arxiv.org/abs/2607.16168v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores recentemente publicaram um artigo no arXiv sobre um modelo de previsão de carga residencial de curto prazo que leva em conta a estrutura comportamental dos habitantes, o que é importante porque a demanda de energia em residências é muito variável e depende de rotinas comportamentais diversas. Esse modelo utiliza um processo neural atento condicionado por comportamento, que representa a estrutura comportamental por meio de uma variável latente discreta inferida do contexto disponível. Isso permite uma previsão mais precisa da carga de energia, considerando as diferenças individuais nos padrões de comportamento.",
+      "en": "Researchers have recently published a paper on arXiv about a short-term residential load forecasting model that takes into account the behavioral structure of inhabitants, which matters because household energy demand is highly variable and depends on diverse behavioral routines. This model uses a behavior-conditioned attentive neural process, which represents behavioral structure through a discrete latent variable inferred from available context. This allows for more accurate energy load forecasting, considering individual differences in behavioral patterns.",
+      "score": 0.3794
+    },
+    {
+      "title": "xiejunjie524/handdraw-story-video",
+      "url": "https://github.com/xiejunjie524/handdraw-story-video",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub permite transformar ilustrações de histórias desenhadas à mão em vídeos de 35 a 45 segundos com efeitos de revelação de linhas e coloração gradual, utilizando a tecnologia HyperFrames, que é uma ferramenta de processamento de imagens que permite a criação de animações personalizadas. Isso é possível devido à capacidade da HyperFrames de manipular frames de imagens, permitindo que os desenvolvedores criem efeitos visuais complexos. Essa ferramenta pode ser útil para criadores de conteúdo que desejam adicionar um toque de animação às suas histórias. A tecnologia HyperFrames é baseada em algoritmos de processamento de imagem que permitem a geração de efeitos de transição suaves.",
+      "en": "A project on GitHub enables the transformation of hand-drawn story illustrations into 35 to 45 second videos with line-reveal and gradual-coloring effects, utilizing HyperFrames technology, which is an image processing tool that allows for the creation of customized animations. This is made possible by HyperFrames' ability to manipulate image frames, allowing developers to create complex visual effects. This tool can be useful for content creators who want to add an animated touch to their stories. The HyperFrames technology is based on image processing algorithms that enable the generation of smooth transition effects.",
+      "score": 0.6673
+    },
+    {
+      "title": "hoainho/img2threejs",
+      "url": "https://github.com/hoainho/img2threejs",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado img2threejs permite reconstruir objetos de imagens de referência como modelos 3D procedurais e animáveis no Three.js, uma biblioteca JavaScript para criar gráficos 3D no navegador, de forma eficiente em termos de tokens, ou seja, com uma representação compacta e otimizada. Isso é importante porque possibilita a criação de modelos 3D a partir de imagens de forma rápida e automatizada. O projeto utiliza técnicas de processamento de imagem e aprendizado de máquina para alcançar esse objetivo. Com isso, abre-se um leque de possibilidades para aplicações em realidade aumentada, jogos e simulações.",
+      "en": "A GitHub project called img2threejs enables the reconstruction of objects from reference images as procedural, animation-ready 3D models in Three.js, a JavaScript library for creating 3D graphics in the browser, in a token-efficient manner, meaning with a compact and optimized representation. This matters because it allows for the rapid and automated creation of 3D models from images. The project uses image processing and machine learning techniques to achieve this goal. This opens up a range of possibilities for applications in augmented reality, games, and simulations.",
+      "score": 0.6672
+    },
+    {
+      "title": "pyang5166/gbro-collage-broll",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto foi disponibilizado no GitHub, denominado gbro-collage-broll, que permite a criação de vídeos em estilo de colagem de papel, conhecidos como B-roll, utilizando técnicas de processamento de imagem e animação. Isso é possível graças ao uso de habilidades de programação em Python e bibliotecas de processamento de imagem, como a pyang5166. Essa técnica é útil para a criação de conteúdo visual atraente e personalizado, como é o caso dos vídeos de apresentação e explicativos. Através desse projeto, os desenvolvedores podem criar vídeos em estilo de colagem de papel de forma eficiente e personalizada.",
+      "en": "A new project has been made available on GitHub, called gbro-collage-broll, which enables the creation of videos in a paper collage style, known as B-roll, using image processing and animation techniques. This is made possible through the use of Python programming skills and image processing libraries, such as those used by pyang5166. This technique is useful for creating engaging and customized visual content, such as presentation and explainer videos. Through this project, developers can create paper collage style videos in an efficient and personalized manner.",
+      "score": 0.598
+    }
+  ]
+}
