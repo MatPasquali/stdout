@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-21",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Blaizzy/nativ",
+      "url": "https://github.com/Blaizzy/nativ",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub, chamado Blaizzy/nativ, permite que os usuários executem inteligência artificial localmente em seus Macs, o que significa que eles podem processar e analisar dados sem precisar se conectar a servidores remotos. Isso é possível devido à capacidade do aplicativo de carregar e executar modelos de machine learning (MLX) diretamente no dispositivo, permitindo que os usuários interajam com esses modelos de forma mais segura e privada. O aplicativo oferece recursos como bate-papo, serviço, monitoramento e conexão de modelos MLX, tudo dentro de uma única interface de usuário no macOS. Com essa abordagem, os usuários têm mais controle sobre seus dados e como eles são processados.",
+      "en": "A GitHub project, named Blaizzy/nativ, allows users to run artificial intelligence locally on their Macs, meaning they can process and analyze data without needing to connect to remote servers. This is made possible by the app's ability to load and run machine learning (MLX) models directly on the device, enabling users to interact with these models in a more secure and private manner. The app offers features such as chat, service, monitoring, and connection of MLX models, all within a single user interface on macOS. By taking this approach, users have more control over their data and how it is processed.",
+      "score": 0.8459
+    },
+    {
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, um artigo publicado no Stratechery discutiu o medo em torno dos modelos chineses, o que é importante porque reflete as mudanças na paisagem global de tecnologia. Os modelos chineses, nesse contexto, se referem a empresas de tecnologia que estão surgindo na China e competindo com as empresas estabelecidas nos Estados Unidos e em outras partes do mundo. Isso é significativo porque esses modelos podem oferecer abordagens inovadoras e diferentes para o desenvolvimento e implementação de tecnologias. Ao entender esses modelos, podemos ganhar insights sobre como a indústria de tecnologia está evoluindo.",
+      "en": "Recently, an article published on Stratechery discussed the fear surrounding Chinese models, which matters because it reflects the changes in the global technology landscape. Chinese models, in this context, refer to technology companies emerging in China and competing with established companies in the United States and other parts of the world. This is significant because these models can offer innovative and different approaches to technology development and implementation. By understanding these models, we can gain insights into how the technology industry is evolving.",
+      "score": 0.8229
+    },
+    {
+      "title": "China’s open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A estratégia de inteligência artificial de código aberto da China está dando resultados, o que é importante porque isso pode influenciar o desenvolvimento de tecnologias avançadas. Isso ocorre porque a abordagem de código aberto permite que mais pessoas contribuam e aprimorem a inteligência artificial, o que pode levar a avanços mais rápidos. A inteligência artificial de código aberto se refere ao desenvolvimento de sistemas de inteligência artificial que são livremente disponíveis para que qualquer pessoa possa usá-los e modificá-los. Isso contrasta com a abordagem de inteligência artificial proprietária, que é controlada por uma única empresa e não é acessível ao público em geral.",
+      "en": "China's open-weights AI strategy is paying off, which matters because it could influence the development of advanced technologies. This is happening because the open approach allows more people to contribute to and improve artificial intelligence, which can lead to faster progress. Open-source artificial intelligence refers to the development of artificial intelligence systems that are freely available for anyone to use and modify, which contrasts with the proprietary artificial intelligence approach, controlled by a single company and not accessible to the general public.",
+      "score": 0.81
+    },
+    {
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Um matemático chamado Claude Fable encontrou um contraexemplo para a Conjectura de Jacobiano, um problema matemático que tem sido estudado por décadas. Isso é importante porque a Conjectura de Jacobiano é uma questão fundamental na teoria dos anéis, que é uma área da álgebra abstrata que estuda as propriedades dos anéis, que são estruturas matemáticas compostas por conjuntos com operações de adição e multiplicação. A Conjectura de Jacobiano afirma que um determinado tipo de transformação, chamada de aplicação polinomial, é invertível se satisfizer certas condições. O contraexemplo encontrado por Fable pode levar a novos insights e avanços na teoria dos anéis.",
+      "en": "A mathematician named Claude Fable has found a counterexample to the Jacobian Conjecture, a mathematical problem that has been studied for decades. This matters because the Jacobian Conjecture is a fundamental question in ring theory, which is a branch of abstract algebra that studies the properties of rings, mathematical structures consisting of sets with addition and multiplication operations. The Jacobian Conjecture states that a certain type of transformation, called a polynomial map, is invertible if it satisfies certain conditions. Fable's counterexample may lead to new insights and advances in ring theory.",
+      "score": 0.7112
+    },
+    {
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem grande foi publicado no Hugging Face, uma plataforma popular para compartilhar e descobrir modelos de aprendizado de máquina, o que é notável porque esse modelo pode realizar tarefas de processamento de linguagem natural como a tradução de texto para texto baseado em imagem, que é uma área de pesquisa em inteligência artificial que visa permitir que os computadores entendam e gerem texto baseado em imagens. Isso é importante porque esses modelos podem ser usados em uma variedade de aplicações, como sistemas de recomendação e resumo de notícias. O modelo em questão, chamado Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive, já recebeu 2950 likes e foi baixado 1997690 vezes. Ele pode ser usado para gerar texto a partir de imagens, o que é uma tarefa complexa que requer uma grande quantidade de dados e computação.",
+      "en": "A large language model was published on Hugging Face, a popular platform for sharing and discovering machine learning models, which is notable because this model can perform natural language processing tasks such as translating text to text based on images, which is a research area in artificial intelligence that aims to allow computers to understand and generate text based on images. This is important because these models can be used in a variety of applications, such as recommendation systems and news summarization. The model in question, called Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive, has already received 2950 likes and been downloaded 1997690 times. It can be used to generate text from images, which is a complex task that requires a large amount of data and computation.",
+      "score": 0.55
+    },
+    {
+      "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um novo modelo de linguagem foi adicionado à plataforma Hugging Face, chamado Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF, que é capaz de realizar a tarefa de image-text-to-text, ou seja, processar imagens e texto para gerar novos textos. Isso é importante porque permite que os desenvolvedores criem aplicações que possam entender e responder a imagens e texto de forma mais eficaz. O modelo já recebeu 204 likes e foi baixado 62842 vezes, indicando um grande interesse da comunidade. Com essa ferramenta, os desenvolvedores podem criar aplicações inovadoras que integram processamento de linguagem natural e visão computacional.",
+      "en": "A new language model has been added to the Hugging Face platform, called Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF, which is capable of performing the image-text-to-text task, meaning it can process images and text to generate new text. This matters because it allows developers to create applications that can understand and respond to images and text more effectively. The model has already received 204 likes and been downloaded 62842 times, indicating significant interest from the community. With this tool, developers can create innovative applications that integrate natural language processing and computer vision.",
+      "score": 0.4897
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Alphabet, empresa matriz do Google, está desenvolvendo um novo chip de inteligência artificial projetado para tornar os modelos Gemini mais eficientes, o que pode melhorar significativamente o desempenho desses modelos em tarefas como processamento de linguagem natural. Isso é importante porque os chips de AI podem consumir grandes quantidades de energia, então um chip mais eficiente pode reduzir os custos e o impacto ambiental. O novo chip está sendo projetado para atender às necessidades específicas dos modelos Gemini, que são usados em uma variedade de aplicações, desde assistentes virtuais até sistemas de recomendação. Com essa inovação, o Google pode estar prestes a melhorar a eficiência e o desempenho de seus modelos de AI.",
+      "en": "Google's parent company, Alphabet, is developing a new artificial intelligence chip designed to make its Gemini models run more efficiently, which could significantly improve the performance of these models in tasks such as natural language processing. This matters because AI chips can consume large amounts of energy, so a more efficient chip can reduce costs and environmental impact. The new chip is being designed to meet the specific needs of the Gemini models, which are used in a range of applications, from virtual assistants to recommendation systems. With this innovation, Google may be on the verge of improving the efficiency and performance of its AI models.",
+      "score": 0.4225
+    },
+    {
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um simulador de aeroporto foi lançado, permitindo que os usuários experimentem a gestão de um aeroporto, incluindo a administração de voos e a gestão de recursos, o que pode ser útil para entender os desafios enfrentados pelos administradores de aeroportos. Isso é importante porque a simulação pode ser usada como uma ferramenta de treinamento para profissionais da aviação. O simulador está disponível online e pode ser acessado por qualquer pessoa interessada em aprender sobre a gestão de aeroportos. A simulação inclui conceitos como gerenciamento de tráfego aéreo, que se refere à coordenação de voos para garantir a segurança e a eficiência.",
+      "en": "An airport simulator has been released, allowing users to experience managing an airport, including flight administration and resource management, which can be useful for understanding the challenges faced by airport administrators. This matters because simulation can be used as a training tool for aviation professionals. The simulator is available online and can be accessed by anyone interested in learning about airport management. The simulation includes concepts such as air traffic management, which refers to the coordination of flights to ensure safety and efficiency.",
+      "score": 0.7783
+    },
+    {
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um hacker apagou o banco de dados do registro de terras da Romênia, o que é significativo porque afeta a gestão de propriedades imobiliárias no país. Isso ocorreu porque o registro de terras é um sistema crítico que armazena informações sobre a propriedade e os limites de terras, e sua perda pode causar problemas burocráticos e econômicos. O termo \"banco de dados\" se refere a um conjunto de dados organizados de forma sistemática, permitindo que sejam facilmente consultados e atualizados. A perda desses dados pode levar a disputas de propriedade e atrasos em transações imobiliárias.",
+      "en": "A hacker has wiped Romania's land registry database, which matters because it affects the management of real estate properties in the country. This happened because the land registry is a critical system that stores information about property ownership and land boundaries, and its loss can cause bureaucratic and economic problems. The term \"database\" refers to a set of data organized in a systematic way, allowing it to be easily queried and updated. The loss of this data can lead to property disputes and delays in real estate transactions.",
+      "score": 0.7199
+    },
+    {
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Kimi lançou o Kimi Work, um produto que pode ser importante para quem procura uma solução de gestão de tarefas e produtividade. O Kimi Work é um exemplo de como a tecnologia pode ser usada para melhorar a eficiência e a organização no trabalho, permitindo que os usuários gerenciem projetos e tarefas de forma mais eficaz. Isso pode ser particularmente útil para equipes e indivíduos que precisam lidar com múltiplas tarefas e prazos. A plataforma parece oferecer recursos para ajudar a priorizar e acompanhar o progresso das tarefas.",
+      "en": "Kimi has launched Kimi Work, a product that may be important for those looking for a task management and productivity solution. Kimi Work is an example of how technology can be used to improve efficiency and organization at work, allowing users to manage projects and tasks more effectively. This can be particularly useful for teams and individuals who need to handle multiple tasks and deadlines. The platform appears to offer features to help prioritize and track task progress.",
+      "score": 0.7196
+    },
+    {
+      "title": "20º aniversário do iPhone: Apple prepara celular com tela gigante, diz leaker",
+      "url": "https://canaltech.com.br/smartphone/20-aniversario-do-i-phone-apple-prepara-celular-com-tela-gigante-diz-leaker/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Apple está se preparando para o lançamento de um modelo comemorativo de 20 anos do iPhone, previsto para 2027, e de acordo com vazamentos, o dispositivo pode vir com uma tela de cerca de 7 polegadas, o que é consideravelmente maior do que as telas dos iPhones atuais. Isso foi revelado pelo leaker Digital Chat Station, que afirma que a empresa está fabricando protótipos de tela com tamanho físico exato de 6,96 polegadas. Essa tela seria arredondada e vendida como uma tela de aproximadamente 7 polegadas quando lançada. A notícia é importante porque marca uma possível mudança na estratégia de design da Apple para seus dispositivos móveis.",
+      "en": "Apple is preparing to launch a commemorative 20-year anniversary model of the iPhone, set to be released in 2027, and according to leaks, the device may come with a screen of approximately 7 inches, which is significantly larger than the screens of current iPhones. This was revealed by leaker Digital Chat Station, who claims that the company is manufacturing screen prototypes with a physical size of exactly 6.96 inches. This screen would be rounded and sold as a roughly 7-inch screen when launched. The news is significant because it marks a possible change in Apple's design strategy for its mobile devices.",
+      "score": 0.3993
+    },
+    {
+      "title": "The Future of Agentic AI in 2026",
+      "url": "https://dev.to/divyanshi_kulkarni_633311/the-future-of-agentic-ai-in-2026-35h",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, a inteligência artificial (IA) tem evoluído para além de sistemas de agente único, o que significa que agora podemos ter vários agentes especializados trabalhando juntos para tomar decisões, coordenar ações e executar fluxos de trabalho complexos com maior velocidade, escalabilidade e inteligência. Isso é possível graças à IA multiagente, que permite que esses agentes especializados colaborem e tomem decisões em conjunto. À medida que as empresas aceleram a adoção desses sistemas, entender como eles funcionam está se tornando cada vez mais importante. Com a IA multiagente, as organizações podem automatizar processos, melhorar a eficiência e aumentar a inovação.",
+      "en": "Recently, artificial intelligence (AI) has evolved beyond single-agent systems, meaning we can now have multiple specialized agents working together to make decisions, coordinate actions, and execute complex workflows with greater speed, scalability, and intelligence. This is made possible by multi-agent AI, which allows these specialized agents to collaborate and make decisions together. As companies accelerate the adoption of these systems, understanding how they work is becoming increasingly important. With multi-agent AI, organizations can automate processes, improve efficiency, and increase innovation.",
+      "score": 0.3993
+    },
+    {
+      "title": "Top 25 Sites To Buying Old Github Accounts In This Year",
+      "url": "https://dev.to/dawnapolk6ccwb/top-25-sites-to-buying-old-github-accounts-in-this-year-158g",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um guia foi publicado recentemente sobre a compra de contas do GitHub mais antigas, o que pode ser útil para desenvolvedores que buscam melhorar seus perfis e gerenciar suas contas de forma inteligente. Isso é importante porque as contas mais antigas podem ter mais valor e credibilidade, especialmente no contexto do desenvolvimento de software. O guia fornece informações detalhadas sobre como comprar e gerenciar essas contas de forma segura. Além disso, o guia destaca a importância de considerar a segurança e a confiabilidade ao comprar contas online.",
+      "en": "A guide was recently published on buying older GitHub accounts, which can be useful for developers looking to improve their profiles and manage their accounts smartly. This matters because older accounts can have more value and credibility, especially in the context of software development. The guide provides detailed information on how to buy and manage these accounts securely. Additionally, the guide highlights the importance of considering security and reliability when buying accounts online.",
+      "score": 0.3988
+    },
+    {
+      "title": "#20 Your First 30 Days With AI: A Simple Plan",
+      "url": "https://dev.to/fromzerotoship/20-your-first-30-days-with-ai-a-simple-plan-3bkj",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma nova abordagem para iniciantes em inteligência artificial foi compartilhada, com um plano simples para os primeiros 30 dias, que pode ser realizado em apenas 30 minutos por dia, sem necessidade de estudo. A primeira semana se concentra em tornar o usuário confortável em conversar com a inteligência artificial, sem tentar aprender nada, apenas interagindo com ela sobre temas cotidianos. Isso ajuda a superar a barreira inicial e a se familiarizar com a tecnologia. O plano é dividido em quatro semanas, com objetivos específicos para cada semana, tornando-o acessível a qualquer pessoa que queira começar a explorar a inteligência artificial.",
+      "en": "A new approach for artificial intelligence beginners has been shared, with a simple plan for the first 30 days, which can be completed in just 30 minutes a day, with no studying required. The first week focuses on making the user comfortable talking to the artificial intelligence, without trying to learn anything, just interacting with it about everyday topics. This helps to overcome the initial barrier and become familiar with the technology. The plan is divided into four weeks, with specific goals for each week, making it accessible to anyone who wants to start exploring artificial intelligence.",
+      "score": 0.3494
+    },
+    {
+      "title": "Selenium Automation Testing Course in Mumbai: Everything You Need to Know (From Someone Who's Actually Written the Tests)",
+      "url": "https://dev.to/roshan_chaturvedi_256f1f9/selenium-automation-testing-course-in-mumbai-everything-you-need-to-know-from-someone-whos-8i3",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um curso de teste de automação com Selenium em Mumbai foi discutido em um artigo recente, o que é relevante porque muitos profissionais de tecnologia buscam melhorar suas habilidades em teste de software. O autor do artigo compartilha sua experiência pessoal de transição de teste manual para automação, explicando que a automação não é apenas uma forma mais rápida de realizar testes manuais, mas sim uma disciplina distinta que visa construir confiança em outros softwares. Isso é importante porque a automação de testes pode melhorar a eficiência e a precisão dos processos de teste, e o Selenium é uma ferramenta popular usada nesse contexto. O artigo fornece uma visão geral do que é necessário saber sobre o curso de teste de automação com Selenium.",
+      "en": "A recent article discussed a Selenium automation testing course in Mumbai, which matters because many tech professionals are looking to improve their software testing skills. The article's author shares their personal experience of transitioning from manual to automated testing, explaining that automation is not just a faster way to do manual testing, but a distinct discipline that aims to build confidence in other software. This is important because test automation can improve the efficiency and accuracy of testing processes, and Selenium is a popular tool used in this context. The article provides an overview of what you need to know about the Selenium automation testing course.",
+      "score": 0.349
+    },
+    {
+      "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+      "url": "https://arxiv.org/abs/2607.18237v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram um novo método para medir a semelhança visual entre imagens, chamado de Text-Prompted Image Perceptual Similarity (TPIPS), que leva em conta múltiplos aspectos semânticos, como forma e cor, para fornecer uma avaliação mais precisa do que os métodos existentes. Isso é importante porque as avaliações de semelhança visual humanas dependem do contexto e podem variar dependendo do aspecto específico que está sendo considerado. O TPIPS foi treinado em um grande conjunto de dados de julgamentos de semelhança humana sobre trios de imagens, onde cada trio foi anotado em múltiplos aspectos semânticos livres. O novo método mostra um desempenho significativamente melhor em capturar as nuances da semelhança visual humana.",
+      "en": "Researchers have developed a new method for measuring visual similarity between images, called Text-Prompted Image Perceptual Similarity (TPIPS), which takes into account multiple semantic aspects, such as shape and color, to provide a more accurate assessment than existing methods. This matters because human visual similarity judgments are context-dependent and can vary depending on the specific aspect being considered. The TPIPS was trained on a large dataset of human similarity judgments over image triplets, where each triplet was annotated across multiple free-form semantic aspects. The new method shows significantly better performance in capturing the nuances of human visual similarity.",
+      "score": 0.4665
+    },
+    {
+      "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+      "url": "https://arxiv.org/abs/2607.18232v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Uma pesquisa publicada recentemente no arXiv avaliou como os grandes modelos de linguagem (LLMs) respondem a expressões de crença dos usuários, o que é importante porque esses modelos precisam saber quando aceitar essas crenças como verdadeiras e quando se ater ao seu conhecimento prévio. Os autores introduziram uma tipologia para avaliar como diferentes expressões de crença afetam a resposta dos modelos, considerando quatro dimensões: forma, evidencialidade, postura epistêmica e tom. Isso pode ajudar a melhorar a interação entre os usuários e os LLMs, tornando-as mais naturais e eficazes. A tipologia abrange 17 tipos de expressões de crença, o que permite uma avaliação mais detalhada da resposta dos modelos.",
+      "en": "A recent study published on arXiv evaluated how large language models (LLMs) respond to users' expressions of belief, which matters because these models need to know when to accept these beliefs as true and when to stick to their prior knowledge. The authors introduced a typology to assess how different expressions of belief affect the models' responses, considering four dimensions: form, evidentiality, epistemic stance, and tone. This can help improve the interaction between users and LLMs, making them more natural and effective. The typology spans 17 fine-grained types of expressions of belief, allowing for a more detailed evaluation of the models' responses.",
+      "score": 0.4664
+    },
+    {
+      "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+      "url": "https://arxiv.org/abs/2607.18227v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram o FlowMimic, uma ferramenta de edição e geração de vídeo que utiliza um campo de fluxo temporally deformado por pares de pixels, permitindo a edição de vídeos sem a necessidade de mascaramento de objetos, o que é uma abordagem inovadora no contexto da pesquisa de visão, que busca integrar capacidades de edição e geração de imagens e vídeos em um único modelo. Isso é importante porque as abordagens atuais para coletar dados de edição de vídeo dependem de procedimentos curados que consomem muito tempo e mão de obra, limitando a diversidade de tarefas de edição. O FlowMimic pode gerar amostras de edição de vídeo em tempo real a partir de amostras de edição de imagem, o que é um avanço significativo na área.",
+      "en": "Researchers have developed FlowMimic, a tool for editing and generating video that uses a temporally warped flow field by pixel pairs, allowing for video editing without the need for object masking, which is an innovative approach in the context of vision research, seeking to integrate image and video editing and generation capabilities into a single model. This matters because current approaches to collecting video editing data rely on time-consuming, labor-intensive curated procedures, limiting the diversity of editing tasks. FlowMimic can generate video editing samples in real time from image editing samples, which is a significant advancement in the field.",
+      "score": 0.4664
+    },
+    {
+      "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
+      "url": "https://arxiv.org/abs/2607.18218v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram dois novos modelos de inteligência artificial, GigaPath-Flash e GigaTIME-Flash, projetados para análise de lâminas de patologia e microambiente tumoral, o que é importante porque pode transformar o diagnóstico, prognóstico e seleção de tratamento de câncer. Esses modelos são mais eficientes do que os existentes, pois combinam um codificador de ladrilhos ViT-S com um codificador de lâmina LongNet, permitindo uma análise mais precisa e ampla. Isso é significativo porque os modelos pré-treinados atuais operam principalmente no nível de ladrilhos de imagem, têm licenças restritivas e são computacionalmente caros. Com esses novos modelos, é possível uma análise de lâminas de patologia em larga escala.",
+      "en": "Researchers have introduced two new artificial intelligence models, GigaPath-Flash and GigaTIME-Flash, designed for whole-slide pathology analysis and tumor microenvironment analysis, which matters because it has the potential to transform cancer diagnosis, prognosis, and treatment selection. These models are more efficient than existing ones, as they combine a ViT-S tile encoder with a LongNet slide encoder, allowing for more accurate and comprehensive analysis. This is significant because current pretrained models operate mainly at the image-tile level, have restrictive licenses, and are computationally expensive. With these new models, large-scale slide-level clinical and research use becomes possible.",
+      "score": 0.4663
+    },
+    {
+      "title": "EthanXiang777/circuit-framework",
+      "url": "https://github.com/EthanXiang777/circuit-framework",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um sistema de pesquisa de negociação de mercado com múltiplos agentes e modelo de linguagem grande foi lançado no GitHub, o que importa porque permite que os desenvolvedores criem ambientes de simulação realistas para testar estratégias de negociação. O Circuit Framework, como é chamado, utiliza um modelo de linguagem grande (LLM), que é um tipo de inteligência artificial treinada em grandes conjuntos de dados textuais, para tomar decisões de negociação. Isso pode ajudar a melhorar a precisão das previsões de mercado e a reduzir os riscos associados ao comércio. Com o Circuit Framework, os desenvolvedores podem criar simulações personalizadas e testar diferentes estratégias de negociação de forma eficiente.",
+      "en": "A multi-agent market trading research system with a large language model was released on GitHub, which matters because it allows developers to create realistic simulation environments to test trading strategies. The Circuit Framework, as it is called, uses a large language model (LLM), a type of artificial intelligence trained on large datasets of text, to make trading decisions. This can help improve the accuracy of market predictions and reduce the risks associated with trading. With the Circuit Framework, developers can create customized simulations and test different trading strategies efficiently.",
+      "score": 0.7307
+    },
+    {
+      "title": "Icex0/wp2shell-poc",
+      "url": "https://github.com/Icex0/wp2shell-poc",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um pesquisador de segurança divulgou um código de prova de conceito para uma vulnerabilidade de execução remota de código no WordPress, conhecida como wp2shell, que afeta duas vulnerabilidades específicas, CVE-2026-63030 e CVE-2026-60137. Essa descoberta é importante porque permite que atacantes possam executar comandos arbitrários no servidor afetado, o que pode levar a graves consequências de segurança. A vulnerabilidade é resultado de uma combinação de falhas que permitem a execução remota de código, um tipo de ataque que permite a um atacante executar comandos no servidor da vítima. Isso pode ser particularmente perigoso se o servidor tiver permissões elevadas, permitindo que o atacante acesse ou modifique dados sensíveis.",
+      "en": "A security researcher has released proof of concept code for a remote code execution vulnerability in WordPress, known as wp2shell, which affects two specific vulnerabilities, CVE-2026-63030 and CVE-2026-60137. This discovery matters because it allows attackers to execute arbitrary commands on the affected server, which can lead to serious security consequences. The vulnerability is the result of a combination of flaws that enable remote code execution, a type of attack that allows an attacker to execute commands on the victim's server. This can be particularly dangerous if the server has elevated permissions, allowing the attacker to access or modify sensitive data.",
+      "score": 0.6766
+    },
+    {
+      "title": "smixs/pohuy",
+      "url": "https://github.com/smixs/pohuy",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Uma nova ferramenta foi lançada no GitHub, chamada pohuy, que permite que agentes de inteligência artificial usem expressões idiomáticas do russo coloquial de forma mais eficaz. Isso é importante porque pode melhorar a capacidade dos agentes de AI de se comunicar de forma mais natural e humana. O pohuy é um projeto de código aberto que visa tornar a interação com agentes de AI mais agradável e eficiente, utilizando expressões coloquiais russas. O projeto é destinado a usuários com mais de 18 anos devido ao conteúdo maduro.",
+      "en": "A new tool has been released on GitHub, called pohuy, which allows artificial intelligence agents to use idiomatic expressions of Russian colloquial language more effectively. This matters because it can improve the ability of AI agents to communicate in a more natural and human-like way. The pohuy is an open-source project that aims to make interaction with AI agents more pleasant and efficient, using Russian colloquial expressions. The project is intended for users over 18 years old due to mature content.",
+      "score": 0.6604
+    },
+    {
+      "title": "MIgHTy-alIeN/Trading-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo repositório foi criado no GitHub, intitulado Trading-Bot, que parece ser um bot de arbitragem, ou seja, um contrato inteligente conectado a um script de automação externo que controla sua operação, permitindo que os usuários explorem oportunidades de negociação em diferentes mercados, o que pode ser útil para investidores que buscam obter lucros em mercados voláteis. Isso é importante porque os bots de arbitragem podem ajudar a equalizar os preços em diferentes mercados, tornando-os mais eficientes. O repositório pode ser acessado por meio do link fornecido, onde os desenvolvedores podem encontrar mais informações sobre como implementar o bot. O objetivo desse tipo de tecnologia é fornecer uma ferramenta para investidores que desejam aproveitar as diferenças de preços em mercados diferentes.",
+      "en": "A new repository has been created on GitHub, titled Trading-Bot, which appears to be an arbitrage bot, meaning a smart contract connected to an external automation script that controls its operation, allowing users to exploit trading opportunities in different markets, which can be useful for investors looking to make profits in volatile markets. This matters because arbitrage bots can help equalize prices across different markets, making them more efficient. The repository can be accessed via the provided link, where developers can find more information on how to implement the bot. The goal of this type of technology is to provide a tool for investors who want to take advantage of price differences in different markets.",
+      "score": 0.6232
+    }
+  ]
+}
