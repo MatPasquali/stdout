@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-25",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Anthropic lançou o Claude Opus 5, uma atualização do modelo de linguagem que visa melhorar a capacidade de compreensão e geração de texto, o que é importante porque pode ser usado em uma variedade de aplicações, como chatbots e sistemas de tradução automática. O modelo de linguagem é um tipo de inteligência artificial treinada por máquina que pode aprender a partir de grandes conjuntos de dados e gerar texto semelhante ao humano. Isso pode ser útil para empresas e indivíduos que precisam gerar conteúdo rapidamente, como respostas a perguntas frequentes ou descrições de produtos. Com o Claude Opus 5, a Anthropic busca melhorar a precisão e a coerência do texto gerado.",
+      "en": "Anthropic has released Claude Opus 5, an update to the language model that aims to improve text understanding and generation capabilities, which matters because it can be used in a variety of applications, such as chatbots and machine translation systems. A language model is a type of machine learning artificial intelligence that can learn from large datasets and generate human-like text. This can be useful for companies and individuals who need to generate content quickly, such as frequently asked questions or product descriptions. With Claude Opus 5, Anthropic is seeking to improve the accuracy and coherence of the generated text.",
+      "score": 0.7656
+    },
+    {
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um artigo recente questiona por que o software continua piorando, apesar dos avanços na programação. Isso importa porque muitos acreditam que a codificação foi essencialmente resolvida, com linguagens de programação e ferramentas de desenvolvimento mais avançadas do que nunca. No entanto, a experiência do usuário muitas vezes não reflete essa melhoria, com muitos softwares apresentando problemas de desempenho e estabilidade. A questão central é entender como a complexidade e a escalabilidade dos sistemas modernos afetam a qualidade do software.",
+      "en": "A recent article questions why software continues to get worse, despite advances in coding. This matters because many believe that coding has been essentially solved, with programming languages and development tools more advanced than ever. However, the user experience often does not reflect this improvement, with many software products experiencing performance and stability issues. The central issue is understanding how the complexity and scalability of modern systems affect software quality.",
+      "score": 0.7009
+    },
+    {
+      "title": "microsoft/Mage-Flow",
+      "url": "https://huggingface.co/microsoft/Mage-Flow",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "A Microsoft lançou o modelo Mage-Flow no Hugging Face, uma plataforma de aprendizado de máquina, para realizar a tarefa de text-to-image, que consiste em gerar imagens a partir de textos, e isso é importante porque permite que os desenvolvedores criem aplicações inovadoras que combinam processamento de linguagem natural e visão computacional, sendo que o modelo pode ser usado para diversas aplicações, como geração de arte ou design gráfico. O modelo Mage-Flow já recebeu 249 likes e foi baixado 1156 vezes. Isso demonstra o grande interesse da comunidade de desenvolvedores em utilizar esses tipos de modelos para criar soluções criativas. A plataforma Hugging Face é uma ferramenta valiosa para os desenvolvedores que desejam acessar e compartilhar modelos de aprendizado de máquina.",
+      "en": "Microsoft has released the Mage-Flow model on Hugging Face, a machine learning platform, to perform the text-to-image task, which involves generating images from text, and this matters because it allows developers to create innovative applications that combine natural language processing and computer vision, as the model can be used for various applications, such as art generation or graphic design. The Mage-Flow model has already received 249 likes and been downloaded 1156 times. This demonstrates the great interest of the developer community in using these types of models to create creative solutions. The Hugging Face platform is a valuable tool for developers who want to access and share machine learning models.",
+      "score": 0.6764
+    },
+    {
+      "title": "Anti-AI open source has an enemy in common, but almost nothing else",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/25/anti-ai-open-source-has-an-enemy-in-common-but-almost-nothing-else/5278275",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Recentemente, um movimento de código aberto anti-IA ganhou atenção, pois pessoas de diferentes ideologias políticas estão se unindo para criar alternativas a sistemas automatizados, o que pode parecer surpreendente, considerando as divergências entre elas, mas o que importa aqui é que esses grupos compartilham um objetivo comum: reduzir a dependência de inteligência artificial. Isso pode levar ao desenvolvimento de soluções inovadoras, pois pessoas de diferentes origens podem trazer perspectivas únicas para o processo de criação. A colaboração entre esses grupos pode ser complicada, mas o resultado pode ser benéfico para a sociedade como um todo.",
+      "en": "Recently, an anti-AI open source movement has gained attention, as people from different political ideologies are coming together to create alternatives to automated systems, which may seem surprising given their differences, but what matters here is that these groups share a common goal: reducing dependence on artificial intelligence. This may lead to the development of innovative solutions, as people from different backgrounds can bring unique perspectives to the creation process. The collaboration between these groups can be complicated, but the outcome can be beneficial to society as a whole.",
+      "score": 0.3966
+    },
+    {
+      "title": "AMD vibe codes its way past the CUDA moat with ROCm.AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A AMD desenvolveu o ROCm.AI, uma plataforma que permite que os desenvolvedores usem seus processadores para treinar e executar modelos de aprendizado de máquina, competindo com a CUDA da Nvidia. Isso é importante porque a CUDA é uma ferramenta amplamente utilizada para essas tarefas, mas ela é específica para os processadores da Nvidia. Com o ROCm.AI, a AMD está tentando atrair os desenvolvedores para sua plataforma, oferecendo uma alternativa viável. A plataforma usa um conjunto de ferramentas de código aberto para permitir que os desenvolvedores otimizem seus modelos para os processadores da AMD.",
+      "en": "AMD has developed ROCm.AI, a platform that allows developers to use their processors to train and run machine learning models, competing with Nvidia's CUDA. This matters because CUDA is a widely used tool for these tasks, but it is specific to Nvidia's processors. With ROCm.AI, AMD is trying to attract developers to its platform, offering a viable alternative. The platform uses a set of open-source tools to enable developers to optimize their models for AMD's processors.",
+      "score": 0.3745
+    },
+    {
+      "title": "O que é Necromancia Digital e por que prática divide tanto opiniões",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-necromancia-digital-e-porque-pratica-divide-tanto-opinioes/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Recentemente, a necromancia digital, que se refere à recriação da aparência ou da voz de pessoas mortas usando inteligência artificial, tem gerado debates acalorados devido ao fácil acesso a serviços de IA de imagens e vídeos. Essa prática envolve a utilização de algoritmos complexos para gerar imagens ou áudio realistas de indivíduos falecidos, o que pode ser usado para criar vídeos virais, como celebridades falecidas realizando tarefas comuns. No entanto, a necromancia digital também levanta questões éticas sobre o processo de luto e o respeito aos mortos. A inteligência artificial, nesse contexto, é uma tecnologia que permite que máquinas aprendam e realizem tarefas que normalmente exigiriam a inteligência humana, como reconhecer imagens e gerar texto.",
+      "en": "Recently, digital necromancy, which refers to the recreation of the appearance or voice of deceased individuals using artificial intelligence, has sparked heated debates due to the ease of access to AI image and video services. This practice involves the use of complex algorithms to generate realistic images or audio of deceased individuals, which can be used to create viral videos, such as deceased celebrities performing everyday tasks. However, digital necromancy also raises ethical concerns about the grieving process and respect for the dead. Artificial intelligence, in this context, is a technology that enables machines to learn and perform tasks that would normally require human intelligence, such as recognizing images and generating text.",
+      "score": 0.347
+    },
+    {
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Recentemente, foi lançado um novo teclado com inteligência artificial desenvolvido pela OpenAI, que promete ser divertido para alguns programadores, mas pode ser um pouco misterioso para o público em geral. Isso importa porque mostra como a inteligência artificial está sendo integrada em dispositivos de entrada, permitindo que os usuários interajam de maneira mais criativa com os computadores. O teclado utiliza algoritmos de aprendizado de máquina para prever e completar comandos, o que pode aumentar a produtividade de codificadores experientes. No entanto, sua complexidade pode dificultar o uso por pessoas sem conhecimento em programação.",
+      "en": "Recently, OpenAI released a new artificial intelligence keypad that promises to be fun for some programmers, but may be somewhat mystifying to the general public. This matters because it shows how artificial intelligence is being integrated into input devices, allowing users to interact more creatively with computers. The keypad uses machine learning algorithms to predict and complete commands, which can increase the productivity of experienced coders, by automating repetitive tasks and providing suggestions based on their coding style. However, its complexity may make it difficult for people without programming knowledge to use.",
+      "score": 0.3289
+    },
+    {
+      "title": "It's getting harder to focus every day",
+      "url": "https://glyphack.com/attention/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um artigo recente na glyphack.com discute como está cada vez mais difícil manter o foco no dia a dia, o que é um problema significativo porque afeta a produtividade e a capacidade de realizar tarefas com eficiência. Isso ocorre devido a uma série de fatores, incluindo a constante exposição a notificações e informações em nossos dispositivos eletrônicos, o que pode ser entendido como uma sobrecarga de estímulos. A capacidade de manter o foco é essencial para realizar tarefas complexas e tomar decisões informadas. Portanto, é importante entender como esses fatores afetam nosso cérebro e desenvolver estratégias para melhorar nossa concentração.",
+      "en": "A recent article on glyphack.com discusses how it is getting increasingly difficult to focus every day, which is a significant problem because it affects productivity and the ability to complete tasks efficiently. This occurs due to a number of factors, including constant exposure to notifications and information on our electronic devices, which can be understood as a stimulus overload. The ability to maintain focus is essential for completing complex tasks and making informed decisions. Therefore, it is important to understand how these factors affect our brain and develop strategies to improve our concentration.",
+      "score": 0.697
+    },
+    {
+      "title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Índia alcançou um marco importante com o lançamento bem-sucedido de seu primeiro foguete desenvolvido pela iniciativa privada, que alcançou a órbita em seu voo inaugural, um feito notável que destaca o crescimento do setor espacial indiano. Isso importa porque representa um grande passo para a capacidade do país de desenvolver tecnologia espacial avançada. O foguete, desenvolvido por uma empresa privada, demonstra a habilidade da iniciativa privada em contribuir para o progresso espacial. Essa conquista pode abrir caminhos para futuras missões espaciais e parcerias internacionais.",
+      "en": "India has achieved a significant milestone with the successful launch of its first privately developed rocket, which reached orbit on its debut flight, a notable achievement that highlights the growth of the Indian space sector. This matters because it represents a major step for the country's ability to develop advanced space technology. The rocket, developed by a private company, demonstrates the capability of private initiative to contribute to space progress. This achievement may pave the way for future space missions and international partnerships.",
+      "score": 0.5045
+    },
+    {
+      "title": "Fire TV Stick em promoção: escolha o modelo certo para transformar sua TV",
+      "url": "https://olhardigital.com.br/2026/07/25/reviews/fire-tv-stick-em-promocao-escolha-o-modelo-certo-para-transformar-sua-tv/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Amazon está promovendo o Fire TV Stick, um dispositivo que permite transformar sua TV em uma plataforma de streaming. Isso é importante porque muitas pessoas ainda não têm acesso a serviços de streaming de alta qualidade, e essa promoção pode ser uma boa oportunidade para atualizar sua experiência de entretenimento. O Fire TV Stick é um dispositivo que converte sua TV em uma plataforma de streaming, permitindo que você acesse serviços como Netflix e Amazon Prime Video, e vem em diferentes versões, incluindo um modelo HD e um modelo 4K com Dolby Vision, que oferece uma qualidade de imagem mais alta. Com essa promoção, você pode escolher o modelo que melhor se encaixa na sua TV e no seu orçamento.",
+      "en": "The Amazon Fire TV Stick is on promotion, a device that enables users to turn their TV into a streaming platform. This matters because many people still lack access to high-quality streaming services, and this promotion may be a good opportunity to upgrade their entertainment experience. The Fire TV Stick is a device that converts your TV into a streaming platform, allowing you to access services such as Netflix and Amazon Prime Video, and it comes in different versions, including an HD model and a 4K model with Dolby Vision, which offers higher image quality. With this promotion, you can choose the model that best fits your TV and budget.",
+      "score": 0.399
+    },
+    {
+      "title": "Hora de renovar a sala: Samsung NEO QLED e QLED em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/07/25/reviews/hora-de-renovar-a-sala-samsung-neo-qled-e-qled-em-promocao-na-amazon-3/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, a Amazon ofereceu descontos em três modelos de TVs da linha Samsung, incluindo as tecnologias NEO QLED e QLED, que são conhecidas por oferecer imagens de alta qualidade e recursos inteligentes, como a capacidade de controlar outros dispositivos da casa. Essas TVs, lançadas em 2025, possuem especificações avançadas, tornando-as uma boa opção para quem deseja atualizar a sala de estar. A tecnologia QLED, por exemplo, utiliza cristais líquidos para melhorar a qualidade da imagem, enquanto a tecnologia NEO QLED oferece ainda mais detalhes e cores. Com essas ofertas, é um bom momento para considerar a troca da TV antiga por um modelo mais moderno.",
+      "en": "Recently, Amazon offered discounts on three TV models from Samsung's lineup, including the NEO QLED and QLED technologies, which are known for providing high-quality images and smart features, such as the ability to control other home devices. These TVs, released in 2025, have advanced specifications, making them a good option for those looking to update their living room. The QLED technology, for instance, uses liquid crystals to improve image quality, while the NEO QLED technology offers even more details and colors. With these deals, it is a good time to consider replacing an old TV with a more modern model.",
+      "score": 0.3984
+    },
+    {
+      "title": "How I Went From Interview Rejections to Building a 200+ Question Open‑Source Cybersecurity Resource",
+      "url": "https://dev.to/excalibra/how-i-went-from-interview-rejections-to-building-a-200-question-open-source-cybersecurity-resource-2m4f",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um desenvolvedor compartilhou sua experiência de superar rejeições em entrevistas de emprego para construir um recurso open-source de segurança cibernética com mais de 200 perguntas, e está disponibilizando de graça. Isso importa porque muitas pessoas enfrentam desafios semelhantes ao se preparar para entrevistas técnicas, e entender como abordar esses desafios pode ser crucial para o sucesso. O desenvolvedor percebeu que, em vez de apenas memorizar definições, era necessário aprender a aplicar conceitos de segurança de forma prática. Esse recurso open-source pode ser uma ferramenta valiosa para aqueles que buscam melhorar suas habilidades em segurança cibernética.",
+      "en": "A developer has shared his experience of overcoming interview rejections to build an open-source cybersecurity resource with over 200 questions, and is making it available for free. This matters because many people face similar challenges when preparing for technical interviews, and understanding how to approach these challenges can be crucial for success. The developer realized that instead of just memorizing definitions, it was necessary to learn how to apply security concepts in a practical way. This open-source resource can be a valuable tool for those looking to improve their cybersecurity skills.",
+      "score": 0.3986
+    },
+    {
+      "title": "Statement of Work vs. Secondment in Life Sciences: Which Model Fits Your Project?",
+      "url": "https://dev.to/jordy_stravers_68b8cbaa11/statement-of-work-vs-secondment-in-life-sciences-which-model-fits-your-project-4p3l",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, as organizações de ciências da vida têm optado por dois modelos principais ao contratar consultores externos para projetos: secondment ou Declaração de Trabalho (SOW). A Declaração de Trabalho é um documento de contrato que detalha o escopo, os deliverables, o cronograma e as responsabilidades de um projeto ou serviço, sendo amplamente utilizada nas ciências da vida devido às estritas exigências de qualidade e conformidade. Isso ocorre porque esses documentos ajudam a evitar mal-entendidos e garantir que todos os envolvidos estejam alinhados com os objetivos do projeto. Ao escolher entre esses modelos, é fundamental considerar as necessidades específicas do projeto.",
+      "en": "Recently, life sciences organizations have been opting for two main models when hiring external consultants for projects: secondment or a Statement of Work (SOW). A Statement of Work is a contract document that outlines the scope, deliverables, timeline, and responsibilities of a project or service in detail, being widely used in life sciences due to the strict quality and compliance requirements. This is because these documents help prevent misunderstandings and ensure that all parties involved are aligned with the project's objectives. When choosing between these models, it is crucial to consider the specific needs of the project.",
+      "score": 0.3978
+    },
+    {
+      "title": "Why the Rate on Your Offer Letter Isn't Your Real Hourly Wage",
+      "url": "https://dev.to/evvytools/why-the-rate-on-your-offer-letter-isnt-your-real-hourly-wage-32l6",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um artigo destacou a importância de entender a diferença entre o valor oferecido em uma carta de oferta e o salário horário real, especialmente para freelancers que recebem propostas de clientes para trabalhar como contratantes parciais, pois o valor oferecido pode não refletir o salário horário real. Isso ocorre porque o valor oferecido apenas considera as horas efetivamente trabalhadas e remuneradas, não levando em conta o tempo gasto com deslocamento, que não é pago. É fundamental considerar esses fatores para evitar surpresas desagradáveis. O salário horário real é calculado com base no tempo total gasto, incluindo o tempo de deslocamento, o que pode ser significativamente diferente do valor oferecido.",
+      "en": "Recently, an article highlighted the importance of understanding the difference between the value offered in an offer letter and the real hourly wage, especially for freelancers who receive proposals from clients to work as part-time contractors, as the offered value may not reflect the real hourly wage. This is because the offered value only considers the hours actually worked and paid, not taking into account the time spent commuting, which is not paid. It is crucial to consider these factors to avoid unpleasant surprises. The real hourly wage is calculated based on the total time spent, including commuting time, which can be significantly different from the offered value.",
+      "score": 0.3485
+    },
+    {
+      "title": "Pharmacovigilance in the Netherlands: Roles, Salaries, and the QPPV Explained",
+      "url": "https://dev.to/jordy_stravers_68b8cbaa11/pharmacovigilance-in-the-netherlands-roles-salaries-and-the-qppv-explained-5gal",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A farmacovigilância, a ciência que monitora a segurança dos medicamentos, é uma das disciplinas mais regulamentadas e consistentemente demandadas nas ciências da vida. Recentemente, um artigo foi publicado sobre o papel da farmacovigilância na Holanda, explicando as funções, salários e a importância do QPPV, que é o responsável pela gestão da farmacovigilância em uma empresa farmacêutica. A farmacovigilância envolve a detecção, avaliação e prevenção de efeitos adversos relacionados ao uso de medicamentos. Isso é especialmente importante, pois as empresas farmacêuticas são legalmente obrigadas a manter um sistema robusto de farmacovigilância.",
+      "en": "Pharmacovigilance, the science of monitoring the safety of medicines, is one of the most tightly regulated and consistently in-demand disciplines in life sciences. Recently, an article was published about pharmacovigilance in the Netherlands, explaining the roles, salaries, and the importance of the QPPV, which is the person responsible for managing pharmacovigilance in a pharmaceutical company. Pharmacovigilance involves the detection, assessment, and prevention of adverse effects related to medicine use. This is particularly important, as pharmaceutical companies are legally required to maintain a robust pharmacovigilance system.",
+      "score": 0.348
+    },
+    {
+      "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+      "url": "https://arxiv.org/abs/2607.21594v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Uma equipe de pesquisadores apresentou o WorldWeaver (W^2), um modelo de difusão autoregressiva multi-agente em streaming que visa resolver o problema de manter estados de mundo consistentes em ambientes interativos multi-agente. Isso é importante porque os modelos existentes têm dificuldade em manter estados compartilhados devido à complexidade de gerenciar múltiplos agentes e visões. O WorldWeaver utiliza registros de estado de mundo, que são tokens aprendíveis que armazenam informações de mundo compartilhadas e atualizam dinamicamente após cada chunk gerado. Esses registros são treinados com sinais de supervisão que abrangem o status individual de cada agente, vistas de estado global e texto de cena.",
+      "en": "A team of researchers has introduced WorldWeaver (W^2), a streaming multi-agent autoregressive diffusion model that aims to address the issue of maintaining consistent world states in interactive multi-agent environments. This matters because existing models struggle to maintain shared states due to the complexity of managing multiple agents and views. WorldWeaver uses world state registers, which are learnable tokens that store shared world information and update dynamically after each generated chunk. These registers are trained with supervision signals that span individual agent status, global state views, and scene text, allowing for more effective state tracking and management.",
+      "score": 0.3746
+    },
+    {
+      "title": "Unified Video Dense Prediction from Disjoint Data",
+      "url": "https://arxiv.org/abs/2607.21592v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores criaram um modelo de vídeo unificado chamado UniD, que pode prever oito propriedades densas de cena, como profundidade, normais de superfície, segmentação semântica, limites, partes humanas, albedo, sombreamento e materiais, todas aprendidas a partir de conjuntos de dados dissociados e específicos de domínio. Isso é importante porque a compreensão de cenas requer previsões simultâneas sobre geometria, aparência e semântica, mas as anotações existentes são fragmentadas e incompatíveis. O modelo UniD usa uma etapa de destilação simples, mas eficaz, para supervisionar uma espinha dorsal unificada por meio de projetores de tarefas leves, eliminando a necessidade de anotações coletadas. Essa abordagem pode reduzir o custo computacional e melhorar a eficiência da previsão de cena.",
+      "en": "Researchers have created a unified video model called UniD, which can predict eight dense scene properties, such as depth, surface normals, semantic segmentation, boundaries, human parts, albedo, shading, and materials, all learned from disjoint, domain-specific datasets. This matters because scene understanding requires simultaneous predictions about geometry, appearance, and semantics, but existing annotations are fragmented and incompatible. The UniD model uses a simple yet effective distillation step to supervise a unified backbone through lightweight task projectors, eliminating the need for co-annotated data. This approach can reduce computational cost and improve the efficiency of scene prediction.",
+      "score": 0.3746
+    },
+    {
+      "title": "Expanding Flow Maps",
+      "url": "https://arxiv.org/abs/2607.21585v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram um novo método chamado Expanding Flow Maps (EFMs), que permite a geração de modelos mais flexíveis e eficientes em espaços de estado contínuos e discretos. Isso é importante porque os modelos generativos baseados em fluxo têm sido limitados por parâmetros fixos, o que restringe sua capacidade de lidar com problemas complexos. Os EFMs conseguem superar essa limitação ao definir fluxos entre distribuições de dimensionalidade crescente, o que permite a geração de modelos mais precisos e controláveis. Com isso, é possível criar modelos que podem lidar com problemas de alta complexidade de forma mais eficaz.",
+      "en": "Researchers have introduced a new method called Expanding Flow Maps (EFMs), which enables the generation of more flexible and efficient models in continuous and discrete state spaces. This matters because flow-based generative models have been limited by fixed parameters, which restricts their ability to handle complex problems. EFMs overcome this limitation by defining flows between distributions of increasing dimensionality, allowing for the generation of more accurate and controllable models. By doing so, it is possible to create models that can handle high-complexity problems more effectively.",
+      "score": 0.3746
+    },
+    {
+      "title": "GraphVid: Interactive Graph-Controllable Video Generation",
+      "url": "https://arxiv.org/abs/2607.21580v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram o GraphVid, um modelo de geração de vídeo condicionado por grafos que permite controle interativo por meio de grafos de interação estruturados, superando as limitações dos controles de texto ou movimento, que dificilmente capturam interações precisas entre múltiplos objetos. Isso é importante porque a geração de vídeo controlável é um desafio devido à dificuldade de especificar interações precisas entre objetos. O GraphVid é treinado com o GraphVid-Bench, um grande conjunto de dados de vídeo que contém anotações relacionais estruturadas. Isso pode ser útil para aplicações que exigem controle preciso sobre objetos em vídeos.",
+      "en": "Researchers introduced GraphVid, a graph-conditioned image-to-video generation model that enables interactive control through structured interaction graphs, overcoming the limitations of text or motion controls, which struggle to capture precise interactions between multiple objects. This matters because controllable video generation is a challenge due to the difficulty of specifying precise interactions between objects. GraphVid is trained on GraphVid-Bench, a large-scale interaction-centric video dataset with structured relational annotations. This can be useful for applications that require precise control over objects in videos.",
+      "score": 0.3745
+    },
+    {
+      "title": "CatsJuice/sticker-forge",
+      "url": "https://github.com/CatsJuice/sticker-forge",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto chamado Sticker Forge foi lançado no GitHub, o que é notável porque oferece uma ferramenta de criação de adesivos táteis baseada em WebGL, permitindo que os usuários trabalhem com texto rico, façam uploads de imagens e simulem fisicamente a ação de descascar adesivos de forma interativa. Isso importa porque combina recursos avançados de manipulação de imagem e simulação física de uma maneira acessível. A tecnologia WebGL, que significa Biblioteca Gráfica da Web, é uma API que permite a renderização de gráficos 3D e 2D dentro de navegadores da web sem a necessidade de plugins, o que torna o Sticker Forge uma ferramenta poderosa e versátil. Com essa combinação de funcionalidades, o Sticker Forge abre novas possibilidades para designers e entusiastas da criação de conteúdo.",
+      "en": "A new project called Sticker Forge has been released on GitHub, which is notable because it offers a tactile WebGL sticker maker, allowing users to work with rich text, upload images, and simulate the physical action of peeling stickers interactively. This matters because it combines advanced image manipulation and physical simulation capabilities in an accessible way. The WebGL technology, which stands for Web Graphics Library, is an API that allows the rendering of 3D and 2D graphics within web browsers without the need for plugins, making Sticker Forge a powerful and versatile tool. With this combination of features, Sticker Forge opens up new possibilities for designers and content creation enthusiasts.",
+      "score": 0.5245
+    },
+    {
+      "title": "0xhype/hyperliquid-tracker",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto foi lançado no GitHub, chamado hyperliquid-tracker, que permite aos usuários receber notificações quando grandes transações ocorrem na plataforma Hyperliquid, uma ferramenta de negociação de ativos digitais, pois isso pode ser útil para investidores que desejam monitorar o mercado e tomar decisões informadas. O projeto foi criado por 0xhype e está disponível para uso e contribuição. A Hyperliquid é uma plataforma que permite a negociação de ativos digitais de forma líquida, ou seja, com facilidade de compra e venda. Isso é particularmente importante para investidores que buscam maximizar seus lucros.",
+      "en": "A new project has been launched on GitHub, called hyperliquid-tracker, which allows users to receive notifications when large transactions occur on the Hyperliquid platform, a digital asset trading tool, because this can be useful for investors who want to monitor the market and make informed decisions. The project was created by 0xhype and is available for use and contribution. Hyperliquid is a platform that enables the trading of digital assets in a liquid manner, meaning with ease of buying and selling. This is particularly important for investors who seek to maximize their profits.",
+      "score": 0.5083
+    },
+    {
+      "title": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um sistema de prompt otimizado e eficiente em termos de tokens foi lançado no GitHub, o que é importante porque permite a execução universal em diferentes plataformas de inteligência artificial, como Gemini 3.1 Pro e ChatGPT 5.6. Esse sistema, conhecido como Claude Fable 5, foi reorganizado em Markdown limpo para facilitar seu uso em agentes de linguagem avançados. Isso significa que os desenvolvedores podem usar essa ferramenta para criar modelos de linguagem mais eficazes, pois o sistema de prompt é uma sequência de instruções que ajuda os modelos a entenderem o que é solicitado. Com essa otimização, os desenvolvedores podem melhorar a performances dos modelos de linguagem.",
+      "en": "A optimized and token-efficient system prompt was released on GitHub, which matters because it enables universal execution on different artificial intelligence platforms, such as Gemini 3.1 Pro and ChatGPT 5.6. This system, known as Claude Fable 5, was reengineered into clean Markdown to facilitate its use in advanced language models, meaning developers can use this tool to create more effective language models, as a system prompt is a sequence of instructions that helps models understand what is being asked. With this optimization, developers can improve the performance of language models.",
+      "score": 0.4956
+    },
+    {
+      "title": "Charles-0509/Grok-Register",
+      "url": "https://github.com/Charles-0509/Grok-Register",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto foi disponibilizado no GitHub, chamado Grok-Register, que oferece uma interface de linha de comando para registrar aplicativos e obter tokens de acesso via OAuth, convertendo-os em formato JSON para uso em CPA (Constrained Programming Architecture), tudo isso utilizando a linguagem de programação Go. Isso é importante porque simplifica o processo de autenticação e autorização para desenvolvedores. O Grok-Register foi criado por Charles-0509 e está disponível no repositório GitHub. O projeto é útil para desenvolvedores que precisam gerenciar registros de aplicativos e tokens de acesso de forma eficiente.",
+      "en": "A new project has been made available on GitHub, called Grok-Register, which provides a command-line interface to register applications and obtain access tokens via OAuth, converting them into JSON format for use in CPA (Constrained Programming Architecture), all using the Go programming language. This matters because it simplifies the authentication and authorization process for developers. Grok-Register was created by Charles-0509 and is available on the GitHub repository. The project is useful for developers who need to manage application registrations and access tokens efficiently.",
+      "score": 0.4606
+    }
+  ]
+}
