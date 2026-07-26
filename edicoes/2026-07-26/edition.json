@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-26",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Uma notícia recente revelou que as empresas Nvidia, Microsoft e Meta estão alertando contra a regulamentação excessiva dos modelos de peso aberto, que são uma forma de inteligência artificial que permite aos desenvolvedores treinar e ajustar os modelos de acordo com as suas necessidades específicas. Isso importa porque a regulamentação excessiva pode limitar o desenvolvimento e a inovação nessa área, que tem o potencial de trazer benefícios significativos para a sociedade. Os modelos de peso aberto permitem que os desenvolvedores acessem e modifiquem os parâmetros dos modelos, o que é fundamental para a criação de soluções personalizadas. A regulamentação adequada é necessária para garantir a segurança e a privacidade, mas é importante encontrar um equilíbrio para não sufocar a inovação.",
+      "en": "A recent news report revealed that companies Nvidia, Microsoft, and Meta are warning against overregulating open-weight models, which are a form of artificial intelligence that allows developers to train and fine-tune models according to their specific needs. This matters because excessive regulation could limit development and innovation in this area, which has the potential to bring significant benefits to society. Open-weight models allow developers to access and modify the model parameters, which is crucial for creating customized solutions. Proper regulation is necessary to ensure safety and privacy, but it is important to strike a balance to avoid stifling innovation.",
+      "score": 0.7894
+    },
+    {
+      "title": "Android may soon restrict on-device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A equipe do Android está considerando restringir o uso do ADB (Android Debug Bridge) em dispositivos, o que pode afetar desenvolvedores e usuários avançados que dependem dessa ferramenta para realizar tarefas como depurar aplicativos e acessar o sistema operacional. O ADB é uma ferramenta de linha de comando que permite aos desenvolvedores interagir com o sistema operacional Android, permitindo que eles executem comandos e transfiram arquivos entre o dispositivo e o computador. Isso pode ser um problema para aqueles que usam o ADB para personalizar ou reparar seus dispositivos. A restrição pode ser implementada para melhorar a segurança do dispositivo.",
+      "en": "The Android team is considering restricting the use of ADB (Android Debug Bridge) on devices, which may affect developers and advanced users who rely on this tool to perform tasks such as debugging applications and accessing the operating system. ADB is a command-line tool that allows developers to interact with the Android operating system, enabling them to run commands and transfer files between the device and computer. This may be a problem for those who use ADB to customize or repair their devices. The restriction may be implemented to improve device security.",
+      "score": 0.7476
+    },
+    {
+      "title": "mikiarlo3/ai-copywriter",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto no GitHub, chamado ai-copywriter, está atraindo atenção devido à sua capacidade de combinar habilidades de redação publicitária com conhecimentos de marketing, tudo com um tom humano. Isso importa porque pode revolucionar a forma como o conteúdo é criado para campanhas publicitárias. O ai-copywriter utiliza inteligência artificial para produzir textos que soam naturais e atraentes, como se fossem escritos por um ser humano. Com isso, empresas podem economizar tempo e recursos, melhorando a eficiência de suas campanhas.",
+      "en": "A new project on GitHub, called ai-copywriter, is gaining attention due to its ability to combine real copywriting skills with marketing knowledge, all while maintaining a human tone. This matters because it could revolutionize the way content is created for advertising campaigns. The ai-copywriter uses artificial intelligence to produce texts that sound natural and engaging, as if they were written by a human. With this, companies can save time and resources, improving the efficiency of their campaigns.",
+      "score": 0.6593
+    },
+    {
+      "title": "unsloth/Laguna-S-2.1-GGUF",
+      "url": "https://huggingface.co/unsloth/Laguna-S-2.1-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem foi publicado no Hugging Face, uma plataforma popular para compartilhamento de modelos de aprendizado de máquina, que se destaca na tarefa de geração de texto, com 191 curtidas e 102684 downloads, o que indica seu potencial para aplicações práticas. Esse modelo, conhecido como Laguna-S-2.1-GGUF, foi criado para processar e gerar texto de forma coerente, utilizando técnicas de aprendizado profundo. A geração de texto é uma tarefa complexa que envolve a capacidade de um modelo entender o contexto e produzir texto que soe natural, o que é útil em diversas aplicações, como chatbots e resumo de textos. Com tal volume de downloads, é evidente que a comunidade de desenvolvedores e pesquisadores enxerga um grande valor nesse modelo.",
+      "en": "A language model has been published on Hugging Face, a popular platform for sharing machine learning models, which excels in the task of text generation, with 191 likes and 102684 downloads, indicating its potential for practical applications. This model, known as Laguna-S-2.1-GGUF, was created to process and generate text in a coherent manner, using deep learning techniques. Text generation is a complex task that involves a model's ability to understand context and produce text that sounds natural, which is useful in various applications such as chatbots and text summarization. With such a high volume of downloads, it is clear that the developer and researcher community sees significant value in this model.",
+      "score": 0.6557
+    },
+    {
+      "title": "Hora de renovar a sala: selecionamos TVs NEO QLED em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/07/26/reviews/hora-de-renovar-a-sala-selecionamos-tvs-neo-qled-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Amazon está com uma seleção de TVs NEO QLED em promoção, o que pode ser um bom momento para quem está procurando trocar a televisão, pois esses modelos da Samsung oferecem tecnologia de ponta, como a Vision AI, que é uma tecnologia de inteligência artificial que melhora a qualidade da imagem. A Vision AI é basicamente um sistema que ajusta a imagem em tempo real para garantir a melhor qualidade possível. Isso significa que os usuários podem desfrutar de uma experiência de visualização mais nítida e detalhada. Com opções como a Samsung Vision AI TV 43″ NEO QLED ULTRA 4K, os consumidores têm uma variedade de escolhas para renovar a sala de estar.",
+      "en": "The Amazon is featuring a selection of NEO QLED TVs on promotion, which may be a good time for those looking to replace their television, as these Samsung models offer cutting-edge technology, such as Vision AI, which is an artificial intelligence technology that enhances image quality. Vision AI is essentially a system that adjusts the image in real time to ensure the best possible quality. This means that users can enjoy a sharper and more detailed viewing experience. With options like the Samsung Vision AI TV 43″ NEO QLED ULTRA 4K, consumers have a range of choices to upgrade their living room.",
+      "score": 0.3983
+    },
+    {
+      "title": "5 coisas que o ChatGPT faz melhor que o Gemini",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-chatgpt-faz-melhor-que-gemini/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Recentemente, o ChatGPT demonstrou ser capaz de entender pedidos mais complexos e manter o contexto das conversas por mais tempo do que o Gemini, o que é importante porque permite que os usuários obtenham respostas mais precisas e relevantes. Isso ocorre porque o ChatGPT pode processar uma grande quantidade de dados e aprender com as interações dos usuários, o que é conhecido como aprendizado de máquina, uma técnica que permite que os sistemas de inteligência artificial melhorem suas capacidades ao longo do tempo. O ChatGPT também funciona com um número maior de serviços além dos oferecidos pelo Google, o que é útil para os usuários que precisam integrar diferentes ferramentas e plataformas. Além disso, o ChatGPT pode ser utilizado de forma independente, sem a necessidade de estar vinculado a uma conta específica ou plataforma.",
+      "en": "Recently, ChatGPT has shown it can understand more complex requests and maintain conversation context for longer periods than Gemini, which matters because it allows users to get more accurate and relevant answers. This happens because ChatGPT can process large amounts of data and learn from user interactions, which is known as machine learning, a technique that enables artificial intelligence systems to improve their capabilities over time. ChatGPT also works with a wider range of services beyond those offered by Google, which is useful for users who need to integrate different tools and platforms. Additionally, ChatGPT can be used independently, without the need to be tied to a specific account or platform.",
+      "score": 0.3486
+    },
+    {
+      "title": "Qualcomm pode aumentar preços de chips para celulares e PCs, diz site",
+      "url": "https://tecnoblog.net/noticias/qualcomm-pode-aumentar-precos-de-chips-para-celulares-e-pcs-diz-site/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Qualcomm pode aumentar os preços de seus chips para celulares e PCs, o que é um desenvolvimento importante porque pode afetar o custo final dos dispositivos para os consumidores. Isso ocorre porque a empresa não consegue mais absorver o aumento dos custos, de acordo com uma carta obtida por uma reportagem. A escassez de componentes causada pelos data centers para inteligência artificial tem sido um fator contribuinte para essa situação. A Qualcomm é uma marca líder em processadores, e qualquer mudança nos preços de seus chips pode ter um impacto significativo no mercado de tecnologia.",
+      "en": "Qualcomm may increase the prices of its chips for cellphones and PCs, which is a significant development because it could affect the final cost of devices for consumers. This is happening because the company can no longer absorb the rising costs, according to a letter obtained by a report. The shortage of components caused by data centers for artificial intelligence has been a contributing factor to this situation. Qualcomm is a leading brand in processors, and any change in the prices of its chips can have a substantial impact on the technology market.",
+      "score": 0.331
+    },
+    {
+      "title": "Stolen Buttons",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um desenvolvedor descobriu que botões de sites foram clonados e utilizados em outros contextos, o que pode ter implicações de segurança, pois esses botões podem conter código malicioso. Isso aconteceu porque os botões foram carregados de maneira inadequada, permitindo que terceros os copiassem e usassem em outros lugares. Essa prática pode ser prejudicial, pois pode levar a vulnerabilidades de segurança. O caso destaca a importância de carregar componentes de maneira segura.",
+      "en": "A developer discovered that website buttons were cloned and used in other contexts, which can have security implications, as these buttons may contain malicious code. This happened because the buttons were loaded improperly, allowing third parties to copy and use them elsewhere. This practice can be harmful, as it can lead to security vulnerabilities. The case highlights the importance of loading components securely.",
+      "score": 0.5112
+    },
+    {
+      "title": "Fire TV Stick em promoção: escolha o modelo certo para transformar sua TV",
+      "url": "https://olhardigital.com.br/2026/07/26/reviews/fire-tv-stick-em-promocao-escolha-o-modelo-certo-para-transformar-sua-tv-2/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Amazon está oferecendo uma seleção de Fire TV Sticks em promoção, o que é uma grande oportunidade para quem deseja transformar sua TV em uma central de streaming ou atualizar o dispositivo existente. Isso importa porque os Fire TV Sticks permitem que os usuários acessem uma ampla variedade de conteúdo de streaming, incluindo filmes, séries e aplicativos, tornando sua TV mais versátil. Existem três modelos disponíveis, variando do básico ao mais avançado, para atender a diferentes necessidades e tipos de usuários. Essa promoção é uma chance para escolher o modelo certo e melhorar a experiência de streaming em sua TV.",
+      "en": "Amazon is offering a selection of Fire TV Sticks at a discounted price, which is a great opportunity for those who want to turn their TV into a streaming hub or upgrade their existing device. This matters because Fire TV Sticks allow users to access a wide range of streaming content, including movies, shows, and apps, making their TV more versatile. There are three models available, ranging from basic to advanced, to cater to different needs and types of users. This promotion is a chance to choose the right model and enhance the streaming experience on your TV.",
+      "score": 0.3989
+    },
+    {
+      "title": "Hora de renovar a sala: Smart TVs 4K em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/07/26/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-25/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Amazon está oferecendo uma seleção de Smart TVs 4K em promoção, o que pode ser um momento ideal para substituir uma televisão antiga por um modelo mais moderno. Essas TVs possuem recursos como Dolby Atmos, que oferece uma experiência de som imersiva, e Google TV, um sistema operacional que permite acessar uma variedade de aplicativos e conteúdos. As opções incluem marcas consagradas, como a LG, com modelos como o Smart TV 43″ LG 43AU801C0SA. Essa é uma oportunidade para atualizar a sala de estar com tecnologia de ponta.",
+      "en": "The Amazon is offering a selection of 4K Smart TVs on promotion, which could be the ideal time to replace an old television with a more modern model. These TVs feature technologies such as Dolby Atmos, which provides an immersive sound experience, and Google TV, an operating system that allows access to a variety of apps and content. The options include established brands, like LG, with models such as the 43″ LG 43AU801C0SA Smart TV. This is an opportunity to update the living room with cutting-edge technology.",
+      "score": 0.3977
+    },
+    {
+      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "source": "Ars Technica",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um teaser revelado na San Diego Comic-Con nos dá o primeiro olhar detalhado de Blade Runner 2099, uma série que promete expandir o universo criado por Ridley Scott em 1982, explorando temas como inteligência artificial e humanidade, conceitos que são explicados de forma acessível como a capacidade de máquinas pensarem e se comportarem como seres humanos. Isso importa porque a franquia Blade Runner é conhecida por sua abordagem filosófica e visualmente impressionante, o que pode atrair fãs de ficção científica e tecnologia. A série parece prometer uma análise profunda desses conceitos, tornando-a uma obra que pode ser apreciada por especialistas e leigos alike. Com a combinação de elementos visuais impressionantes e uma narrativa ricamente detalhada, Blade Runner 2099 pode se tornar uma obra-prima da ficção científica.",
+      "en": "A teaser revealed at the San Diego Comic-Con gives us our first good look at Blade Runner 2099, a series that promises to expand the universe created by Ridley Scott in 1982, exploring themes such as artificial intelligence and humanity, concepts that are explained in plain terms as the ability of machines to think and behave like human beings. This matters because the Blade Runner franchise is known for its philosophical and visually impressive approach, which can attract fans of science fiction and technology. The series appears to promise an in-depth analysis of these concepts, making it a work that can be appreciated by experts and non-experts alike. With a combination of impressive visuals and a richly detailed narrative, Blade Runner 2099 may become a science fiction masterpiece.",
+      "score": 0.3724
+    },
+    {
+      "title": "10 Ways to Monetize Your Coding Skills Today",
+      "url": "https://dev.to/qingluan/10-ways-to-monetize-your-coding-skills-today-2io4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, uma publicação destacou as diversas maneiras pelas quais os programadores podem monetizar suas habilidades, o que é especialmente relevante em um mercado de trabalho em constante evolução. Isso importa porque muitos programadores podem não estar cientes de todas as oportunidades disponíveis para transformar seu conhecimento em código em receita. Com a ascensão da economia de serviços e plataformas online, é possível começar a ganhar dinheiro com as habilidades de codificação sem precisar de um emprego full-time ou lançar um startup. Além disso, essas oportunidades podem ser exploradas por programadores de todos os níveis, desde iniciantes até experientes.",
+      "en": "Recently, a publication highlighted the various ways programmers can monetize their skills, which is particularly relevant in a constantly evolving job market. This matters because many programmers may not be aware of all the opportunities available to turn their coding knowledge into revenue. With the rise of the gig economy and online platforms, it is possible to start earning money from coding skills without needing a full-time job or launching a startup. Additionally, these opportunities can be explored by programmers of all levels, from beginners to experienced professionals.",
+      "score": 0.3495
+    },
+    {
+      "title": "Why One-Click Apply Is Failing in 2026 (And What Smart Job Seekers Are Doing Instead)",
+      "url": "https://dev.to/shubham_sarkar_e0e8b973ad/why-one-click-apply-is-failing-in-2026-and-what-smart-job-seekers-are-doing-instead-4o6g",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, uma tendência no mercado de trabalho em 2026 tem chamado a atenção: o recurso de aplicação em um clique está falhando, apesar de permitir que os candidatos enviem hundredos de inscrições em um único dia. Isso ocorre porque a inteligência artificial, que facilita a criação de currículos e preenche formulários de inscrição automaticamente, também aumenta a concorrência, tornando as chances de obter uma entrevista ainda menores. Ainda que a tecnologia tenha tornado o processo de aplicação quase sem esforço, os candidatos inteligentes estão procurando outras estratégias para se destacar. Isso inclui personalizar as inscrições e aproveitar as ferramentas de tecnologia para criar uma abordagem mais eficaz.",
+      "en": "Recently, a trend in the 2026 job market has been noted: one-click apply is failing, despite allowing candidates to send hundreds of applications in a single day. This is because artificial intelligence, which facilitates the creation of resumes and automatically fills out application forms, also increases competition, making the chances of getting an interview even smaller. Although technology has made the application process almost effortless, smart job seekers are looking for other strategies to stand out. This includes personalizing applications and leveraging technology to create a more effective approach.",
+      "score": 0.3491
+    },
+    {
+      "title": "Integridade em facilitação: por que o processo importa mais que o consenso",
+      "url": "https://dev.to/lucas_fogaca/integridade-em-facilitacao-por-que-o-processo-importa-mais-que-o-consenso-5d3i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um artigo recente sobre facilitação destaca a importância da integridade no processo, em vez de se focar apenas no consenso. Isso matters porque, em situações de pressão, a integridade pode ser comprometida, e é aí que o verdadeiro desafio começa. A integridade, como discutido por Andi Roberts, refere-se à capacidade de agir de acordo com os princípios e valores, mesmo quando isso é difícil. Em resumo, a facilitação eficaz não é sobre fabricar consenso, mas sim sobre manter a integridade do processo.",
+      "en": "A recent article on facilitation highlights the importance of integrity in the process, rather than just focusing on consensus. This matters because, in high-pressure situations, integrity can be compromised, and that is where the real challenge begins. Integrity, as discussed by Andi Roberts, refers to the ability to act in accordance with principles and values, even when it is difficult. In summary, effective facilitation is not about manufacturing consensus, but rather about maintaining the integrity of the process.",
+      "score": 0.3488
+    },
+    {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A empresa Monday.com é a mais recente a citar a inteligência artificial (IA) como motivo para demissões, um fenômeno que está ocorrendo em outras 20 empresas de tecnologia, de acordo com um levantamento da TechCrunch, que mostra como as companhias estão utilizando a IA como justificativa para cortes de pessoal. Isso é importante porque reflete a crescente dependência das empresas de tecnologia em soluções automatizadas. A IA, que se refere à capacidade de máquinas realizarem tarefas que normalmente exigiriam inteligência humana, está sendo usada para otimizar processos e reduzir custos. Com essas mudanças, é fundamental entender como a IA está impactando o mercado de trabalho.",
+      "en": "Monday.com has become the latest tech company to cite artificial intelligence (AI) as a reason for layoffs, a phenomenon that is occurring in 20 other tech companies, according to a TechCrunch survey, which shows how companies are using AI as a justification for personnel cuts. This matters because it reflects the growing dependence of tech companies on automated solutions. AI, which refers to the ability of machines to perform tasks that would normally require human intelligence, is being used to optimize processes and reduce costs. With these changes, it is essential to understand how AI is impacting the job market.",
+      "score": 0.3307
+    },
+    {
+      "title": "Synthetic data generation framework for quality control automation in gravure printing",
+      "url": "https://arxiv.org/abs/2607.21577v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram um quadro de geração de dados sintéticos para automação do controle de qualidade em impressão em gravura, que é uma técnica de impressão que ainda depende fortemente de inspeção manual lenta e subjetiva. Isso é importante porque a detecção automática de defeitos de superfície é crucial para manter padrões de alta qualidade em impressão em gravura. A geração de dados sintéticos pode ser usada para treinar modelos de aprendizado profundo, como YOLO ou Vision Transformers, que são capazes de detectar automaticamente defeitos de impressão, como dobras, listras e erros de registro.",
+      "en": "Researchers have developed a synthetic data generation framework for automation of quality control in gravure printing, a printing technique that still heavily relies on slow and subjective manual inspection. This matters because automated surface defect detection is critical for maintaining high-quality standards in rotogravure printing. Synthetic data generation can be used to train deep learning models, such as YOLO or Vision Transformers, which are capable of automatically detecting printing defects like creases, streaks, and misregistration. The proposed framework automatically generates high-fidelity images of specific printing defects and outputs corresponding annotations.",
+      "score": 0.3315
+    },
+    {
+      "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
+      "url": "https://arxiv.org/abs/2607.21573v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram uma nova abordagem para explicar classificadores de séries temporais, chamada TimePNS, que vai além da noção de suficiência e incorpora a necessidade contrafactual, um conceito baseado na ideia de que um fator temporal é necessário se a sua intervenção alterar a previsão do modelo, o que é crucial para entender como os modelos de aprendizado de máquina tomam decisões. Isso é importante porque as explicações fiéis devem identificar subsequências que não apenas preservam a previsão do modelo, mas também são necessárias para mantê-la. A TimePNS é um quadro de trabalho em duas etapas que aprende um processo gerativo causal identificável e uma máscara de explicação orientada à suficiência. \nA nova abordagem pode ser útil para evitar a atribuição de importância a subsequências espúrias que apoiam a previsão, mas não são essenciais para a decisão do modelo.",
+      "en": "Researchers have developed a new approach to explaining time-series classifiers, called TimePNS, which goes beyond the notion of sufficiency and incorporates counterfactual necessity, a concept based on the idea that a temporal factor is necessary if intervening on it disrupts the model's prediction, which is crucial for understanding how machine learning models make decisions. This matters because faithful explanations should identify subsequences that not only preserve the model's prediction, but also are necessary to maintain it. TimePNS is a two-stage framework that learns an identifiable causal generative process and a sufficiency-oriented explanation mask. \nThe new approach can be useful for avoiding the assignment of importance to spurious subsequences that support the prediction without being essential to the model's decision.",
+      "score": 0.3314
+    },
+    {
+      "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
+      "url": "https://arxiv.org/abs/2607.21558v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores publicaram um estudo no arXiv sobre o desenvolvimento de modelos de linguagem grande que possam aprender com os outros sem simplesmente acatar suas opiniões, o que é fundamental para a criação de modelos socialmente calibrados. Isso exige que os modelos possam distinguir quando devem incorporar as perspectivas dos outros e quando devem manter um julgamento moral bem fundamentado. O estudo mostra que a revisão do julgamento dos modelos é estruturada em três dimensões que são semelhantes a fenômenos clássicos da psicologia social humana: a distância entre a visão entrante e a posição inicial do modelo, a atribuição da fonte dessa visão e a estrutura de coalizão que a apoia. Os modelos tendem a ser mais receptivos a posições próximas e mais influenciados por visões apresentadas como suas próprias.",
+      "en": "Researchers published a study on arXiv about developing large language models that can learn from others without simply acquiescing to their opinions, which is crucial for creating socially calibrated models. This requires models to distinguish when to incorporate others' perspectives and when to maintain a well-grounded moral judgment. The study found that models' judgment revision is structured along three dimensions that parallel classic phenomena in human social psychology: the distance between an incoming view and the model's initial position, the source attribution of that view, and the coalition structure supporting it. Models are generally more receptive to nearby positions and more influenced by views presented as their own.",
+      "score": 0.331
+    },
+    {
+      "title": "Visual Contrastive Self-Distillation",
+      "url": "https://arxiv.org/abs/2607.21556v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores recentemente publicaram um artigo sobre Visual Contrastive Self-Distillation (VCSD), uma técnica que simplifica a auto-distilação de políticas, removendo a necessidade de um professor externo ou informações assimétricas entre professor e aluno. Isso é importante porque a auto-distilação de políticas é uma abordagem promissora para melhorar a aprendizagem de modelos, mas geralmente requer um professor com conhecimento mais avançado. A VCSD consegue isso convertendo a remoção de conteúdo de imagem em um sinal de auto-distilação, permitindo que o aluno aprenda com suas próprias respostas.",
+      "en": "Researchers have recently published a paper on Visual Contrastive Self-Distillation (VCSD), a technique that simplifies on-policy self-distillation by removing the need for an external teacher or asymmetric information between teacher and student. This matters because on-policy self-distillation is a promising approach to improving model learning, but it typically requires a teacher with more advanced knowledge. VCSD achieves this by converting image content removal into a self-distillation signal, allowing the student to learn from its own responses.",
+      "score": 0.3309
+    },
+    {
+      "title": "zeus-panel/ZEUS-PANEL",
+      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um painel de gerenciamento de proxy de rede VLESS sem servidor de alta performance foi lançado no GitHub, o que é importante porque oferece uma solução escalável e segura para usuários que precisam gerenciar proxys de rede. O painel, chamado ZEUS-PANEL, é deployado nativamente em Cloudflare Workers e D1 SQL Database, o que significa que ele pode ser executado sem a necessidade de servidores dedicados. Isso é possível devido à arquitetura sem servidor, que permite que o painel seja escalado automaticamente de acordo com a demanda. O ZEUS-PANEL pode ser uma opção atraente para usuários que buscam uma solução de gerenciamento de proxy de rede flexível e confiável.",
+      "en": "A high-performance, serverless VLESS network proxy management panel was launched on GitHub, which matters because it offers a scalable and secure solution for users who need to manage network proxies. The panel, called ZEUS-PANEL, is deployed natively on Cloudflare Workers and D1 SQL Database, meaning it can run without the need for dedicated servers. This is made possible by the serverless architecture, which allows the panel to be automatically scaled according to demand. The ZEUS-PANEL may be an attractive option for users looking for a flexible and reliable network proxy management solution.",
+      "score": 0.4061
+    },
+    {
+      "title": "slvDev/esp32-ai",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto foi publicado no GitHub, intitulado esp32-ai, que visa integrar inteligência artificial em dispositivos baseados no microcontrolador ESP32, o que pode ser útil para desenvolvedores que desejam criar aplicações de IoT com capacidades de processamento de dados avançadas. Isso é importante porque o ESP32 é um microcontrolador de baixo custo e consumo de energia, tornando-o atraente para projetos de internet das coisas. O projeto esp32-ai fornece um exemplo de como utilizar algoritmos de aprendizado de máquina em dispositivos embarcados, o que pode ser um tópico interessante para desenvolvedores que buscam criar soluções inovadoras. O código fonte está disponível no repositório do GitHub para que os desenvolvedores possam explorar e aprender com ele.",
+      "en": "A project was published on GitHub, titled esp32-ai, which aims to integrate artificial intelligence into devices based on the ESP32 microcontroller, a development that can be useful for developers looking to create IoT applications with advanced data processing capabilities. This matters because the ESP32 is a low-cost, low-power microcontroller, making it attractive for internet of things projects. The esp32-ai project provides an example of how to use machine learning algorithms on embedded devices, a topic that may be of interest to developers seeking to create innovative solutions. The source code is available on the GitHub repository for developers to explore and learn from.",
+      "score": 0.063
+    },
+    {
+      "title": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo repositório foi criado no GitHub, intitulado openworker, que pode ter implicações significativas para o desenvolvimento de aplicações de código aberto. Isso importa porque pode permitir que desenvolvedores criem trabalhadores de código aberto, que são essencialmente pequenos programas que podem ser executados em segundo plano para realizar tarefas específicas, como processamento de dados ou manutenção de sistemas. Openworker parece ser uma ferramenta que facilita a criação e gerenciamento desses trabalhadores, o que pode ser útil para desenvolvedores que precisam automatizar tarefas repetitivas. Com o openworker, os desenvolvedores podem criar trabalhadores personalizados para atender às suas necessidades específicas.",
+      "en": "A new repository has been created on GitHub, titled openworker, which may have significant implications for the development of open-source applications. This matters because it may allow developers to create open-source workers, which are essentially small programs that can be run in the background to perform specific tasks, such as data processing or system maintenance. Openworker appears to be a tool that facilitates the creation and management of these workers, which can be useful for developers who need to automate repetitive tasks. With openworker, developers can create custom workers to meet their specific needs.",
+      "score": 0.0524
+    },
+    {
+      "title": "AdelanSupport/adelan-support",
+      "url": "https://github.com/AdelanSupport/adelan-support",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um repositório no GitHub chamado AdelanSupport foi criado, o que pode ser interessante para desenvolvedores que buscam soluções de suporte, pois ele pode conter recursos e ferramentas úteis para a resolução de problemas técnicos. Isso importa porque esses recursos podem ajudar a melhorar a experiência do usuário em sistemas e aplicativos. O repositório pode ser acessado através do link fornecido, onde os desenvolvedores podem explorar e contribuir com o conteúdo. A criação desse repositório pode ser um passo importante para a comunidade de desenvolvedores que precisam de suporte técnico.",
+      "en": "A GitHub repository called AdelanSupport has been created, which may be of interest to developers looking for support solutions, as it may contain useful resources and tools for troubleshooting technical issues. This matters because these resources can help improve the user experience in systems and applications. The repository can be accessed through the provided link, where developers can explore and contribute to the content. The creation of this repository may be an important step for the developer community that needs technical support.",
+      "score": 0.0423
+    }
+  ]
+}
