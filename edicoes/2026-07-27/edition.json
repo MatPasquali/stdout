@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-27",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um cidadão americano foi acusado após o seu telefone com GrapheneOS, um sistema operacional de código aberto projetado para ser mais seguro do que os sistemas operacionais comuns, apagar todos os dados durante uma busca em um aeroporto, o que levanta questões sobre a privacidade e segurança dos dispositivos móveis. Isso aconteceu porque o GrapheneOS foi projetado para proteger os dados do usuário, mesmo que o dispositivo seja acessado por terceiros. O caso é significativo porque destaca a importância da segurança e privacidade nos dispositivos móveis. O sistema operacional GrapheneOS é uma opção para quem busca um sistema mais seguro, pois oferece recursos avançados de criptografia e segurança.",
+      "en": "A US citizen has been charged after their GrapheneOS phone wiped all its data during an airport search, raising questions about mobile device privacy and security. This occurred because GrapheneOS, an open-source operating system designed to be more secure than common operating systems, was built to protect user data even if the device is accessed by third parties. The case is significant because it highlights the importance of security and privacy in mobile devices. The GrapheneOS operating system is an option for those seeking a more secure system, as it offers advanced encryption and security features.",
+      "score": 0.8145
+    },
+    {
+      "title": "VictorTaelin/OptMem",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado OptMem, criado por VictorTaelin, está ganhando atenção por proporcionar memória permanente para agentes de inteligência artificial, permitindo que eles armazenem e recuperem informações de forma eficiente. Isso é importante porque os agentes de IA geralmente têm capacidades de memória limitadas, o que pode afetar seu desempenho em tarefas complexas. O OptMem é composto por um script e um prompt de 426 tokens, tornando fácil para os usuários integrá-lo aos seus projetos de IA. Com essa ferramenta, os desenvolvedores podem melhorar a capacidade de aprendizado e adaptação de seus agentes de IA.",
+      "en": "A GitHub project called OptMem, created by VictorTaelin, is gaining attention for providing permanent memory for artificial intelligence agents, allowing them to store and retrieve information efficiently. This matters because AI agents typically have limited memory capabilities, which can impact their performance in complex tasks. The OptMem consists of a script and a 426-token prompt, making it easy for users to plug it into their AI projects. With this tool, developers can improve the learning and adaptation capabilities of their AI agents.",
+      "score": 0.7602
+    },
+    {
+      "title": "Kill The Cookie Banner",
+      "url": "https://killthecookiebanner.eu/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um movimento está surgindo para abolir as barras de cookies que aparecem em muitos sites, pois elas podem ser frustrantes e ineficazes. Isso importa porque essas barras são uma consequência da regulamentação de privacidade de dados na União Europeia, que visa proteger os usuários, mas muitas vezes se torna uma mera formalidade. A iniciativa Kill The Cookie Banner, disponível em https://killthecookiebanner.eu/, busca mudar a forma como os sites lidam com a privacidade do usuário. A ideia é encontrar soluções mais eficazes e menos intrusivas para informar e proteger os usuários.",
+      "en": "A movement is emerging to abolish the cookie banners that appear on many websites, as they can be frustrating and ineffective. This matters because these banners are a consequence of the European Union's data privacy regulation, which aims to protect users, but often becomes a mere formality. The Kill The Cookie Banner initiative, available at https://killthecookiebanner.eu/, seeks to change the way websites handle user privacy. The idea is to find more effective and less intrusive solutions to inform and protect users.",
+      "score": 0.7538
+    },
+    {
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado Unlimited-OCR, desenvolvido pela Baidu, foi disponibilizado na plataforma Hugging Face, e isso é importante porque permite que os usuários extraiam texto de imagens de forma precisa, utilizando uma tarefa conhecida como image-text-to-text, que envolve a combinação de processamento de imagem e linguagem natural. Esse modelo já recebeu 3277 likes e foi baixado mais de 2 milhões de vezes, demonstrando seu valor para a comunidade de desenvolvedores. A tecnologia por trás disso envolve algoritmos complexos que podem aprender a reconhecer padrões em imagens e converter esses padrões em texto editável. Isso pode ser útil em diversas aplicações, desde a digitalização de documentos até a acessibilidade para pessoas com deficiência visual.",
+      "en": "A artificial intelligence model called Unlimited-OCR, developed by Baidu, has been made available on the Hugging Face platform, and this matters because it enables users to extract text from images with precision, using a task known as image-text-to-text, which involves the combination of image processing and natural language processing. This model has already received 3277 likes and has been downloaded over 2 million times, demonstrating its value to the developer community. The technology behind it involves complex algorithms that can learn to recognize patterns in images and convert these patterns into editable text. This can be useful in a variety of applications, ranging from document digitization to accessibility for people with visual impairments.",
+      "score": 0.6
+    },
+    {
+      "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+      "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem foi lançado no Hugging Face, uma plataforma de inteligência artificial, para a tarefa de geração de texto, conhecida como text-generation, que é a capacidade de um sistema gerar texto coerente e natural, como se fosse escrito por um humano. Isso é importante porque pode ser usado em uma variedade de aplicações, como chatbots e sistemas de resumo de texto. O modelo em questão, KAT-Coder-V2.5-Dev, já recebeu 221 likes e foi baixado 5312 vezes, indicando seu potencial e utilidade. Ele é uma ferramenta poderosa para quem trabalha com processamento de linguagem natural.",
+      "en": "A language model has been released on Hugging Face, an artificial intelligence platform, for the task of text generation, known as text-generation, which is the ability of a system to generate coherent and natural text, as if it were written by a human. This matters because it can be used in a variety of applications, such as chatbots and text summarization systems. The model in question, KAT-Coder-V2.5-Dev, has already received 221 likes and been downloaded 5312 times, indicating its potential and usefulness. It is a powerful tool for those working with natural language processing.",
+      "score": 0.5554
+    },
+    {
+      "title": "thinkingmachines/Inkling",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado Inkling foi lançado no Hugging Face, uma plataforma de modelos de aprendizado de máquina, e já recebeu 1590 curtidas e 36196 downloads, o que é notável porque demonstra o interesse da comunidade em soluções de processamento de linguagem natural que combinam imagens e texto. O Inkling é um modelo de image-text-to-text, que significa que ele pode processar imagens e texto como entrada e gerar texto como saída, o que pode ser útil em tarefas como geração de legendas para imagens ou resumo de conteúdo visual. Isso é técnico porque envolve conceitos de aprendizado de máquina e processamento de linguagem natural, mas é acessível porque pode ser usado por desenvolvedores e pesquisadores para criar soluções inovadoras. O modelo Inkling é um exemplo de como a inteligência artificial pode ser usada para melhorar a interação entre humanos e máquinas.",
+      "en": "A artificial intelligence model called Inkling was released on Hugging Face, a platform for machine learning models, and has already received 1590 likes and 36196 downloads, which is notable because it demonstrates the community's interest in natural language processing solutions that combine images and text. The Inkling is an image-text-to-text model, meaning it can process images and text as input and generate text as output, which can be useful in tasks such as generating image captions or summarizing visual content. This is technical because it involves machine learning and natural language processing concepts, but it is accessible because it can be used by developers and researchers to create innovative solutions. The Inkling model is an example of how artificial intelligence can be used to improve human-machine interaction.",
+      "score": 0.5054
+    },
+    {
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Nvidia e a Microsoft lançaram uma aliança aberta de segurança de inteligência artificial, com o objetivo de desenvolver e compartilhar ferramentas de segurança de IA de código aberto. Isso é importante porque a segurança de IA é uma preocupação crescente, especialmente com o aumento de ataques cibernéticos que utilizam modelos de inteligência artificial avançados. A aliança, chamada Open Secure AI Alliance, conta com a participação de outras empresas de tecnologia, como a SpaceX e a IBM. A iniciativa visa fornecer ferramentas eficazes para defender contra ataques de modelos de inteligência artificial de ponta.",
+      "en": "Nvidia and Microsoft have launched an open AI security alliance, aiming to develop and share open-source AI security tools. This matters because AI security is a growing concern, particularly with the rise of cyberattacks that utilize advanced artificial intelligence models. The alliance, called the Open Secure AI Alliance, includes other tech companies, such as SpaceX and IBM. The initiative seeks to provide effective tools to defend against attacks from cutting-edge AI models, in response to mounting concerns over AI safety.",
+      "score": 0.497
+    },
+    {
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um projeto chamado PGSimCity foi lançado recentemente, permitindo que desenvolvedores e usuários comuns entendam como o PostgreSQL funciona, o que é importante porque este é um dos bancos de dados de código aberto mais populares do mundo. O PostgreSQL é um sistema de gerenciamento de banco de dados relacional que armazena e fornece acesso a dados, e entender como ele funciona pode ser complexo devido à sua arquitetura interna. O PGSimCity tenta simplificar isso, oferecendo uma interface interativa que simula o funcionamento interno do PostgreSQL, ajudando a esclarecer conceitos como consultas, índices e concorrência. Isso pode ser útil para estudantes e profissionais que desejam aprofundar seu conhecimento em bancos de dados.",
+      "en": "A project called PGSimCity was recently released, allowing developers and ordinary users to understand how PostgreSQL works, which matters because this is one of the most popular open source databases in the world. PostgreSQL is a relational database management system that stores and provides access to data, and understanding how it works can be complex due to its internal architecture. PGSimCity attempts to simplify this, offering an interactive interface that simulates the inner workings of PostgreSQL, helping to clarify concepts such as queries, indexes, and concurrency. This can be useful for students and professionals who want to deepen their knowledge of databases.",
+      "score": 0.7487
+    },
+    {
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um usuário descobriu que sua câmera de segurança enviou um token de administrador do GitHub em sua página de login, o que é um problema grave de segurança, pois tokens de administrador concedem acesso total ao repositório, permitindo que os invasores realizem ações como alterar ou excluir código, que é um conceito que se refere a uma sequência de caracteres usada para autenticar e autorizar acessos a sistemas ou aplicativos, como o GitHub, que é uma plataforma de hospedagem de repositórios de código. Isso aconteceu porque a empresa que fabrica a câmera, a Hanwha, não seguiu as práticas de segurança adequadas. Essa falha pode ter consequências graves, pois os invasores podem usar o token para acessar e controlar os repositórios do GitHub. A empresa deve tomar medidas imediatas para corrigir essa vulnerabilidade.",
+      "en": "A user discovered that their security camera shipped with a GitHub admin token in its login page, which is a serious security issue, as admin tokens grant full access to the repository, allowing attackers to perform actions such as modifying or deleting code, which is a concept that refers to a sequence of characters used to authenticate and authorize access to systems or applications, like GitHub, which is a code repository hosting platform. This happened because the camera's manufacturer, Hanwha, did not follow proper security practices. This flaw can have severe consequences, as attackers can use the token to access and control GitHub repositories. The company should take immediate action to fix this vulnerability.",
+      "score": 0.6802
+    },
+    {
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A professora Hannah Fry ganhou o Prêmio Leelavati em 2026 por seu trabalho de divulgação da matemática, o que é significativo porque reconhece os esforços de cientistas que buscam tornar a matemática acessível a um público mais amplo. O Prêmio Leelavati é concedido pela International Mathematical Union (IMU) para reconhecer contribuições excepcionais para a divulgação da matemática. A premiação de Hannah Fry é um exemplo de como a matemática pode ser tornada mais acessível e interessante para o público em geral. Isso demonstra a importância de tornar a matemática mais inclusiva e acessível a todos.",
+      "en": "Professor Hannah Fry has won the Leelavati Prize in 2026 for her work in mathematics outreach, which matters because it recognizes the efforts of scientists who aim to make mathematics more accessible to a broader audience. The Leelavati Prize is awarded by the International Mathematical Union (IMU) to recognize outstanding contributions to mathematics outreach. Hannah Fry's award is an example of how mathematics can be made more accessible and interesting to the general public. This demonstrates the importance of making mathematics more inclusive and accessible to everyone.",
+      "score": 0.6498
+    },
+    {
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, a Reddit decidiu que o HTML simples não é seguro, o que pode ter implicações significativas para a forma como os usuários criam e compartilham conteúdo na plataforma. Isso ocorre porque o HTML, ou HyperText Markup Language, é uma linguagem de marcação usada para estruturar e dar formato a documentos na internet, permitindo que os usuários criem conteúdo rico e interativo. A decisão da Reddit pode ser relacionada a preocupações sobre segurança, pois o HTML pode ser usado para inserir código malicioso em páginas da web. Como resultado, os usuários podem precisar adaptar suas abordagens para criar conteúdo na plataforma.",
+      "en": "Recently, Reddit has decided that plain HTML is unsafe, which may have significant implications for how users create and share content on the platform. This comes because HTML, or HyperText Markup Language, is a markup language used to structure and format documents on the internet, allowing users to create rich and interactive content. Reddit's decision may be related to security concerns, as HTML can be used to insert malicious code into web pages. As a result, users may need to adapt their approaches to creating content on the platform.",
+      "score": 0.5921
+    },
+    {
+      "title": "20 Years in IT and AI: Key Lessons on Tech and Management",
+      "url": "https://dev.to/andr_diasmoreiraprol_b/20-years-in-it-and-ai-key-lessons-on-tech-and-management-5ckm",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um profissional de TI compartilha lições aprendidas após 20 anos de carreira, desde configurar servidores locais e escrever consultas SQL até arquitetar plataformas de tokenização e deploy de contratos inteligentes, destacando a importância de entender a tecnologia como uma ferramenta, não como um troféu. Isso significa que a tecnologia deve ser usada para resolver problemas e criar valor, em vez de ser buscada como um fim em si mesmo. Com essa perspectiva, é possível criar soluções mais eficazes e equipes mais eficientes. Ao longo de duas décadas, ele testemunhou various ciclos de hype, desde o colapso das pontocom até a atual onda de Web3 e Inteligência Artificial gerativa.",
+      "en": "A seasoned IT professional shares lessons learned over 20 years of career, from configuring on-premise servers and writing SQL queries to architecting tokenization platforms and deploying smart contracts, highlighting the importance of understanding technology as a tool, not a trophy. This means that technology should be used to solve problems and create value, rather than being pursued as an end in itself. With this perspective, it is possible to create more effective solutions and more efficient teams. Over two decades, he has witnessed various hype cycles, from the dot-com aftermath to the current Web3 and generative Artificial Intelligence wave.",
+      "score": 0.3987
+    },
+    {
+      "title": "20 anos de TI e IA: lições sobre tecnologia, gestão e inovação",
+      "url": "https://dev.to/andr_diasmoreiraprol_b/20-anos-de-ti-e-ia-licoes-sobre-tecnologia-gestao-e-inovacao-a4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um profissional de tecnologia compartilha suas lições aprendidas após 20 anos de carreira em TI e inteligência artificial, destacando que a tecnologia pode mudar rapidamente, com linguagens e frameworks surgindo e desaparecendo, mas os fundamentos da tecnologia permanecem constantes. Isso significa que, apesar das mudanças, os princípios básicos da programação e desenvolvimento de software continuam sendo essenciais. Essa perspectiva é valiosa, pois ajuda a entender que a verdadeira inovação vem de aplicar tecnologia com propósito, e não apenas de seguir as últimas tendências. Com isso, é possível criar soluções eficazes, como o treinamento de modelos de inteligência artificial para detectar fraudes em contratos inteligentes na blockchain.",
+      "en": "A technology professional shares lessons learned after 20 years in IT and artificial intelligence, highlighting that technology can change rapidly, with languages and frameworks emerging and disappearing, but the fundamentals of technology remain constant. This means that, despite changes, the basic principles of programming and software development continue to be essential. This perspective is valuable, as it helps to understand that true innovation comes from applying technology with purpose, and not just from following the latest trends. With this, it is possible to create effective solutions, such as training artificial intelligence models to detect fraud in smart contracts on the blockchain.",
+      "score": 0.3987
+    },
+    {
+      "title": "I Built an Open-Source Digital Fortress to Replace YouTube, VK and Telegram",
+      "url": "https://dev.to/skymonder/i-built-an-open-source-digital-fortress-to-replace-youtube-vk-and-telegram-48mc",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um desenvolvedor criou um forte digital de código aberto chamado SkyCitadel, que pode substituir plataformas como YouTube, VK e Telegram, oferecendo um ecossistema completo com hospedagem de vídeo, mensageiro privado com criptografia de ponta a ponta, rede social, mapas, rádio, previsão do tempo, notícias e música, tudo de forma gratuita e sem rastreamento. O SkyCitadel inclui um proxy embutido para bypassar bloqueios, tornando-o acessível mesmo em áreas com restrições de internet. O projeto está disponível no GitHub e o desenvolvedor está procurando por feedback e contribuidores para se juntarem ao movimento de internet livre.",
+      "en": "A developer has created an open-source digital fortress called SkyCitadel, which can replace platforms like YouTube, VK, and Telegram, offering a complete ecosystem with video hosting, private messaging with end-to-end encryption, social networking, maps, radio, weather, news, and music, all for free and without tracking. SkyCitadel includes a built-in proxy to bypass blockages, making it accessible even in areas with restricted internet. The project is available on GitHub, and the developer is seeking feedback and contributors to join the free internet movement.",
+      "score": 0.3492
+    },
+    {
+      "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
+      "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um artigo recente chamou a atenção para o fato de que a pipeline de desenvolvedores juniores está quebrada, e a inteligência artificial foi a principal responsável por isso. Isso acontece porque as tarefas automatizadas pela inteligência artificial, que muitas vezes são consideradas sem valor, eram na verdade uma espécie de aprendizado para os desenvolvedores iniciantes, permitindo que eles adquirissem experiência e habilidades. Agora, com essas tarefas sendo automatizadas, os dados de contratação mostram que a base da pirâmide está desaparecendo. Isso levanta uma importante pergunta: de onde virá a próxima geração de desenvolvedores seniores?",
+      "en": "A recent article highlighted the fact that the junior developer pipeline is broken, and artificial intelligence is largely to blame. This is because the tasks automated by artificial intelligence, which are often considered to be of little value, were actually a kind of apprenticeship for junior developers, allowing them to gain experience and skills. Now, with these tasks being automated, hiring data shows that the bottom rung is already disappearing. This raises an important question: where will the next generation of senior developers come from?",
+      "score": 0.3491
+    },
+    {
+      "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
+      "url": "https://arxiv.org/abs/2607.22531v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores criaram um modelo de representação unificada chamado Twins, que busca combinar espaços de token visuais compartilhados para entender e gerar imagens, superando a limitação de modelos multimodais atuais que usam representações separadas para essas tarefas. Isso é importante porque permite uma abordagem mais integrada para o processamento de informações visuais. O modelo Twins forma um espaço de token contínuo unificado, concatenando recursos do ViT (Vision Transformer) e VAE (Autoencoder Variacional) em uma grade de token compartilhada. No entanto, os pesquisadores enfrentaram um desequilíbrio de otimização ao modelar os Twins em um Transformer de Difusão, onde o modelo se ajusta bem ao componente ViT, mas tem dificuldade em corresponder à distribuição latente do VAE.",
+      "en": "Researchers have created a unified representation model called Twins, which aims to combine shared visual token spaces to understand and generate images, overcoming the limitation of current multimodal models that use separate representations for these tasks. This is important because it allows for a more integrated approach to visual information processing. The Twins model forms a unified continuous token space by concatenating ViT (Vision Transformer) and VAE (Variational Autoencoder) features on a shared token grid. However, the researchers encountered an optimization imbalance when modeling the Twins in a Diffusion Transformer, where the model fits the ViT component well but struggles to match the VAE latent distribution.",
+      "score": 0.379
+    },
+    {
+      "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+      "url": "https://arxiv.org/abs/2607.22529v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram um novo método de treinamento de modelos de linguagem grandes (LLM) chamado Skill Self-Play, que permite que esses modelos evoluam por meio de interações, em vez de designs manuais e anotações. Isso é importante porque o treinamento de LLM está mudando para uma abordagem mais autônoma, e o Skill Self-Play pode ajudar a resolver o dilema entre a diversidade de tarefas e a confiabilidade da verificação. Os modelos de LLM são sistemas complexos que processam e geram linguagem natural, e o Skill Self-Play é uma abordagem inovadora que pode melhorar sua capacidade de aprendizado. Essa abordagem pode ser útil para aplicativos de processamento de linguagem natural, como chatbots e sistemas de tradução automática.",
+      "en": "Researchers have introduced a new method of training large language models (LLM) called Skill Self-Play, which allows these models to evolve through interactions, rather than manual design and annotation. This matters because LLM training is shifting towards a more autonomous approach, and Skill Self-Play can help resolve the dilemma between task diversity and verification reliability. LLMs are complex systems that process and generate natural language, and Skill Self-Play is an innovative approach that can improve their learning capability. This approach can be useful for natural language processing applications, such as chatbots and machine translation systems.",
+      "score": 0.379
+    },
+    {
+      "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
+      "url": "https://arxiv.org/abs/2607.22520v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um estudo recente publicado no arXiv investigou como as habilidades procedimentais afetam o desempenho de agentes de modelo de linguagem grande (LLM). O que importa aqui é que essas habilidades podem tanto ajudar quanto prejudicar os agentes, e a medição tradicional de sucesso não captura esse trade-off. Os pesquisadores descobriram que as habilidades podem levar a \"regressões\", onde tarefas que eram resolvidas sem habilidades começam a falhar após a adição de habilidades, e identificaram três causas principais para esse problema. Isso sugere que o desempenho de um agente não depende apenas do ganho de habilidades, mas também da minimização de regressões.",
+      "en": "A recent study published on arXiv investigated how procedural skills affect the performance of large language model (LLM) agents, which refers to artificial intelligence systems designed to process and understand human language. What matters here is that these skills can both help and hurt the agents, and the traditional measure of success does not capture this trade-off. The researchers found that skills can lead to \"regressions\", where tasks that were solved without skills start to fail after skills are added, and identified three main causes for this issue. This suggests that an agent's performance depends not just on gaining skills, but also on minimizing regressions, which occurs when a task that was previously solved is no longer solvable after the addition of skills.",
+      "score": 0.3787
+    },
+    {
+      "title": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
+      "url": "https://arxiv.org/abs/2607.22516v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Uma equipe de pesquisadores apresentou um novo modelo de aprendizado de máquina quântica, chamado Modelo Espectral Quântico, que visa melhorar a forma como os modelos de inteligência artificial processam dados, especialmente aqueles com estruturas matriciais complexas. Isso é importante porque os modelos atuais muitas vezes não conseguem capturar as relações subjacentes nos dados de entrada, limitando sua capacidade de generalização. O Modelo Espectral Quântico constrói a representação matricial diretamente a partir de cada matriz de entrada, permitindo uma representação mais precisa dos dados. Com isso, os pesquisadores buscam explorar como essa abordagem pode ser aplicada em diferentes contextos de aprendizado de máquina.",
+      "en": "A team of researchers has introduced a new quantum machine learning model, called the Quantum Spectral Model, which aims to improve the way artificial intelligence models process data, particularly those with complex matrix structures. This matters because current models often fail to capture the underlying relationships in the input data, limiting their ability to generalize. The Quantum Spectral Model builds the matrix representation directly from each input matrix, allowing for a more accurate representation of the data. By doing so, the researchers seek to explore how this approach can be applied in various machine learning contexts.",
+      "score": 0.3784
+    },
+    {
+      "title": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo agente de inteligência artificial (IA) de código aberto, chamado cindy, foi disponibilizado no GitHub, permitindo que os desenvolvedores usem uma solução de IA pronta para uso. Isso é importante porque reduz a barreira de entrada para o desenvolvimento de aplicações de IA, pois os desenvolvedores não precisam começar do zero. O agente cindy é descrito como \"pronto para uso\" e pode ser usado para várias tarefas, desde a automação de tarefas até a análise de dados. Com isso, os desenvolvedores podem se concentrar em criar soluções inovadoras em vez de gastar tempo em desenvolver a infraestrutura de IA.",
+      "en": "A new open-source artificial intelligence (AI) agent, called cindy, has been made available on GitHub, allowing developers to use an out-of-the-box AI solution. This matters because it lowers the barrier to entry for AI application development, as developers do not have to start from scratch. The cindy agent is described as \"ready to use\" and can be used for a variety of tasks, from automating tasks to data analysis. With this, developers can focus on creating innovative solutions rather than spending time developing the AI infrastructure.",
+      "score": 0.7085
+    },
+    {
+      "title": "mshumer/Claude-of-Duty",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um desenvolvedor criou um jogo de tiro em primeira pessoa de alta qualidade, semelhante a Call of Duty, utilizando a biblioteca Three.js, a partir de uma única prompt, o que é notável por demonstrar o potencial da inteligência artificial na criação de conteúdo, permitindo que desenvolvedores criem jogos complexos de forma rápida e eficiente, pois a biblioteca Three.js é uma ferramenta de código aberto que permite a renderização de gráficos 3D em um navegador da web, e uma prompt é um comando ou instrução que inicia uma ação específica. Isso é importante porque mostra como a tecnologia pode ser usada para criar experiências de jogo realistas com menos esforço. O projeto, chamado Claude-of-Duty, está disponível no GitHub. O uso de uma biblioteca como Three.js permite que os desenvolvedores se concentrem na lógica do jogo, em vez de lidar com detalhes de renderização de gráficos.",
+      "en": "A developer created a high-quality first-person shooter game, similar to Call of Duty, using the Three.js library, from a single prompt, which is notable for demonstrating the potential of artificial intelligence in content creation, allowing developers to create complex games quickly and efficiently, since the Three.js library is an open-source tool that enables the rendering of 3D graphics in a web browser, and a prompt is a command or instruction that initiates a specific action. This is important because it shows how technology can be used to create realistic gaming experiences with less effort. The project, called Claude-of-Duty, is available on GitHub. The use of a library like Three.js allows developers to focus on the game logic, rather than dealing with graphics rendering details.",
+      "score": 0.6972
+    },
+    {
+      "title": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto foi lançado no GitHub, chamado agentacct, que visa fornecer inteligência de trabalho local para agentes de codificação, permitindo que os desenvolvedores visualizem a verdade sobre o uso, o trabalho registrado e as junções honestas. Isso é alcançado por meio de logs de agentes de codificação somente leitura e um painel de controle localhost sem JavaScript. Esse projeto é importante porque fornece uma forma transparente e confiável de entender o que os agentes de codificação estão fazendo. O agentacct pode ser útil para desenvolvedores que precisam monitorar e otimizar o trabalho de seus agentes de codificação.",
+      "en": "A new project has been released on GitHub, called agentacct, which aims to provide local-first work intelligence for coding agents, allowing developers to see the truth about usage, recorded work, and honest joins. This is achieved through read-only coding agent logs and a zero-JavaScript localhost dashboard. This project matters because it provides a transparent and reliable way to understand what coding agents are doing. The agentacct can be useful for developers who need to monitor and optimize the work of their coding agents.",
+      "score": 0.6555
+    },
+    {
+      "title": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A equipe do Vercel Labs lançou o scriptc, um compilador de TypeScript para código nativo, no GitHub, o que é notável porque permite que desenvolvedores criem aplicações de alto desempenho sem sacrificar a segurança e a manutenibilidade do código. Isso importa porque o TypeScript é uma linguagem de programação amplamente utilizada, e a capacidade de compilá-la para código nativo pode melhorar significativamente o desempenho das aplicações. O scriptc usa uma abordagem inovadora para compilar o código TypeScript em código de máquina, tornando-o mais rápido e eficiente. Com o scriptc, os desenvolvedores podem criar aplicações mais rápidas e seguras, sem precisar se preocupar com a complexidade do código nativo.",
+      "en": "The Vercel Labs team has released scriptc, a TypeScript-to-native compiler, on GitHub, which is notable because it allows developers to create high-performance applications without sacrificing code security and maintainability. This matters because TypeScript is a widely used programming language, and the ability to compile it to native code can significantly improve application performance. The scriptc uses an innovative approach to compile TypeScript code into machine code, making it faster and more efficient. With scriptc, developers can create faster and more secure applications, without having to worry about the complexity of native code.",
+      "score": 0.6524
+    }
+  ]
+}
