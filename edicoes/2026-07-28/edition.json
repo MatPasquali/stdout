@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-28",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Anthropic divulgou sua posição sobre modelos de pesos abertos, o que é relevante porque esses modelos permitem que pesquisadores e desenvolvedores acessem e modifiquem os pesos dos modelos, que são os parâmetros que definem como o modelo processa as informações. Isso é importante porque os pesos dos modelos são fundamentais para entender como os modelos de aprendizado de máquina funcionam. A Anthropic explica que os modelos de pesos abertos podem ser úteis para pesquisas e desenvolvimento, mas também apresentam riscos, como a possibilidade de uso indevido. A empresa destaca a necessidade de encontrar um equilíbrio entre a abertura e a responsabilidade.",
+      "en": "Anthropic has released its position on open-weights models, which matters because these models allow researchers and developers to access and modify the weights of the models, which are the parameters that define how the model processes information. This is important because model weights are crucial to understanding how machine learning models work. Anthropic explains that open-weights models can be useful for research and development, but also pose risks, such as the potential for misuse. The company highlights the need to strike a balance between openness and responsibility.",
+      "score": 0.8026
+    },
+    {
+      "title": "AI companies are shredding rare books",
+      "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Uma notícia recente está chamando a atenção para a destruição de livros raros por empresas de inteligência artificial, o que pode parecer contraditório, considerando que a preservação do conhecimento é fundamental para o desenvolvimento da tecnologia. Isso acontece porque essas empresas estão digitalizando os livros e, em seguida, descartando as cópias físicas, o que pode ser visto como uma perda significativa para a cultura e a história. A digitalização é o processo de converter informações em formato digital, permitindo que sejam armazenadas e acessadas por meio de computadores, mas a perda de cópias físicas pode ser irreparável. Essa prática levanta questões importantes sobre a preservação do patrimônio cultural e a responsabilidade das empresas de tecnologia.",
+      "en": "A recent report has highlighted the destruction of rare books by artificial intelligence companies, which may seem counterintuitive, given that preserving knowledge is essential for technological development. This is happening because these companies are digitizing the books and then discarding the physical copies, which can be seen as a significant loss for culture and history. Digitization is the process of converting information into digital format, allowing it to be stored and accessed by computers, but the loss of physical copies can be irreparable. This practice raises important questions about the preservation of cultural heritage and the responsibility of technology companies.",
+      "score": 0.7674
+    },
+    {
+      "title": "0xwilliamortiz/openclaude-improved",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto de código aberto chamado openclaude-improved foi publicado no GitHub, o que é notável porque oferece uma solução flexível que pode ser executada em qualquer lugar e utilizar qualquer recurso disponível. Isso importa porque permite que desenvolvedores criem aplicações personalizadas sem se preocupar com a infraestrutura subjacente. O openclaude-improved é uma ferramenta que pode ser útil para equipes que buscam criar soluções escaláveis e adaptáveis. Com essa abordagem, os desenvolvedores podem se concentrar em criar funcionalidades inovadoras em vez de lidar com a complexidade da infraestrutura.",
+      "en": "An open source project called openclaude-improved was published on GitHub, which is notable because it offers a flexible solution that can run anywhere and use any available resource. This matters because it allows developers to create customized applications without worrying about the underlying infrastructure. The openclaude-improved is a tool that can be useful for teams looking to create scalable and adaptable solutions. With this approach, developers can focus on creating innovative features instead of dealing with the complexity of the infrastructure.",
+      "score": 0.6736
+    },
+    {
+      "title": "moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado Kimi-K3, desenvolvido pela moonshotai, foi disponibilizado na plataforma Hugging Face, e isso é importante porque permite que os desenvolvedores usem uma ferramenta de última geração para a tarefa de image-text-to-text, que é um tipo de processo que converte imagens e texto em saídas de texto, o que pode ser útil em uma variedade de aplicações, como tradução de imagens ou resumo de conteúdo visual. O modelo Kimi-K3 já recebeu 7491 likes e foi baixado 99214 vezes, o que demonstra seu potencial e utilidade. A plataforma Hugging Face é uma comunidade popular para desenvolvedores de modelos de aprendizado de máquina, e a disponibilidade do Kimi-K3 nessa plataforma facilita o acesso a essa tecnologia para uma ampla gama de usuários. Isso pode levar a avanços significativos em áreas como processamento de linguagem natural e visão computacional.",
+      "en": "A new artificial intelligence model called Kimi-K3, developed by moonshotai, has been made available on the Hugging Face platform, and this matters because it allows developers to use a state-of-the-art tool for the image-text-to-text task, which is a type of process that converts images and text into text outputs, and can be useful in a variety of applications, such as image translation or visual content summarization. The Kimi-K3 model has already received 7491 likes and been downloaded 99214 times, demonstrating its potential and usefulness. The Hugging Face platform is a popular community for machine learning model developers, and the availability of Kimi-K3 on this platform makes this technology accessible to a wide range of users. This can lead to significant advances in areas such as natural language processing and computer vision.",
+      "score": 0.6
+    },
+    {
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Recentemente, anéis inteligentes têm se destacado como um tipo de dispositivo de inteligência artificial que pode ser útil no dia a dia. Isso acontece porque a tecnologia de dictação, que permite que dispositivos entendam e processem a fala humana, tem melhorado significativamente nos últimos meses, tornando-se mais precisa e acessível. Essa melhoria na tecnologia de dictação é um resultado da revolução dos modelos de linguagem grande, que tem permitido que até os modelos mais baratos e rápidos sejam capazes de entender e processar a fala de forma eficaz. Com essa tecnologia, anéis inteligentes podem se tornar uma ferramenta prática para interagir com dispositivos sem precisar usar as mãos.",
+      "en": "Recently, smart rings have emerged as a useful type of artificial intelligence gadget, and this matters because it is a result of significant improvements in dictation technology over the last few months. This technology, which enables devices to understand and process human speech, has become more accurate and accessible, even in the fastest and cheapest models. The improvement in dictation technology is a result of the large language model revolution, which has allowed even the most affordable and rapid models to effectively understand and process speech. With this technology, smart rings can become a practical tool for interacting with devices without needing to use one's hands.",
+      "score": 0.4481
+    },
+    {
+      "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF foi disponibilizado no Hugging Face, uma plataforma popular para compartilhar e descobrir modelos de aprendizado de máquina, e isso é notável porque o modelo é capaz de realizar a tarefa de image-text-to-text, que envolve a conversão de imagens e texto em texto, e já recebeu 803 likes e 736692 downloads. Esse tipo de modelo é útil para aplicações que exigem a capacidade de entender e processar informações visuais e textuais. A plataforma Hugging Face permite que os desenvolvedores acessem e usem esse modelo para suas próprias aplicações, o que pode levar a avanços em áreas como processamento de linguagem natural e visão computacional. \nO modelo é um exemplo de como a inteligência artificial pode ser aplicada a tarefas complexas, e sua disponibilidade no Hugging Face pode inspirar novas aplicações e pesquisas.",
+      "en": "A artificial intelligence model called Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF has been made available on Hugging Face, a popular platform for sharing and discovering machine learning models, and this is notable because the model is capable of performing the image-text-to-text task, which involves converting images and text into text, and has already received 803 likes and 736692 downloads. This type of model is useful for applications that require the ability to understand and process visual and textual information. The Hugging Face platform allows developers to access and use this model for their own applications, which can lead to advances in areas such as natural language processing and computer vision. \nThe model is an example of how artificial intelligence can be applied to complex tasks, and its availability on Hugging Face may inspire new applications and research.",
+      "score": 0.4249
+    },
+    {
+      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Perplexity lançou uma ferramenta chamada Personal Computer para Windows, permitindo que computadores com o sistema operacional mais popular do mundo sejam usados como um sistema de inteligência artificial executado localmente. Isso significa que os computadores com Windows podem agora ser usados como uma espécie de \"trabalhador digital de propósito geral\" que pode acessar arquivos e aplicativos locais para realizar tarefas. A expansão para Windows é uma extensão da versão para Mac lançada em abril, e permite que os usuários usem seus computadores como agentes de inteligência artificial. Com isso, os computadores podem executar tarefas de forma autônoma, utilizando recursos locais.",
+      "en": "Perplexity has launched a tool called Personal Computer for Windows, allowing computers running the world's most popular operating system to be used as a locally run artificial intelligence system. This means that Windows computers can now be used as a kind of \"general-purpose digital worker\" that can access local files and applications to perform tasks. The expansion to Windows is an extension of the Mac version launched in April, and allows users to use their computers as artificial intelligence agents, enabling them to perform tasks autonomously using local resources. By doing so, computers can execute tasks on their own, utilizing local resources and files.",
+      "score": 0.399
+    },
+    {
+      "title": "Fujifilm derruba preços de câmeras e pacotes de filme para o Dia dos Pais",
+      "url": "https://canaltech.com.br/produtos/fujifilm-derruba-precos-de-cameras-e-pacotes-de-filme-para-o-dia-dos-pais/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Fujifilm iniciou uma campanha de descontos para o Dia dos Pais, oferecendo até 15% de redução em produtos da linha Instax, que inclui câmeras instantâneas, combos com filmes fotográficos e diferentes formatos de impressão, válidos de 27 de julho a 10 de agosto de 2026. Isso é particularmente interessante para quem busca criar memórias físicas, uma vez que as câmeras Instax permitem que os usuários imprimam fotos instantaneamente, utilizando um processo fotográfico único que combina a exposição da imagem com a revelação química do filme. A Instax mini 99, uma câmera analógica com controles de exposição, foco e ajustes de cor, está entre os modelos com desconto, recebendo 10% de redução. Essa promoção pode ser uma ótima oportunidade para aqueles que desejam experimentar a fotografia analógica de forma acessível.",
+      "en": "Fujifilm has launched a discount campaign for Father's Day, offering up to 15% off Instax products, including instant cameras, film bundles, and various print formats, valid from July 27 to August 10, 2026. This is particularly interesting for those looking to create physical memories, as Instax cameras allow users to print photos instantly, using a unique photographic process that combines image exposure with chemical film development. The Instax mini 99, an analog camera with exposure, focus, and color adjustment controls, is among the discounted models, receiving a 10% discount. This promotion may be a great opportunity for those who want to experience analog photography in an accessible way.",
+      "score": 0.3994
+    },
+    {
+      "title": "Apple launches ‘Upgrade’ program to lease new devices",
+      "url": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Apple lançou o programa \"Upgrade\" para alugar dispositivos novos, permitindo que os usuários tenham acesso às últimas versões de iPhone, Mac, iPad e Apple Watch. Isso é importante porque pode tornar os dispositivos da Apple mais acessíveis a um público mais amplo, sem a necessidade de um grande investimento inicial. O programa funciona de forma semelhante a um leasing de carro, permitindo que os usuários mantenham o dispositivo no final do contrato. Com o lançamento nos EUA, o programa pode ser uma opção atraente para aqueles que desejam ter as últimas tecnologias sem comprometer seu orçamento.",
+      "en": "Apple has launched the \"Upgrade\" program to lease new devices, allowing users to get their hands on the latest iPhone, Mac, iPad, and Apple Watch models. This matters because it can make Apple devices more accessible to a wider audience, without the need for a large upfront investment. The program works similarly to a car lease, allowing users to keep the device at the end of the contract. With its launch in the US, the program may be an attractive option for those who want the latest technology without breaking the bank.",
+      "score": 0.3988
+    },
+    {
+      "title": "Quer trocar de iPhone? Veja uma seleção com ótimas opções em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/07/28/reviews/quer-trocar-de-iphone-veja-uma-selecao-com-otimas-opcoes-em-promocao-na-amazon-3/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Uma seleção de iPhones da Apple está em promoção na Amazon, o que pode ser uma grande oportunidade para quem está procurando substituir seu smartphone atual. Isso é especialmente relevante para aqueles que desejam adquirir um dispositivo da linha Apple, como os modelos 15 e 16, sem gastar muito tempo procurando ofertas. Essas promoções incluem opções como o Apple iPhone 15, com 128 GB de armazenamento. Essa é uma chance para encontrar o aparelho certo sem muito trabalho.",
+      "en": "A selection of Apple iPhones is currently on promotion at Amazon, which could be a great opportunity for those looking to replace their current smartphone. This is particularly relevant for individuals seeking to acquire a device from Apple's lineup, such as the 15 and 16 models, without spending a lot of time searching for deals. These promotions include options like the Apple iPhone 15, with 128 GB of storage. This is a chance to find the right device without too much effort.",
+      "score": 0.3987
+    },
+    {
+      "title": "Hora de economizar: veja uma seleção de smartphones Samsung em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/07/28/reviews/hora-de-economizar-veja-uma-selecao-de-smartphones-samsung-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Samsung está com alguns de seus smartphones em promoção na Amazon, o que é uma grande oportunidade para quem busca um dispositivo móvel com bom custo-benefício. Isso acontece porque a Amazon está oferecendo descontos em três modelos da linha Galaxy, que variam do entry-level ao intermediário com 5G, atendendo a diferentes perfis de usuário e necessidades. Esses modelos, como o Celular Samsung Galaxy A07, possuem recursos como câmera de 50MP e tela de alta resolução, tornando-os opções atraentes para quem busca um smartphone confiável. Com essas ofertas, os consumidores podem economizar em seus próximos dispositivos móveis.",
+      "en": "Samsung has put some of its smartphones on sale at Amazon, which is a great opportunity for those looking for a mobile device with good value for money. This is happening because Amazon is offering discounts on three Galaxy line models, ranging from entry-level to intermediate with 5G, catering to different user profiles and needs. These models, such as the Samsung Galaxy A07, feature resources like a 50MP camera and high-resolution screen, making them attractive options for those seeking a reliable smartphone. With these offers, consumers can save on their next mobile devices.",
+      "score": 0.3981
+    },
+    {
+      "title": "Prompt Engineering Won't Get You Hired in 2026 — Here's What Will",
+      "url": "https://dev.to/proleedacademy/prompt-engineering-wont-get-you-hired-in-2026-heres-what-will-226b",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A carreira em inteligência artificial está passando por uma mudança significativa, pois a habilidade mais valorizada no mercado de trabalho não é mais a engenharia de prompts, que consiste em criar comandos bem estruturados para obter respostas precisas de sistemas de inteligência artificial. Isso ocorre porque os sistemas de IA agora são capazes de realizar tarefas em múltiplos passos, utilizando ferramentas e corrigindo erros sem a necessidade de intervenção humana a cada etapa. A Protocolo de Contexto de Modelo (MCP) se tornou o padrão para conectar esses sistemas.",
+      "en": "The artificial intelligence career landscape is undergoing a significant shift, as the most valued skill in the job market is no longer prompt engineering, which involves crafting well-structured commands to get precise responses from artificial intelligence systems. This is because AI systems can now perform multi-step tasks, utilizing tools and correcting errors without the need for human intervention at each stage. The Model Context Protocol (MCP) has become the standard way to connect these systems, enabling them to plan and execute tasks autonomously.",
+      "score": 0.4485
+    },
+    {
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um número significativo de funcionários da divisão de semicondutores da Samsung está deixando a empresa para trabalhar na rival sul-coreana SK Hynix, o que pode afetar a capacidade da Samsung de competir no mercado de chips, pois a perda de engenheiros experientes pode comprometer a inovação e a melhoria contínua de seus produtos. Isso ocorre porque a SK Hynix está oferecendo salários mais competitivos e oportunidades de carreira mais atraentes. A semicondutor é um componente fundamental em dispositivos eletrônicos, como computadores e smartphones, e as empresas que produzem esses componentes precisam de engenheiros qualificados para desenvolver e melhorar seus produtos. A perda de talentos pode ser um desafio para a Samsung manter sua posição no mercado.",
+      "en": "A significant number of employees from Samsung's semiconductor division are leaving the company to work for its South Korean rival SK Hynix, which may impact Samsung's ability to compete in the chip market, as the loss of experienced engineers can hinder innovation and continuous improvement of their products. This is happening because SK Hynix is offering more competitive salaries and more attractive career opportunities. A semiconductor is a fundamental component in electronic devices, such as computers and smartphones, and the companies that produce these components need skilled engineers to develop and improve their products. The loss of talent can be a challenge for Samsung to maintain its market position.",
+      "score": 0.4433
+    },
+    {
+      "title": "Fingerprinting the ATS: what an application form's URL tells you before you type a word",
+      "url": "https://dev.to/cvpilot/fingerprinting-the-ats-what-an-application-forms-url-tells-you-before-you-type-a-word-416i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, uma análise detalhada das URLs de formulários de aplicação revelou que o domínio da URL pode fornecer informações valiosas sobre o sistema de rastreamento de candidatos (ATS) por trás da forma, antes mesmo de começar a preencher os campos. Isso ocorre porque domínios como myworkdayjobs.com, greenhouse.io, lever.co e workable.com geralmente indicam o tipo de parser utilizado, que é o software responsável por ler e processar as informações do currículo. Além disso, a forma como esses sistemas lidam com arquivos PDF e o limite de upload também podem fornecer pistas sobre o ATS.",
+      "en": "Recently, a detailed analysis of application form URLs revealed that the domain can provide valuable information about the applicant tracking system (ATS) behind the form, even before starting to fill out the fields. This is because domains such as myworkdayjobs.com, greenhouse.io, lever.co, and workable.com typically indicate the type of parser used, which is the software responsible for reading and processing resume information. Additionally, how these systems handle PDF files and the upload limit can also provide clues about the ATS.",
+      "score": 0.3499
+    },
+    {
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A Cursor fez sua maior investida na Índia, tornando o país seu terceiro maior mercado global, e planeja expandir as contratações locais e vendas para empresas, o que é notável especialmente à frente da aquisição pela SpaceX. Isso acontece porque a empresa vê um grande potencial de crescimento no mercado indiano. Com preços localizados, a Cursor busca atender melhor às necessidades dos clientes indianos. Essa estratégia de expansão é importante, pois demonstra o interesse da empresa em se estabelecer fortemente em mercados emergentes.",
+      "en": "Cursor made its biggest push into India, making the country its third-largest market globally, and plans to expand local hiring and enterprise sales, which is notable especially ahead of the SpaceX acquisition. This happens because the company sees great growth potential in the Indian market. With localized pricing, Cursor aims to better serve the needs of Indian customers. This expansion strategy is important, as it shows the company's interest in establishing itself strongly in emerging markets.",
+      "score": 0.3347
+    },
+    {
+      "title": "Data Pyramid for Embodied Manipulation",
+      "url": "https://arxiv.org/abs/2607.24744v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores criaram uma estrutura de dados chamada Data Pyramid for Embodied Manipulation, que é importante porque ajuda a entender como agentes robóticos podem aprender a interagir com o mundo físico. Essa estrutura organiza diferentes fontes de dados, como dados de robôs reais, simulações e dados de visão e linguagem, em uma pirâmide que equilibra escalabilidade e alinhamento com as necessidades dos robôs. Cada fonte de dados é caracterizada por sua qualidade, diversidade, reutilização e fidelidade física, o que ajuda a entender como os modelos de fundamento incorporados podem aprender a realizar tarefas no mundo físico. Isso é útil porque os agentes robóticos precisam aprender a partir de dados que combinam observações com estados e ações físicas.",
+      "en": "Researchers have created a data structure called the Data Pyramid for Embodied Manipulation, which matters because it helps us understand how robotic agents can learn to interact with the physical world. This structure organizes different data sources, such as real robot data, simulations, and vision-language data, into a pyramid that balances scalability and alignment with the needs of robots. Each data source is characterized by its quality, diversity, reusability, and physical fidelity, which helps us understand how embodied foundation models can learn to perform tasks in the physical world. This is useful because robotic agents need to learn from data that couples observations with physical states and actions.",
+      "score": 0.466
+    },
+    {
+      "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+      "url": "https://arxiv.org/abs/2607.24743v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram o ClinFusion, um sistema de modelo de linguagem grande multimodal (MLLM) centrado em visão, projetado para entender medicina de forma holística, abordando limitações de modelos anteriores que não conseguiam absorver conhecimento de imagens médicas 2D e 3D de forma eficaz. Isso é importante porque os MLLMs têm o potencial de revolucionar a prática clínica, mas precisam ser capazes de lidar com diferentes tipos de imagens médicas de forma precisa. O ClinFusion propõe uma arquitetura de codificador de visão composta e em cascata, que une a compreensão de imagens médicas 2D e 3D nativas dentro de um codificador fundido. Isso pode levar a avanços significativos na avaliação e diagnóstico médico.",
+      "en": "Researchers have introduced ClinFusion, a vision-centric multimodal large language model (MLLM) system designed for holistic medical understanding, addressing limitations of previous models that struggled to effectively absorb knowledge from 2D and 3D medical images. This matters because MLLMs have the potential to revolutionize clinical practice, but need to be able to handle different types of medical images accurately. The ClinFusion proposes a compositional and cascaded vision encoder architecture, which unifies the understanding of 2D and native 3D medical images within a fused encoder. This may lead to significant advances in medical evaluation and diagnosis.",
+      "score": 0.466
+    },
+    {
+      "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+      "url": "https://arxiv.org/abs/2607.24730v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram o KANEx, uma nova abordagem que visa traduzir a interpretabilidade de redes Kolmogorov-Arnold para explicações médicas confiáveis, o que é especialmente importante em aplicações de visão computacional, como classificadores de radiografias de tórax, que têm se tornado cada vez mais precisos, mas ainda carecem de transparência. Isso acontece porque os modelos de visão computacional parecem caixas pretas, dificultando a confiança dos clínicos. O KANEx combina redes Kolmogorov-Arnold, que oferecem unidades funcionais interpretáveis, com modelos de visão-linguagem para gerar explicações textuais mais confiáveis. Com isso, pode ser possível melhorar a relação entre a precisão dos modelos e a compreensão dos clínicos sobre como esses modelos chegam a suas conclusões.",
+      "en": "Researchers have developed KANEx, a new approach that aims to translate the interpretability of Kolmogorov-Arnold Networks into trustworthy medical explanations, which is particularly important in computer vision applications, such as chest X-ray classifiers, that have become increasingly accurate, but still lack transparency. This matters because computer vision models appear as black boxes, making it difficult for clinicians to trust them. KANEx combines Kolmogorov-Arnold Networks, which offer inherently interpretable functional units, with vision-language models to generate more trustworthy textual explanations. By doing so, it may be possible to improve the relationship between model accuracy and clinician understanding of how these models arrive at their conclusions.",
+      "score": 0.4659
+    },
+    {
+      "title": "Infrared Imaging Empowered by Artificial Intelligence for Pediatric Skeletal Triage: A Narrative Review and Future Perspectives",
+      "url": "https://arxiv.org/abs/2607.24727v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Uma equipe de pesquisadores publicou uma revisão narrativa sobre o uso de imagens infravermelhas empoderadas por inteligência artificial para triagem esquelética pediátrica, o que é importante porque pode reduzir a exposição a radiação ionizante em crianças, que representa um risco para o desenvolvimento de leucemia e outras doenças. A abordagem combina imagem infravermelha com tradução cross-modal de aprendizado profundo para gerar reconstruções de radiografias sintéticas a partir de dados não ionizantes. Isso pode ser alcançado por meio de cinco janelas espectrais infravermelhas que variam de 650 nm a 1 mm, que exploram a profundidade tecidual e a sensibilidade bioquímica específica de cada comprimento de onda.",
+      "en": "A team of researchers has published a narrative review on the use of infrared imaging empowered by artificial intelligence for pediatric skeletal triage, which matters because it can reduce exposure to ionizing radiation in children, posing a risk for developing leukemia and other diseases. The approach combines infrared imaging with deep-learning cross-modal translation to generate synthetic radiograph reconstructions from non-ionizing data. This can be achieved through five infrared spectral windows ranging from 650 nm to 1 mm, which leverage wavelength-specific tissue depth and biochemical sensitivity, potentially providing a safer alternative to traditional radiography.",
+      "score": 0.4659
+    },
+    {
+      "title": "kvcache-ai/AgentENV",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Uma plataforma distribuída chamada AgentENV (AENV) foi lançada no GitHub, permitindo que ambientes de agentes sejam executados em larga escala, o que é importante porque possibilita a criação de sistemas mais complexos e escaláveis. AENV é útil para desenvolvedores que precisam testar e treinar agentes em ambientes virtuais, pois fornece uma infraestrutura para executar múltiplos ambientes de agentes de forma eficiente. Isso é particularmente útil em áreas como aprendizado de máquina e inteligência artificial, onde a capacidade de testar e treinar agentes em ambientes realistas é crucial. A plataforma é open source e está disponível no GitHub.",
+      "en": "A distributed platform called AgentENV (AENV) was released on GitHub, allowing agent environments to be run at scale, which matters because it enables the creation of more complex and scalable systems. AENV is useful for developers who need to test and train agents in virtual environments, as it provides an infrastructure to run multiple agent environments efficiently. This is particularly useful in areas such as machine learning and artificial intelligence, where the ability to test and train agents in realistic environments is crucial. The platform is open source and available on GitHub.",
+      "score": 0.6674
+    },
+    {
+      "title": "MoonshotAI/MoonEP",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Uma equipe de pesquisadores do MoonshotAI desenvolveu uma biblioteca de paralelismo de especialistas chamada MoonEP, que permite uma distribuição eficiente de tarefas entre especialistas redundantes, melhorando a eficiência e a escalabilidade de modelos de aprendizado de máquina. Isso é importante porque a capacidade de processar grandes quantidades de dados é fundamental para o desenvolvimento de soluções de inteligência artificial. A biblioteca MoonEP é projetada para ser flexível e personalizável, permitindo que os desenvolvedores ajustem a configuração de especialistas de acordo com as necessidades específicas de seus projetos. Com isso, a MoonEP pode ser uma ferramenta valiosa para equipes que trabalham com aprendizado de máquina em larga escala.",
+      "en": "A team of researchers at MoonshotAI has developed an expert parallelism library called MoonEP, which enables efficient task distribution among redundant experts, improving the efficiency and scalability of machine learning models. This matters because the ability to process large amounts of data is crucial for the development of artificial intelligence solutions. The MoonEP library is designed to be flexible and customizable, allowing developers to adjust the configuration of experts according to the specific needs of their projects. By doing so, MoonEP can be a valuable tool for teams working with large-scale machine learning.",
+      "score": 0.6302
+    },
+    {
+      "title": "XYZ-AI-Lab/axrl",
+      "url": "https://github.com/XYZ-AI-Lab/axrl",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um laboratório de inteligência artificial no GitHub lançou o AxisRL, uma estrutura de treinamento pós-treinamento para aprendizado por reforço que combina rollout de linguagem SGLang, treinamento Megatron e fluxos de trabalho de agentes do mundo real, o que é importante porque permite que os modelos sejam aprimorados e aplicados de forma mais eficaz. O AxisRL é construído sobre essas tecnologias para melhorar a capacidade dos agentes de aprender e se adaptar a novos ambientes. Isso pode ser útil para desenvolvedores que buscam criar modelos de aprendizado por reforço mais avançados. Com essa abordagem, os desenvolvedores podem criar agentes que aprendam e sejam capazes de realizar tarefas complexas de forma mais eficiente.",
+      "en": "A GitHub AI lab has released AxisRL, a post-training framework for agent-based reinforcement learning that combines SGLang rollout, Megatron training, and real-world agent workflows, which matters because it enables models to be fine-tuned and applied more effectively. AxisRL builds upon these technologies to enhance the ability of agents to learn and adapt to new environments. This can be useful for developers seeking to create more advanced reinforcement learning models. With this approach, developers can create agents that learn and are able to perform complex tasks more efficiently.",
+      "score": 0.5987
+    },
+    {
+      "title": "didriksg/Crisp",
+      "url": "https://github.com/didriksg/Crisp",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo aplicativo de código aberto chamado Crisp foi lançado no GitHub, oferecendo uma alternativa gratuita ao BetterDisplay e Lunar para usuários de macOS, permitindo que eles escalonem a resolução de monitores externos com nitidez, além de controlar a luminosidade e cores: isso significa que textos borrados ou minúsculos podem ser uma coisa do passado. O aplicativo apresenta recursos como telas virtuais e predefinições, tornando mais fácil gerenciar múltiplos monitores. Isso é particularmente útil para profissionais que precisam trabalhar com vários monitores em alta resolução. Com o Crisp, os usuários podem desfrutar de uma experiência de visualização aprimorada em seus monitores externos.",
+      "en": "A new open-source app called Crisp has been released on GitHub, offering a free alternative to BetterDisplay and Lunar for macOS users, allowing them to scale the resolution of external monitors with sharpness, as well as control brightness and colors: this means blurry or tiny text can be a thing of the past. The app features capabilities such as virtual displays and presets, making it easier to manage multiple monitors. This is particularly useful for professionals who need to work with multiple high-resolution monitors. With Crisp, users can enjoy an enhanced viewing experience on their external monitors.",
+      "score": 0.5254
+    }
+  ]
+}
