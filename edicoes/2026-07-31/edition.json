@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-31",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Uma reportagem recente destacou que as principais startups de inteligência artificial estão publicando muito pouco de suas pesquisas, o que é preocupante porque a compartilhamento de conhecimento é fundamental para o avanço da área. Isso significa que os resultados de estudos e experimentos realizados por essas empresas não estão sendo divulgados para a comunidade científica, o que pode limitar o progresso da inteligência artificial. A publicação de pesquisas é importante porque permite que outros cientistas e engenheiros aprendam com os achados e avancem em suas próprias investigações.",
+      "en": "A recent report highlighted that top artificial intelligence startups are publishing very little of their research, which is concerning because knowledge sharing is crucial for advancing the field. This means that the results of studies and experiments conducted by these companies are not being disclosed to the scientific community, which can limit the progress of artificial intelligence. The publication of research is important because it allows other scientists and engineers to learn from the findings and advance their own investigations.",
+      "score": 0.7856
+    },
+    {
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A UEFA e suas associações nacionais decidiram não participar das competições da FIFA, o que pode ter um impacto significativo no mundo do futebol, pois a UEFA é o órgão responsável por governar o futebol na Europa, e suas decisões afetam clubes e seleções de todo o continente. Isso ocorre devido a desacordos entre a UEFA e a FIFA, a organização internacional que rege o futebol mundial. A UEFA é composta por 55 associações nacionais, que juntas representam a maioria dos países europeus. Essa decisão pode levar a mudanças importantes nas competições de futebol internacionais.",
+      "en": "The UEFA and its national associations have decided not to participate in FIFA competitions, which may have a significant impact on the world of soccer, as UEFA is the governing body of soccer in Europe, and its decisions affect clubs and national teams across the continent. This occurs due to disagreements between UEFA and FIFA, the international organization that governs global soccer. UEFA consists of 55 national associations, which together represent most European countries. This decision may lead to important changes in international soccer competitions.",
+      "score": 0.767
+    },
+    {
+      "title": "Noniv/snowflow_demo",
+      "url": "https://github.com/Noniv/snowflow_demo",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um demo de renderização de neve procedural em tempo real foi lançado no GitHub, intitulado snowflow_demo, desenvolvido com WebGPU, Babylon.js e WGSL escrito à mão. Isso é notável porque apresenta terrenos gerados por GPU, deformação de neve, personagens procedurais, tecidos, ondas de surf, feitiços de água, atmosfera e pós-processamento, tudo isso sem a necessidade de texturas, malhas, HDRIs ou ativos de animação. O WebGPU é uma tecnologia que permite que os navegadores da web acessem os recursos dos processadores gráficos, enquanto o WGSL é uma linguagem de programação usada para criar shaders, que são pequenos programas que executam cálculos complexos na GPU. Essa combinação de tecnologias permite uma experiência gráfica rica e interativa.",
+      "en": "A real-time procedural snow rendering demo was released on GitHub, titled snowflow_demo, developed with WebGPU, Babylon.js, and hand-written WGSL. This is notable because it features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere, and post-processing, all without the need for textures, meshes, HDRIs, or animation assets. WebGPU is a technology that allows web browsers to access the resources of graphics processors, while WGSL is a programming language used to create shaders, which are small programs that perform complex calculations on the GPU. This combination of technologies enables a rich and interactive graphical experience.",
+      "score": 0.7204
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Uma equipe de pesquisadores da DeepMind desenvolveu o Gemini Robotics 2, uma plataforma que traz inteligência de corpo inteiro para robôs, permitindo que eles aprendam e se adaptem a tarefas complexas de forma mais eficaz. Isso é importante porque robôs com inteligência de corpo inteiro podem realizar tarefas que requerem coordenação e equilíbrio, como caminhar ou manipular objetos. A inteligência de corpo inteiro se refere à capacidade do robô de integrar informações de todos os seus sensores e atuadores para tomar decisões e realizar ações. Com o Gemini Robotics 2, os robôs podem aprender a realizar tarefas complexas de forma mais rápida e eficaz.",
+      "en": "A team of researchers at DeepMind has developed Gemini Robotics 2, a platform that brings whole body intelligence to robots, allowing them to learn and adapt to complex tasks more effectively. This matters because robots with whole body intelligence can perform tasks that require coordination and balance, such as walking or manipulating objects. Whole body intelligence refers to the robot's ability to integrate information from all its sensors and actuators to make decisions and take actions. With Gemini Robotics 2, robots can learn to perform complex tasks more quickly and efficiently.",
+      "score": 0.7651
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A OpenAI anunciou recentemente o avanço da fronteira de preço e desempenho com o GPT-5.6, um modelo de linguagem que visa melhorar a eficiência e reduzir os custos de processamento de linguagem natural. Isso é importante porque permite que mais pessoas e empresas acessem tecnologias de processamento de linguagem avançadas, tornando-as mais acessíveis e ampliando seu potencial de aplicação. Com o GPT-5.6, a OpenAI busca estabelecer um novo padrão para a relação entre custo e desempenho em modelos de linguagem.",
+      "en": "OpenAI has recently announced an advancement in the price-performance frontier with GPT-5.6, a language model that aims to improve efficiency and reduce the costs of natural language processing. This matters because it enables more people and businesses to access advanced language processing technologies, making them more accessible and broadening their potential applications. With GPT-5.6, OpenAI is seeking to establish a new standard for the cost-performance relationship in language models, which is significant for the field of natural language processing.",
+      "score": 0.719
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um novo modelo de inteligência artificial foi adicionado à plataforma Hugging Face, denominado DeepSeek-V4-Flash-0731, que é projetado para a tarefa de geração de texto, uma técnica que permite aos computadores criar textos coerentes e naturais, como se fossem escritos por humanos, o que é útil para aplicativos como chatbots e resumo de texto, e isso matters porque pode ajudar a melhorar a interação entre humanos e máquinas. O modelo foi criado por deepseek-ai e tem 232 likes, mas ainda não foi baixado, o que pode ser devido à sua complexidade ou ao fato de ser uma versão recente. A geração de texto é uma área em constante evolução, e modelos como o DeepSeek-V4-Flash-0731 podem ser úteis para pesquisadores e desenvolvedores que buscam criar soluções mais avançadas.",
+      "en": "A new artificial intelligence model has been added to the Hugging Face platform, named DeepSeek-V4-Flash-0731, which is designed for the task of text generation, a technique that allows computers to create coherent and natural text, as if it were written by humans, which matters because it can help improve the interaction between humans and machines. The model was created by deepseek-ai and has 232 likes, but it has not been downloaded yet, which may be due to its complexity or the fact that it is a recent version. Text generation is an area in constant evolution, and models like DeepSeek-V4-Flash-0731 can be useful for researchers and developers looking to create more advanced solutions.",
+      "score": 0.7123
+    },
+    {
+      "title": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de linguagem chamado GLM-5.2 foi publicado no Hugging Face, uma plataforma de compartilhamento de modelos de inteligência artificial, e isso é importante porque representa um avanço significativo na geração de texto, permitindo que os desenvolvedores criem aplicativos que podem produzir textos coerentes e naturais. O GLM-5.2 foi projetado para a tarefa de geração de texto, que é um tipo de processo no qual um modelo de linguagem é treinado para gerar texto Baseado em um conjunto de dados, e isso é feito por meio de técnicas de processamento de linguagem natural, como redes neurais recorrentes. Com 4690 likes e 1651533 downloads, o GLM-5.2 demonstra ser uma ferramenta útil para a comunidade de desenvolvedores. O modelo pode ser usado em uma variedade de aplicações, desde chatbots até geradores de conteúdo.",
+      "en": "A language model called GLM-5.2 has been published on Hugging Face, a platform for sharing artificial intelligence models, and this matters because it represents a significant advancement in text generation, allowing developers to create applications that can produce coherent and natural-sounding text. The GLM-5.2 was designed for the task of text generation, which is a type of process where a language model is trained to generate text based on a dataset, and this is done through natural language processing techniques, such as recurrent neural networks. With 4690 likes and 1651533 downloads, the GLM-5.2 proves to be a useful tool for the developer community. The model can be used in a variety of applications, ranging from chatbots to content generators.",
+      "score": 0.6
+    },
+    {
+      "title": "Read this before you buy that TV streaming stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um recente artigo alerta sobre os riscos de segurança associados a dispositivos de streaming para TV, como palavras-chave de busca ou histórico de navegação sendo coletados e vendidos para anunciantes, o que pode comprometer a privacidade do usuário. Isso importa porque muitos consumidores não estão cientes dos dados que estão sendo coletados por esses dispositivos. Esses dispositivos, como o TV streaming stick, podem coletar dados sobre os hábitos de visualização do usuário, como programas assistidos ou tempo de uso, e enviá-los para empresas que os utilizam para direcionar anúncios. Além disso, esses dados podem ser vulneráveis a acessos não autorizados.",
+      "en": "A recent article warns about the security risks associated with TV streaming devices, such as search keywords or browsing history being collected and sold to advertisers, which can compromise user privacy. This matters because many consumers are not aware of the data being collected by these devices. These devices, like the TV streaming stick, can collect data on user viewing habits, such as watched programs or usage time, and send it to companies that use it to target ads. Additionally, this data can be vulnerable to unauthorized access.",
+      "score": 0.7358
+    },
+    {
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A funcionalidade de Pull Requests empilhados foi ativada no GitHub, o que permite que desenvolvedores juntem e revisem mudanças de código de forma mais organizada. Isso importa porque simplifica o processo de revisão de código, especialmente em projetos de grande escala. Pull Requests, ou solicitações de pull, são uma forma de propor mudanças em um repositório de código, e a capacidade de empilhá-las permite que os desenvolvedores trabalhem de forma mais eficiente. Com essa nova funcionalidade, os desenvolvedores podem criar uma fila de solicitações de pull que podem ser revisadas e aprovadas em sequência.",
+      "en": "The feature of stacked pull requests has been enabled on GitHub, which allows developers to combine and review code changes in a more organized manner. This matters because it simplifies the code review process, especially in large-scale projects. Pull requests, or pull requests, are a way to propose changes to a code repository, and the ability to stack them allows developers to work more efficiently. With this new feature, developers can create a queue of pull requests that can be reviewed and approved in sequence.",
+      "score": 0.7301
+    },
+    {
+      "title": "The session you cannot take with you",
+      "url": "https://earendil.com/posts/session-portability/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, um artigo destacou a importância da portabilidade de sessões, uma funcionalidade que permite que os usuários transfiram suas sessões ativas de um dispositivo para outro, mantendo assim o acesso contínuo aos serviços e aplicativos. Isso é particularmente relevante em um mundo onde a mobilidade e a flexibilidade são cada vez mais valorizadas. A portabilidade de sessões é essencialmente a capacidade de \"levar\" sua sessão ativa, incluindo todas as informações de autenticação e contexto, para outro dispositivo, como um laptop ou smartphone, sem precisar se reconectar ou reautenticar. Isso é feito por meio de técnicas de gerenciamento de sessões, que envolvem a criação de tokens de autenticação e a gestão de cookies de sessão.",
+      "en": "Recently, an article highlighted the importance of session portability, a feature that allows users to transfer their active sessions from one device to another, thus maintaining continuous access to services and applications. This matters in a world where mobility and flexibility are increasingly valued. Session portability is essentially the ability to \"take\" your active session, including all authentication and context information, to another device, such as a laptop or smartphone, without having to reconnect or reauthenticate. This is achieved through session management techniques, which involve creating authentication tokens and managing session cookies.",
+      "score": 0.7281
+    },
+    {
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um artigo foi publicado recentemente sobre a arquitetura do Kimi K3, um projeto que tem ganhado atenção devido à sua abordagem inovadora, e é importante entender como essa arquitetura funciona para aproveitar seus benefícios. A arquitetura do Kimi K3 é baseada em uma abordagem modular, o que significa que é composta por várias partes independentes que trabalham juntas para alcançar um objetivo comum. Isso permite uma maior flexibilidade e escalabilidade, tornando-o uma opção atraente para muitos desenvolvedores. O artigo fornece uma visão geral detalhada da arquitetura, incluindo explicações sobre como as diferentes partes interagem entre si.",
+      "en": "A recent article was published on the Kimi K3 architecture, a project that has been gaining attention due to its innovative approach, and it is important to understand how this architecture works to leverage its benefits. The Kimi K3 architecture is based on a modular approach, which means it is composed of several independent parts that work together to achieve a common goal. This allows for greater flexibility and scalability, making it an attractive option for many developers. The article provides a detailed overview of the architecture, including explanations of how the different parts interact with each other.",
+      "score": 0.6196
+    },
+    {
+      "title": "Structured credentials in unstructured text: parsing CVs for the trades",
+      "url": "https://dev.to/cvpilot/structured-credentials-in-unstructured-text-parsing-cvs-for-the-trades-4hfl",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma equipe de desenvolvimento criou um sistema para parsear currículos de profissionais de áreas não tecnológicas, como eletricistas e outros trabalhadores qualificados, para extrair credenciais estruturadas de textos não estruturados. Isso é importante porque muitos currículos contêm informações valiosas, mas difíceis de extrair, como certificações e qualificações, que podem ser perdidas em meio a textos livres. O desafio é extrair essas credenciais de forma precisa, sem gerar falsos positivos ou rejeitar candidatos experientes. A solução envolveu o desenvolvimento de um sistema de extração de palavras-chave que possa lidar com setores fora do âmbito dos currículos de tecnologia.",
+      "en": "A development team has created a system to parse resumes from non-technical professionals, such as electricians and other skilled workers, to extract structured credentials from unstructured text. This matters because many resumes contain valuable information, but it can be difficult to extract, such as certifications and qualifications, which can get lost in free text. The challenge is to extract these credentials accurately, without generating false positives or rejecting experienced candidates. The solution involved developing a keyword extraction system that can handle sectors outside the realm of tech resumes.",
+      "score": 0.3497
+    },
+    {
+      "title": "How Lean Teams Use Software Engineering as a Service to Build Faster",
+      "url": "https://dev.to/takdevs124/how-lean-teams-use-software-engineering-as-a-service-to-build-faster-4j6n",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Equipes enxutas estão cada vez mais recorrendo a Serviços de Engenharia de Software (SEaaS) para desenvolver produtos de forma mais rápida, devido à pressão constante para entregar produtos de alta qualidade em menos tempo, mantendo os custos de desenvolvimento sob controle. Isso se deve ao fato de que contratar uma grande equipe de engenharia interna nem sempre é prático para startups e empresas em crescimento. Ao trabalhar com equipes de engenharia experientes que já possuem a expertise técnica necessária, as empresas podem evitar gastar meses recrutando desenvolvedores.",
+      "en": "Lean teams are increasingly turning to Software Engineering as a Service (SEaaS) to develop products faster, due to the constant pressure to deliver high-quality products in less time while keeping development costs under control. This is because hiring a large in-house engineering team is not always practical for startups and growing businesses. By working with experienced engineering teams that already have the necessary technical expertise, businesses can avoid spending months recruiting developers.",
+      "score": 0.3487
+    },
+    {
+      "title": "Your Senior Req Has Been Open Four Months. A Fourth Sourcing Channel Won't Fix It.",
+      "url": "https://dev.to/czechdevusa/your-senior-req-has-been-open-four-months-a-fourth-sourcing-channel-wont-fix-it-1ibo",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma vaga de engenheiro sênior está aberta há quatro meses, e a solução não é abrir mais canais de fontes. Isso porque o problema não é a quantidade de candidatos, mas sim a qualidade do grupo de pessoas que estão sendo alcançadas. Todos os canais de fontes que você provavelmente está usando, como LinkedIn Recruiter, indicações, uma nova agência ou um quadro de vagas, estão procurando no mesmo conjunto finito de pessoas: engenheiros sêniores. Portanto, aumentar o número de canais não resolve o problema de ter um grupo de pessoas inadequado.",
+      "en": "A senior engineer position has been open for four months, and the solution is not to open more sourcing channels. This is because the problem is not the quantity of candidates, but rather the quality of the pool of people being reached. All the sourcing channels you are likely using, such as LinkedIn Recruiter, referrals, a new agency, or a job board, are searching the same finite set of people: senior engineers. Therefore, increasing the number of channels does not fix the problem of having the wrong pool of people.",
+      "score": 0.2997
+    },
+    {
+      "title": "How to Earn $3000/Month with Technical Consulting",
+      "url": "https://dev.to/qingluan/how-to-earn-3000month-with-technical-consulting-3gob",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um artigo recente explica como é possível ganhar $3000 por mês com consultoria técnica, o que é especialmente relevante para freelancers que buscam aumentar sua renda. Isso pode ser alcançado identificando tarefas de negócios repetitivas e automatizá-las com ferramentas como Python, permitindo que os clientes economizem tempo e sejam cobrados por essas economias. A abordagem mais rápida para alcançar esse objetivo é vender economia de tempo, em vez de código, o que significa entender quais tarefas manuais semanais desperdiçam tempo e podem ser automatizadas.",
+      "en": "A recent article explains how it is possible to earn $3000 per month with technical consulting, which is especially relevant for freelancers looking to increase their income. This can be achieved by identifying repetitive business tasks and automating them with tools such as Python, allowing clients to save time and being charged for these savings. The fastest path to achieving this goal is to sell time savings, rather than code, which means understanding which weekly manual tasks waste time and can be automated.",
+      "score": 0.298
+    },
+    {
+      "title": "Learning to Trace Seiberg Dualities",
+      "url": "https://arxiv.org/abs/2607.28628v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram uma abordagem inovadora para estabelecer dualidades em teorias gauge supersimétricas, utilizando métodos de aprendizado de máquina para identificar quando dois sistemas são duais, o que é um desafio computacional significativo. Isso é importante porque as dualidades desempenham um papel fundamental em fenômenos microscópicos e emergentes em uma ampla gama de sistemas físicos. A abordagem envolve estabelecer mutações de quívers, que é uma variação do tema de \"aprender a desembaraçar\", e pode levar a uma ferramenta prática para estabelecer a complexidade computacional de diferentes dualidades. Com isso, os pesquisadores podem avançar na compreensão de fenômenos complexos em física.",
+      "en": "Researchers have developed a novel approach to establishing dualities in supersymmetric gauge theories, using machine learning methods to identify when two systems are dual, which is a significant computational challenge. This matters because dualities play a crucial role in both microscopic and emergent phenomena in a wide range of physical systems. The approach involves establishing mutations of quivers, which is a variation on the theme of \"learning to unknot\", and may lead to a practical tool for establishing the computational complexity of different dualities. By doing so, researchers can advance their understanding of complex phenomena in physics.",
+      "score": 0.4658
+    },
+    {
+      "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
+      "url": "https://arxiv.org/abs/2607.28627v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram o ReToken, uma abordagem inovadora para melhorar a eficiência dos modelos de visão-linguagem em tarefas de recuperação visual, um desafio que surge devido ao grande contexto visual que degrada o desempenho à medida que o número de elementos distraídos aumenta, e o processamento de todos os tokens de uma vez é inviável devido às limitações de memória da GPU. O ReToken é um único embeddimento aprendível treinado como um alvo de recuperação explícito que selecciona um conjunto sparso de tokens visuais relevantes para a consulta a partir de um cache de KV visual preenchido. Com uma arquitetura leve, o ReToken foi treinado em um pequeno conjunto de dados de perguntas e respostas sobre imagens e alcançou ganhos consistentes em benchmarks de imagem e vídeo.",
+      "en": "Researchers have introduced ReToken, a novel approach to improving the efficiency of vision-language models in visual retrieval tasks, a challenge that arises from the long visual context that degrades performance as the number of distractors grows, and processing all tokens at once is computationally infeasible due to GPU memory constraints. ReToken is a single learnable embedding trained as an explicit retrieval target that selects a sparse set of query-relevant visual tokens from a pre-filled visual key-value cache. With a lightweight design, ReToken was trained on a small image-question answering dataset and achieved consistent gains across image and video benchmarks.",
+      "score": 0.4658
+    },
+    {
+      "title": "ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine",
+      "url": "https://arxiv.org/abs/2607.28625v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores criaram o ACE-Data-0, um motor de dados que capta a percepção e ação humanas de forma integrada, superando a limitação dos conjuntos de dados existentes que fragmentam a experiência humana, permitindo uma compreensão mais profunda da inteligência incorporada, que se refere à capacidade de um sistema computacional aprender e se adaptar com base na interação com o ambiente, e é fundamental para o desenvolvimento de robôs e sistemas autônomos, pois eles precisam aprender a interagir com o mundo de forma eficaz. O ACE opera em duas escalas complementares, uma configuração de escala de mesa que resolve a manipulação de mãos e objetos, e uma configuração de escala de sala que captura o movimento corporal, locomoção e interações em uma casa mobiliada. Isso é importante porque os modelos de inteligência incorporada precisam capturar como a percepção de primeira pessoa, o movimento corporal, a manipulação de objetos e o som evoluem juntos ao longo do tempo. \nOs dados coletados pelo ACE podem ser usados para treinar modelos de aprendizado de máquina que possam aprender a realizar tarefas complexas de forma autônoma.",
+      "en": "Researchers have created the ACE-Data-0, a data engine that captures human perception and action in an integrated way, overcoming the limitation of existing datasets that fragment the human experience, allowing for a deeper understanding of embodied intelligence, which refers to a computational system's ability to learn and adapt based on interaction with the environment, and is crucial for the development of robots and autonomous systems, as they need to learn to interact with the world effectively. The ACE operates at two complementary scales, a table-scale configuration that resolves hand-object manipulation, and a room-scale configuration that captures whole-body motion, locomotion, and interactions across a furnished home. This matters because embodied intelligence models need to capture how first-person perception, body motion, object manipulation, and sound evolve together over time. \nThe data collected by the ACE can be used to train machine learning models that can learn to perform complex tasks autonomously.",
+      "score": 0.4658
+    },
+    {
+      "title": "PhiZero: A World Model Built Around Physical Language",
+      "url": "https://arxiv.org/abs/2607.28624v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores criaram o PhiZero, um modelo de mundo físico construído em torno de linguagem física, que é uma representação compacta e discreta de transições de estado do mundo. Isso é importante porque os modelos de mundo físico existentes geralmente preveem vídeos futuros diretamente no espaço de pixels, deixando a dinâmica subjacente do mundo implícita em previsores visuais de alta dimensionalidade. O PhiZero adota um paradigma de raciocinar-então-renderizar, onde primeiro infere a evolução futura do mundo como uma sequência de linguagem física e então renderiza as transições inferidas em vídeos. Essa abordagem pode ser útil para entender melhor como o mundo físico evolui.",
+      "en": "Researchers have created PhiZero, a physical world model built around physical language, which is a compact discrete representation of world-state transitions. This matters because existing physical world models typically predict future videos directly in pixel space, leaving the underlying world dynamics implicit within high-dimensional visual predictors. PhiZero adopts a reason-then-render paradigm, where it first infers future world evolution as a physical-language sequence and then renders the inferred transitions into videos. This approach can be useful for better understanding how the physical world evolves.",
+      "score": 0.4658
+    },
+    {
+      "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um guia de orientação para engenheiros de implantação avançada foi publicado no GitHub, o que é importante porque fornece um recurso valioso para profissionais que desejam se especializar nessa área, conhecida como FDE, que é um conjunto de técnicas e práticas utilizadas para melhorar a eficiência e a eficácia dos processos de desenvolvimento de software. O guia é baseado no livro \"增长黑客\" de范冰 e oferece uma abordagem passo a passo para engenheiros que desejam aprender sobre FDE. Isso é útil porque a FDE é uma área em constante evolução, e os profissionais precisam estar atualizados sobre as melhores práticas e técnicas. O guia é uma ferramenta essencial para qualquer um que queira se tornar um engenheiro de implantação avançada.",
+      "en": "A guidance book for forward deployed engineers has been published on GitHub, which matters because it provides a valuable resource for professionals looking to specialize in this field, known as FDE, a set of techniques and practices used to improve the efficiency and effectiveness of software development processes. The guide is based on the book \"增长黑客\" by 范冰 and offers a step-by-step approach for engineers looking to learn about FDE. This is useful because FDE is an evolving field, and professionals need to stay up to date on best practices and techniques. The guide is an essential tool for anyone looking to become a forward deployed engineer.",
+      "score": 0.6955
+    },
+    {
+      "title": "QwenAudio/qwen-audio-agent",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto chamado qwen-audio-agent foi lançado no GitHub, o que é notável porque fornece um runtime de voz em tempo real para agentes de inteligência artificial, permitindo que eles se comuniquem de forma contínua e eficaz. Isso é importante porque possibilita o desenvolvimento de aplicações que exigem interação verbal constante, como assistentes virtuais ou sistemas de diálogo. O runtime em tempo real significa que os agentes podem processar e responder a comandos de voz imediatamente, sem atrasos significativos. Com isso, os desenvolvedores podem criar experiências de usuário mais naturais e interativas.",
+      "en": "A new project called qwen-audio-agent has been released on GitHub, which is notable because it provides a real-time voice runtime for artificial intelligence agents, allowing them to communicate continuously and effectively. This is important because it enables the development of applications that require constant verbal interaction, such as virtual assistants or dialogue systems. The real-time runtime means that agents can process and respond to voice commands immediately, without significant delays. With this, developers can create more natural and interactive user experiences.",
+      "score": 0.6819
+    },
+    {
+      "title": "NikolayS/PGSimCity",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado PGSimCity foi lançado, o que importa porque fornece uma representação visual e interativa de como o PostgreSQL funciona. Esse projeto cria uma cidade 3D que pode ser explorada, mostrando como as consultas SQL são processadas e como o banco de dados gerencia os dados. Isso pode ser útil para desenvolvedores e usuários que desejam entender melhor como o PostgreSQL funciona, pois o PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto. A cidade 3D é uma ferramenta didática que ajuda a explicar conceitos técnicos de forma acessível.",
+      "en": "A GitHub project called PGSimCity has been released, which matters because it provides a visual and interactive representation of how PostgreSQL actually works. This project creates an explorable 3D city that shows how SQL queries are processed and how the database manages data. This can be useful for developers and users who want to better understand how PostgreSQL works, as PostgreSQL is an open-source relational database management system. The 3D city is a didactic tool that helps explain technical concepts in an accessible way.",
+      "score": 0.5098
+    },
+    {
+      "title": "bashalarmistalt/decimen-optical-transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto de transferência óptica foi disponibilizado no GitHub, o que é notável porque permite a transferência de dados por meio de sinais luminosos, uma tecnologia que pode ser útil em ambientes onde a conectividade por fio ou sem fio é limitada. Isso é importante porque a transferência óptica pode oferecer taxas de transferência de dados mais rápidas e seguras em certos contextos. A tecnologia por trás disso envolve a modulação de sinais luminosos para transmitir informações, que é então detectada por um receptor. O projeto decimen-optical-transfer no GitHub fornece uma implementação de referência para essa tecnologia.",
+      "en": "A optical transfer project has been made available on GitHub, which is notable because it enables data transfer through light signals, a technology that can be useful in environments where wired or wireless connectivity is limited. This matters because optical transfer can offer faster and more secure data transfer rates in certain contexts. The technology behind this involves modulating light signals to transmit information, which is then detected by a receiver. The decimen-optical-transfer project on GitHub provides a reference implementation for this technology.",
+      "score": 0.0766
+    }
+  ]
+}
