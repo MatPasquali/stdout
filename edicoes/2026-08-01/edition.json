@@ -1,0 +1,226 @@
+{
+  "date": "2026-08-01",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de aprendizado de máquina chamado DeepSeek-V4-Flash-0731-GGUF foi publicado no Hugging Face, que é uma plataforma de modelos de inteligência artificial, e isso é importante porque esse modelo pode ser usado para uma variedade de tarefas, como processamento de linguagem natural, onde a inteligência artificial entende e processa a linguagem humana. O modelo foi baixado 4048 vezes e recebeu 237 likes, o que indica que ele é útil para a comunidade de desenvolvedores. O modelo DeepSeek-V4-Flash-0731-GGUF é um exemplo de como os modelos de aprendizado de máquina podem ser compartilhados e usados por outras pessoas, o que ajuda a acelerar o desenvolvimento de soluções de inteligência artificial. Isso é especialmente útil para desenvolvedores que precisam de modelos pré-treinados para construir suas próprias aplicações.",
+      "en": "A machine learning model called DeepSeek-V4-Flash-0731-GGUF was published on Hugging Face, which is a platform for artificial intelligence models, and this matters because the model can be used for a range of tasks, such as natural language processing, where artificial intelligence understands and processes human language. The model was downloaded 4048 times and received 237 likes, which indicates that it is useful to the developer community. The DeepSeek-V4-Flash-0731-GGUF model is an example of how machine learning models can be shared and used by others, which helps to accelerate the development of artificial intelligence solutions. This is particularly useful for developers who need pre-trained models to build their own applications.",
+      "score": 0.8074
+    },
+    {
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Acabemos de descobrir um link interessante sobre elevadores, que nos leva a uma página que explica como esses dispositivos funcionam, desde a física por trás de seu movimento até a tecnologia utilizada em seus sistemas de controle. Isso é importante porque elevadores são uma parte essencial da infraestrutura de muitos prédios, permitindo que as pessoas se movam facilmente entre andares. A página em questão, hospedada em https://john.fun/elevators, fornece uma visão geral acessível sobre o funcionamento dos elevadores.",
+      "en": "We just came across an interesting link about elevators, which takes us to a page that explains how these devices work, from the physics behind their movement to the technology used in their control systems. This matters because elevators are an essential part of the infrastructure of many buildings, allowing people to move easily between floors. The page in question, hosted at https://john.fun/elevators, provides an accessible overview of how elevators operate.",
+      "score": 0.7626
+    },
+    {
+      "title": "qm – Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um novo projeto chamado qm foi lançado no GitHub, que permite a criação de agentes multiplayer para trabalhos, o que significa que vários usuários podem trabalhar juntos em uma tarefa de forma colaborativa. Isso é importante porque permite que as equipes trabalhem de forma mais eficiente, dividindo tarefas e compartilhando recursos. O qm é uma ferramenta de código aberto, o que significa que qualquer pessoa pode acessar e modificar o código para atender às suas necessidades. Com o qm, os desenvolvedores podem criar aplicativos que permitem a colaboração em tempo real.",
+      "en": "A new project called qm was released on GitHub, which allows for the creation of multiplayer agents for work, meaning multiple users can work together on a task in a collaborative way. This matters because it enables teams to work more efficiently, dividing tasks and sharing resources. The qm is an open source tool, which means anyone can access and modify the code to suit their needs. With qm, developers can create applications that allow for real-time collaboration.",
+      "score": 0.7597
+    },
+    {
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A empresa Tailscale recentemente admitiu que sua rede privada virtual não conseguiu evitar a intrusão na empresa Hugging Face, o que é notável porque a tecnologia de Tailscale é projetada para fornecer uma camada adicional de segurança às redes, permitindo que os dispositivos se conectem de forma segura. Isso aconteceu porque os invasores conseguiram obter credenciais de acesso válidas, o que lhes deu permissão para acessar a rede, mesmo com as medidas de segurança da Tailscale em vigor. A credencial de acesso é um conjunto de informações que permite a um dispositivo ou usuário se conectar a uma rede ou sistema, e é geralmente protegida por senhas ou outros métodos de autenticação. A falha no caso da Hugging Face destaca a importância de implementar múltiplas camadas de segurança para proteger contra ameaças.",
+      "en": "Tailscale has recently admitted that its virtual private network did not stop the intrusion into Hugging Face, which is notable because Tailscale's technology is designed to provide an additional layer of security to networks, allowing devices to connect securely. This happened because the intruders were able to obtain valid access credentials, which gave them permission to access the network, even with Tailscale's security measures in place. An access credential is a set of information that allows a device or user to connect to a network or system, and is typically protected by passwords or other authentication methods. The failure in the Hugging Face case highlights the importance of implementing multiple layers of security to protect against threats.",
+      "score": 0.7582
+    },
+    {
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Em junho, a Google corrigiu mais bugs no Chrome do que nos últimos dois anos, graças ao uso de inteligência artificial para identificar e priorizar problemas de segurança, o que é importante porque ajuda a manter os usuários seguros ao navegar na internet. Isso foi possível devido a uma abordagem mais eficaz de teste e detecção de vulnerabilidades, permitindo que a equipe do Chrome se concentre em corrigir os problemas mais críticos. A inteligência artificial ajuda a automatizar o processo de teste, reduzindo o tempo e o esforço necessário para identificar e corrigir bugs. Com essa abordagem, a Google pode fornecer atualizações de segurança mais frequentes e eficazes para o Chrome.",
+      "en": "In June, Google fixed more Chrome bugs than over the past two years, thanks to the use of artificial intelligence to identify and prioritize security issues, which matters because it helps keep users safe while browsing the internet. This was made possible by a more effective approach to testing and vulnerability detection, allowing the Chrome team to focus on fixing the most critical problems. Artificial intelligence helps automate the testing process, reducing the time and effort needed to identify and fix bugs. With this approach, Google can provide more frequent and effective security updates for Chrome.",
+      "score": 0.7343
+    },
+    {
+      "title": "thinkingmachines/Inkling-Small",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-Small",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Uma equipe de desenvolvedores criou um modelo no Hugging Face chamado Inkling-Small, que é capaz de realizar a tarefa de image-text-to-text, ou seja, converter imagens e textos em novos textos, e isso é importante porque pode ser usado em diversas aplicações, como descrição de imagens e resumo de conteúdo. O modelo Inkling-Small já recebeu 202 likes e foi baixado 3998 vezes, o que demonstra seu potencial e utilidade. Isso ocorre porque o modelo consegue aprender padrões e relações entre imagens e textos, permitindo que ele gere textos coerentes e relevantes. O Inkling-Small é um exemplo de como a inteligência artificial pode ser aplicada em tarefas complexas de processamento de linguagem natural.",
+      "en": "A team of developers has created a model on Hugging Face called Inkling-Small, which is capable of performing the image-text-to-text task, meaning it can convert images and text into new text, and this matters because it can be used in various applications, such as image description and content summarization. The Inkling-Small model has already received 202 likes and been downloaded 3998 times, demonstrating its potential and usefulness. This happens because the model is able to learn patterns and relationships between images and text, allowing it to generate coherent and relevant text. The Inkling-Small is an example of how artificial intelligence can be applied to complex natural language processing tasks.",
+      "score": 0.6396
+    },
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Um time de pesquisadores apresentou um paper na Conferência Internacional de Aprendizado de Máquina, um dos principais eventos de inteligência artificial, argumentando que é impossível tornar os grandes modelos de linguagem completamente seguros contra ataques devido a uma falha fundamental na forma como funcionam. Isso tem implicações significativas para a segurança dessa tecnologia, que é cada vez mais utilizada em diversas aplicações. Os grandes modelos de linguagem, como o nome sugere, são redes neurais treinadas em grandes conjuntos de dados textuais para gerar texto semelhante ao humano, mas essa capacidade de aprendizado também os torna vulneráveis a manipulações. A falha fundamental se refere à forma como esses modelos processam e geram linguagem, o que os torna suscetíveis a ataques maliciosos.",
+      "en": "A team of researchers presented a paper at the International Conference on Machine Learning, a top AI conference, arguing that it is impossible to make large language models fully secure against hacks due to a fundamental flaw in how they work. This has significant implications for the safety of this technology, which is increasingly being used in various applications. Large language models, as the name suggests, are neural networks trained on large datasets of text to generate human-like language, but this learning capability also makes them vulnerable to manipulation. The fundamental flaw refers to how these models process and generate language, making them susceptible to malicious attacks.",
+      "score": 0.4107
+    },
+    {
+      "title": "DeepSeek-V4-Flash Update",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Uma atualização flash foi lançada para o DeepSeek-V4, o que importa porque isso pode afetar a forma como os desenvolvedores utilizam a plataforma. O DeepSeek é uma ferramenta de busca e indexação de dados, e atualizações como essa geralmente visam melhorar a performance ou corrigir problemas. Isso pode ser útil para entender como as atualizações de software podem impactar o trabalho dos desenvolvedores. A documentação oficial da atualização pode ser encontrada no site da DeepSeek.",
+      "en": "A flash update has been released for DeepSeek-V4, which matters because it may change how developers use the platform. DeepSeek is a data search and indexing tool, and updates like this usually aim to improve performance or fix issues. This can be useful to understand how software updates can impact developers' work. The official documentation for the update can be found on DeepSeek's website.",
+      "score": 0.7009
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A equipe por trás do modelo de inteligência artificial DeepSeek V4 Flash divulgou uma análise detalhada sobre o desempenho e preço do modelo, que é uma versão mais recente da linha DeepSeek, conhecida por sua capacidade de processar grandes quantidades de dados de forma eficiente. Essa análise é importante porque oferece uma visão clara sobre como o modelo pode ser utilizado em diferentes aplicações, desde processamento de linguagem natural até análise de imagens. O modelo DeepSeek V4 Flash é baseado em arquiteturas de redes neurais, que são estruturas de aprendizado de máquina inspiradas no funcionamento do cérebro humano, permitindo que os sistemas de inteligência artificial aprendam e melhorem com o tempo. Isso torna o modelo uma ferramenta valiosa para pesquisadores e desenvolvedores que buscam melhorar a capacidade de processamento de dados em seus sistemas.",
+      "en": "The team behind the DeepSeek V4 Flash artificial intelligence model has released a detailed analysis of the model's performance and price, which is a newer version of the DeepSeek line, known for its ability to efficiently process large amounts of data. This analysis matters because it provides a clear view of how the model can be used in different applications, ranging from natural language processing to image analysis. The DeepSeek V4 Flash model is based on neural network architectures, which are machine learning structures inspired by the human brain's functioning, allowing artificial intelligence systems to learn and improve over time. This makes the model a valuable tool for researchers and developers looking to enhance data processing capabilities in their systems.",
+      "score": 0.6885
+    },
+    {
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A biblioteca JavaScript htmx 4.0 foi lançada exclusivamente para o Game Boy, um console de videogame portátil da Nintendo, o que pode parecer inusitado, considerando que o Game Boy não é uma plataforma comum para lançar bibliotecas de código. Isso importa porque mostra a flexibilidade e a criatividade dos desenvolvedores, que conseguiram adaptar a biblioteca para funcionar em um dispositivo com recursos limitados. A htmx é uma biblioteca que permite criar interfaces de usuário dinâmicas e interativas, utilizando uma abordagem inovadora para o desenvolvimento web.",
+      "en": "The JavaScript library htmx 4.0 was released exclusively for the Game Boy, a Nintendo portable video game console, which may seem unusual, given that the Game Boy is not a common platform for launching code libraries. This matters because it shows the flexibility and creativity of developers, who managed to adapt the library to work on a device with limited resources. Htmx is a library that allows creating dynamic and interactive user interfaces, using an innovative approach to web development.",
+      "score": 0.4749
+    },
+    {
+      "title": "Qual consome mais: ventilador ligado 24h ou ar-condicionado? Fizemos as contas",
+      "url": "https://canaltech.com.br/eletro/qual-consome-mais-ventilador-ligado-24h-ou-ar-condicionado-fizemos-as-contas/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, uma comparação foi feita para determinar qual consome mais energia: um ventilador ligado 24 horas por dia ou um ar-condicionado em uso no mesmo período. Isso é particularmente relevante em períodos de temperaturas elevadas, quando o medo de uma conta de luz alta aumenta, especialmente devido ao uso de eletrodomésticos que ajudam a reduzir o calor, como ventiladores e ar-condicionados, que são dispositivos que ajudam a controlar a temperatura, com o ar-condicionado sendo um aparelho que refrigera o ar e o ventilador sendo um aparelho que movimenta o ar para proporcionar uma sensação de refrigeração. A tecnologia por trás desses aparelhos avançou significativamente, mudando as regras do jogo em termos de consumo de energia. \nA comparação mostra que a resposta não é tão simples quanto parece, pois depende de vários fatores, incluindo a eficiência dos aparelhos e o uso correto deles.",
+      "en": "Recently, a comparison was made to determine which consumes more energy: a fan running 24 hours a day or an air conditioner in use for the same period. This is particularly relevant during periods of high temperatures, when the fear of a high electricity bill increases, especially due to the use of appliances that help reduce heat, such as fans and air conditioners, which are devices that help control temperature, with the air conditioner being a device that cools the air and the fan being a device that moves air to provide a cooling sensation. The technology behind these devices has advanced significantly, changing the rules of the game in terms of energy consumption. \nThe comparison shows that the answer is not as simple as it seems, as it depends on several factors, including the efficiency of the devices and their correct use.",
+      "score": 0.3987
+    },
+    {
+      "title": "Pensar demais nem sempre ajuda e o que eu aprendi com isso",
+      "url": "https://dev.to/he4rt/pensar-demais-nem-sempre-ajuda-e-o-que-eu-aprendi-com-isso-49pp",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Na semana passada, um desenvolvedor decidiu criar um pacote Laravel para integrar a API do Asaas, o que pareceu uma tarefa simples, mas acabou se tornando um exemplo clássico de como a busca por uma solução perfeita pode ser uma barreira para começar um projeto. Isso acontece quando nos concentramos demais em detalhes como arquitetura de pacotes open source, DTOs (objeto de transferência de dados, que é uma estrutura de dados simples usada para transferir dados entre camadas de um sistema) e interfaces, em vez de começar a codificar. O desenvolvedor aprendeu que, às vezes, é melhor começar a trabalhar em um projeto e refinar as soluções ao longo do caminho. Essa abordagem pode ser mais eficaz do que tentar planejar tudo antes de começar.",
+      "en": "Last week, a developer decided to create a Laravel package to integrate the Asaas API, which seemed like a simple task, but ended up becoming a classic example of how the pursuit of a perfect solution can be a barrier to starting a project. This happens when we focus too much on details such as open source package architecture, DTOs (data transfer objects, which are simple data structures used to transfer data between system layers) and interfaces, instead of starting to code. The developer learned that sometimes it is better to start working on a project and refine the solutions along the way. This approach can be more effective than trying to plan everything before starting.",
+      "score": 0.3977
+    },
+    {
+      "title": "CompTIA AT0-001 Certification: Complete Guide to the CompTIA Tech+ Exam",
+      "url": "https://dev.to/judsonlarkinv567/comptia-at0-001-certification-complete-guide-to-the-comptia-tech-exam-o39",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma certificação CompTIA AT0-001 foi lançada, o que é importante porque habilidades tecnológicas estão se tornando essenciais em quase todas as indústrias. A certificação CompTIA Tech+ é um credencial de nível básico projetada para validar o conhecimento fundamental de conceitos de TI, hardware de computador, software, rede, cibersegurança, bancos de dados e tecnologias emergentes. Isso significa que indivíduos que buscam iniciar uma carreira em TI ou mudar de profissão podem se beneficiar dessa certificação, que ajuda a construir confiança nos conceitos tecnológicos básicos.",
+      "en": "A CompTIA AT0-001 certification has been introduced, which matters because technology skills are becoming essential in nearly every industry. The CompTIA Tech+ certification is an entry-level credential designed to validate foundational knowledge of IT concepts, computer hardware, software, networking, cybersecurity, databases, and emerging technologies. This means that individuals looking to start a career in IT or change professions can benefit from this certification, which helps build confidence with core technology concepts.",
+      "score": 0.3499
+    },
+    {
+      "title": "Nobody wants to be your practice interviewer, and that's fine",
+      "url": "https://dev.to/maheshbandaru_ba8cc2/nobody-wants-to-be-your-practice-interviewer-and-thats-fine-cbn",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Aconteceu uma situação interessante quando um desenvolvedor tentou praticar para uma entrevista de design de sistemas, pedindo a quatro pessoas para realizar uma entrevista simulada com ele, e apenas duas aceitaram, com um dos resultados sendo mais prejudicial do que benéfico, pois o feedback positivo, mas infundado, o deixou menos preparado para a entrevista real. Isso levou o desenvolvedor a começar a praticar sozinho, o que inicialmente não deu certo. A falta de disciplina não foi o principal motivo do fracasso, mas sim a falta de um feedback construtivo.",
+      "en": "A developer recently tried to practice for a system design interview by asking four people to conduct a mock interview with him, and only two agreed, with one of the outcomes being more harmful than helpful, as the overly positive, yet unfounded feedback left him less prepared for the actual interview. This led the developer to start practicing alone, which initially did not go well. The main reason for the failure was not a lack of discipline, but rather the absence of constructive feedback.",
+      "score": 0.3472
+    },
+    {
+      "title": "75,000 Students Face Cheating Allegations in Entrance Exam",
+      "url": "https://dev.to/career_aheadmagazine_0a5/75000-students-face-cheating-allegations-in-entrance-exam-5gfd",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma controvérsia envolvendo até 75.000 estudantes acusados de fraude em exames de ingresso levou a maior universidade pública do México a implementar novos requisitos de teste, visando restaurar a integridade acadêmica, com implicações significativas para os estudantes e a política educacional. Isso ocorre porque a universidade busca garantir a equidade e a transparência no processo de admissão, o que é fundamental para manter a credibilidade da instituição. A medida também pode influenciar a forma como as universidades abordam a questão da fraude em exames, tornando-a uma questão importante para a comunidade acadêmica.",
+      "en": "A scandal involving up to 75,000 students accused of cheating on entrance exams has prompted Mexico's largest public university to implement new testing requirements, aimed at restoring academic integrity, with significant implications for students and educational policy. This is because the university is seeking to ensure fairness and transparency in the admission process, which is crucial for maintaining the institution's credibility. The move may also influence how universities approach the issue of cheating on exams, making it an important issue for the academic community.",
+      "score": 0.3467
+    },
+    {
+      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+      "url": "https://arxiv.org/abs/2607.28609v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores lançaram o OSReward, uma ferramenta de avaliação para medir a confiabilidade de modelos de recompensa de uso de computador em diferentes plataformas, o que é crucial para o desenvolvimento de agentes de computador que aprendem e tomam decisões de forma autônoma. Isso é importante porque esses agentes estão se tornando cada vez mais comuns em nosso mundo digital. A avaliação é feita por meio de modelos de linguagem e visão, que verificam se as ações dos agentes estão de acordo com as instruções recebidas. O OSReward fornece um conjunto de dados diversificado e de alta qualidade para testar a eficácia desses modelos.",
+      "en": "Researchers have introduced OSReward, a tool for evaluating the reliability of cross-platform computer-use reward models, which is essential for developing autonomous computer agents that learn and make decisions. This matters because these agents are becoming increasingly prevalent in our digital world. The evaluation is done through vision-language models, which verify whether the agents' actions align with the instructions they received. OSReward provides a diverse and high-quality dataset to test the effectiveness of these models, helping to address a long-standing question about the reliability of vision-language models as judges of computer agent trajectories.",
+      "score": 0.4245
+    },
+    {
+      "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
+      "url": "https://arxiv.org/abs/2607.28595v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores publicaram um trabalho intitulado Beacon, que visa aprimorar a taxa de sucesso de modelos de linguagem multimodais grandes (MLLMs) em tarefas complexas, focando em dois aspectos principais: Adaptatividade de Modo (MA) e Efeito de Ferramenta (TE), que permitem que os MLLMs reconheçam quando as ferramentas são necessárias e usem-nas de forma eficaz, melhorando o desempenho em problemas desafiadores. Isso é importante porque os MLLMs podem ser ineficientes se não souberem quando e como usar as ferramentas adequadamente. A Adaptatividade de Modo caracteriza a capacidade do MLLM de reconhecer a necessidade de ferramentas e invocá-las conforme necessário. O Efeito de Ferramenta caracteriza o impacto real do uso de ferramentas, que deve estender as capacidades do modelo em problemas que não podem ser resolvidos apenas com raciocínio baseado em texto.",
+      "en": "Researchers have published a paper titled Beacon, which aims to improve the success rate of multimodal large language models (MLLMs) on complex tasks, focusing on two key aspects: Mode Adaptiveness (MA) and Tool Effect (TE), allowing MLLMs to recognize when tools are necessary and use them effectively, thus improving performance on challenging problems. This matters because MLLMs can be inefficient if they do not know when and how to use tools properly. Mode Adaptiveness characterizes the MLLM's ability to recognize the need for tools and invoke them as needed. The Tool Effect characterizes the actual impact of tool use, which should extend the model's capabilities on problems that cannot be solved through text-only reasoning.",
+      "score": 0.4242
+    },
+    {
+      "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+      "url": "https://arxiv.org/abs/2607.28591v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram o Change2Task, um sistema que permite converter alterações em repositórios de código para tarefas executáveis para agentes de codificação, o que é essencial para escalonar esses agentes, pois eles requerem uma grande quantidade de dados para treinamento, benchmarking e avaliação contínua. O Change2Task utiliza a história do repositório para criar tarefas verificáveis a partir de pull requests mesclados, alinhando evidências históricas com o código evoluído. Isso permite a criação de múltiplas tarefas baseadas em evidências de desenvolvedores, fornecendo dados executáveis para agentes de codificação. Com isso, o Change2Task contribui para a expansão da oferta de dados necessários para o treinamento desses agentes.",
+      "en": "Researchers have developed Change2Task, a system that converts repository changes into executable tasks for coding agents, which is crucial for scaling these agents as they require a steady supply of data for training, benchmarking, and continuous evaluation. Change2Task uses repository history to create verifiable tasks from merged pull requests, aligning historical evidence with evolved code. This allows for the creation of multiple tasks based on developer evidence, providing executable data for coding agents. By doing so, Change2Task contributes to the expansion of the data supply needed for training these agents.",
+      "score": 0.4241
+    },
+    {
+      "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks",
+      "url": "https://arxiv.org/abs/2607.28587v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores descobriram que benchmarks de software, como o SWE-bench, que são usados para avaliar a capacidade de resolução de problemas de modelos de linguagem, muitas vezes contêm pares de solicitações de pull (PR) e issues mal alinhados, o que pode levar a resultados imprecisos. Isso ocorre porque a construção desses benchmarks geralmente envolve a extração de referências de issues das descrições de PR, e a descrição da issue é usada como a declaração do problema, enquanto o patch da PR serve como o teste oracle. Para resolver esse problema, foi proposto o PAIChecker, um sistema multiagente que verifica a consistência desses pares. Esse sistema pode ajudar a garantir a confiabilidade e escalabilidade da construção de benchmarks no futuro.",
+      "en": "Researchers have found that software benchmarks, such as SWE-bench, which are used to evaluate the issue resolution capability of language models, often contain misaligned pairs of pull requests (PR) and issues, leading to inaccurate results. This occurs because the construction of these benchmarks typically involves extracting issue references from PR descriptions, with the issue description used as the problem statement, and the PR patch serving as the test oracle. To address this issue, the PAIChecker was proposed, a multi-agent system that checks the consistency of these pairs. This system can help ensure the reliability and scalability of benchmark construction in the future.",
+      "score": 0.424
+    },
+    {
+      "title": "WilonityDev/WilonityLoader",
+      "url": "https://github.com/WilonityDev/WilonityLoader",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado WilonityLoader foi disponibilizado, o que é notável porque oferece uma biblioteca de cheats para mais de 20 jogos populares, incluindo RUST, CS2 e Valorant. Isso é significativo porque esses cheats podem incluir recursos como spoofing de kernel, limpeza de HWID e bypass de drivers, que podem ser usados para contornar sistemas de segurança de jogos. Esses cheats também podem incluir funcionalidades como ESP, aimbot e wallhack, que dão aos jogadores uma vantagem injusta. Os desenvolvedores de jogos e os players devem estar cientes desses tipos de cheats para garantir uma experiência de jogo justa.",
+      "en": "A GitHub project called WilonityLoader has been made available, which is notable because it offers a cheat library for over 20 popular games, including RUST, CS2, and Valorant. This is significant because these cheats can include features such as kernel spoofing, HWID cleaning, and driver bypassing, which can be used to circumvent game security systems. These cheats can also include functionalities like ESP, aimbot, and wallhack, which give players an unfair advantage. Game developers and players should be aware of these types of cheats to ensure a fair gaming experience.",
+      "score": 0.7323
+    },
+    {
+      "title": "sqliteai/waste",
+      "url": "https://github.com/sqliteai/waste",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Uma equipe de desenvolvedores criou um mecanismo de inferência em C que permite executar o modelo Kimi K3, que possui 2,78 trilhões de parâmetros, em dispositivos com recursos limitados, graças à capacidade de transmitir pesos ativados diretamente de armazenamento NVMe, ultrapassando a limitação da memória RAM disponível. Isso é particularmente útil para aplicações que exigem grandes volumes de dados. O modelo é dependency-free, ou seja, não requer dependências adicionais, e é embeddable, podendo ser incorporado a outras aplicações. Essa inovação tem grande potencial para expandir a utilização de modelos de inteligência artificial em dispositivos com recursos limitados.",
+      "en": "A team of developers has created a C inference engine that enables the execution of the 2.78-trillion-parameter Kimi K3 model on devices with limited resources, by streaming activated weights directly from NVMe storage, thereby bypassing the limitation of available RAM. This is particularly useful for applications that require large amounts of data. The model is dependency-free, meaning it does not require additional dependencies, and is embeddable, allowing it to be incorporated into other applications. This innovation has significant potential to expand the use of artificial intelligence models on devices with limited resources.",
+      "score": 0.6212
+    },
+    {
+      "title": "DramaticShape/DramaticShapeVoxelMod",
+      "url": "https://github.com/DramaticShape/DramaticShapeVoxelMod",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado DramaticShapeVoxelMod foi disponibilizado, o que é notável porque oferece uma modificação para voxel, que são unidades tridimensionais de imagem, permitindo que os desenvolvedores criem modelos 3D complexos com mais facilidade. Isso é importante porque os voxels são usados em uma variedade de aplicações, desde jogos até simulações científicas, e melhorar a forma como eles são manipulados pode levar a avanços significativos nesses campos. O projeto DramaticShapeVoxelMod pode ser útil para desenvolvedores que buscam criar gráficos 3D mais detalhados e realistas. Ele fornece uma ferramenta para criar e editar voxels de forma eficiente.",
+      "en": "A project on GitHub called DramaticShapeVoxelMod has been made available, which is notable because it offers a modification for voxels, which are three-dimensional image units, allowing developers to create complex 3D models more easily. This is important because voxels are used in a variety of applications, from games to scientific simulations, and improving the way they are manipulated can lead to significant advancements in these fields. The DramaticShapeVoxelMod project may be useful for developers looking to create more detailed and realistic 3D graphics. It provides a tool for creating and editing voxels efficiently.",
+      "score": 0.0447
+    }
+  ]
+}
