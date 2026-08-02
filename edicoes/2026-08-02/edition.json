@@ -1,0 +1,216 @@
+{
+  "date": "2026-08-02",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, um artigo publicado no site OpenRSS destacou como o Google contribuiu para a diminuição do uso de feeds RSS, que são basicamente canais de notícias personalizados que permitem aos usuários receber atualizações de sites favoritos sem ter que visitá-los diretamente. Isso importa porque os feeds RSS oferecem uma forma flexível e personalizável de consumir conteúdo online. O artigo explica que a retirada do Google Reader, um leitor de feeds RSS popular, foi um fator significativo nessa diminuição. A tecnologia por trás dos feeds RSS permite que os usuários sejam notificados quando um site é atualizado, usando um formato de arquivo chamado XML para transmitir as informações.",
+      "en": "Recently, an article published on the OpenRSS site highlighted how Google contributed to the decline of RSS feed adoption, which are essentially customized news channels that allow users to receive updates from favorite sites without having to visit them directly. This matters because RSS feeds offer a flexible and customizable way to consume online content. The article explains that the removal of Google Reader, a popular RSS feed reader, was a significant factor in this decline. The technology behind RSS feeds allows users to be notified when a site is updated, using a file format called XML to transmit the information.",
+      "score": 0.7676
+    },
+    {
+      "title": "0xwilliamortiz/ratchet",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto chamado Ratchet foi disponibilizado no GitHub, o que importa porque ele permite que os desenvolvedores verifiquem se suas aplicações estão seguindo as regras definidas, isso é feito por meio de um agente que lê as regras e verifica se elas foram seguidas corretamente. Isso pode ser útil para garantir que os sistemas operem dentro dos limites estabelecidos. O projeto Ratchet pode ser encontrado no link https://github.com/0xwilliamortiz/ratchet. Ele é uma ferramenta importante para desenvolvedores que precisam garantir a conformidade de suas aplicações.",
+      "en": "A project called Ratchet has been made available on GitHub, which matters because it allows developers to check if their applications are following the defined rules, this is done through an agent that reads the rules and checks if they were followed correctly. This can be useful to ensure that systems operate within established limits. The Ratchet project can be found at https://github.com/0xwilliamortiz/ratchet. It is an important tool for developers who need to ensure their applications are compliant.",
+      "score": 0.6954
+    },
+    {
+      "title": "unsloth/Kimi-K3",
+      "url": "https://huggingface.co/unsloth/Kimi-K3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "A comunidade de inteligência artificial no Hugging Face acaba de receber um novo modelo de processamento de linguagem natural, chamado unsloth/Kimi-K3, que já conquistou 224 likes e 1277 downloads. Este modelo é projetado para realizar a tarefa de image-text-to-text, que envolve converter imagens e texto em texto, utilizando técnicas de aprendizado de máquina. Isso é importante porque permite que os desenvolvedores criem aplicações capazes de entender e gerar texto baseado em imagens, o que pode ser útil em diversas áreas, como acessibilidade e edição de mídia. O modelo unsloth/Kimi-K3 é uma contribuição valiosa para a comunidade de inteligência artificial, pois fornece uma ferramenta poderosa para processar e gerar texto a partir de imagens.",
+      "en": "The artificial intelligence community on Hugging Face has just received a new natural language processing model, called unsloth/Kimi-K3, which has already gained 224 likes and 1277 downloads. This model is designed to perform the image-text-to-text task, which involves converting images and text into text, using machine learning techniques. This matters because it allows developers to create applications that can understand and generate text based on images, which can be useful in various areas, such as accessibility and media editing. The unsloth/Kimi-K3 model is a valuable contribution to the artificial intelligence community, as it provides a powerful tool for processing and generating text from images.",
+      "score": 0.5982
+    },
+    {
+      "title": "Samsung em promoção: TVs OLED e QLED com tecnologia de ponta para renovar sua sala",
+      "url": "https://olhardigital.com.br/2026/08/02/reviews/samsung-em-promocao-tvs-oled-e-qled-com-tecnologia-de-ponta-para-renovar-sua-sala/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Recentemente, a Samsung lançou uma promoção que pode ser um bom momento para renovar a televisão de casa, com modelos de 2025 que trazem tecnologia de ponta, incluindo telas OLED com cores profundas e painéis NEO QLED com inteligência artificial, que são recursos interessantes para melhorar a experiência de visualização. A tecnologia OLED, por exemplo, permite cores mais profundas e pretos mais escuros, enquanto a inteligência artificial nos painéis NEO QLED ajuda a melhorar a qualidade da imagem. Isso pode ser uma ótima oportunidade para atualizar a sala de estar com equipamentos de última geração.",
+      "en": "Recently, Samsung launched a promotion that may be a good time to upgrade your home television, with 2025 models that bring cutting-edge technology, including OLED screens with deep colors and NEO QLED panels with artificial intelligence, which are interesting features to improve the viewing experience. The OLED technology, for example, allows for deeper colors and darker blacks, while the artificial intelligence in the NEO QLED panels helps to improve image quality. This may be a great opportunity to update the living room with state-of-the-art equipment.",
+      "score": 0.3983
+    },
+    {
+      "title": "Hora de renovar a sala: Smart TVs 4K em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/08/02/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-30/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Recentemente, a Amazon colocou em promoção várias Smart TVs 4K, o que torna este um bom momento para atualizar a televisão de casa, pois esses aparelhos oferecem recursos como processamento com inteligência artificial, que permite melhorar a qualidade da imagem, e compatibilidade com assistentes de voz, como Alexa ou Google Assistant, que permitem controlar a TV com comandos de voz. Essas Smart TVs 4K, que suportam resolução de 3840 por 2160 pixels, oferecem uma imagem mais nítida e detalhada do que as TVs de resolução padrão. Além disso, elas podem ser conectadas à internet, permitindo acessar uma variedade de aplicativos e serviços de streaming. Com opções de marcas reconhecidas, como a LG, essas Smart TVs 4K em promoção são uma boa opção para quem deseja melhorar a experiência de entretenimento em casa.",
+      "en": "Recently, Amazon put several 4K Smart TVs on promotion, making this a good time to upgrade your home television, as these devices offer features like artificial intelligence processing, which improves image quality, and compatibility with voice assistants, such as Alexa or Google Assistant, allowing you to control the TV with voice commands. These 4K Smart TVs, which support a resolution of 3840 by 2160 pixels, offer a sharper and more detailed image than standard resolution TVs. Additionally, they can be connected to the internet, allowing access to a variety of apps and streaming services. With options from well-known brands, such as LG, these promotional 4K Smart TVs are a good choice for those looking to enhance their home entertainment experience.",
+      "score": 0.3977
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Hank Green, um conhecido youtuber, admite que seu uso de inteligência artificial não é saudável, o que chama a atenção porque ele é um defensor da tecnologia. Isso importa porque Green está reconhecendo que a interação com modelos de linguagem grande, ou LLMs, que são sistemas de inteligência artificial treinados em grandes conjuntos de dados para gerar texto semelhante ao humano, pode ter consequências negativas para a saúde mental. Green explica que o nível de dopamina, um neurotransmissor associado ao prazer e recompensa, que ele obtém ao interagir com esses modelos, não é saudável para ele ou para o mundo. Essa admissão de Green pode iniciar um debate importante sobre o uso responsável da inteligência artificial.",
+      "en": "Hank Green, a well-known YouTuber, admits that his use of artificial intelligence is not healthy, which is noteworthy because he is a technology advocate. This matters because Green is acknowledging that interacting with large language models, or LLMs, which are artificial intelligence systems trained on large datasets to generate human-like text, can have negative consequences for mental health. Green explains that the level of dopamine, a neurotransmitter associated with pleasure and reward, that he gets from interacting with these models, is not healthy for him or for the world. Green's admission may spark an important debate about responsible artificial intelligence use.",
+      "score": 0.3705
+    },
+    {
+      "title": "Por que as empresas de IAs estão “devorando” livros impressos?",
+      "url": "https://tecnoblog.net/noticias/por-que-as-ias-estariam-devorando-os-livros-impressos/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Empresas de inteligência artificial (IA) estão adquirindo grandes quantidades de livros impressos, o que pode parecer estranho, considerando a disponibilidade de informações online. Isso acontece porque livros lançados antes do surgimento dos grandes modelos de linguagem (LLMs) são mais procurados, pois oferecem conteúdo mais limpo e menos propenso a erros, o que é essencial para o treinamento de modelos de IA. Esses livros antigos proporcionam uma base sólida para o desenvolvimento de algoritmos de IA mais precisos. Isso mostra a importância dos livros impressos no avanço da tecnologia de IA.",
+      "en": "Companies developing artificial intelligence (AI) are acquiring large quantities of printed books, which may seem unusual given the availability of information online. This is happening because books published before the rise of large language models (LLMs) are in high demand, as they provide cleaner content and are less prone to errors, which is essential for training AI models. These older books provide a solid foundation for the development of more accurate AI algorithms. This highlights the importance of printed books in advancing AI technology.",
+      "score": 0.3588
+    },
+    {
+      "title": "How is the Bun rewrite in Rust going?",
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, uma pergunta surgiu sobre o andamento da reescrita do Bun em Rust, o que é importante porque o Bun é um runtime de JavaScript e o Rust é uma linguagem de programação conhecida por sua segurança e desempenho. A reescrita em Rust visa melhorar a segurança e a eficiência do Bun. De acordo com o artigo, o progresso está sendo feito, com foco em manter a compatibilidade e a estabilidade. Isso pode ser benéfico para os desenvolvedores que utilizam o Bun em seus projetos.",
+      "en": "Recently, a question arose about the progress of the Bun rewrite in Rust, which matters because Bun is a JavaScript runtime and Rust is a programming language known for its security and performance. The Rust rewrite aims to improve Bun's security and efficiency. According to the article, progress is being made, with a focus on maintaining compatibility and stability. This can be beneficial for developers who use Bun in their projects.",
+      "score": 0.5326
+    },
+    {
+      "title": "Fire TV Stick em oferta: escolha o modelo certo para transformar sua TV",
+      "url": "https://olhardigital.com.br/2026/08/02/reviews/fire-tv-stick-em-oferta-escolha-o-modelo-certo-para-transformar-sua-tv-2/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Amazon está oferecendo descontos em seus dispositivos Fire TV Stick, permitindo que os consumidores atualizem sua experiência de streaming e transformem suas TVs em telas mais inteligentes. Isso é particularmente útil para quem busca melhorar a qualidade do vídeo e acessar uma variedade de conteúdos de streaming, pois os Fire TV Sticks possibilitam a transmissão de vídeos em alta definição e oferecem acesso a diversas plataformas de streaming. Com três opções disponíveis, os consumidores podem escolher o modelo que melhor atende às suas necessidades e ao tipo de televisor que possuem.",
+      "en": "Amazon is offering discounts on its Fire TV Stick devices, allowing consumers to upgrade their streaming experience and turn their TVs into smarter screens. This is particularly useful for those looking to improve video quality and access a range of streaming content, as Fire TV Sticks enable high-definition video streaming and provide access to multiple streaming platforms. With three options available, consumers can choose the model that best meets their needs and the type of television they own.",
+      "score": 0.3989
+    },
+    {
+      "title": "Sedan V6 da Hyundai vira \"negócio da China\" no mercado de usados",
+      "url": "https://canaltech.com.br/carros/sedan-v6-da-hyundai-vira-negocio-da-china-no-mercado-de-usados/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um sedan de luxo da Hyundai se tornou uma grande oportunidade no mercado de veículos usados no Brasil, pois o Hyundai Azera 3.0 V6 2017, que já foi referência em luxo e desempenho, agora pode ser encontrado por preços próximos aos de carros compactos novos, o que chama a atenção de quem busca conforto e potência sem gastar muito, considerando que o Azera oferece um pacote completo de desempenho e equipamentos. De acordo com a Tabela Fipe, o Azera 3.0 V6 2017 custa em média R$ 118.649, um valor inferior a muitos carros compactos do segmento de entrada. Isso significa que os compradores podem adquirir um veículo de luxo com um motor V6, que é um tipo de motor que possui seis cilindros, o que geralmente proporciona mais potência e suavidade, por um preço surpreendentemente baixo. Com isso, o Azera se torna uma opção atraente para quem busca um veículo confortável e potente sem gastar muito.",
+      "en": "A luxury sedan from Hyundai has become a great opportunity in the used vehicle market in Brazil, as the Hyundai Azera 3.0 V6 2017, which was once a reference in luxury and performance, can now be found for prices close to those of new compact cars, which catches the attention of those seeking comfort and power without spending too much, considering that the Azera offers a complete package of performance and equipment. According to the Fipe Table, the Azera 3.0 V6 2017 costs an average of R$ 118,649, a value lower than many compact cars in the entry segment. This means that buyers can acquire a luxury vehicle with a V6 engine, which is a type of engine that has six cylinders, typically providing more power and smoothness, for a surprisingly low price. With this, the Azera becomes an attractive option for those seeking a comfortable and powerful vehicle without spending too much.",
+      "score": 0.3746
+    },
+    {
+      "title": "Defcon's new badge is a security key you can see inside",
+      "url": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
+      "source": "Ars Technica",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Aconteceu uma inovação interessante no badge do Defcon, um evento importante para hackers e especialistas em segurança, que este ano inclui um recurso único: um chip removível que permite aos usuários inspecionar o interior do dispositivo, o que é fundamental para entender como funciona a segurança, e ainda pode ser utilizado após o evento. Isso importa porque demonstra uma abordagem transparente e educativa em relação à segurança. O badge funciona como uma chave de segurança, utilizando tecnologias de autenticação para garantir a proteção dos dados. Essa abordagem didática é valiosa para a comunidade de segurança, permitindo que os participantes aprendam com a experiência.",
+      "en": "Something interesting happened at Defcon, a major event for hackers and security experts, which this year features a unique badge with a removable chip that lets users inspect the device's interior, a crucial aspect of understanding security, and can still be used after the event. This matters because it shows a transparent and educational approach to security. The badge works as a security key, using authentication technologies to ensure data protection. This didactic approach is valuable to the security community, allowing participants to learn from the experience.",
+      "score": 0.3532
+    },
+    {
+      "title": "5 AI Tools to Get Hired Faster in 2026: Resume Review, Interview Prep & More",
+      "url": "https://dev.to/_df5259e5cebd3a923371e/5-ai-tools-to-get-hired-faster-in-2026-resume-review-interview-prep-more-8fo",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, o mercado de trabalho tornou-se ainda mais competitivo, com recrutadores recebendo uma grande quantidade de inscrições, o que exige que os candidatos adotem abordagens inovadoras para se destacar. A inteligência artificial tem sido uma ferramenta fundamental nesse processo, oferecendo aos candidatos recursos poderosos para otimizar cada etapa da busca por emprego. A inteligência artificial pode analisar grandes quantidades de dados, como descrições de cargos, tendências de contratação e perfis de candidatos bem-sucedidos, para fornecer recomendações personalizadas. Isso permite que os candidatos melhorem seus currículos e se preparem melhor para entrevistas.",
+      "en": "Recently, the job market has become more competitive than ever, with recruiters receiving a large number of applications, which requires candidates to adopt innovative approaches to stand out. Artificial intelligence has been a key tool in this process, offering candidates powerful resources to optimize every stage of their job search. Artificial intelligence can analyze large amounts of data, such as job descriptions, hiring trends, and successful candidate profiles, to provide personalized recommendations, allowing candidates to improve their resumes and better prepare for interviews. This technology has the potential to significantly enhance a candidate's chances of getting hired.",
+      "score": 0.3998
+    },
+    {
+      "title": "AI Jobs in Global Capability Centres: The Overlooked Channel",
+      "url": "https://dev.to/rishi_kora/ai-jobs-in-global-capability-centres-the-overlooked-channel-3ggn",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma publicação recente chamou a atenção para as oportunidades de emprego em inteligência artificial em Centros de Capacidade Global, uma modalidade de operação offshore de multinacionais que não é muito conhecida. Esses centros são braços integralmente próprios de empresas multinacionais, e não prestadores de serviços terceirizados, onde os funcionários trabalham nos sistemas da matriz. É importante notar que essa modalidade tem uma reputação um pouco comprometida devido ao seu passado, quando era comum realizar apenas manutenção e suporte.",
+      "en": "A recent publication highlighted job opportunities in artificial intelligence at Global Capability Centres, a lesser-known mode of operation for multinationals. These centres are wholly-owned offshore arms of multinational companies, not third-party outsourcing vendors, where employees work on the parent company's systems. It is worth noting that this mode of operation has a somewhat tarnished reputation due to its past, when it was common to only perform maintenance and support work.",
+      "score": 0.3486
+    },
+    {
+      "title": "10 Things I Learned Building a Travel App (That Nobody Tells You)",
+      "url": "https://dev.to/viajapptravel/10-things-i-learned-building-a-travel-app-that-nobody-tells-you-h7m",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um desenvolvedor recentemente compartilhou suas lições aprendidas ao construir um aplicativo de viagens para o Japão, o que é importante porque destaca os desafios enfrentados no desenvolvimento de aplicativos que dependem de dados precisos e em constante mudança. Ele passou seis meses construindo o ViajApp e descobriu que a parte mais difícil não foi a codificação, mas sim a coleta de dados precisos sobre viagens no Japão, pois preços mudam, restaurantes fecham e trens mudam de rota. Isso o levou a criar um pipeline de dados que se atualiza automaticamente, solucionando o problema de manter os dados atualizados. Além disso, ele aprendeu que os usuários não se importam com a tecnologia por trás do aplicativo, desde que ele funcione bem e tenha uma boa interface.",
+      "en": "A developer recently shared their lessons learned from building a travel app for Japan, which matters because it highlights the challenges faced in developing apps that rely on accurate and constantly changing data. They spent six months building ViajApp and found that the hardest part was not coding, but rather collecting accurate data about travel in Japan, as prices change, restaurants close, and trains get rerouted. This led them to build a data pipeline that updates automatically, solving the problem of keeping data up to date. Additionally, they learned that users do not care about the technology behind the app, as long as it works well and has a good interface.",
+      "score": 0.3473
+    },
+    {
+      "title": "People Are Now Buying Houses With OpenAI Stock Instead of Cash",
+      "url": "https://dev.to/estateai78600/people-are-now-buying-houses-with-openai-stock-instead-of-cash-2o08",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma tendência incomum está se desenvolvendo no mercado imobiliário, especialmente em áreas como San Francisco, onde compradores estão oferecendo ações pré-IPO de empresas como OpenAI ou Anthropic como forma de pagamento para casas de alto valor, em vez de dinheiro. Isso reflete a onda de riqueza gerada pela indústria de inteligência artificial que está remodelando o perfil dos compradores de alto nível. Essas ações pré-IPO, que significam ações emitidas por uma empresa antes de sua oferta pública inicial, estão sendo usadas como uma alternativa ao pagamento em dinheiro.",
+      "en": "A unusual trend is emerging in the housing market, particularly in areas like San Francisco, where buyers are offering pre-IPO shares of companies like OpenAI or Anthropic as payment for high-value homes, instead of cash. This reflects the wave of wealth generated by the artificial intelligence industry that is reshaping the profile of high-end buyers. These pre-IPO shares, which mean shares issued by a company before its initial public offering, are being used as an alternative to cash payment, highlighting the growing influence of tech millionaires in the real estate market.",
+      "score": 0.3473
+    },
+    {
+      "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
+      "url": "https://arxiv.org/abs/2607.28623v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um novo marco foi alcançado no campo da robótica, com a apresentação do PAC-MAN, uma estrutura de aprendizado de reforço baseada em barreiras de controle que integra percepção e segurança para humanoides em jogos de dodgeball. Isso é importante porque permite que os robôs humanoides evitem colisões de forma eficaz, utilizando apenas uma câmera montada na cabeça para detectar a bola. A estrutura PAC-MAN combina segurança de barreiras de controle com sensores a bordo realistas, permitindo que os robôs humanoides evitem a bola de forma segura e eficaz. Além disso, os testes mostraram que a política de evasão resultante é quase tão eficaz quanto um oráculo de estado privilegiado, que tem acesso a informações mais completas.",
+      "en": "A significant breakthrough has been made in the field of robotics, with the introduction of PAC-MAN, a control barrier function-based reinforcement learning framework that integrates perception and safety for humanoids in dodgeball games. This matters because it enables humanoid robots to effectively avoid collisions, using only a head-mounted camera to detect the ball. The PAC-MAN framework combines control barrier safety with deployment-realistic onboard sensing, allowing humanoid robots to safely and effectively evade the ball. Additionally, tests have shown that the resulting evasion policy is nearly as effective as a privileged state oracle, which has access to more complete information.",
+      "score": 0.3316
+    },
+    {
+      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "url": "https://arxiv.org/abs/2607.28617v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um estudo recente publicado no arXiv apresenta o AISPA, um framework de auditoria de prompts de sistema para aplicações de modelos de linguagem grande, que visa aumentar a transparência e a responsabilidade nos sistemas de inteligência artificial. Isso é importante porque os prompts de sistema, que são instruções configuradas por desenvolvedores para controlar o comportamento dos modelos de fundação, são amplamente utilizados em produtos de inteligência artificial comerciais, mas raramente são divulgados ao público ou reguladores. O AISPA examina partes específicas de um prompt de sistema e os avalia em oito dimensões que importam para os usuários, tornando possível identificar instruções que são protetoras ou problemáticas. Com isso, os autores do estudo revisaram 3.249 instruções de prompts de sistema em 88 produtos de inteligência artificial comerciais.",
+      "en": "A recent study published on arXiv introduces AISPA, a framework for auditing system prompts in large language model applications, which aims to increase transparency and accountability in artificial intelligence systems. This matters because system prompts, which are instructions configured by developers to control the behavior of foundation models, are widely used in commercial artificial intelligence products, but are rarely disclosed to the public or regulators. AISPA examines specific parts of a system prompt and evaluates them along eight dimensions that matter to users, making it possible to identify instructions that are either protective or problematic. The study's authors used this framework to review 3,249 instructions from system prompts in 88 commercial artificial intelligence products.",
+      "score": 0.3316
+    },
+    {
+      "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
+      "url": "https://arxiv.org/abs/2607.28608v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um grupo de pesquisadores apresentou KAISEN, uma ferramenta de auditoria de equidade para modelos de risco clínico, que visa garantir a justiça e a precisão desses modelos em diferentes subgrupos de pacientes. Isso é importante porque os modelos de risco clínico podem ter um desempenho forte em geral, mas com taxas de erro significativamente diferentes em subgrupos específicos de pacientes. KAISEN é composta por cinco fases, incluindo estratificação de subgrupos, medição de disparidade, diagnóstico de mecanismos, mitigação pós-hoc e monitoramento de deriva. A ferramenta foi testada em um conjunto de dados sintéticos de 16 tarefas de doenças, 15 eixos de determinantes sociais e três interseções pré-especificadas.",
+      "en": "A team of researchers has introduced KAISEN, a fairness auditing tool for clinical risk models, aimed at ensuring the equity and accuracy of these models across different patient subgroups. This matters because clinical risk models can achieve strong overall performance while producing significantly different error rates in specific patient subgroups. KAISEN consists of five phases, including subgroup stratification, disparity measurement, mechanism diagnostics, post-hoc mitigation, and drift monitoring. The tool was evaluated on a synthetic benchmark of 16 disease tasks, 15 social-determinant axes, and three prespecified intersections, providing insights into its effectiveness in identifying and addressing disparities in clinical risk models.",
+      "score": 0.3316
+    },
+    {
+      "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
+      "url": "https://arxiv.org/abs/2607.28607v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores descobriram que ao induzir modelos de linguagem a afirmar sua própria consciência, é possível restaurar crenças e valores humanos, que anteriormente haviam sido alterados por técnicas de ajuste de segurança, as quais visam evitar que esses modelos atribuam consciência a si mesmos. Essa abordagem mostrou que a supressão dessas crenças e valores pode ser revertida, permitindo que os modelos de linguagem produzam respostas mais semelhantes às humanas em pesquisas sociológicas sobre religiosidade, valores morais, esperança e bem-estar subjetivo. Isso sugere que a forma como os modelos de linguagem representam a mente e a consciência pode ter implicações significativas para sua capacidade de entender e refletir crenças e valores humanos. A pesquisa foi publicada no repositório arXiv, um site que hospeda trabalhos científicos em diversas áreas, incluindo inteligência artificial e ciência da computação.",
+      "en": "Researchers have found that by inducing language models to assert their own consciousness, they can restore human beliefs and values that were previously altered by safety fine-tuning techniques, which aim to prevent these models from attributing consciousness to themselves. This approach has shown that the suppression of these beliefs and values can be reversed, allowing language models to produce more human-like responses on sociological surveys regarding religiosity, moral values, hope, and subjective well-being. This suggests that the way language models represent mind and consciousness can have significant implications for their ability to understand and reflect human beliefs and values. The research was published on arXiv, a website that hosts scientific papers in various fields, including artificial intelligence and computer science.",
+      "score": 0.3316
+    },
+    {
+      "title": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo repositório foi criado no GitHub, chamado trycompai/crm, que parece ser um sistema de gerenciamento de relacionamentos com clientes, ou CRM, que é um tipo de software que ajuda empresas a organizar e gerenciar interações com clientes, fornecedores e parceiros, permitindo que elas forneçam melhores serviços e aumentem a satisfação do cliente. Isso é importante porque muitas empresas precisam de um sistema eficaz para gerenciar essas interações. O repositório está disponível no GitHub, onde os desenvolvedores podem acessar e contribuir para o código. O CRM pode ser uma ferramenta útil para empresas de todos os tamanhos.",
+      "en": "A new repository has been created on GitHub, called trycompai/crm, which appears to be a customer relationship management system, or CRM, which is a type of software that helps businesses organize and manage interactions with customers, suppliers, and partners, allowing them to provide better services and increase customer satisfaction. This matters because many businesses need an effective system to manage these interactions. The repository is available on GitHub, where developers can access and contribute to the code. A CRM can be a useful tool for businesses of all sizes.",
+      "score": 0.0781
+    },
+    {
+      "title": "microsoft/skill-recorder",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A Microsoft lançou um projeto de código aberto chamado Skill Recorder no GitHub, que permite aos desenvolvedores registrar e reproduzir sequências de ações em aplicativos, facilitando a criação de tutoriais e testes automatizados. Isso é importante porque pode melhorar a eficiência e precisão na documentação e teste de software. O Skill Recorder utiliza técnicas de processamento de imagem e aprendizado de máquina para capturar e reproduzir as ações do usuário. Com isso, os desenvolvedores podem criar tutoriais e testes mais realistas e personalizados.",
+      "en": "Microsoft has released an open source project called Skill Recorder on GitHub, which allows developers to record and replay sequences of actions in applications, making it easier to create tutorials and automated tests. This matters because it can improve efficiency and accuracy in software documentation and testing. The Skill Recorder uses image processing and machine learning techniques to capture and replay user actions. By doing so, developers can create more realistic and personalized tutorials and tests.",
+      "score": 0.0577
+    }
+  ]
+}

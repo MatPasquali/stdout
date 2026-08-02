@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-02",
+  "weekly": true,
+  "range": "27/07 a 02/08",
+  "intro": {
+    "pt": "A semana foi marcada por notícias sobre privacidade e desenvolvimento de tecnologias de inteligência artificial, com um cidadão americano sendo acusado após seu telefone com GrapheneOS ser apagado durante uma busca no aeroporto, e empresas de IA sendo criticadas por não publicar suas pesquisas e destruir livros raros. Além disso, houve desenvolvimentos em projetos de código aberto, como a execução de um modelo de IA em um Mac com pouca memória RAM. A semana também trouxe discussões sobre a adoção de feeds RSS e o papel das empresas de tecnologia nesse processo.",
+    "en": "The week was marked by news about privacy and the development of artificial intelligence technologies, with a US citizen being charged after their GrapheneOS phone was wiped during an airport search, and AI companies being criticized for not publishing their research and destroying rare books. Additionally, there were developments in open-source projects, such as the execution of an AI model on a Mac with low RAM. The week also brought discussions about the adoption of RSS feeds and the role of tech companies in this process."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um cidadão americano foi acusado após o seu telefone com GrapheneOS, um sistema operacional de código aberto projetado para ser mais seguro do que os sistemas operacionais comuns, apagar todos os dados durante uma busca em um aeroporto, o que levanta questões sobre a privacidade e segurança dos dispositivos móveis. Isso aconteceu porque o GrapheneOS foi projetado para proteger os dados do usuário, mesmo que o dispositivo seja acessado por terceiros. O caso é significativo porque destaca a importância da segurança e privacidade nos dispositivos móveis. O sistema operacional GrapheneOS é uma opção para quem busca um sistema mais seguro, pois oferece recursos avançados de criptografia e segurança.",
+      "en": "A US citizen has been charged after their GrapheneOS phone wiped all its data during an airport search, raising questions about mobile device privacy and security. This occurred because GrapheneOS, an open-source operating system designed to be more secure than common operating systems, was built to protect user data even if the device is accessed by third parties. The case is significant because it highlights the importance of security and privacy in mobile devices. The GrapheneOS operating system is an option for those seeking a more secure system, as it offers advanced encryption and security features.",
+      "score": 0.8145
+    },
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um desenvolvedor criou um motor de código aberto que consegue executar o modelo de linguagem Gemma 4 26B em apenas 2 GB de RAM em qualquer Mac da série M, o que é notável porque a maioria dos modelos de linguagem grandes requerem muito mais recursos para funcionar. Isso matters porque abre possibilidades para que dispositivos menos potentes possam executar tarefas de inteligência artificial complexas. O motor, chamado de turbo-fieldfare, está disponível no GitHub. Ele usa técnicas de otimização para reduzir a quantidade de memória necessária para executar o modelo.",
+      "en": "A developer has created an open-source engine that can run the Gemma 4 26B language model in just 2 GB of RAM on any M-series Mac, which is notable because most large language models require much more resources to function. This matters because it opens up possibilities for less powerful devices to run complex artificial intelligence tasks. The engine, called turbo-fieldfare, is available on GitHub. It uses optimization techniques to reduce the amount of memory needed to run the model.",
+      "score": 0.811
+    },
+    {
+      "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de aprendizado de máquina chamado DeepSeek-V4-Flash-0731-GGUF foi publicado no Hugging Face, que é uma plataforma de modelos de inteligência artificial, e isso é importante porque esse modelo pode ser usado para uma variedade de tarefas, como processamento de linguagem natural, onde a inteligência artificial entende e processa a linguagem humana. O modelo foi baixado 4048 vezes e recebeu 237 likes, o que indica que ele é útil para a comunidade de desenvolvedores. O modelo DeepSeek-V4-Flash-0731-GGUF é um exemplo de como os modelos de aprendizado de máquina podem ser compartilhados e usados por outras pessoas, o que ajuda a acelerar o desenvolvimento de soluções de inteligência artificial. Isso é especialmente útil para desenvolvedores que precisam de modelos pré-treinados para construir suas próprias aplicações.",
+      "en": "A machine learning model called DeepSeek-V4-Flash-0731-GGUF was published on Hugging Face, which is a platform for artificial intelligence models, and this matters because the model can be used for a range of tasks, such as natural language processing, where artificial intelligence understands and processes human language. The model was downloaded 4048 times and received 237 likes, which indicates that it is useful to the developer community. The DeepSeek-V4-Flash-0731-GGUF model is an example of how machine learning models can be shared and used by others, which helps to accelerate the development of artificial intelligence solutions. This is particularly useful for developers who need pre-trained models to build their own applications.",
+      "score": 0.8074
+    },
+    {
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Anthropic divulgou sua posição sobre modelos de pesos abertos, o que é relevante porque esses modelos permitem que pesquisadores e desenvolvedores acessem e modifiquem os pesos dos modelos, que são os parâmetros que definem como o modelo processa as informações. Isso é importante porque os pesos dos modelos são fundamentais para entender como os modelos de aprendizado de máquina funcionam. A Anthropic explica que os modelos de pesos abertos podem ser úteis para pesquisas e desenvolvimento, mas também apresentam riscos, como a possibilidade de uso indevido. A empresa destaca a necessidade de encontrar um equilíbrio entre a abertura e a responsabilidade.",
+      "en": "Anthropic has released its position on open-weights models, which matters because these models allow researchers and developers to access and modify the weights of the models, which are the parameters that define how the model processes information. This is important because model weights are crucial to understanding how machine learning models work. Anthropic explains that open-weights models can be useful for research and development, but also pose risks, such as the potential for misuse. The company highlights the need to strike a balance between openness and responsibility.",
+      "score": 0.8026
+    },
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Uma reportagem recente destacou que as principais startups de inteligência artificial estão publicando muito pouco de suas pesquisas, o que é preocupante porque a compartilhamento de conhecimento é fundamental para o avanço da área. Isso significa que os resultados de estudos e experimentos realizados por essas empresas não estão sendo divulgados para a comunidade científica, o que pode limitar o progresso da inteligência artificial. A publicação de pesquisas é importante porque permite que outros cientistas e engenheiros aprendam com os achados e avancem em suas próprias investigações.",
+      "en": "A recent report highlighted that top artificial intelligence startups are publishing very little of their research, which is concerning because knowledge sharing is crucial for advancing the field. This means that the results of studies and experiments conducted by these companies are not being disclosed to the scientific community, which can limit the progress of artificial intelligence. The publication of research is important because it allows other scientists and engineers to learn from the findings and advance their own investigations.",
+      "score": 0.7856
+    },
+    {
+      "title": "talivia-group/talivia",
+      "url": "https://github.com/talivia-group/talivia",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Uma nova ferramenta de análise de receita foi lançada no GitHub, o que é importante porque fornece uma alternativa de código aberto para as empresas que desejam ter controle total sobre seus dados. A plataforma, chamada Talivia, oferece recursos como replay de sessão, atribuição de receita e integrações de receita de cliente, tornando-a uma opção atraente para fundadores que buscam entender melhor seus negócios. Isso é particularmente útil para empresas que desejam manter a privacidade e a segurança de seus dados, pois o software é auto-hospedado. Com a Talivia, as empresas podem ter uma visão clara de suas receitas e tomar decisões informadas.",
+      "en": "A new revenue analytics tool has been released on GitHub, which matters because it provides an open-source alternative for businesses that want full control over their data. The platform, called Talivia, offers features such as session replay, revenue attribution, and customer revenue integrations, making it an attractive option for founders looking to better understand their businesses. This is particularly useful for companies that want to maintain the privacy and security of their data, as the software is self-hosted. With Talivia, businesses can gain a clear view of their revenue and make informed decisions.",
+      "score": 0.772
+    },
+    {
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, um artigo publicado no site OpenRSS destacou como o Google contribuiu para a diminuição do uso de feeds RSS, que são basicamente canais de notícias personalizados que permitem aos usuários receber atualizações de sites favoritos sem ter que visitá-los diretamente. Isso importa porque os feeds RSS oferecem uma forma flexível e personalizável de consumir conteúdo online. O artigo explica que a retirada do Google Reader, um leitor de feeds RSS popular, foi um fator significativo nessa diminuição. A tecnologia por trás dos feeds RSS permite que os usuários sejam notificados quando um site é atualizado, usando um formato de arquivo chamado XML para transmitir as informações.",
+      "en": "Recently, an article published on the OpenRSS site highlighted how Google contributed to the decline of RSS feed adoption, which are essentially customized news channels that allow users to receive updates from favorite sites without having to visit them directly. This matters because RSS feeds offer a flexible and customizable way to consume online content. The article explains that the removal of Google Reader, a popular RSS feed reader, was a significant factor in this decline. The technology behind RSS feeds allows users to be notified when a site is updated, using a file format called XML to transmit the information.",
+      "score": 0.7676
+    },
+    {
+      "title": "AI companies are shredding rare books",
+      "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Uma notícia recente está chamando a atenção para a destruição de livros raros por empresas de inteligência artificial, o que pode parecer contraditório, considerando que a preservação do conhecimento é fundamental para o desenvolvimento da tecnologia. Isso acontece porque essas empresas estão digitalizando os livros e, em seguida, descartando as cópias físicas, o que pode ser visto como uma perda significativa para a cultura e a história. A digitalização é o processo de converter informações em formato digital, permitindo que sejam armazenadas e acessadas por meio de computadores, mas a perda de cópias físicas pode ser irreparável. Essa prática levanta questões importantes sobre a preservação do patrimônio cultural e a responsabilidade das empresas de tecnologia.",
+      "en": "A recent report has highlighted the destruction of rare books by artificial intelligence companies, which may seem counterintuitive, given that preserving knowledge is essential for technological development. This is happening because these companies are digitizing the books and then discarding the physical copies, which can be seen as a significant loss for culture and history. Digitization is the process of converting information into digital format, allowing it to be stored and accessed by computers, but the loss of physical copies can be irreparable. This practice raises important questions about the preservation of cultural heritage and the responsibility of technology companies.",
+      "score": 0.7674
+    },
+    {
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A UEFA e suas associações nacionais decidiram não participar das competições da FIFA, o que pode ter um impacto significativo no mundo do futebol, pois a UEFA é o órgão responsável por governar o futebol na Europa, e suas decisões afetam clubes e seleções de todo o continente. Isso ocorre devido a desacordos entre a UEFA e a FIFA, a organização internacional que rege o futebol mundial. A UEFA é composta por 55 associações nacionais, que juntas representam a maioria dos países europeus. Essa decisão pode levar a mudanças importantes nas competições de futebol internacionais.",
+      "en": "The UEFA and its national associations have decided not to participate in FIFA competitions, which may have a significant impact on the world of soccer, as UEFA is the governing body of soccer in Europe, and its decisions affect clubs and national teams across the continent. This occurs due to disagreements between UEFA and FIFA, the international organization that governs global soccer. UEFA consists of 55 national associations, which together represent most European countries. This decision may lead to important changes in international soccer competitions.",
+      "score": 0.767
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Uma equipe de pesquisadores da DeepMind desenvolveu o Gemini Robotics 2, uma plataforma que traz inteligência de corpo inteiro para robôs, permitindo que eles aprendam e se adaptem a tarefas complexas de forma mais eficaz. Isso é importante porque robôs com inteligência de corpo inteiro podem realizar tarefas que requerem coordenação e equilíbrio, como caminhar ou manipular objetos. A inteligência de corpo inteiro se refere à capacidade do robô de integrar informações de todos os seus sensores e atuadores para tomar decisões e realizar ações. Com o Gemini Robotics 2, os robôs podem aprender a realizar tarefas complexas de forma mais rápida e eficaz.",
+      "en": "A team of researchers at DeepMind has developed Gemini Robotics 2, a platform that brings whole body intelligence to robots, allowing them to learn and adapt to complex tasks more effectively. This matters because robots with whole body intelligence can perform tasks that require coordination and balance, such as walking or manipulating objects. Whole body intelligence refers to the robot's ability to integrate information from all its sensors and actuators to make decisions and take actions. With Gemini Robotics 2, robots can learn to perform complex tasks more quickly and efficiently.",
+      "score": 0.7651
+    },
+    {
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Acabemos de descobrir um link interessante sobre elevadores, que nos leva a uma página que explica como esses dispositivos funcionam, desde a física por trás de seu movimento até a tecnologia utilizada em seus sistemas de controle. Isso é importante porque elevadores são uma parte essencial da infraestrutura de muitos prédios, permitindo que as pessoas se movam facilmente entre andares. A página em questão, hospedada em https://john.fun/elevators, fornece uma visão geral acessível sobre o funcionamento dos elevadores.",
+      "en": "We just came across an interesting link about elevators, which takes us to a page that explains how these devices work, from the physics behind their movement to the technology used in their control systems. This matters because elevators are an essential part of the infrastructure of many buildings, allowing people to move easily between floors. The page in question, hosted at https://john.fun/elevators, provides an accessible overview of how elevators operate.",
+      "score": 0.7626
+    },
+    {
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, um usuário descobriu uma aplicação inovadora para o Vision Pro, um dispositivo de realidade aumentada. Isso matters porque demonstra o potencial do Vision Pro para além de suas funcionalidades básicas, como uma ferramenta para melhorar a experiência em ambientes domésticos. O Vision Pro pode ser utilizado para criar uma integração perfeita entre tecnologia e decoração, permitindo que os usuários visualizem e interajam com seus espaços de maneira mais imersiva. Com isso, abre-se um leque de possibilidades para o uso do Vision Pro em projetos de design de interiores.",
+      "en": "Recently, a user discovered an innovative application for the Vision Pro, an augmented reality device. This matters because it demonstrates the Vision Pro's potential beyond its basic functionalities, such as a tool to enhance the experience in home environments. The Vision Pro can be used to create a perfect integration between technology and decoration, allowing users to visualize and interact with their spaces in a more immersive way. This opens up a range of possibilities for the use of the Vision Pro in interior design projects.",
+      "score": 0.7611
+    }
+  ]
+}
