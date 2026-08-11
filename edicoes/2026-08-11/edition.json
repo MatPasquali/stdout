@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-11",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Pesquisadores da Meta AI lançaram o Muse Glimmer, um modelo de inteligência artificial com 30 bilhões de parâmetros, projetado para ser usado em fluxos de trabalho de agentes locais sempre ativos. Isso é importante porque permite que os desenvolvedores criem aplicações que podem aprender e se adaptar continuamente, sem precisar se conectar a servidores remotos. O Muse Glimmer é um exemplo de modelo de agente aberto, que pode ser usado em uma variedade de tarefas, desde processamento de linguagem natural até controle de robôs. Com essa tecnologia, os desenvolvedores podem criar sistemas mais inteligentes e autônomos.",
+      "en": "Researchers at Meta AI have released Muse Glimmer, a 30 billion parameter artificial intelligence model, designed for use in always-on local agent workflows. This matters because it allows developers to create applications that can continuously learn and adapt, without needing to connect to remote servers. Muse Glimmer is an example of an open-agentic model, which can be used in a range of tasks, from natural language processing to robot control. With this technology, developers can create more intelligent and autonomous systems.",
+      "score": 0.8539
+    },
+    {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Docker lançou os Docker Sandboxes, que são ambientes isolados e descartáveis para agentes de inteligência artificial, permitindo que os desenvolvedores testem e deployem suas aplicações de forma segura e eficiente. Isso é importante porque os agentes de IA muitas vezes exigem ambientes personalizados e isolados para funcionar corretamente, e os sandboxes fornecem uma solução para esse problema. Os sandboxes são criados usando contêineres, que são pacotes de software que incluem todas as dependências necessárias para executar uma aplicação, tornando mais fácil gerenciar e compartilhar ambientes de desenvolvimento. Com os Docker Sandboxes, os desenvolvedores podem criar e descartar ambientes de teste rapidamente, melhorando a produtividade e reduzindo o risco de erros.",
+      "en": "Docker has introduced Docker Sandboxes, which are disposable, isolated environments for artificial intelligence agents, allowing developers to test and deploy their applications in a secure and efficient manner. This matters because AI agents often require customized and isolated environments to function correctly, and sandboxes provide a solution to this problem. Sandboxes are created using containers, which are packages of software that include all the necessary dependencies to run an application, making it easier to manage and share development environments. With Docker Sandboxes, developers can quickly create and discard test environments, improving productivity and reducing the risk of errors.",
+      "score": 0.8082
+    },
+    {
+      "title": "antirez/h3.c",
+      "url": "https://github.com/antirez/h3.c",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um novo projeto foi disponibilizado no GitHub, o h3.c, que é um motor de inferência do algoritmo MiniMax para computadores Mac, permitindo que desenvolvedores criem aplicações que tomem decisões com base em estratégias de jogo, como xadrez ou damas, o que matters porque pode ser usado em uma variedade de campos, como inteligência artificial e jogos, o MiniMax é um algoritmo que ajuda a tomar decisões ótimas em jogos e situações competitivas, basicamente ele avalia as possíveis jogadas e escolhe a melhor opção.",
+      "en": "A new project has been made available on GitHub, h3.c, which is a MiniMax inference engine for Mac computers, allowing developers to create applications that make decisions based on game strategies, such as chess or checkers, which matters because it can be used in a variety of fields, like artificial intelligence and games, the MiniMax algorithm helps make optimal decisions in games and competitive situations, basically it evaluates the possible moves and chooses the best option.",
+      "score": 0.6819
+    },
+    {
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Mark Zuckerberg criticou os rivais de inteligência artificial que adotam modelos fechados, enquanto a Meta retorna a modelos abertos, o que pode ter implicações significativas para o desenvolvimento de tecnologias de IA, pois os modelos abertos permitem que os desenvolvedores acessem e modifiquem o código, tornando-o mais transparente e colaborativo. Isso é importante porque os modelos abertos podem acelerar o progresso da IA, permitindo que mais pessoas contribuam e aprendam com os dados. Além disso, os modelos abertos também podem ajudar a evitar viés e discriminação nos algoritmos.",
+      "en": "Mark Zuckerberg criticized AI rivals that use closed models, as Meta returns to open models, which could have significant implications for the development of AI technologies, because open models allow developers to access and modify the code, making it more transparent and collaborative. This matters because open models can accelerate AI progress, enabling more people to contribute and learn from the data. Additionally, open models can also help avoid bias and discrimination in algorithms.",
+      "score": 0.8078
+    },
+    {
+      "title": "meta-models/Muse-Glimmer-30B",
+      "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um novo modelo de inteligência artificial foi publicado na plataforma Hugging Face, chamado Muse-Glimmer-30B, que é capaz de realizar a tarefa de image-text-to-text, ou seja, processar imagens e texto para gerar texto, o que pode ser útil em aplicações de processamento de linguagem natural. Esse modelo tem 937 likes na plataforma, mas ainda não foi baixado, o que pode ser devido à sua complexidade ou ao fato de ser um modelo recente. O modelo Muse-Glimmer-30B é um exemplo de como a inteligência artificial pode ser usada para processar e gerar conteúdo, e sua publicação na Hugging Face pode ser um passo importante para o desenvolvimento de aplicações de processamento de linguagem natural. A plataforma Hugging Face é uma comunidade de desenvolvedores e pesquisadores que compartilham e colaboram em projetos de inteligência artificial.",
+      "en": "A new artificial intelligence model has been published on the Hugging Face platform, called Muse-Glimmer-30B, which is capable of performing the image-text-to-text task, meaning it can process images and text to generate text, which can be useful in natural language processing applications. This model has 937 likes on the platform, but has not been downloaded yet, which may be due to its complexity or the fact that it is a recent model. The Muse-Glimmer-30B model is an example of how artificial intelligence can be used to process and generate content, and its publication on Hugging Face may be an important step in the development of natural language processing applications. The Hugging Face platform is a community of developers and researchers who share and collaborate on artificial intelligence projects.",
+      "score": 0.6443
+    },
+    {
+      "title": "moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado Kimi-K3 foi publicado na plataforma Hugging Face, com o objetivo de realizar a tarefa de image-text-to-text, que envolve processar imagens e texto para gerar texto. Isso é importante porque pode ser útil em aplicações como descrição de imagens para pessoas com deficiência visual. O modelo Kimi-K3 já recebeu 10497 likes e foi baixado 1565484 vezes, o que indica seu potencial e popularidade. O modelo pode ser acessado através do link https://huggingface.co/moonshotai/Kimi-K3.",
+      "en": "A model called Kimi-K3 was published on the Hugging Face platform, aimed at performing the image-text-to-text task, which involves processing images and text to generate text. This matters because it can be useful in applications such as image description for visually impaired people. The Kimi-K3 model has received 10497 likes and been downloaded 1565484 times, indicating its potential and popularity. The model can be accessed through the link https://huggingface.co/moonshotai/Kimi-K3.",
+      "score": 0.6
+    },
+    {
+      "title": "Kijai/MiniMax-H3_comfy",
+      "url": "https://huggingface.co/Kijai/MiniMax-H3_comfy",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um novo modelo foi disponibilizado na plataforma Hugging Face, chamado MiniMax-H3_comfy, criado por Kijai, que pode ser utilizado para tarefas de processamento de linguagem natural, o que é notável porque esses modelos podem aprender a representar o significado de palavras e frases de forma eficaz, permitindo que os computadores entendam melhor a linguagem humana. O modelo MiniMax-H3_comfy tem 265 curtidas, mas ainda não foi baixado, o que pode ser devido à falta de conhecimento sobre suas aplicações. A Hugging Face é uma plataforma que fornece acesso a uma variedade de modelos de aprendizado de máquina, incluindo os de processamento de linguagem natural. Esses modelos podem ser usados para tarefas como tradução automática, resumo de texto e geração de texto.",
+      "en": "A new model has been made available on the Hugging Face platform, called MiniMax-H3_comfy, created by Kijai, which can be used for natural language processing tasks, which is notable because these models can learn to represent the meaning of words and phrases effectively, allowing computers to better understand human language. The MiniMax-H3_comfy model has 265 likes, but has not been downloaded yet, which may be due to a lack of knowledge about its applications. Hugging Face is a platform that provides access to a variety of machine learning models, including those for natural language processing. These models can be used for tasks such as machine translation, text summarization, and text generation.",
+      "score": 0.5323
+    },
+    {
+      "title": "The UK's war on anonymity has come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Acampanha do Reino Unido contra a anonimato chegou aos Estados Unidos, o que é preocupante porque afeta a privacidade online, uma questão importante que envolve a capacidade de manter informações pessoais em segredo. Isso ocorre porque leis que restringem a anonimato podem limitar a liberdade de expressão, que é a capacidade de expressar opiniões e ideias sem medo de represálias. A privacidade online é fundamental para garantir que as pessoas possam navegar na internet sem serem monitoradas, e a anonimato é uma ferramenta essencial para proteger essa privacidade. A EFF, uma organização que defende a liberdade digital, está acompanhando de perto essa situação.",
+      "en": "The UK's campaign against anonymity has come to America, which is concerning because it affects online privacy, an important issue that involves the ability to keep personal information secret. This happens because laws that restrict anonymity can limit freedom of expression, which is the ability to express opinions and ideas without fear of reprisal. Online privacy is fundamental to ensuring that people can browse the internet without being monitored, and anonymity is an essential tool for protecting that privacy. The EFF, an organization that advocates for digital freedom, is closely following this situation.",
+      "score": 0.7245
+    },
+    {
+      "title": "Tl;dv: Over 180k meetings left wide open",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Um hacker descobriu que mais de 180 mil reuniões estão acessíveis publicamente devido a uma configuração de segurança inadequada, o que pode permitir que pessoas não autorizadas acessem e ouçam conversas confidenciais. Isso aconteceu porque os links de reunião não foram devidamente protegidos, tornando-os facilmente acessíveis a qualquer pessoa que os encontre. A questão de segurança é grave, pois reuniões podem conter informações confidenciais ou sensíveis. Os organizadores de reuniões devem rever suas configurações de segurança para evitar que isso aconteça.",
+      "en": "A hacker has discovered that over 180,000 meetings are publicly accessible due to inadequate security settings, which could allow unauthorized individuals to access and listen to confidential conversations. This occurred because meeting links were not properly secured, making them easily accessible to anyone who finds them. The security issue is serious, as meetings may contain confidential or sensitive information. Meeting organizers should review their security settings to prevent this from happening.",
+      "score": 0.7115
+    },
+    {
+      "title": "Hora de renovar a sala: seleção de TVs OLED e QLED Samsung em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/hora-de-renovar-a-sala-selecao-de-tvs-oled-e-qled-samsung-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Amazon está oferecendo uma seleção de TVs Samsung com tecnologia de ponta, incluindo modelos OLED e QLED, que são conhecidos por suas imagens de alta qualidade e definição. Essas TVs utilizam tecnologias como OLED, que significa Organic Light-Emitting Diode, ou seja, um tipo de tela que emite luz por meio de uma camada orgânica, e QLED, que significa Quantum Dot Light-Emitting Diode, ou seja, um tipo de tela que usa pontos quânticos para produzir cores mais vibrantes. Isso significa que os espectadores podem desfrutar de imagens mais nítidas e realistas. Essa promoção é uma ótima oportunidade para quem está procurando por uma TV de alta qualidade.",
+      "en": "The Amazon is offering a selection of Samsung TVs with cutting-edge technology, including OLED and QLED models, which are known for their high-quality images and definition. These TVs use technologies such as OLED, which stands for Organic Light-Emitting Diode, a type of screen that emits light through an organic layer, and QLED, which stands for Quantum Dot Light-Emitting Diode, a type of screen that uses quantum dots to produce more vibrant colors. This means viewers can enjoy sharper and more realistic images. This promotion is a great opportunity for those looking for a high-quality TV.",
+      "score": 0.3988
+    },
+    {
+      "title": "Hora de renovar a sala: Smart TVs 4K em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-34/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, a Amazon lançou uma promoção em Smart TVs 4K, o que pode ser um bom momento para quem está procurando atualizar sua sala de estar com um modelo mais moderno. Essas TVs têm resolução 4K, que significa que elas podem exibir imagens com quatro vezes mais detalhes do que as TVs de resolução Full HD, proporcionando uma experiência de visualização mais imersiva. Isso é especialmente interessante para quem gosta de assistir a filmes ou jogar videogames, pois a resolução 4K pode melhorar significativamente a qualidade da imagem. Além disso, as Smart TVs também permitem que os usuários acessem serviços de streaming e outros aplicativos diretamente na TV.",
+      "en": "Recently, Amazon launched a promotion on 4K Smart TVs, which could be a good time for those looking to upgrade their living room with a more modern model. These TVs have 4K resolution, meaning they can display images with four times more detail than Full HD resolution TVs, providing a more immersive viewing experience. This is especially interesting for those who like to watch movies or play video games, as 4K resolution can significantly improve image quality. Additionally, Smart TVs also allow users to access streaming services and other apps directly on the TV.",
+      "score": 0.3982
+    },
+    {
+      "title": "UK Sponsor Licence Register 2026: What the CSV Actually Contains, and Where Verification Systems Break",
+      "url": "https://dev.to/immigrationgpt/uk-sponsor-licence-register-2026-what-the-csv-actually-contains-and-where-verification-systems-4ahf",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um artigo recente revelou a importância de entender o conteúdo e as limitações do Registro de Licenças de Patrocínio do Reino Unido, uma base de dados pública e gratuita atualizada diariamente. Isso é especialmente relevante para equipes que trabalham com recursos humanos ou conformidade, pois a compreensão desses dados pode afetar a tomada de decisões sobre patrocínio de vistos e direito ao trabalho. O registro é composto por dois arquivos CSV, que contêm informações sobre rotas de trabalhadores e outras informações relevantes. A precisão desses dados é crucial para minimizar riscos de conformidade.",
+      "en": "A recent article highlighted the importance of understanding the content and limitations of the UK Sponsor Licence Register, a public, free database updated daily. This matters because teams working in human resources or compliance rely on this data to make decisions about visa sponsorship and right-to-work issues. The register consists of two CSV files, which contain information on worker routes and other relevant details. The accuracy of this data is crucial for minimizing compliance risks, as incorrect assumptions about the register's completeness can lead to problems.",
+      "score": 0.399
+    },
+    {
+      "title": "The greybeards' edge was never typing",
+      "url": "https://dev.to/phpboyscout/the-greybeards-edge-was-never-typing-4f1",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Um artigo recente destacou um problema significativo na indústria de tecnologia, que é a falta de profissionais capacitados para substituir os veteranos da área quando eles se aposentam. Isso ocorre porque a indústria está se concentrando em habilidades que podem ser facilmente substituídas por inteligência artificial, em vez de investir no desenvolvimento de habilidades mais profundas e complexas. O autor do artigo expressa preocupação com o fato de que, se nada for feito, não haverá ninguém para assumir o lugar dos profissionais experientes quando eles se retirem. Além disso, o autor também destaca a importância de manter habilidades mais tradicionais e menos dependentes da tecnologia.",
+      "en": "A recent article highlighted a significant problem in the tech industry, which is the lack of skilled professionals to replace veterans when they retire. This occurs because the industry is focusing on skills that can be easily replaced by artificial intelligence, rather than investing in the development of deeper and more complex skills. The article's author expresses concern that if nothing is done, there will be no one to take the place of experienced professionals when they retire. Additionally, the author also highlights the importance of maintaining more traditional skills that are less dependent on technology.",
+      "score": 0.3494
+    },
+    {
+      "title": "I Wish Someone Had Taught Me This: How to Actually Use ChatGPT for Work",
+      "url": "https://dev.to/dipannita_roy/i-wish-someone-had-taught-me-this-how-to-actually-use-chatgpt-for-work-1e98",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma publicação recente em um blog de desenvolvimento destaca a importância de usar o ChatGPT de forma eficaz no trabalho, algo que poucas pessoas estão fazendo. Isso ocorre porque a maioria usa o ChatGPT como um mecanismo de busca, onde se faz uma pergunta rápida e se lê a resposta superficialmente. No entanto, os profissionais que estão economizando horas semanais não usam o ChatGPT mais, mas sim de forma diferente, criando fluxos de trabalho repetíveis para as tarefas mais rotineiras, como relatórios de status, notas de reunião e limpeza de dados.",
+      "en": "A recent blog post highlights the importance of using ChatGPT effectively in the workplace, something that few people are doing. This is because most people use ChatGPT like a search engine, where they ask a quick question and skim the answer. However, professionals who are saving hours every week are not using ChatGPT more, but rather differently, by creating repeatable workflows for the more mundane tasks, such as status reports, meeting notes, and data cleanup, allowing them to focus on the tasks that require human intelligence.",
+      "score": 0.3484
+    },
+    {
+      "title": "Domain Expert to AI Engineer: A 12-Month Switch Plan",
+      "url": "https://dev.to/rishi_kora/domain-expert-to-ai-engineer-a-12-month-switch-plan-4fcd",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, um plano de 12 meses para migrar de especialista em domínio para engenheiro de inteligência artificial foi publicado, o que é importante porque sistemas de inteligência artificial aplicados precisam de dois ingredientes principais para sobreviver: engenharia para executar o sistema e julgamento para garantir a correção de sua saída. Isso ocorre porque o julgamento, que é baseado no reconhecimento de padrões adquirido por meio de experiência, como a leitura de milhares de contratos ou a revisão de relatórios, não pode ser ensinado em um curto período de tempo. O plano visa ajudar profissionais a aproveitar sua experiência em domínios específicos para se tornarem engenheiros de inteligência artificial.",
+      "en": "Recently, a 12-month plan to transition from a domain expert to an artificial intelligence engineer was published, which matters because applied artificial intelligence systems need two main ingredients to survive: engineering to run the system and judgment to ensure the correctness of its output. This is because judgment, which is based on pattern recognition acquired through experience, such as reading thousands of contracts or reviewing reports, cannot be taught in a short period of time. The plan aims to help professionals leverage their experience in specific domains to become artificial intelligence engineers.",
+      "score": 0.3482
+    },
+    {
+      "title": "Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots",
+      "url": "https://arxiv.org/abs/2608.09931v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores apresentaram um novo método para melhorar o desempenho de modelos de linguagem multimodais grandes (MLLMs) em tarefas visuais, chamado CVPD (Contrastive Counterfactual Visual Process Distillation), que permite a distilação visual densa e autônoma sem a necessidade de anotações ou ferramentas externas. Isso é importante porque os métodos de recompensa tradicionais fornecem apenas feedback escalar grosseiro, enquanto a distilação oferece uma alternativa mais rica por meio da supervisão de nível de token denso. O CVPD identifica pontos cegos visuais onde o zoom em uma região muda e afina a distribuição de respostas do modelo, enquanto a remoção da mesma região deixa o comportamento da imagem completa largamente inalterado. Essa abordagem pode melhorar a capacidade dos MLLMs de entender e processar informações visuais.",
+      "en": "Researchers introduced a new method to improve the performance of large multimodal language models (MLLMs) in visual tasks, called Contrastive Counterfactual Visual Process Distillation (CVPD), which enables dense and autonomous visual distillation without the need for external annotations or tools. This matters because traditional reward-based methods provide only coarse scalar feedback, whereas distillation offers a richer alternative through dense token-level supervision. CVPD identifies visual blind spots where zooming into a region changes and sharpens the model's answer distribution, while removing the same region leaves the full-image behavior largely unchanged. This approach can enhance the ability of MLLMs to understand and process visual information.",
+      "score": 0.4679
+    },
+    {
+      "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
+      "url": "https://arxiv.org/abs/2608.09930v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um estudo recente publicado no arXiv investigou como os métodos automatizados de avaliação de texto-para-voz (TTS) refletem a percepção humana, considerando que esses métodos devem capturar os aspectos distintos da fala que os ouvintes percebem, como a naturalidade, que pode ser deconstruída em dimensões perceptuais específicas, como a fluidez ou a entonação. Os pesquisadores criaram um esquema de anotação baseado em 10 dimensões linguísticas e utilizaram esse esquema para construir um benchmark de meta-avaliação para TTS, que inclui 860 enunciados anotados por avaliadores treinados em linguística. Os resultados mostram que os previsores de Pontuação de Opinião Média (MOS) tendem a se concentrar na qualidade do sinal acústico, enquanto os juízes de Modelos de Linguagem Grande de Áudio (Audio-LLM) apresentam detecção seletiva e dependente do prompt, que não se generaliza para todas as dimensões. Isso é importante porque nos ajuda a entender melhor como os sistemas de TTS podem ser aprimorados para atender às necessidades dos ouvintes.",
+      "en": "A recent study published on arXiv investigated how automated text-to-speech (TTS) evaluation methods reflect human perception, considering that these methods should capture the distinct aspects of speech that listeners actually perceive, such as naturalness, which can be broken down into specific perceptual dimensions, like fluency or intonation. The researchers created a linguistically grounded annotation schema spanning 10 distinct dimensions and used it to construct the first dimension-level meta-evaluation benchmark for TTS, comprising 860 utterances annotated by trained linguist raters. The results show that Mean Opinion Score (MOS) predictors tend to collapse onto acoustic signal quality, while Audio Large Language Models (Audio-LLM) judges exhibit selective, prompt-dependent detection that does not generalize across all dimensions. This matters because it helps us better understand how TTS systems can be improved to meet the needs of listeners.",
+      "score": 0.4678
+    },
+    {
+      "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
+      "url": "https://arxiv.org/abs/2608.09926v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram um novo modelo de mundo de vídeo que aprende a evolução do mundo por meio da razão dinâmica latente, um método que permite capturar as leis de movimento do mundo apenas a partir de pixels. Isso é importante porque os principais modelos de difusão de vídeo atualmente se concentraram em ajustar os pixels sem modelar como eles transitam ao longo do tempo. O modelo, chamado Latent Dynamics Reasoning (LDR), funciona integrando numericamente as dinâmicas de baixa ordem e fazendo com que o modelo regresse apenas o resíduo residual de terceira e mais alta ordem que impulsiona o rolagem. Isso permite que o modelo capture a evolução do mundo de forma mais precisa.",
+      "en": "Researchers have developed a new video world model that learns the evolution of the world through latent dynamics reasoning, a method that allows capturing the world's laws of motion from just pixels. This matters because leading video diffusion models have focused on fitting pixels without modeling how they transition over time. The model, called Latent Dynamics Reasoning (LDR), works by numerically integrating lower-order dynamics and having the model regress only the third- and higher-order residual that drives the rollout. This enables the model to capture the world's evolution more accurately, by explicitly accounting for the underlying dynamics that govern how the world changes.",
+      "score": 0.4678
+    },
+    {
+      "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
+      "url": "https://arxiv.org/abs/2608.09925v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores desenvolveram um quadro de avaliação sistemática para modelos de linguagem grande, chamado \"Grip on LLMs\", que visa atender às necessidades dos contextos governamentais holandeses, considerando valores como transparência e imparcialidade, e também os requisitos linguísticos do holandês, o que é importante porque esses modelos estão sendo cada vez mais usados em ambientes governamentais, mas ainda faltam estruturas de avaliação que atendam às necessidades específicas desses contextos. Esse quadro de avaliação abrange seis dimensões, incluindo a factualidade, a honestidade, a tendência social, o consumo de energia, o custo e a transparência dos dados de treinamento. Os resultados mostram que nenhum modelo atende a todos os critérios de avaliação. Isso destaca a necessidade de uma avaliação mais cuidadosa e personalizada para o uso desses modelos em contextos governamentais.",
+      "en": "Researchers have developed a systematic evaluation framework for large language models, called \"Grip on LLMs\", which aims to meet the needs of Dutch governmental contexts, considering values such as transparency and fairness, as well as the linguistic requirements of Dutch, which is important because these models are being increasingly used in governmental settings, but existing evaluation frameworks often fail to address the specific needs of these contexts. This evaluation framework covers six dimensions, including factuality, honesty, social bias, energy consumption, cost, and training data transparency. The results show that no single model meets all the evaluation criteria, highlighting the need for more careful and tailored evaluation for the use of these models in governmental contexts.",
+      "score": 0.4678
+    },
+    {
+      "title": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado pi-from-scratch permite que desenvolvedores criem seu próprio agente pi do zero, utilizando cerca de 600 linhas de código em TypeScript, o que é notável devido à complexidade usualmente associada a esses tipos de agentes, que são pequenos programas que executam tarefas específicas. Isso importa porque oferece uma oportunidade para entender melhor como esses agentes funcionam, desde a base. O código é uma versão super compacta, facilitando o estudo e a customização. Com essa abordagem, desenvolvedores podem aprender a criar seus próprios agentes personalizados.",
+      "en": "A GitHub project called pi-from-scratch allows developers to create their own pi agent from scratch, using about 600 lines of TypeScript code, which is notable due to the complexity usually associated with these types of agents, which are small programs that perform specific tasks. This matters because it offers an opportunity to better understand how these agents work, from the ground up. The code is a super compact version, making it easier to study and customize. With this approach, developers can learn to create their own customized agents.",
+      "score": 0.6791
+    },
+    {
+      "title": "Appllama/top-welcome-screens",
+      "url": "https://github.com/Appllama/top-welcome-screens",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado top-welcome-screens, criado por Appllama, apresenta uma coleção de telas de boas-vindas animadas inspiradas em aplicativos de alto desempenho financeiro para iOS, e o que torna isso interessante é que essas telas foram reconstruídas usando React Native e Expo, permitindo que desenvolvedores vejam como essas animações são implementadas. Isso é útil porque fornece uma visão de como os aplicativos de sucesso criam experiências de usuário atraentes. React Native é uma estrutura de código aberto que permite o desenvolvimento de aplicativos móveis para Android e iOS usando JavaScript e React, enquanto Expo é uma plataforma que simplifica o processo de criação de aplicativos móveis. Essa combinação torna mais acessível a criação de telas de boas-vindas personalizadas e animadas para aplicativos móveis.",
+      "en": "A GitHub project called top-welcome-screens, created by Appllama, presents a collection of animated welcome screens inspired by top-earning iOS apps, and what makes this interesting is that these screens were rebuilt using React Native and Expo, allowing developers to see how these animations are implemented. This is useful because it provides insight into how successful apps create engaging user experiences. React Native is an open-source framework that enables the development of mobile apps for Android and iOS using JavaScript and React, while Expo is a platform that simplifies the process of creating mobile apps. This combination makes it more accessible to create customized and animated welcome screens for mobile apps.",
+      "score": 0.5973
+    },
+    {
+      "title": "mewamew/my_ai_town",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto chamado my_ai_town foi publicado no GitHub, o que é notável porque permite que desenvolvedores criem cidades virtuais usando inteligência artificial, uma tecnologia que permite que máquinas aprendam e tomem decisões de forma autônoma. Isso é importante porque pode ser usado para simular cidades e melhorar a forma como elas são projetadas e gerenciadas. O projeto é um exemplo de como a inteligência artificial pode ser aplicada em urbanismo, permitindo que os desenvolvedores criem modelos de cidades virtuais para testar diferentes cenários.",
+      "en": "A project called my_ai_town was published on GitHub, which is notable because it allows developers to create virtual cities using artificial intelligence, a technology that enables machines to learn and make decisions on their own. This is important because it can be used to simulate cities and improve the way they are designed and managed. The project is an example of how artificial intelligence can be applied to urban planning, allowing developers to create virtual city models to test different scenarios.",
+      "score": 0.589
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto chamado WeChat-AI foi disponibilizado no GitHub, o que Matters porque ele permite que desenvolvedores criem chatbots para o WeChat, um aplicativo de mensagens extremamente popular na China, utilizando inteligência artificial. Isso é significativo porque o WeChat tem mais de um bilhão de usuários ativos por mês, tornando-o um importante canal para interações automatizadas. O projeto WeChat-AI fornece uma estrutura para construir aplicativos conversacionais, utilizando técnicas de processamento de linguagem natural para entender e responder a mensagens de texto.",
+      "en": "A project called WeChat-AI has been made available on GitHub, which matters because it allows developers to create chatbots for WeChat, an extremely popular messaging app in China, using artificial intelligence. This is significant because WeChat has over a billion active users per month, making it a crucial channel for automated interactions. The WeChat-AI project provides a framework for building conversational applications, using natural language processing techniques to understand and respond to text messages.",
+      "score": 0.0802
+    }
+  ]
+}
