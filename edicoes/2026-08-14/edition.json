@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-14",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "O que aconteceu é que os desenvolvedores do DeepSeek lançaram o DeepSeek Harness, uma plataforma que permite que tudo seja tratado como um plugin, o que matters porque isso facilita a integração de diferentes componentes e funcionalidades em um sistema. Isso é possível porque o DeepSeek Harness utiliza uma arquitetura de plugin, que é um conjunto de regras e padrões que definem como os diferentes componentes se comunicam entre si, permitindo que sejam adicionados ou removidos facilmente. Em termos práticos, isso significa que os desenvolvedores podem criar e integrar novos plugins sem afetar o funcionamento do sistema como um todo. O DeepSeek Harness está disponível no GitHub.",
+      "en": "What happened is that the developers of DeepSeek released DeepSeek Harness, a platform that allows everything to be treated as a plugin, which matters because it facilitates the integration of different components and functionalities into a system. This is possible because DeepSeek Harness uses a plugin architecture, which is a set of rules and standards that define how different components communicate with each other, allowing them to be added or removed easily. In practical terms, this means that developers can create and integrate new plugins without affecting the overall functioning of the system. The DeepSeek Harness is available on GitHub.",
+      "score": 0.8071
+    },
+    {
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A equipe do Google lançou a versão 3.7 Flash do modelo de linguagem Gemini, que é uma arquitetura de inteligência artificial projetada para processar e compreender linguagem natural. Essa atualização é importante porque melhora a capacidade do modelo de entender e responder a perguntas complexas de forma mais precisa. O modelo Gemini utiliza uma abordagem de aprendizado de máquina chamada de \"aprendizado profundo\", que permite que o modelo aprenda com grandes conjuntos de dados e melhore suas respostas ao longo do tempo. Com a versão 3.7 Flash, o Gemini se torna ainda mais eficaz em tarefas de processamento de linguagem natural.",
+      "en": "The Google team released version 3.7 Flash of the Gemini language model, which is an artificial intelligence architecture designed to process and understand natural language. This update matters because it improves the model's ability to understand and respond to complex questions more accurately. The Gemini model uses a machine learning approach called \"deep learning\", which allows the model to learn from large datasets and improve its responses over time. With version 3.7 Flash, Gemini becomes even more effective in natural language processing tasks.",
+      "score": 0.7668
+    },
+    {
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Uma nova versão do modelo de linguagem GLM foi lançada, a 5.3, que traz codificação de fronteira com capacidades cibernéticas emergentes, o que significa que o modelo pode agora gerar texto mais avançado e realista, permitindo que os desenvolvedores criem aplicações mais sofisticadas. Isso é importante porque abre caminho para melhorias significativas em áreas como processamento de linguagem natural e inteligência artificial. A codificação de fronteira se refere à capacidade do modelo de aprender e adaptar-se a novos padrões e estruturas, permitindo que ele gere texto mais coerente e natural. Com essa atualização, os desenvolvedores podem criar aplicações que utilizam a linguagem de forma mais eficaz.",
+      "en": "A new version of the GLM language model has been released, 5.3, which brings frontier coding with emergent cyber capabilities, meaning the model can now generate more advanced and realistic text, allowing developers to create more sophisticated applications. This matters because it paves the way for significant improvements in areas such as natural language processing and artificial intelligence. Frontier coding refers to the model's ability to learn and adapt to new patterns and structures, enabling it to generate more coherent and natural text. With this update, developers can create applications that utilize language more effectively.",
+      "score": 0.7596
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Uma equipe de pesquisadores acaba de publicar um estudo sobre como acelerar o modelo de linguagem GPT-5.6 Sol Ultrafast, que é uma versão avançada do modelo de processamento de linguagem natural desenvolvido pela OpenAI. Isso é importante porque o GPT-5.6 Sol Ultrafast é capaz de processar grandes quantidades de dados de linguagem, o que pode ser útil em aplicações como tradução automática e resumo de textos. A equipe usou uma abordagem de processamento paralelo para acelerar o modelo, o que permitiu que eles alcançassem taxas de processamento mais rápidas.",
+      "en": "A team of researchers has just published a study on how to accelerate the GPT-5.6 Sol Ultrafast language model, which is an advanced version of the natural language processing model developed by OpenAI. This matters because the GPT-5.6 Sol Ultrafast is capable of processing large amounts of language data, which can be useful in applications such as automatic translation and text summarization. The team used a parallel processing approach to accelerate the model, which allowed them to achieve faster processing rates.",
+      "score": 0.7442
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado DeepSeek-V4-Pro-0813 foi publicado na plataforma Hugging Face, o que é notável porque oferece uma solução para a tarefa de geração de texto, que é um desafio complexo na área de processamento de linguagem natural. Esse modelo já recebeu 386 likes e foi baixado 245 vezes, o que indica seu potencial para aplicações práticas. A geração de texto é uma técnica que permite que os computadores criem textos coerentes e naturais, semelhantes aos produzidos por humanos, e é amplamente utilizada em áreas como chatbots e sumarização de conteúdo. O modelo DeepSeek-V4-Pro-0813 pode ser uma ferramenta útil para desenvolvedores e pesquisadores que trabalham com processamento de linguagem natural.",
+      "en": "A new artificial intelligence model called DeepSeek-V4-Pro-0813 has been published on the Hugging Face platform, which is notable because it offers a solution for the task of text generation, a complex challenge in the field of natural language processing. This model has already received 386 likes and been downloaded 245 times, indicating its potential for practical applications. Text generation is a technique that allows computers to create coherent and natural-sounding texts, similar to those produced by humans, and is widely used in areas such as chatbots and content summarization. The DeepSeek-V4-Pro-0813 model can be a useful tool for developers and researchers working with natural language processing.",
+      "score": 0.7082
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado DeepSeek-V4-Flash-0731 foi disponibilizado na plataforma Hugging Face, o que é notável porque tem um grande número de downloads, mais de 1,6 milhão, e likes, totalizando 3356, para a tarefa de geração de texto, que é uma técnica de processamento de linguagem natural que permite aos computadores criar texto novo com base em um conjunto de dados de treinamento. Isso é importante porque a geração de texto pode ser usada em uma variedade de aplicações, como resumo de textos, criação de conteúdo e tradução automática. O modelo DeepSeek-V4-Flash-0731 é um exemplo de como a inteligência artificial pode ser usada para melhorar a eficiência e a precisão em tarefas de processamento de linguagem natural. A disponibilidade desse modelo na plataforma Hugging Face permite que desenvolvedores e pesquisadores acessem e usem essa tecnologia para desenvolver suas próprias aplicações.",
+      "en": "A artificial intelligence model called DeepSeek-V4-Flash-0731 has been made available on the Hugging Face platform, which is notable because it has a large number of downloads, over 1.6 million, and likes, totaling 3356, for the text generation task, a natural language processing technique that allows computers to create new text based on a set of training data. This is important because text generation can be used in a variety of applications, such as text summarization, content creation, and machine translation. The DeepSeek-V4-Flash-0731 model is an example of how artificial intelligence can be used to improve efficiency and accuracy in natural language processing tasks. The availability of this model on the Hugging Face platform allows developers and researchers to access and use this technology to develop their own applications.",
+      "score": 0.6
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-Music3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Um modelo de inteligência artificial chamado MiniMax-Music3 foi disponibilizado no Hugging Face, uma plataforma de modelos de aprendizado de máquina, para a tarefa de text-to-audio, que é a capacidade de converter texto em áudio. Isso é importante porque essa tecnologia pode ser usada em uma variedade de aplicações, como leitores de tela e assistentes virtuais. O modelo MiniMax-Music3 tem 529 likes e 63 downloads, o que sugere que está ganhando popularidade entre os desenvolvedores. A text-to-audio é uma técnica que usa algoritmos para sintetizar áudio a partir de texto, permitindo que os dispositivos reproduzam áudio de forma realista.",
+      "en": "A model called MiniMax-Music3 has been made available on Hugging Face, a platform for machine learning models, for the task of text-to-audio, which is the ability to convert text into audio. This matters because the technology can be used in a variety of applications, such as screen readers and virtual assistants. The MiniMax-Music3 model has 529 likes and 63 downloads, which suggests it is gaining popularity among developers. Text-to-audio is a technique that uses algorithms to synthesize audio from text, allowing devices to play back audio in a realistic way.",
+      "score": 0.487
+    },
+    {
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Acerca-se um novo recurso chamado DeepSeek Harness, que foi lançado recentemente em versão de prévia para desenvolvedores. Isso é importante porque permite que os desenvolvedores criem modelos de aprendizado de máquina personalizados, o que significa que eles podem treinar algoritmos para realizar tarefas específicas com base em seus próprios conjuntos de dados. O Harness fornece uma plataforma para que os desenvolvedores possam construir e testar esses modelos, o que pode ser útil para uma variedade de aplicações, desde processamento de linguagem natural até análise de imagens. Com o Harness, os desenvolvedores podem criar soluções personalizadas para problemas complexos.",
+      "en": "A new feature called DeepSeek Harness has been released in developer preview. This matters because it allows developers to create custom machine learning models, which means they can train algorithms to perform specific tasks based on their own datasets. The Harness provides a platform for developers to build and test these models, which can be useful for a range of applications, from natural language processing to image analysis. With the Harness, developers can create customized solutions to complex problems.",
+      "score": 0.7399
+    },
+    {
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Recentemente, um projeto chamado Spaghettifying DRAM foi divulgado, que afeta a memória de acesso aleatório dinâmica (DRAM), um tipo de memória de computador que armazena dados temporariamente enquanto o processador os processa. Isso importa porque a vulnerabilidade pode permitir que os hackers acessem ou modifiquem dados sensíveis. A DRAM é comum em muitos dispositivos, desde smartphones até servidores, e sua vulnerabilidade pode ter implicações de segurança significativas. A exploração dessa vulnerabilidade pode ser feita por meio de um ataque de canal lateral, que explora a forma como a memória é acessada e manipulada.",
+      "en": "Recently, a project called Spaghettifying DRAM was released, which affects dynamic random-access memory (DRAM), a type of computer memory that temporarily stores data while the processor is handling it. This matters because the vulnerability could allow hackers to access or modify sensitive data. DRAM is common in many devices, from smartphones to servers, and its vulnerability could have significant security implications. The exploitation of this vulnerability can be done through a side-channel attack, which exploits the way memory is accessed and manipulated.",
+      "score": 0.7388
+    },
+    {
+      "title": "uBlock Origin is giving up the fight to keep ads off Facebook",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Aconteceu uma mudança significativa no mundo dos bloqueadores de anúncios: o uBlock Origin, uma ferramenta popular para bloquear anúncios online, desistiu de tentar manter os anúncios longe do Facebook, o que importa porque isso afeta a forma como os usuários podem controlar sua experiência online. Isso ocorre porque o Facebook constantemente altera sua estrutura para burlar bloqueadores de anúncios, tornando difícil para o uBlock Origin manter o ritmo. O uBlock Origin é uma ferramenta que usa regras personalizadas para bloquear anúncios, explicando de forma simples, é como um filtro que pode ser configurado para controlar o que você vê online. Essa decisão pode ter implicações para a privacidade e a experiência do usuário na internet.",
+      "en": "A significant change has occurred in the world of ad blockers: uBlock Origin, a popular tool for blocking online ads, has given up trying to keep ads off Facebook, which matters because it affects how users can control their online experience. This happens because Facebook constantly changes its structure to circumvent ad blockers, making it difficult for uBlock Origin to keep pace. uBlock Origin is a tool that uses customized rules to block ads, in simple terms, it is like a filter that can be set up to control what you see online. This decision may have implications for user privacy and online experience.",
+      "score": 0.6965
+    },
+    {
+      "title": "iPhone 18 pode ser adiado para 2027 por falta de chips e memória",
+      "url": "https://canaltech.com.br/smartphone/iphone-18-pode-ser-adiado-para-2027-por-falta-de-chips-e-memoria/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Apple pode adiar o lançamento do iPhone 18 para 2027 devido à falta de chips e memória, o que representa uma mudança significativa na tradição da empresa de lançar novos modelos anualmente. Isso ocorre porque a empresa está priorizando a produção dos modelos iPhone 18 Pro e 18 Pro Max, que têm maior margem de lucro, para setembro. A decisão foi motivada pela escassez de componentes, como chips e memória, que são essenciais para a produção dos aparelhos. Essa estratégia permite que a Apple concentre seus recursos nos produtos mais lucrativos enquanto trabalha para resolver as questões de fornecimento.",
+      "en": "The Apple company may delay the release of the iPhone 18 until 2027 due to a shortage of chips and memory, which would be a significant change in the company's tradition of launching new models annually. This is because the company is prioritizing the production of the iPhone 18 Pro and 18 Pro Max models, which have higher profit margins, for release in September. The decision was driven by a shortage of essential components such as chips and memory, which are necessary for the production of the devices. This strategy allows Apple to focus its resources on the most profitable products while working to resolve supply issues.",
+      "score": 0.4467
+    },
+    {
+      "title": "Apple's AI Model Set for China Launch",
+      "url": "https://dev.to/career_aheadmagazine_0a5/apples-ai-model-set-for-china-launch-215c",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A Apple está preparando o lançamento de seu modelo de inteligência artificial, Apple Intelligence, na China, visando recuperar participação de mercado contra concorrentes locais como a Huawei. Em colaboração com a Alibaba, a Apple planeja desenvolver um modelo de linguagem grande personalizado para o mercado chinês, o que pode influenciar a pesquisa de inteligência artificial local e criar oportunidades de emprego para profissionais qualificados. Isso pode ser um passo importante para a Apple, pois a inteligência artificial é uma área em constante evolução, e um modelo de linguagem grande é um tipo de algoritmo treinado por máquina que pode processar e entender grandes quantidades de dados de linguagem natural.",
+      "en": "Apple is preparing to launch its artificial intelligence model, Apple Intelligence, in China, aiming to regain market share against local competitors like Huawei. In collaboration with Alibaba, Apple plans to develop a large language model tailored for the Chinese market, which could influence local AI research and create job opportunities for skilled professionals. This can be an important step for Apple, as artificial intelligence is an area of ongoing development, and a large language model is a type of machine-trained algorithm that can process and understand large amounts of natural language data.",
+      "score": 0.4483
+    },
+    {
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, o MIT Tech Review destacou Roman Chiporukha, um empresário que já tornou sonhos de viagens extravagantes em realidade por mais de duas décadas, como um exemplo de alguém que pode se tornar um agente de viagens espaciais no futuro. Isso importa porque à medida que a exploração espacial se torna mais acessível, haverá uma necessidade crescente de profissionais que possam planejar e coordenar experiências de viagem espacial personalizadas. Um agente de viagens espaciais seria responsável por criar itinerários personalizados para clientes que desejam explorar o espaço, o que exigiria conhecimento em áreas como astronomia, engenharia espacial e segurança. Isso abriria novas oportunidades para aqueles que desejam combinar paixão por viagens e exploração com conhecimento técnico.",
+      "en": "Recently, the MIT Tech Review highlighted Roman Chiporukha, an entrepreneur who has been turning extravagant travel dreams into reality for over two decades, as an example of someone who could become a space travel agent in the future. This matters because as space exploration becomes more accessible, there will be a growing need for professionals who can plan and coordinate customized space travel experiences. A space travel agent would be responsible for creating personalized itineraries for clients who want to explore space, which would require knowledge in areas such as astronomy, space engineering, and safety. This would open up new opportunities for those who want to combine a passion for travel and exploration with technical knowledge.",
+      "score": 0.4447
+    },
+    {
+      "title": "On Security+, an access control question is really asking who is allowed to say yes",
+      "url": "https://dev.to/tiltedlunar123/on-security-an-access-control-question-is-really-asking-who-is-allowed-to-say-yes-4h4o",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Uma pergunta sobre controle de acesso no exame Security+ pode parecer complexa, mas na verdade está perguntando quem tem permissão para tomar decisões. Isso é importante porque modelos de controle de acesso, como DAC (Controle de Acesso Discricionário), MAC (Controle de Acesso Mandatório), RBAC (Controle de Acesso Baseado em Papel) e ABAC (Controle de Acesso Baseado em Atributos), podem ser difíceis de distinguir. Para entender qual modelo está em uso, é necessário saber quem ou o que tem autoridade para tomar decisões de controle de acesso.",
+      "en": "A question about access control on the Security+ exam may seem complex, but it is actually asking who is allowed to make decisions. This matters because access control models, such as DAC (Discretionary Access Control), MAC (Mandatory Access Control), RBAC (Role-Based Access Control), and ABAC (Attribute-Based Access Control), can be difficult to distinguish. To understand which model is in use, it is necessary to know who or what has the authority to make access control decisions, and whether anyone can override those decisions.",
+      "score": 0.3975
+    },
+    {
+      "title": "Best French Universities for International Students in 2026: What You Should Know Before Applying",
+      "url": "https://dev.to/simplyfrench/best-french-universities-for-international-students-in-2026-what-you-should-know-before-applying-3kmh",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Recentemente, uma lista das melhores universidades francesas para estudantes internacionais em 2026 foi divulgada, destacando instituições de renome como a Universidade Sorbonne, PSL University e Institut Polytechnique de Paris. Isso importa porque essas universidades oferecem uma ampla gama de oportunidades acadêmicas e profissionais para os estudantes, desde pesquisa e engenharia até negócios e gestão. Ao escolher uma universidade, os estudantes devem considerar fatores como o idioma do programa, requisitos de admissão, bolsas de estudo e localização, e não apenas os rankings. Essas instituições incluem ainda a HEC Paris, ESSEC, ESCP e emlyon business school, oferecendo diversas opções para os estudantes internacionais.",
+      "en": "Recently, a list of the best French universities for international students in 2026 was released, highlighting renowned institutions such as Sorbonne University, PSL University, and Institut Polytechnique de Paris. This matters because these universities offer a wide range of academic and career opportunities for students, from research and engineering to business and management. When choosing a university, students should consider factors such as program language, admission requirements, scholarships, and location, and not just rankings. These institutions also include HEC Paris, ESSEC, ESCP, and emlyon business school, providing various options for international students.",
+      "score": 0.349
+    },
+    {
+      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "url": "https://arxiv.org/abs/2608.13558v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores recentemente introduziram o OmniScientist, um sistema de inteligência artificial que pode realizar pesquisas científicas de forma autônoma e multidisciplinar, utilizando diferentes fontes de dados brutos. Isso é importante porque os sistemas atuais de automação de pesquisa geralmente se limitam a trabalhar com texto, código ou resumos pré-computados, deixando de lado relações espaciais, temporais e procedimentais cruciais para a descoberta científica. O OmniScientist usa uma camada de percepção e três agentes autônomos para ideação, experimentação e redação, permitindo que observações sejam feitas de forma mais completa. Essa abordagem pode ajudar a expandir a capacidade de automação de pesquisas científicas.",
+      "en": "Researchers have recently introduced OmniScientist, an artificial intelligence system that can conduct autonomous and multidisciplinary scientific research using various raw data sources. This matters because current research automation systems typically work with text, code, or precomputed summaries, leaving out crucial spatial, temporal, and procedural relationships that are essential for scientific discovery. OmniScientist uses a perception layer and three autonomous agents for ideation, experimentation, and writing, allowing observations to be made in a more comprehensive way. This approach can help expand the capacity for automated scientific research.",
+      "score": 0.4679
+    },
+    {
+      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+      "url": "https://arxiv.org/abs/2608.13552v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores criaram o PlayWorld, um benchmark para avaliar modelos de mundo de vídeo, que simulam estados futuros com base em observações atuais e ações do usuário. Isso é importante porque os modelos de mundo interativos precisam ser avaliados de forma justa, considerando que as sequências de ações necessárias para alcançar objetivos de longo prazo podem variar significativamente entre os modelos. O PlayWorld permite que agentes jogadores interajam com os modelos de mundo e avaliem sua consistência e controle sobre longas sequências. Com isso, é possível comparar diferentes modelos de forma mais precisa, considerando a capacidade deles de simular ambientes realistas e responder a ações do usuário de maneira convincente.",
+      "en": "Researchers have created PlayWorld, a benchmark for evaluating video world models, which simulate future states based on current observations and user actions. This matters because interactive world models need to be evaluated fairly, given that the action sequences required to achieve long-horizon objectives can vary substantially between models. PlayWorld allows agent players to interact with the world models and assess their consistency and controllability over long sequences. By doing so, it enables a more accurate comparison of different models, considering their ability to simulate realistic environments and respond to user actions in a convincing manner.",
+      "score": 0.4679
+    },
+    {
+      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "url": "https://arxiv.org/abs/2608.13547v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pesquisadores publicaram um estudo intitulado QuoteBench, que destaca como escores de execução correspondentes podem ocultar falhas no caminho de comando em agentes de codificação de linguagem natural, como os modelos de linguagem grande. Isso ocorre porque esses agentes emitem comandos Bash por meio de interfaces que podem serializar, embrulhar e reanalisar a saída do modelo, tornando difícil distinguir entre erros de geração de comandos e falhas introduzidas após a geração. O estudo utiliza uma abordagem de validação de estado final exato em 56 tarefas de um único disparo, derivadas de 14 famílias de incidentes, para medir essa fronteira.",
+      "en": "Researchers have published a study titled QuoteBench, which highlights how matched execution scores can hide command-path failures in natural language coding agents, such as large language models. This happens because these agents issue Bash commands through interfaces that can serialize, wrap, and reparse model output, making it difficult to distinguish between command-generation errors and failures introduced after generation. The study uses an exact final-state validation approach on 56 one-shot tasks, derived from 14 incident-derived families, to measure this boundary, demonstrating that replaying the same response through an added parser can lower success rates by 55.4 to 73.2 percentage points.",
+      "score": 0.4678
+    },
+    {
+      "title": "SCULPT: Subtractive Composition for 3D Part Generation",
+      "url": "https://arxiv.org/abs/2608.13541v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Um grupo de pesquisadores propôs o SCULPT, uma nova abordagem para geração de partes 3D que permite a criação de ativos digitais coerentes e editáveis, o que é importante para aplicações como design de produtos e animação. A geração de partes 3D é um desafio porque exige que os objetos sejam criados como um todo, enquanto também expõem suas partes estruturais para edição e reutilização. O SCULPT utiliza uma técnica de composição subtrativa, que significa que as partes são criadas a partir da remoção seletiva de material de um objeto 3D, em vez de serem sintetizadas a partir de layouts ou tokens pré-definidos. Isso ajuda a evitar problemas como lacunas, interpenetrações e descontinuidades de material.",
+      "en": "A group of researchers has proposed SCULPT, a new approach to 3D part generation that allows for the creation of coherent and editable digital assets, which is important for applications such as product design and animation. 3D part generation is a challenge because it requires objects to be created as a whole, while also exposing their structural parts for editing and reuse. SCULPT uses a subtractive composition technique, which means that parts are created by selectively removing material from a 3D object, rather than being synthesized from predefined layouts or tokens. This helps to avoid problems such as gaps, interpenetrations, and material discontinuities.",
+      "score": 0.4677
+    },
+    {
+      "title": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado book-to-skill, criado por Leutenegger, permite converter qualquer livro técnico em PDF em uma habilidade do Claude Code, pronta para ser estudada, referenciada e utilizada enquanto se trabalha. Isso é importante porque facilita o acesso a informações técnicas para desenvolvedores e profissionais, tornando mais fácil a aprendizagem e a referência a conceitos complexos. O projeto é baseado em uma ferramenta de código aberto, o que significa que qualquer pessoa pode contribuir ou adaptar o código para suas necessidades. Com essa ferramenta, é possível tornar o aprendizado mais eficiente e personalizado.",
+      "en": "A project on GitHub called book-to-skill, created by Leutenegger, allows users to convert any technical book PDF into a Claude Code skill, ready to be studied, referenced, and used while working. This matters because it makes technical information more accessible to developers and professionals, making it easier to learn and reference complex concepts. The project is based on an open source tool, which means anyone can contribute to or adapt the code to suit their needs. By doing so, users can make learning more efficient and personalized.",
+      "score": 0.5654
+    },
+    {
+      "title": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A equipe do cordiverse publicou um artigo no GitHub sobre um novo paradigma de programação para composabilidade espaciotemporal, o que significa que os desenvolvedores podem criar programas que lidam com informações que mudam ao longo do tempo e do espaço de maneira mais eficiente. Isso é importante porque permite que os programas sejam mais escaláveis e fáceis de manter. O artigo apresenta uma abordagem inovadora para resolver problemas complexos de programação, tornando-a mais acessível a todos. Com essa abordagem, os desenvolvedores podem criar soluções mais robustas e flexíveis.",
+      "en": "The cordiverse team published a paper on GitHub about a new programming paradigm for spatiotemporal composability, which means that developers can create programs that handle information that changes over time and space more efficiently. This matters because it allows programs to be more scalable and easier to maintain. The paper presents an innovative approach to solving complex programming problems, making it more accessible to everyone. With this approach, developers can create more robust and flexible solutions.",
+      "score": 0.562
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A Anywhere Labs lançou o deepseek-harness-desktop, uma aplicação de desktop Electron baseada no DeepSeek Harness oficial, projetada para fornecer uma experiência de usuário otimizada e pronta para uso em macOS e Windows, o que é notável porque muitas aplicações de desktop têm dificuldade em oferecer uma experiência consistente em diferentes plataformas, e isso se deve ao fato de a equipe ter feito um trabalho de adaptação profundo para garantir que a aplicação seja compatível com os dois sistemas operacionais, onde a compatibilidade se refere à capacidade de uma aplicação funcionar corretamente em diferentes ambientes. A equipe também se esforçou para garantir que a aplicação seja fácil de usar, eliminando a necessidade de configurações complexas, o que é útil para usuários que não têm experiência técnica.",
+      "en": "Anywhere Labs has released deepseek-harness-desktop, an Electron desktop application based on the official DeepSeek Harness, designed to provide an optimized and out-of-the-box user experience on macOS and Windows, which is notable because many desktop applications struggle to offer a consistent experience across different platforms, and this is due to the fact that the team did a thorough adaptation job to ensure the application is compatible with both operating systems, where compatibility refers to an application's ability to function correctly in different environments. The team also made an effort to ensure the application is easy to use, eliminating the need for complex configurations, which is useful for users without technical expertise.",
+      "score": 0.5576
+    },
+    {
+      "title": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Um projeto no GitHub chamado dsh-TUI, criado por ccch1mneyyy, resolve um problema importante para os usuários do DSH, que não tem uma interface de usuário de terminal oficial: oferece uma interface de terminal de usuário completa, com recursos como uma barra de topo personalizada, uma linha de status de trabalho em tempo real, e uma progress bar que indica o andamento das tarefas. Isso é útil para aqueles que preferem usar a linha de comando. O projeto pode ser instalado facilmente via npm.",
+      "en": "A GitHub project called dsh-TUI, created by ccch1mneyyy, addresses a significant issue for DSH users, who lack an official terminal user interface: it provides a comprehensive terminal user interface, with features such as a customizable top bar, a real-time work status line, and a progress bar that indicates task progress. This is useful for those who prefer using the command line. The project can be easily installed via npm.",
+      "score": 0.5494
+    }
+  ]
+}
