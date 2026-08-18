@@ -1,0 +1,206 @@
+{
+  "date": "2026-08-18",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates, with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "en": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates, with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "score": 0.8527
+    },
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI;DR (AI; Didn't Read)",
+      "en": "AI;DR (AI; Didn't Read)",
+      "score": 0.8215
+    },
+    {
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Incident with Github.com",
+      "en": "Incident with Github.com",
+      "score": 0.7403
+    },
+    {
+      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+      "en": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+      "score": 0.7215
+    },
+    {
+      "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 368 likes e 558767 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 368 likes e 558767 downloads.",
+      "score": 0.5625
+    },
+    {
+      "title": "meta-models/Muse-Glimmer-30B",
+      "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1670 likes e 384097 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1670 likes e 384097 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …",
+      "en": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …",
+      "score": 0.4951
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Preview of DuckDB v2.0",
+      "en": "A Preview of DuckDB v2.0",
+      "score": 0.7358
+    },
+    {
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "en": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "score": 0.6974
+    },
+    {
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A third world engineer responds to “RISC-V: They should have known better”",
+      "en": "A third world engineer responds to “RISC-V: They should have known better”",
+      "score": 0.6935
+    },
+    {
+      "title": "Elon Musk made flying even worse so Palantir could profit",
+      "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "industria",
+      "pt": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal […]",
+      "en": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal […]",
+      "score": 0.3987
+    },
+    {
+      "title": "What Marketing Teams Get Right (and Wrong) About LLM Workflows",
+      "url": "https://dev.to/suvarna_bellamkonda_/what-marketing-teams-get-right-and-wrong-about-llm-workflows-39f4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "If you've spent any time building with LLMs, you'll recognize this pattern immediately once you see it applied to marketing: the tool is good at generation, mediocre at verification, and completely blind to context it wasn't given.\n\nThat's essentially the whole story of how marketing agencies are using Claude right now, and it maps almost exactly onto lessons anyone doing prompt-based work already knows.\n\nAgencies use Claude as a drafting layer sitting on top of existing tools, Google Docs, Sla",
+      "en": "If you've spent any time building with LLMs, you'll recognize this pattern immediately once you see it applied to marketing: the tool is good at generation, mediocre at verification, and completely blind to context it wasn't given.\n\nThat's essentially the whole story of how marketing agencies are using Claude right now, and it maps almost exactly onto lessons anyone doing prompt-based work already knows.\n\nAgencies use Claude as a drafting layer sitting on top of existing tools, Google Docs, Sla",
+      "score": 0.3998
+    },
+    {
+      "title": "Why Security Logs Matter More Than You Think",
+      "url": "https://dev.to/qnayds_career_41b7fe9fc95/why-security-logs-matter-more-than-you-think-3khb",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "When a security incident happens, one of the first questions a security team asks is simple:\n\n“What actually happened?”\n\nThe answer is often hidden inside logs.\n\nWeb servers, applications, firewalls, authentication systems, cloud platforms, and databases can generate thousands of log entries every day. The challenge isn't collecting logs, it's knowing which events matter.\n\nWhat Can Security Logs Reveal?\n\nA properly configured logging system can help identify:\n\nRepeated failed login attempts\nSus",
+      "en": "When a security incident happens, one of the first questions a security team asks is simple:\n\n“What actually happened?”\n\nThe answer is often hidden inside logs.\n\nWeb servers, applications, firewalls, authentication systems, cloud platforms, and databases can generate thousands of log entries every day. The challenge isn't collecting logs, it's knowing which events matter.\n\nWhat Can Security Logs Reveal?\n\nA properly configured logging system can help identify:\n\nRepeated failed login attempts\nSus",
+      "score": 0.3973
+    },
+    {
+      "title": "Comparing manual and automated workflows in modern career management",
+      "url": "https://dev.to/clarrydaro/comparing-manual-and-automated-workflows-in-modern-career-management-1k1b",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Job hunters often spend significant energy on fragmented administrative tasks. The traditional approach requires keeping separate files for different versions of a resume, manually tracking status updates in a spreadsheet, and painstakingly rewriting cover letters for every new role. This manual process is prone to errors, particularly regarding formatting consistency and the ability to maintain a clear overview of application progress. When a process lacks centralization, it creates a high leve",
+      "en": "Job hunters often spend significant energy on fragmented administrative tasks. The traditional approach requires keeping separate files for different versions of a resume, manually tracking status updates in a spreadsheet, and painstakingly rewriting cover letters for every new role. This manual process is prone to errors, particularly regarding formatting consistency and the ability to maintain a clear overview of application progress. When a process lacks centralization, it creates a high leve",
+      "score": 0.3497
+    },
+    {
+      "title": "Should Developers Take an Education Loan for a Master's Abroad or Use Savings?",
+      "url": "https://dev.to/ethan_williems_bd802b2d06/should-developers-take-an-education-loan-for-a-masters-abroad-or-use-savings-1e4i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A Master's abroad is a common enough path for Indian developers considering a career pivot or aiming for roles that specifically value the credential, and the financing decision, loan versus savings, deserves more thought than defaulting to whichever feels less scary in the moment.\n\nThe case for an education loan even if you can technically afford it from savings: keeping your savings intact as a safety buffer during a period of genuinely uncertain income, no salary while studying, an uncertain ",
+      "en": "A Master's abroad is a common enough path for Indian developers considering a career pivot or aiming for roles that specifically value the credential, and the financing decision, loan versus savings, deserves more thought than defaulting to whichever feels less scary in the moment.\n\nThe case for an education loan even if you can technically afford it from savings: keeping your savings intact as a safety buffer during a period of genuinely uncertain income, no salary while studying, an uncertain ",
+      "score": 0.3479
+    },
+    {
+      "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+      "url": "https://arxiv.org/abs/2608.16889v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe freezes the VLA and puts an LLM agent in charge: it plans in language, moves in free space with analytic primitives, invokes the VLA only for contact-rich segments, and writes adapta",
+      "en": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe freezes the VLA and puts an LLM agent in charge: it plans in language, moves in free space with analytic primitives, invokes the VLA only for contact-rich segments, and writes adapta",
+      "score": 0.4683
+    },
+    {
+      "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
+      "url": "https://arxiv.org/abs/2608.16887v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-conditional settings. Consequently, a practical recipe for training pixel-space models that rival or exceed well-established latent-space counterparts remains elusive. Through a comprehensive empirical study, we first observe that direct large-scale pre-training in pixel space converges substantially m",
+      "en": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-conditional settings. Consequently, a practical recipe for training pixel-space models that rival or exceed well-established latent-space counterparts remains elusive. Through a comprehensive empirical study, we first observe that direct large-scale pre-training in pixel space converges substantially m",
+      "score": 0.4683
+    },
+    {
+      "title": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+      "url": "https://arxiv.org/abs/2608.16876v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolated equations. Finite, noisy data often yield numerically competitive expressions that imply very different behavior outside the observed regime, making numerical fit and syntactic complexity insufficient measures of scientific credibility. Existing approaches largely focus on improving expressions, y",
+      "en": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolated equations. Finite, noisy data often yield numerically competitive expressions that imply very different behavior outside the observed regime, making numerical fit and syntactic complexity insufficient measures of scientific credibility. Existing approaches largely focus on improving expressions, y",
+      "score": 0.4682
+    },
+    {
+      "title": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+      "url": "https://arxiv.org/abs/2608.16859v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollout requires understanding whether physics, causality, and world state evolve correctly. Humans spot such violations naturally, yet no existing benchmark automates this capability: metrics are computed brute-force, leaving no reasoning chain that can be examined or verified. We introduce HarnessEval-",
+      "en": "A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollout requires understanding whether physics, causality, and world state evolve correctly. Humans spot such violations naturally, yet no existing benchmark automates this capability: metrics are computed brute-force, leaving no reasoning chain that can be examined or verified. We introduce HarnessEval-",
+      "score": 0.4678
+    },
+    {
+      "title": "alchaincyf/deepseek-harness-orange-book",
+      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志, , 官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "en": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志, , 官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "score": 0.6149
+    }
+  ]
+}
