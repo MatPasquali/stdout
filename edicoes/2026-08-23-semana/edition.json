@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-23",
+  "weekly": true,
+  "range": "17/08 a 23/08",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates, with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "en": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates, with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "score": 0.8527
+    },
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI;DR (AI; Didn't Read)",
+      "en": "AI;DR (AI; Didn't Read)",
+      "score": 0.8215
+    },
+    {
+      "title": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "en": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "score": 0.8112
+    },
+    {
+      "title": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "en": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "score": 0.8077
+    },
+    {
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A joke domain purchase turned in geopolitical warfare",
+      "en": "A joke domain purchase turned in geopolitical warfare",
+      "score": 0.8064
+    },
+    {
+      "title": "Leutenegger/watermarks-remover",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "en": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "score": 0.8003
+    },
+    {
+      "title": "CopilotKit/openbot",
+      "url": "https://github.com/CopilotKit/openbot",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "score": 0.7995
+    },
+    {
+      "title": "cinderline/northcinder",
+      "url": "https://github.com/cinderline/northcinder",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "en": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "score": 0.7915
+    },
+    {
+      "title": "Don't paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Don't paste the AI, please",
+      "en": "Don't paste the AI, please",
+      "score": 0.7751
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "en": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "score": 0.7721
+    },
+    {
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "en": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "score": 0.769
+    },
+    {
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 431 likes e 27 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 431 likes e 27 downloads.",
+      "score": 0.7687
+    }
+  ]
+}
