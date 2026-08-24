@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-24",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "duty1g/x64dbg-mcp-server",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig, zero dependencies, single-binary output, cros",
+      "en": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig, zero dependencies, single-binary output, cros",
+      "score": 0.8191
+    },
+    {
+      "title": "ShadowAqueduct/watermark-remover",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "en": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "score": 0.7988
+    },
+    {
+      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+      "en": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+      "score": 0.704
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-H3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-video', com 4395 likes e 4465161 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-video', com 4395 likes e 4465161 downloads.",
+      "score": 0.6
+    },
+    {
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1068 likes e 224114 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1068 likes e 224114 downloads.",
+      "score": 0.4657
+    },
+    {
+      "title": "AI vendors are turning to custom hardware as Microsoft winds back the clock on Windows",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/24/ai-vendors-are-turning-to-custom-hardware-as-microsoft-winds-back-the-clock-on-windows/5291293",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Vendors are moving way beyond Nvidia’s GPUs in the datacenter",
+      "en": "Vendors are moving way beyond Nvidia’s GPUs in the datacenter",
+      "score": 0.3985
+    },
+    {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "en": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "score": 0.3719
+    },
+    {
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "There's no reason for software to be slow anymore",
+      "en": "There's no reason for software to be slow anymore",
+      "score": 0.694
+    },
+    {
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Kobo can run apps now",
+      "en": "Kobo can run apps now",
+      "score": 0.6797
+    },
+    {
+      "title": "The August 17 outage",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The August 17 outage",
+      "en": "The August 17 outage",
+      "score": 0.6407
+    },
+    {
+      "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+      "url": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "industria",
+      "pt": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and perhaps cheaper models, eventually. In a Mastodon thread, the GrapheneOS Foundation announced that it will […]",
+      "en": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and perhaps cheaper models, eventually. In a Mastodon thread, the GrapheneOS Foundation announced that it will […]",
+      "score": 0.4997
+    },
+    {
+      "title": "Remote workers report the highest well-being in study of 7,700 employees",
+      "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Remote workers report the highest well-being in study of 7,700 employees",
+      "en": "Remote workers report the highest well-being in study of 7,700 employees",
+      "score": 0.5923
+    },
+    {
+      "title": "How we built an application tracker that cannot lie to you",
+      "url": "https://dev.to/whateverneveranywhere/how-we-built-an-application-tracker-that-cannot-lie-to-you-46bl",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Most software tells you what it did. AI Applyd tells you what the employer did, and the difference\nis an architecture decision you can copy.\n\nHere is the design, because I think the pattern generalises to anything that hands work to a system\nyou do not control.\n\n  \n  \n  The rule the whole system is built on\n\n\nNo state that matters may be writable by us.\n\nOne field decides whether an application counts as sent. That field can only be written by an inbound\nemail from the employer's applicant track",
+      "en": "Most software tells you what it did. AI Applyd tells you what the employer did, and the difference\nis an architecture decision you can copy.\n\nHere is the design, because I think the pattern generalises to anything that hands work to a system\nyou do not control.\n\n  \n  \n  The rule the whole system is built on\n\n\nNo state that matters may be writable by us.\n\nOne field decides whether an application counts as sent. That field can only be written by an inbound\nemail from the employer's applicant track",
+      "score": 0.3495
+    },
+    {
+      "title": "Level Up Your Interview Game: My 'Quest for the Holy Grail' Technique to Build Projects That Wow",
+      "url": "https://dev.to/timevolt/level-up-your-interview-game-my-quest-for-the-holy-grail-technique-to-build-projects-that-wow-5e6i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "The Quest Begins (The \"Why\")\n\n\nI remember the first time I sat across from an interviewer and they asked, “Tell me about a project you’re proud of.” I opened my mouth, started listing the tech stack, React, Node, PostgreSQL, and then froze. I could see the interviewer’s eyes glaze over. I had built something cool, but I couldn’t convey why it mattered. After a few of those awkward moments, I realized I was missing a simple storytelling trick that turns a list of technologies into a compelling narr",
+      "en": "The Quest Begins (The \"Why\")\n\n\nI remember the first time I sat across from an interviewer and they asked, “Tell me about a project you’re proud of.” I opened my mouth, started listing the tech stack, React, Node, PostgreSQL, and then froze. I could see the interviewer’s eyes glaze over. I had built something cool, but I couldn’t convey why it mattered. After a few of those awkward moments, I realized I was missing a simple storytelling trick that turns a list of technologies into a compelling narr",
+      "score": 0.3495
+    },
+    {
+      "title": "Explore the Enchantment of Raja7: 5 Underrated Features That Will Elevate Your Gameplay in 2026",
+      "url": "https://dev.to/disha_sonagra_d0f57d6c8ff/explore-the-enchantment-of-raja7-5-underrated-features-that-will-elevate-your-gameplay-in-2026-3ll5",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Explore the Enchantment of Raja7: 5 Underrated Features That Will Elevate Your Gameplay in 2026\n\nAs we delve into the world of gaming, Raja7 emerges as a gem that promises to captivate both seasoned players and newcomers alike. With its intricate mechanics and immersive environments, Raja7 is more than just a game; it’s an experience waiting to be explored. This article serves as the ultimate buyer's guide for serious gamers contemplating their next investment. Whether you're intrigued by its un",
+      "en": "Explore the Enchantment of Raja7: 5 Underrated Features That Will Elevate Your Gameplay in 2026\n\nAs we delve into the world of gaming, Raja7 emerges as a gem that promises to captivate both seasoned players and newcomers alike. With its intricate mechanics and immersive environments, Raja7 is more than just a game; it’s an experience waiting to be explored. This article serves as the ultimate buyer's guide for serious gamers contemplating their next investment. Whether you're intrigued by its un",
+      "score": 0.3489
+    },
+    {
+      "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+      "url": "https://arxiv.org/abs/2608.21360v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuously perceive environments and guide users to achieve specific goals. Unlike traditional passive video understanding, interactive assistants should actively combine visual states, user goals, and prior knowledge to provide effective help. Evaluating this is rather challenging, as the model's unpredictable response dynamically changes the user's subsequent actions, which static of",
+      "en": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuously perceive environments and guide users to achieve specific goals. Unlike traditional passive video understanding, interactive assistants should actively combine visual states, user goals, and prior knowledge to provide effective help. Evaluating this is rather challenging, as the model's unpredictable response dynamically changes the user's subsequent actions, which static of",
+      "score": 0.3825
+    },
+    {
+      "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+      "url": "https://arxiv.org/abs/2608.21357v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation tasks, spanning the types of artifacts examined throughout experimental workflows in the biotech industry (rather than polished figures from publications and textbooks). While frontier vision-language",
+      "en": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation tasks, spanning the types of artifacts examined throughout experimental workflows in the biotech industry (rather than polished figures from publications and textbooks). While frontier vision-language",
+      "score": 0.3825
+    },
+    {
+      "title": "AI with Authority, from Application to Silicon",
+      "url": "https://arxiv.org/abs/2608.21356v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee that lets one person safely direct autonomous machine work at scale. In five weeks, one researcher on consumer AI subscriptions directed a small fleet of AI agents from application code, through a verifi",
+      "en": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee that lets one person safely direct autonomous machine work at scale. In five weeks, one researcher on consumer AI subscriptions directed a small fleet of AI agents from application code, through a verifi",
+      "score": 0.3825
+    },
+    {
+      "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
+      "url": "https://arxiv.org/abs/2608.21345v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the three stages involve different cognitive demands, most existing approaches conveniently treat the model size as an implementation detail rather than a subject of study, which may lead to a waste of resources. Little work has systematically examined how model size affects each stage or whether effective ",
+      "en": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the three stages involve different cognitive demands, most existing approaches conveniently treat the model size as an implementation detail rather than a subject of study, which may lead to a waste of resources. Little work has systematically examined how model size affects each stage or whether effective ",
+      "score": 0.3823
+    },
+    {
+      "title": "b-nnett/grok-bot-0.18-reconstructed",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "en": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "score": 0.7451
+    },
+    {
+      "title": "nateherkai/scroll-craft",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+      "en": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+      "score": 0.7242
+    },
+    {
+      "title": "cclank/lanshu-create-ai-presenter-video",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "en": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "score": 0.6579
+    },
+    {
+      "title": "iAmCorey/Wake",
+      "url": "https://github.com/iAmCorey/Wake",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Every coding-agent session on your Mac in one place, browse, search, resume. Rust + GPUI.",
+      "en": "Every coding-agent session on your Mac in one place, browse, search, resume. Rust + GPUI.",
+      "score": 0.5937
+    }
+  ]
+}
