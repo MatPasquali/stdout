@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-25",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "score": 0.7847
+    },
+    {
+      "title": "Forsy-AI/biosecurity-agent",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "AI agent that builds a live biosecurity world around any target.",
+      "en": "AI agent that builds a live biosecurity world around any target.",
+      "score": 0.7754
+    },
+    {
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "en": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "score": 0.7686
+    },
+    {
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "en": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "score": 0.7684
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI companies destroy physical books, let's scan rare books before it's too late",
+      "en": "AI companies destroy physical books, let's scan rare books before it's too late",
+      "score": 0.6073
+    },
+    {
+      "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 707 likes e 1525645 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 707 likes e 1525645 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 284 likes e 1156903 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 284 likes e 1156903 downloads.",
+      "score": 0.5307
+    },
+    {
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "How Europe is killing makers and micro-entrepreneurs",
+      "en": "How Europe is killing makers and micro-entrepreneurs",
+      "score": 0.7595
+    },
+    {
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Everything I own, owned",
+      "en": "Everything I own, owned",
+      "score": 0.7317
+    },
+    {
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "en": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "score": 0.7311
+    },
+    {
+      "title": "Andreessen Horowitz is investing billions into a bleak future",
+      "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Andreessen Horowitz is investing billions into a bleak future",
+      "en": "Andreessen Horowitz is investing billions into a bleak future",
+      "score": 0.6999
+    },
+    {
+      "title": "Can I fund an open source maintainer through GitHub Sponsors now?",
+      "url": "https://dev.to/devconnect/can-i-fund-an-open-source-maintainer-through-github-sponsors-now-2566",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Short answer: Yes. You can sponsor an open source maintainer on GitHub Sponsors now if they have a sponsored profile, and they must live in a supported region to receive funds.\n\nYes. GitHub Sponsors is built for exactly that: paying people and organizations who design, build, and maintain open source projects directly on GitHub. If the maintainer has a sponsored profile, you can sponsor them from your personal account or, where allowed, through an organization account.\n\nThe part people get wrong",
+      "en": "Short answer: Yes. You can sponsor an open source maintainer on GitHub Sponsors now if they have a sponsored profile, and they must live in a supported region to receive funds.\n\nYes. GitHub Sponsors is built for exactly that: paying people and organizations who design, build, and maintain open source projects directly on GitHub. If the maintainer has a sponsored profile, you can sponsor them from your personal account or, where allowed, through an organization account.\n\nThe part people get wrong",
+      "score": 0.399
+    },
+    {
+      "title": "Career Change in 2026: How to Know When It Is Time for a New Career",
+      "url": "https://dev.to/rakeshvcoach/career-change-in-2026-how-to-know-when-it-is-time-for-a-new-career-1e21",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "You can have a good job and still feel unsure about what comes next. Maybe you have worked hard, taken on more responsibility, and built a strong career. Yet you may still wonder whether you should aim for a promotion, change companies, or move in a completely different direction.\n\nThese questions become harder when you already have years of experience. Starting again may not make sense, but staying where you are may not feel right either. This is where career coaching can help you step back, un",
+      "en": "You can have a good job and still feel unsure about what comes next. Maybe you have worked hard, taken on more responsibility, and built a strong career. Yet you may still wonder whether you should aim for a promotion, change companies, or move in a completely different direction.\n\nThese questions become harder when you already have years of experience. Starting again may not make sense, but staying where you are may not feel right either. This is where career coaching can help you step back, un",
+      "score": 0.3494
+    },
+    {
+      "title": "Getting Started with Python",
+      "url": "https://dev.to/jane_ndungu/getting-started-with-python-4h5o",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Introduction to Python\n\n\nWhat is Python? Python is like the way you give a computer instructions.\n\n\n  \n  \n  Why is Python preferred for beginners\n\n\n\nIt's easy to learn and understand\nIt's one of the most in-demand skills in the market today\nIt's free and open-source\nIt's used to automate tasks, build websites, and analyze data\n\n\n\n  \n  \n  Core concepts & Basic Python Functions\n\n\nprint()\n\nThis is basically like giving a computer some instructions on what it should print on the screen.\n\n\n\nvariables",
+      "en": "Introduction to Python\n\n\nWhat is Python? Python is like the way you give a computer instructions.\n\n\n  \n  \n  Why is Python preferred for beginners\n\n\n\nIt's easy to learn and understand\nIt's one of the most in-demand skills in the market today\nIt's free and open-source\nIt's used to automate tasks, build websites, and analyze data\n\n\n\n  \n  \n  Core concepts & Basic Python Functions\n\n\nprint()\n\nThis is basically like giving a computer some instructions on what it should print on the screen.\n\n\n\nvariables",
+      "score": 0.349
+    },
+    {
+      "title": "The same ghost job is charging you three times",
+      "url": "https://dev.to/whateverneveranywhere/the-same-ghost-job-is-charging-you-three-times-3i5m",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "You open a listing and something about it feels familiar. The title, the bullet about \"fast-paced environment\", the same slightly-off salary band. You check your tracker. You applied to this in March.\n\nExcept you didn't, not to this one. This is a different URL, on a different board, posted eleven days ago.\n\nIt is the same job.\n\n\n  \n  \n  Syndication is the part nobody explains\n\n\nWhen a company posts a role, it rarely stays in one place. The ATS pushes it to the company careers page, then to the ",
+      "en": "You open a listing and something about it feels familiar. The title, the bullet about \"fast-paced environment\", the same slightly-off salary band. You check your tracker. You applied to this in March.\n\nExcept you didn't, not to this one. This is a different URL, on a different board, posted eleven days ago.\n\nIt is the same job.\n\n\n  \n  \n  Syndication is the part nobody explains\n\n\nWhen a company posts a role, it rarely stays in one place. The ATS pushes it to the company careers page, then to the ",
+      "score": 0.3487
+    },
+    {
+      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "url": "https://arxiv.org/abs/2608.23564v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only behavioural correctness, not whether the migration actually occurred. This leads an easy hack: agents copy the original implementation to make tests pass. We call this Blindness. To addre",
+      "en": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only behavioural correctness, not whether the migration actually occurred. This leads an easy hack: agents copy the original implementation to make tests pass. We call this Blindness. To addre",
+      "score": 0.4682
+    },
+    {
+      "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+      "url": "https://arxiv.org/abs/2608.23563v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propose Expert-Grounded Distillation (EGD), a novel artificial intelligence framework that transfers institutional road safety expertise into a compact vision-language model for scalable visual road safety auditing. The key in",
+      "en": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propose Expert-Grounded Distillation (EGD), a novel artificial intelligence framework that transfers institutional road safety expertise into a compact vision-language model for scalable visual road safety auditing. The key in",
+      "score": 0.4682
+    },
+    {
+      "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+      "url": "https://arxiv.org/abs/2608.23562v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted fiducial points in temporal or amplitude axis, and BP varies with personal hemodynamic changes, causing misaligned representations that affect model generalizability and robustness. In this work, we propose a non-invasive BP estimation framework, Phy-BP, based on triaxial bodyseis",
+      "en": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted fiducial points in temporal or amplitude axis, and BP varies with personal hemodynamic changes, causing misaligned representations that affect model generalizability and robustness. In this work, we propose a non-invasive BP estimation framework, Phy-BP, based on triaxial bodyseis",
+      "score": 0.4682
+    },
+    {
+      "title": "Prime Agent: A Self-Improving RLM Harness",
+      "url": "https://arxiv.org/abs/2608.23552v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstraction for programmatic context processing and test-time compute, while Continual Harness preserves histories, memories, skills, prompts, and subagent specifications across trajectorie",
+      "en": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstraction for programmatic context processing and test-time compute, while Continual Harness preserves histories, memories, skills, prompts, and subagent specifications across trajectorie",
+      "score": 0.4681
+    },
+    {
+      "title": "ApodexAI/FrontierAgent",
+      "url": "https://github.com/ApodexAI/FrontierAgent",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "🧩 FrontierAgent, our agent framework, open-sourced alongside it, native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "en": "🧩 FrontierAgent, our agent framework, open-sourced alongside it, native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "score": 0.7296
+    },
+    {
+      "title": "Zyrexnn/Cybermes",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "en": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "score": 0.679
+    },
+    {
+      "title": "localai-org/kimodo.cpp",
+      "url": "https://github.com/localai-org/kimodo.cpp",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "NVIDIA Kimodo ported to C++/GGML",
+      "en": "NVIDIA Kimodo ported to C++/GGML",
+      "score": 0.6617
+    },
+    {
+      "title": "amagine-ai/Amagine3D",
+      "url": "https://github.com/amagine-ai/Amagine3D",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Amagine3D: From hardware requirements to editable 3D designs",
+      "en": "Amagine3D: From hardware requirements to editable 3D designs",
+      "score": 0.5281
+    }
+  ]
+}
