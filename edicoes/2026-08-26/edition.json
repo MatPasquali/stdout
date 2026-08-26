@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-26",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Dolly Parton has died",
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Dolly Parton has died",
+      "en": "Dolly Parton has died",
+      "score": 0.7683
+    },
+    {
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Apple introduces M6 and M5 Ultra",
+      "en": "Apple introduces M6 and M5 Ultra",
+      "score": 0.7436
+    },
+    {
+      "title": "bryllim/workout-guide",
+      "url": "https://github.com/bryllim/workout-guide",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "en": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "score": 0.6344
+    },
+    {
+      "title": "superwhisper/s1-mini",
+      "url": "https://huggingface.co/superwhisper/s1-mini",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 246 likes e 3921 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 246 likes e 3921 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "source": "Ars Technica",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The focus is on agentic capability and predictable enterprise deployment.",
+      "en": "The focus is on agentic capability and predictable enterprise deployment.",
+      "score": 0.4489
+    },
+    {
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur…",
+      "en": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur…",
+      "score": 0.445
+    },
+    {
+      "title": "Apple: quais serão os preços do Mac Mini e do Mac Studio no Brasil?",
+      "url": "https://olhardigital.com.br/2026/08/26/reviews/apple-quais-serao-os-precos-do-mac-mini-e-do-mac-studio-no-brasil/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Apple atualiza Mac mini e Mac Studio com novos chips, mais memória e recursos para executar inteligência artificial localmente\nO post Apple: quais serão os preços do Mac Mini e do Mac Studio no Brasil? apareceu primeiro em Olhar Digital.",
+      "en": "Apple atualiza Mac mini e Mac Studio com novos chips, mais memória e recursos para executar inteligência artificial localmente\nO post Apple: quais serão os preços do Mac Mini e do Mac Studio no Brasil? apareceu primeiro em Olhar Digital.",
+      "score": 0.399
+    },
+    {
+      "title": "Nitter and XCancel receive cease and desist notices",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Nitter and XCancel receive cease and desist notices",
+      "en": "Nitter and XCancel receive cease and desist notices",
+      "score": 0.7391
+    },
+    {
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "New Mac Studio with M5 Max and M5 Ultra",
+      "en": "New Mac Studio with M5 Max and M5 Ultra",
+      "score": 0.7149
+    },
+    {
+      "title": "Oceans hit highest temperature on record",
+      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Oceans hit highest temperature on record",
+      "en": "Oceans hit highest temperature on record",
+      "score": 0.6757
+    },
+    {
+      "title": "SpaceX plans to plant $100B Starbase on Louisiana coast",
+      "url": "https://www.theregister.com/offbeat/2026/08/26/spacex-plans-to-plant-100b-starbase-on-louisiana-coast/5292520",
+      "source": "The Register",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Plans to break ground in 2027, produce own propellent, power in 'self-sustaining' spaceport. All before Starship ships v1.0 orbit",
+      "en": "Plans to break ground in 2027, produce own propellent, power in 'self-sustaining' spaceport. All before Starship ships v1.0 orbit",
+      "score": 0.3994
+    },
+    {
+      "title": "A Take-Home Task That Actually Tests AI Reviewers: Prompt, Rubric, and Failure Modes",
+      "url": "https://dev.to/appjs_3979/a-take-home-task-that-actually-tests-ai-reviewers-prompt-rubric-and-failure-modes-5hl6",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Most AI code review bots fail in predictable ways, and the root cause is almost never the model. The missing piece is a reproducible evaluation: a fixed repository, a planted defect, and a rubric that scores every comment the bot produces. This article packages that evaluation as a take-home task that a team can run in an afternoon, whether the candidate is a human or an LLM.\n\nThe task below grew out of a simple observation from recent review-bot audits. Teams adopt AI reviewers because they are",
+      "en": "Most AI code review bots fail in predictable ways, and the root cause is almost never the model. The missing piece is a reproducible evaluation: a fixed repository, a planted defect, and a rubric that scores every comment the bot produces. This article packages that evaluation as a take-home task that a team can run in an afternoon, whether the candidate is a human or an LLM.\n\nThe task below grew out of a simple observation from recent review-bot audits. Teams adopt AI reviewers because they are",
+      "score": 0.4493
+    },
+    {
+      "title": "A Pairing Session on Free AI Coding Access: Three Dead Ends and the Decision That Stuck",
+      "url": "https://dev.to/appjs_7055/a-pairing-session-on-free-ai-coding-access-three-dead-ends-and-the-decision-that-stuck-42cl",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Two engineers opened a pairing session on a Friday afternoon. The topic was narrow: could a free AI coding model and a free agent server carry real work, or were they about to build on a demo that would vanish at the worst moment? The session ran ninety minutes. It produced one decision, three dead ends, and a short list of questions that mattered more than any token count.\n\nThe trigger was familiar. AI had promoted everyone on the team to reviewer, but nobody had tested the reviewer. The mid-le",
+      "en": "Two engineers opened a pairing session on a Friday afternoon. The topic was narrow: could a free AI coding model and a free agent server carry real work, or were they about to build on a demo that would vanish at the worst moment? The session ran ninety minutes. It produced one decision, three dead ends, and a short list of questions that mattered more than any token count.\n\nThe trigger was familiar. AI had promoted everyone on the team to reviewer, but nobody had tested the reviewer. The mid-le",
+      "score": 0.4487
+    },
+    {
+      "title": "How to Get Hired at an AI Infrastructure Company",
+      "url": "https://dev.to/rishi_kora/how-to-get-hired-at-an-ai-infrastructure-company-4b8o",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Originally published on AI Tech Connect.\n\nWhat you need to know Infrastructure companies sell the substrate, not the feature. If the invoice is denominated in GPU-hours, tokens or requests rather than seats, the hiring rubric changes underneath you. The rubric is unusually stable. Prompting fashions turn over every few months; memory bandwidth, queueing theory and the cost of a cache miss do not. Skills learned here keep paying. App-layer proof of work reads as off-target. A beautifully engineer",
+      "en": "Originally published on AI Tech Connect.\n\nWhat you need to know Infrastructure companies sell the substrate, not the feature. If the invoice is denominated in GPU-hours, tokens or requests rather than seats, the hiring rubric changes underneath you. The rubric is unusually stable. Prompting fashions turn over every few months; memory bandwidth, queueing theory and the cost of a cache miss do not. Skills learned here keep paying. App-layer proof of work reads as off-target. A beautifully engineer",
+      "score": 0.3995
+    },
+    {
+      "title": "The Machine Learning Reason You're Stuck in the Wrong Career",
+      "url": "https://dev.to/munsifnaqvi/the-machine-learning-reason-youre-stuck-in-the-wrong-career-562i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "When you were young, you had all these dreams and goals you wanted to achieve. Football player, astronaut, filmmaker, skier, F1 driver, writer, space cowboy (ik it might just be me).\n\nBut as you grew older, most of these dreams started to fade, feel unrealistic and out of reach. Perhaps a few were, but even the ones that weren’t - they’re just gone.\n\nThe pattern is mostly the same:\n\nMaybe you opted for a major in school, or life drifted you onto a path. But eventually, you found something to stu",
+      "en": "When you were young, you had all these dreams and goals you wanted to achieve. Football player, astronaut, filmmaker, skier, F1 driver, writer, space cowboy (ik it might just be me).\n\nBut as you grew older, most of these dreams started to fade, feel unrealistic and out of reach. Perhaps a few were, but even the ones that weren’t - they’re just gone.\n\nThe pattern is mostly the same:\n\nMaybe you opted for a major in school, or life drifted you onto a path. But eventually, you found something to stu",
+      "score": 0.3989
+    },
+    {
+      "title": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
+      "url": "https://arxiv.org/abs/2608.24885v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithfully reflect arbitrary valid actions. Existing benchmarks are typically confined to expert demonstrations, leaving off-expert action following inadequately evaluated. To address this gap, we introduce WorldEcho, which probes action following over a broader action distribution using visual integrity an",
+      "en": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithfully reflect arbitrary valid actions. Existing benchmarks are typically confined to expert demonstrations, leaving off-expert action following inadequately evaluated. To address this gap, we introduce WorldEcho, which probes action following over a broader action distribution using visual integrity an",
+      "score": 0.4682
+    },
+    {
+      "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
+      "url": "https://arxiv.org/abs/2608.24877v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-body viewpoint aligns with the wearer's vision, audition, motion, and hand-object interaction, but must operate under tight energy, thermal, privacy, and feedback constraints. Despite rapid progress in augmented reality, egocentric vision, multimodal models, human-computer interaction, and embodied int",
+      "en": "Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-body viewpoint aligns with the wearer's vision, audition, motion, and hand-object interaction, but must operate under tight energy, thermal, privacy, and feedback constraints. Despite rapid progress in augmented reality, egocentric vision, multimodal models, human-computer interaction, and embodied int",
+      "score": 0.4681
+    },
+    {
+      "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+      "url": "https://arxiv.org/abs/2608.24876v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress and guides skill selection from Experiential Memory, grounding skill use in current needs rather than the full history. This coupling also turns execution into structured evidence that localizes fail",
+      "en": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress and guides skill selection from Experiential Memory, grounding skill use in current needs rather than the full history. This coupling also turns execution into structured evidence that localizes fail",
+      "score": 0.4681
+    },
+    {
+      "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
+      "url": "https://arxiv.org/abs/2608.24865v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this problem for two-layer input-convex neural networks (ICNNs), a restricted architecture where nonnegative output weights enforce convexity. Computing the $L_p$-Lipschitz constant for these networks is equivalent to maximizing the dual norm over a zonotope. While $L_1$- and $L_\\infty$-norm maximization on zo",
+      "en": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this problem for two-layer input-convex neural networks (ICNNs), a restricted architecture where nonnegative output weights enforce convexity. Computing the $L_p$-Lipschitz constant for these networks is equivalent to maximizing the dual norm over a zonotope. While $L_1$- and $L_\\infty$-norm maximization on zo",
+      "score": 0.4678
+    },
+    {
+      "title": "RobertGolds1/Gradient",
+      "url": "https://github.com/RobertGolds1/Gradient",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Gradient",
+      "en": "Gradient",
+      "score": 0.5992
+    },
+    {
+      "title": "themartiano/try-omarchy",
+      "url": "https://github.com/themartiano/try-omarchy",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Try Omarchy on Apple Silicon without any setup.",
+      "en": "Try Omarchy on Apple Silicon without any setup.",
+      "score": 0.5976
+    },
+    {
+      "title": "LB623/no-negative-echo",
+      "url": "https://github.com/LB623/no-negative-echo",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+      "en": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+      "score": 0.4963
+    },
+    {
+      "title": "xdreizein666/getcontact-cli",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "en": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "score": 0.4447
+    }
+  ]
+}
