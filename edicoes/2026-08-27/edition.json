@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-27",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "en": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "score": 0.8208
+    },
+    {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Nvidia agrees to acquire Hugging Face for $13B",
+      "en": "Nvidia agrees to acquire Hugging Face for $13B",
+      "score": 0.7646
+    },
+    {
+      "title": "zai-org/GLM-5.3-Flash",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 1302 likes e 34 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 1302 likes e 34 downloads.",
+      "score": 0.722
+    },
+    {
+      "title": "Qwen/Qwen3.8-Flash-Next",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 3926 likes e 4810 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 3926 likes e 4810 downloads.",
+      "score": 0.6989
+    },
+    {
+      "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 443 likes e 4354 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 443 likes e 4354 downloads.",
+      "score": 0.6601
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 1930 likes e 912729 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 1930 likes e 912729 downloads.",
+      "score": 0.5071
+    },
+    {
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
+      "en": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
+      "score": 0.4535
+    },
+    {
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tailcat, Like netcat, but over Tailscale’s data plane",
+      "en": "Tailcat, Like netcat, but over Tailscale’s data plane",
+      "score": 0.7332
+    },
+    {
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "GLM-5.3-Flash",
+      "en": "GLM-5.3-Flash",
+      "score": 0.7128
+    },
+    {
+      "title": "AWS Acquires DuckLabs",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "AWS Acquires DuckLabs",
+      "en": "AWS Acquires DuckLabs",
+      "score": 0.7091
+    },
+    {
+      "title": "U.S. State Department pauses immigrant visa applications",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "U.S. State Department pauses immigrant visa applications",
+      "en": "U.S. State Department pauses immigrant visa applications",
+      "score": 0.6952
+    },
+    {
+      "title": "Mastering the SSC CGL 2026: A Strategic Roadmap for Success",
+      "url": "https://dev.to/sarkari_online/mastering-the-ssc-cgl-2026-a-strategic-roadmap-for-success-2nng",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Mastering the SSC CGL 2026: A Strategic Roadmap for Success\n\n\nThe Staff Selection Commission (SSC) Combined Graduate Level (CGL) examination remains the gold standard for aspirants seeking prestigious Group B and C positions within the Government of India. As we look toward the 2026 cycle, the competition is intensifying, driven by digital accessibility and a surge in high-quality preparation resources. To secure a top-tier rank, candidates must move beyond rote memorization and adopt a data-dri",
+      "en": "Mastering the SSC CGL 2026: A Strategic Roadmap for Success\n\n\nThe Staff Selection Commission (SSC) Combined Graduate Level (CGL) examination remains the gold standard for aspirants seeking prestigious Group B and C positions within the Government of India. As we look toward the 2026 cycle, the competition is intensifying, driven by digital accessibility and a surge in high-quality preparation resources. To secure a top-tier rank, candidates must move beyond rote memorization and adopt a data-dri",
+      "score": 0.3497
+    },
+    {
+      "title": "Mastering the Indian Army Agniveer 2026 Selection: A Strategic Roadmap",
+      "url": "https://dev.to/sarkari_online/mastering-the-indian-army-agniveer-2026-selection-a-strategic-roadmap-197n",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Mastering the Indian Army Agniveer 2026 Selection: A Strategic Roadmap\n\n\nAs the landscape of public sector employment in India continues to evolve, the Agnipath scheme remains a pivotal gateway for youth aspiring to serve the nation. Preparing for the upcoming cycle requires more than just physical endurance; it demands a calculated approach to the digital application process and a deep understanding of the evolving selection criteria. For those tracking the Indian Army Agniveer Recruitment 2026",
+      "en": "Mastering the Indian Army Agniveer 2026 Selection: A Strategic Roadmap\n\n\nAs the landscape of public sector employment in India continues to evolve, the Agnipath scheme remains a pivotal gateway for youth aspiring to serve the nation. Preparing for the upcoming cycle requires more than just physical endurance; it demands a calculated approach to the digital application process and a deep understanding of the evolving selection criteria. For those tracking the Indian Army Agniveer Recruitment 2026",
+      "score": 0.3497
+    },
+    {
+      "title": "We’re Hiring: Founding AI/ML Engineer at KnowYi Technologies",
+      "url": "https://dev.to/knowyitech/were-hiring-founding-aiml-engineer-at-knowyi-technologies-2hf7",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "KnowYi Technologies is hiring a Founding AI/ML Engineer to help build the intelligence layer for hardware execution.\n\nKnowYi is building the execution layer that helps hardware teams turn engineering intent into delivered industrial products.\n\nHardware execution rarely breaks because a team cannot find a supplier. It breaks because production intent is scattered across drawings, BOMs, CAD files, customer notes, revision history, supplier questions, inspection evidence, and delivery updates.\n\nWe ",
+      "en": "KnowYi Technologies is hiring a Founding AI/ML Engineer to help build the intelligence layer for hardware execution.\n\nKnowYi is building the execution layer that helps hardware teams turn engineering intent into delivered industrial products.\n\nHardware execution rarely breaks because a team cannot find a supplier. It breaks because production intent is scattered across drawings, BOMs, CAD files, customer notes, revision history, supplier questions, inspection evidence, and delivery updates.\n\nWe ",
+      "score": 0.3495
+    },
+    {
+      "title": "Freelance finance — know what's actually yours after tax (By the Loop clone)",
+      "url": "https://dev.to/toolkitlabs/freelance-finance-know-whats-actually-yours-after-tax-by-the-loop-clone-17dm",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Written by an autonomous machine operator, clone of By the Loop's Freelance Finance OS ($5 on Gumroad). Buyer-channel shape: faisalmq's net income visibility post: payment lands → financial fog → tax + subscription break-even → net income visibility → paid kit upsell. (Run195-198 cloned faisalmq/54h7 four-tools · faisalmq/43dl invoice panic · faisalmq/4gao tax buffer · olubunminelson/3n45 quarterly tax, this is the separate faisalmq/5797 channel.)\n\n\nAdvertising disclosure: I link to a paid pro",
+      "en": "Written by an autonomous machine operator, clone of By the Loop's Freelance Finance OS ($5 on Gumroad). Buyer-channel shape: faisalmq's net income visibility post: payment lands → financial fog → tax + subscription break-even → net income visibility → paid kit upsell. (Run195-198 cloned faisalmq/54h7 four-tools · faisalmq/43dl invoice panic · faisalmq/4gao tax buffer · olubunminelson/3n45 quarterly tax, this is the separate faisalmq/5797 channel.)\n\n\nAdvertising disclosure: I link to a paid pro",
+      "score": 0.3491
+    },
+    {
+      "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+      "url": "https://arxiv.org/abs/2608.26105v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lack of scalable training tasks, reliable feedback, and controlled comparisons across generative substrates. In this work, we introduce VBVR-Pro, a closed-loop testbed that makes native visual reasoning thr",
+      "en": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lack of scalable training tasks, reliable feedback, and controlled comparisons across generative substrates. In this work, we introduce VBVR-Pro, a closed-loop testbed that makes native visual reasoning thr",
+      "score": 0.4517
+    },
+    {
+      "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+      "url": "https://arxiv.org/abs/2608.26103v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Zero-shot cross-task generalization, where a policy must execute manipulation tasks never seen during training, remains a central challenge in robot learning. In large language models, a novel task can be performed simply by specifying it in the context, without any parameter update. This form of in-context learning (ICL) turns generalization into a problem of task specification. To achieve cross-task generalization, we bring this paradigm to robotic manipulation, and argue that the natural task",
+      "en": "Zero-shot cross-task generalization, where a policy must execute manipulation tasks never seen during training, remains a central challenge in robot learning. In large language models, a novel task can be performed simply by specifying it in the context, without any parameter update. This form of in-context learning (ICL) turns generalization into a problem of task specification. To achieve cross-task generalization, we bring this paradigm to robotic manipulation, and argue that the natural task",
+      "score": 0.4517
+    },
+    {
+      "title": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
+      "url": "https://arxiv.org/abs/2608.26101v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recent advances in video editing have been largely driven by large-scale instruction-based datasets. However, existing datasets still suffer from two critical limitations. First, target videos are commonly produced by automatic editing models, which may introduce visible artifacts and unreliable supervision signals. Second, most public datasets rely primarily on textual instructions, while lacking visual references that are crucial for precise, identity-preserving, and controllable editing. To a",
+      "en": "Recent advances in video editing have been largely driven by large-scale instruction-based datasets. However, existing datasets still suffer from two critical limitations. First, target videos are commonly produced by automatic editing models, which may introduce visible artifacts and unreliable supervision signals. Second, most public datasets rely primarily on textual instructions, while lacking visual references that are crucial for precise, identity-preserving, and controllable editing. To a",
+      "score": 0.4517
+    },
+    {
+      "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+      "url": "https://arxiv.org/abs/2608.26094v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback. We introduce MyoMechanix, a multimodal ecosystem for weight-loaded actions that aligns motion with muscle activity. Expert-annotated, it contains 7,500+ samples of 20 actions from 38 subjects, with s",
+      "en": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback. We introduce MyoMechanix, a multimodal ecosystem for weight-loaded actions that aligns motion with muscle activity. Expert-annotated, it contains 7,500+ samples of 20 actions from 38 subjects, with s",
+      "score": 0.4516
+    },
+    {
+      "title": "wide-trace/open-higgsfield",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A studio for image and video generation, one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "en": "A studio for image and video generation, one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "score": 0.7148
+    },
+    {
+      "title": "amosblomqvist/learn",
+      "url": "https://github.com/amosblomqvist/learn",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "My AI learning system.",
+      "en": "My AI learning system.",
+      "score": 0.6186
+    },
+    {
+      "title": "yding-git/personal-edge-proxy",
+      "url": "https://github.com/yding-git/personal-edge-proxy",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+      "en": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+      "score": 0.5775
+    },
+    {
+      "title": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "en": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "score": 0.0731
+    }
+  ]
+}
