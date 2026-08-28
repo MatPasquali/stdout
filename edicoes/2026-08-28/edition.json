@@ -1,0 +1,206 @@
+{
+  "date": "2026-08-28",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Tim Curry has died",
+      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tim Curry has died",
+      "en": "Tim Curry has died",
+      "score": 0.7421
+    },
+    {
+      "title": "Qwen3.8-Flash-Next",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Qwen3.8-Flash-Next",
+      "en": "Qwen3.8-Flash-Next",
+      "score": 0.7337
+    },
+    {
+      "title": "Tencent/WeMM-Embedding",
+      "url": "https://github.com/Tencent/WeMM-Embedding",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+      "en": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+      "score": 0.6323
+    },
+    {
+      "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 849 likes e 509270 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 849 likes e 509270 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 687 likes e 938219 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 687 likes e 938219 downloads.",
+      "score": 0.5343
+    },
+    {
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
+      "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
+      "score": 0.428
+    },
+    {
+      "title": "A IA vai sair da tela? Anthropic cria padrão para controlar máquinas físicas",
+      "url": "https://olhardigital.com.br/2026/08/27/inteligencia-artificial/a-ia-vai-sair-da-tela-anthropic-cria-padrao-para-controlar-maquinas-fisicas/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Model Hardware Standard conecta sistemas de IA a microscópios, braços robóticos e outros dispositivos; tecnologia começa em fase de testes com laboratórios e fabricantes\nO post A IA vai sair da tela? Anthropic cria padrão para controlar máquinas físicas apareceu primeiro em Olhar Digital.",
+      "en": "Model Hardware Standard conecta sistemas de IA a microscópios, braços robóticos e outros dispositivos; tecnologia começa em fase de testes com laboratórios e fabricantes\nO post A IA vai sair da tela? Anthropic cria padrão para controlar máquinas físicas apareceu primeiro em Olhar Digital.",
+      "score": 0.3979
+    },
+    {
+      "title": "My Friend Aaron",
+      "url": "https://rorz.io/writing/my-friend-aaron",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "My Friend Aaron",
+      "en": "My Friend Aaron",
+      "score": 0.6957
+    },
+    {
+      "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+      "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
+      "en": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
+      "score": 0.4422
+    },
+    {
+      "title": "Tablet com teclado em 2026: 6 modelos que já vêm com o acessório na caixa",
+      "url": "https://tecnoblog.net/guias/tablet-com-teclado/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Selecionamos os melhores tablets que vêm com teclado físico na caixa para oferecer maior agilidade e versatilidade em tarefas de produtividade\nTablet com teclado em 2026: 6 modelos que já vêm com o acessório na caixa",
+      "en": "Selecionamos os melhores tablets que vêm com teclado físico na caixa para oferecer maior agilidade e versatilidade em tarefas de produtividade\nTablet com teclado em 2026: 6 modelos que já vêm com o acessório na caixa",
+      "score": 0.397
+    },
+    {
+      "title": "8 jogos que ficaram presos no PlayStation 3",
+      "url": "https://canaltech.com.br/games/jogos-presos-no-playstation-3/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Konami pegou todos de surpresa quando anunciou que tiraria Metal Gear Solid 4: Guns of the Patriots do PlayStation 3 após quase duas décadas preso no sistema. O jogo fazia parte de uma vasta seleção de títulos que até hoje nunca sequer receberam port, remake ou remaster para plataformas mais atuais.\nUm dos maiores culpados por prender tantos jogos ao PS3 foi o processador do console, o Cell Broadband Engine. Pela complexidade do chip, desenvolver jogos para o sistema de sétima geração foi um g",
+      "en": "A Konami pegou todos de surpresa quando anunciou que tiraria Metal Gear Solid 4: Guns of the Patriots do PlayStation 3 após quase duas décadas preso no sistema. O jogo fazia parte de uma vasta seleção de títulos que até hoje nunca sequer receberam port, remake ou remaster para plataformas mais atuais.\nUm dos maiores culpados por prender tantos jogos ao PS3 foi o processador do console, o Cell Broadband Engine. Pela complexidade do chip, desenvolver jogos para o sistema de sétima geração foi um g",
+      "score": 0.3947
+    },
+    {
+      "title": "AI Transforms Classrooms, CS Teachers Face Challenges | Career Outlook",
+      "url": "https://dev.to/career_aheadmagazine_0a5/ai-transforms-classrooms-cs-teachers-face-challenges-career-outlook-2f7",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Discover this resource originally compiled and published by Career Ahead Magazine.\n\n\n  \n  \n  AI Transforms Classrooms, CS Teachers Face Challenges | Career Outlook\n\n\nThe issue has gained urgency as educational institutions across India rush to incorporate AI and machine learning programs.\n\nRead the complete guide and checklists directly on our primary portal: Read the Full Article on Career Ahead",
+      "en": "Discover this resource originally compiled and published by Career Ahead Magazine.\n\n\n  \n  \n  AI Transforms Classrooms, CS Teachers Face Challenges | Career Outlook\n\n\nThe issue has gained urgency as educational institutions across India rush to incorporate AI and machine learning programs.\n\nRead the complete guide and checklists directly on our primary portal: Read the Full Article on Career Ahead",
+      "score": 0.3998
+    },
+    {
+      "title": "What Should a Real Data Engineer Assessment Actually Test?",
+      "url": "https://dev.to/bobby_ray_581732c715283b2/what-should-a-real-data-engineer-assessment-actually-test-5aj4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "What Should a# What Should a Real Data Engineer Assessment Actually Test?\n\nData Engineering interviews are surprisingly inconsistent.\n\nOne company may focus heavily on SQL. Another may ask Python coding questions. Another may go deep on Spark, data modeling, cloud architecture, or distributed systems. And sometimes candidates still get generic algorithm questions that have little connection to the work they would actually do.\n\nThat raises a better question:\n\n\nIf you had 60-90 minutes to evaluate",
+      "en": "What Should a# What Should a Real Data Engineer Assessment Actually Test?\n\nData Engineering interviews are surprisingly inconsistent.\n\nOne company may focus heavily on SQL. Another may ask Python coding questions. Another may go deep on Spark, data modeling, cloud architecture, or distributed systems. And sometimes candidates still get generic algorithm questions that have little connection to the work they would actually do.\n\nThat raises a better question:\n\n\nIf you had 60-90 minutes to evaluate",
+      "score": 0.3982
+    },
+    {
+      "title": "UPSC Engineering Services Prelims Exam Papers Available",
+      "url": "https://dev.to/career_aheadmagazine_0a5/upsc-engineering-services-prelims-exam-papers-available-kf8",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Discover this resource originally compiled and published by Career Ahead Magazine.\n\n\n  \n  \n  UPSC Engineering Services Prelims Exam Papers Available\n\n\nThe UPSC Engineering Services Exam is crucial for candidates seeking recruitment in various government engineering roles across disciplines such as Civil, Mechanical, Electrical, and Electronics & Telecommunication Engineering.\n\nRead the complete guide and checklists directly on our primary portal: Read the Full Article on Career Ahead",
+      "en": "Discover this resource originally compiled and published by Career Ahead Magazine.\n\n\n  \n  \n  UPSC Engineering Services Prelims Exam Papers Available\n\n\nThe UPSC Engineering Services Exam is crucial for candidates seeking recruitment in various government engineering roles across disciplines such as Civil, Mechanical, Electrical, and Electronics & Telecommunication Engineering.\n\nRead the complete guide and checklists directly on our primary portal: Read the Full Article on Career Ahead",
+      "score": 0.3492
+    },
+    {
+      "title": "Google AI Mode Tracks Flights, Books Hotels Efficiently",
+      "url": "https://dev.to/career_aheadmagazine_0a5/google-ai-mode-tracks-flights-books-hotels-efficiently-jej",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Discover this resource originally compiled and published by Career Ahead Magazine.\n\n\n  \n  \n  Google AI Mode Tracks Flights, Books Hotels Efficiently\n\n\nGoogle's AI Mode now allows users to track flight prices and book hotels by specifying travel preferences, offering tailored options from over 300 airlines and travel sites.\n\nRead the complete guide and checklists directly on our primary portal: Read the Full Article on Career Ahead",
+      "en": "Discover this resource originally compiled and published by Career Ahead Magazine.\n\n\n  \n  \n  Google AI Mode Tracks Flights, Books Hotels Efficiently\n\n\nGoogle's AI Mode now allows users to track flight prices and book hotels by specifying travel preferences, offering tailored options from over 300 airlines and travel sites.\n\nRead the complete guide and checklists directly on our primary portal: Read the Full Article on Career Ahead",
+      "score": 0.3492
+    },
+    {
+      "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
+      "url": "https://arxiv.org/abs/2608.26093v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer can be surrendered to an autonomous agent in its entirety. We adopt the autoresearch protocol, in which an AI coding agent edits a training script, runs a fixed-budget experiment, and retains or discards the change according to a single immutable metric. We grant the agent authority",
+      "en": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer can be surrendered to an autonomous agent in its entirety. We adopt the autoresearch protocol, in which an AI coding agent edits a training script, runs a fixed-budget experiment, and retains or discards the change according to a single immutable metric. We grant the agent authority",
+      "score": 0.4455
+    },
+    {
+      "title": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
+      "url": "https://arxiv.org/abs/2608.26088v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predictive planetary models remains bottlenecked by a fragmented data ecosystem, requiring manual data retrieval, multimodal data curation and fusion along with iterative model selection. We present the Planetary Prediction Engine (PPE), an autonomous AI system that executes this end-to-end workflow directl",
+      "en": "Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predictive planetary models remains bottlenecked by a fragmented data ecosystem, requiring manual data retrieval, multimodal data curation and fusion along with iterative model selection. We present the Planetary Prediction Engine (PPE), an autonomous AI system that executes this end-to-end workflow directl",
+      "score": 0.4453
+    },
+    {
+      "title": "TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development",
+      "url": "https://arxiv.org/abs/2608.26086v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over hours of feedback, and on most competitions still finishes below strong human competitors. Outcome-based benchmarks record this gap but not its cause, because they grade the final submission and discard the development process behind it. We introduce TraceML, which pairs human and agent work on the ",
+      "en": "Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over hours of feedback, and on most competitions still finishes below strong human competitors. Outcome-based benchmarks record this gap but not its cause, because they grade the final submission and discard the development process behind it. We introduce TraceML, which pairs human and agent work on the ",
+      "score": 0.4453
+    },
+    {
+      "title": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
+      "url": "https://arxiv.org/abs/2608.26081v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Collective intelligence can emerge when individuals coordinate through a shared environment, allowing local actions to accumulate into durable social organization. Language-model agents offer a new substrate for this process, yet most multi-agent systems rely on direct conversation, predefined roles, or centralized workflows. It remains unclear whether decentralized agents can build functional technologies and outperform independent search. Here, initially homogeneous LLM agents in SwarmWorld se",
+      "en": "Collective intelligence can emerge when individuals coordinate through a shared environment, allowing local actions to accumulate into durable social organization. Language-model agents offer a new substrate for this process, yet most multi-agent systems rely on direct conversation, predefined roles, or centralized workflows. It remains unclear whether decentralized agents can build functional technologies and outperform independent search. Here, initially homogeneous LLM agents in SwarmWorld se",
+      "score": 0.4452
+    },
+    {
+      "title": "tobi/walgit",
+      "url": "https://github.com/tobi/walgit",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "tobi/walgit",
+      "en": "tobi/walgit",
+      "score": 0.0625
+    }
+  ]
+}
