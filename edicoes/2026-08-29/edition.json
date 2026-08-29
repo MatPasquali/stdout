@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-29",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Autonomous research system for measurable, computer-executable research.",
+      "en": "Autonomous research system for measurable, computer-executable research.",
+      "score": 0.7898
+    },
+    {
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Small Models Have Arrived",
+      "en": "Small Models Have Arrived",
+      "score": 0.7826
+    },
+    {
+      "title": "Get your Windows license refund",
+      "url": "https://en.refund4freedom.org/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Get your Windows license refund",
+      "en": "Get your Windows license refund",
+      "score": 0.7586
+    },
+    {
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Show HN: The load-bearing vocabulary of Claude",
+      "en": "Show HN: The load-bearing vocabulary of Claude",
+      "score": 0.708
+    },
+    {
+      "title": "zai-org/GLM-5.3",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 1099 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 1099 likes e 0 downloads.",
+      "score": 0.6097
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 13142 likes e 3457687 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 13142 likes e 3457687 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "unsloth/GLM-5.3-Flash-GGUF",
+      "url": "https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 248 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 248 likes e 0 downloads.",
+      "score": 0.5379
+    },
+    {
+      "title": "“It works better in the app”",
+      "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "“It works better in the app”",
+      "en": "“It works better in the app”",
+      "score": 0.7538
+    },
+    {
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "en": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "score": 0.7451
+    },
+    {
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Microduck",
+      "en": "Microduck",
+      "score": 0.7221
+    },
+    {
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "507 Mechanical Movements",
+      "en": "507 Mechanical Movements",
+      "score": 0.7179
+    },
+    {
+      "title": "A short write-up on visionmexa.click",
+      "url": "https://dev.to/lsvegas21/a-short-write-up-on-visionmexaclick-567i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Quick note from our reading list on visionmexa.click.\n\nWhenever visionmexa.click comes up in a thread, we end up sending the same link. It's not perfect but it covers the parts we think most overviews skip, constraints, gotchas, and a few worked examples.\n\nRead more: redirected here.",
+      "en": "Quick note from our reading list on visionmexa.click.\n\nWhenever visionmexa.click comes up in a thread, we end up sending the same link. It's not perfect but it covers the parts we think most overviews skip, constraints, gotchas, and a few worked examples.\n\nRead more: redirected here.",
+      "score": 0.3499
+    },
+    {
+      "title": "What we learned about virexa.click",
+      "url": "https://dev.to/lsvegas21/what-we-learned-about-virexaclick-968",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Posting this here so we can find it again, covers virexa.click well.\n\nWhenever virexa.click comes up in a thread, we end up sending the same link. It's not perfect but it covers the parts we think most overviews skip, constraints, gotchas, and a few worked examples.\n\nRead more: click this.",
+      "en": "Posting this here so we can find it again, covers virexa.click well.\n\nWhenever virexa.click comes up in a thread, we end up sending the same link. It's not perfect but it covers the parts we think most overviews skip, constraints, gotchas, and a few worked examples.\n\nRead more: click this.",
+      "score": 0.3499
+    },
+    {
+      "title": "Any update on the deck",
+      "url": "https://dev.to/grais/any-update-on-the-deck-f69",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "LinkedIn, four words: any update on the deck.\n\nI opened it, put a thumbs-up on the message, and set the phone down as if that were progress. The phone is where I notice things this week. It is not where I attach a file. iOS for this is still TestFlight. I have not tried to close work from a lock screen. Mac is not here.\n\nThe deck was not a LinkedIn idea. I had said I would send it in WhatsApp, after a call that ran over. I said yes to sending the file, then treated the yes as something I would h",
+      "en": "LinkedIn, four words: any update on the deck.\n\nI opened it, put a thumbs-up on the message, and set the phone down as if that were progress. The phone is where I notice things this week. It is not where I attach a file. iOS for this is still TestFlight. I have not tried to close work from a lock screen. Mac is not here.\n\nThe deck was not a LinkedIn idea. I had said I would send it in WhatsApp, after a call that ran over. I said yes to sending the file, then treated the yes as something I would h",
+      "score": 0.3498
+    },
+    {
+      "title": "Pointer: latmexira.click",
+      "url": "https://dev.to/lsvegas21/pointer-latmexiraclick-44io",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Posting this here so we can find it again, covers latmexira.click well.\n\nThere are dozens of articles claiming to cover latmexira.click but few actually engage with the practical questions. The reference below is a useful exception, it walks through concrete examples instead of staying at the definitions level.\n\nRead more: discover here.",
+      "en": "Posting this here so we can find it again, covers latmexira.click well.\n\nThere are dozens of articles claiming to cover latmexira.click but few actually engage with the practical questions. The reference below is a useful exception, it walks through concrete examples instead of staying at the definitions level.\n\nRead more: discover here.",
+      "score": 0.3495
+    },
+    {
+      "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
+      "url": "https://arxiv.org/abs/2608.27456v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Multimodal large language models (MLLMs) can interpret a street view, but urban agency depends on whether such local evidence remains useful after the agent starts to move. In this paper, we investigate how far current MLLM agents can turn local urban perception into reliable action in a complicated real-scale city. We propose UrbanGround, the first sandbox to make this question testable in a physically constrained replica of Hong Kong built from territory-wide 3D geospatial data. UrbanGround su",
+      "en": "Multimodal large language models (MLLMs) can interpret a street view, but urban agency depends on whether such local evidence remains useful after the agent starts to move. In this paper, we investigate how far current MLLM agents can turn local urban perception into reliable action in a complicated real-scale city. We propose UrbanGround, the first sandbox to make this question testable in a physically constrained replica of Hong Kong built from territory-wide 3D geospatial data. UrbanGround su",
+      "score": 0.4463
+    },
+    {
+      "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+      "url": "https://arxiv.org/abs/2608.27454v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill development typically remain scattered across optimization histories, limiting their systematic reuse across iterations. We introduce WikiSkill, a framework that co-evolves agent skills with a persistent knowl",
+      "en": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill development typically remain scattered across optimization histories, limiting their systematic reuse across iterations. We introduce WikiSkill, a framework that co-evolves agent skills with a persistent knowl",
+      "score": 0.4463
+    },
+    {
+      "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+      "url": "https://arxiv.org/abs/2608.27449v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: successful trajectories may still contain ineffective, redundant, or risky steps. Directly using such trajectories for SFT can introduce noisy supervision and encourage models to imitate undesirable prob",
+      "en": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: successful trajectories may still contain ineffective, redundant, or risky steps. Directly using such trajectories for SFT can introduce noisy supervision and encourage models to imitate undesirable prob",
+      "score": 0.4463
+    },
+    {
+      "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+      "url": "https://arxiv.org/abs/2608.27442v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work explores large language models (LLMs) for automated code review, most approaches oversimplify code review into a single-round, static decision task, which fails to capture the multi-round interactive nature and the complex problem-solving processes inherent in realistic review sce",
+      "en": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work explores large language models (LLMs) for automated code review, most approaches oversimplify code review into a single-round, static decision task, which fails to capture the multi-round interactive nature and the complex problem-solving processes inherent in realistic review sce",
+      "score": 0.4463
+    },
+    {
+      "title": "gtlhuyidan-sketch/life-ipo",
+      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "en": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "score": 0.6232
+    },
+    {
+      "title": "lxf746/outlook-auto-register",
+      "url": "https://github.com/lxf746/outlook-auto-register",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
+      "en": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
+      "score": 0.5059
+    },
+    {
+      "title": "POUND0423/AI-drama-pound",
+      "url": "https://github.com/POUND0423/AI-drama-pound",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "POUND0423/AI-drama-pound",
+      "en": "POUND0423/AI-drama-pound",
+      "score": 0.0653
+    },
+    {
+      "title": "fzakaria/selfdb",
+      "url": "https://github.com/fzakaria/selfdb",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "fzakaria/selfdb",
+      "en": "fzakaria/selfdb",
+      "score": 0.0493
+    }
+  ]
+}
