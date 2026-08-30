@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-30",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Our decision on Cursor following its acquisition by SpaceX",
+      "en": "Our decision on Cursor following its acquisition by SpaceX",
+      "score": 0.7666
+    },
+    {
+      "title": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "en": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "score": 0.76
+    },
+    {
+      "title": "MetaMask-AI/metamask-desktop",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "en": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "score": 0.7365
+    },
+    {
+      "title": "tencent/Hy4-preview",
+      "url": "https://huggingface.co/tencent/Hy4-preview",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 307 likes e 2123 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 307 likes e 2123 downloads.",
+      "score": 0.5646
+    },
+    {
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'modelo', com 3212 likes e 8839153 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'modelo', com 3212 likes e 8839153 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Vijay Pande, who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC, talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "en": "Vijay Pande, who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC, talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "score": 0.4111
+    },
+    {
+      "title": "China’s robots race ahead",
+      "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started I've admitted my fondness for […]",
+      "en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started I've admitted my fondness for […]",
+      "score": 0.394
+    },
+    {
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "U.S. sanctions against the A/I Collective",
+      "en": "U.S. sanctions against the A/I Collective",
+      "score": 0.7324
+    },
+    {
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "GUIs should be fully keyboard-driven",
+      "en": "GUIs should be fully keyboard-driven",
+      "score": 0.7141
+    },
+    {
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Htmx 4.0",
+      "en": "Htmx 4.0",
+      "score": 0.6936
+    },
+    {
+      "title": "Tablet barato roda Roblox? Nós testamos aparelhos de até R$ 1.200",
+      "url": "https://canaltech.com.br/tablet/tablet-barato-roda-roblox-nos-testamos-aparelhos-de-ate-r-1200/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Roblox é o jogo do momento entre as crianças e, para a alegria delas, ele roda em praticamente qualquer dispositivo, inclusive em um tablet barato. Contudo, dependendo do modelo, ainda existe uma grande possibilidade do jogo apresentar um desempenho bem precário.\nNós testamos o Roblox no VAIO TL10 e no Multilaser Ultra 10, dois modelos que hoje custam menos de R$ 1.200, e descobrimos que nenhum dos dois entrega uma experiência realmente confortável em cenários mais exigentes.\n\n📱 Veja as melhore",
+      "en": "Roblox é o jogo do momento entre as crianças e, para a alegria delas, ele roda em praticamente qualquer dispositivo, inclusive em um tablet barato. Contudo, dependendo do modelo, ainda existe uma grande possibilidade do jogo apresentar um desempenho bem precário.\nNós testamos o Roblox no VAIO TL10 e no Multilaser Ultra 10, dois modelos que hoje custam menos de R$ 1.200, e descobrimos que nenhum dos dois entrega uma experiência realmente confortável em cenários mais exigentes.\n\n📱 Veja as melhore",
+      "score": 0.3993
+    },
+    {
+      "title": "Where to Find Tech Internships This Summer (Aug 30)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-aug-30-5711",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Looking for internships in a specific city? Here are the top locations hiring interns for Summer 2026.\n\n\n  \n  \n  LA\n\n\n2 internships\n\n\n\nSite Engineer Intern - Sites at Northwood Space\n\n\n\n  \n  \n  - Fleet Reliability Intern - Summer Internship at Northwood Space\n\n\n\n  \n  \n  NYC\n\n\n2 internships\n\n\n\nInvestment Infrastructure & Technology Intern - IIT at TIAA\n\n\n\n  \n  \n  - Software Engineer Intern at Maximor AI\n\n\n\n  \n  \n  United States\n\n\n2 internships\n\n\n\nMixed Signal Engineer Intern at Ambarella\n\n\n\n  \n  ",
+      "en": "Looking for internships in a specific city? Here are the top locations hiring interns for Summer 2026.\n\n\n  \n  \n  LA\n\n\n2 internships\n\n\n\nSite Engineer Intern - Sites at Northwood Space\n\n\n\n  \n  \n  - Fleet Reliability Intern - Summer Internship at Northwood Space\n\n\n\n  \n  \n  NYC\n\n\n2 internships\n\n\n\nInvestment Infrastructure & Technology Intern - IIT at TIAA\n\n\n\n  \n  \n  - Software Engineer Intern at Maximor AI\n\n\n\n  \n  \n  United States\n\n\n2 internships\n\n\n\nMixed Signal Engineer Intern at Ambarella\n\n\n\n  \n  ",
+      "score": 0.3993
+    },
+    {
+      "title": "Senior Remote SWE Roles Hiring Now - 1 Pay $150k+ (Aug 30)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-1-pay-150k-aug-30-3jj1",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Looking for a senior-level remote role? Here are 7 positions for experienced engineers.\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior React Full-stack Developer\n\n\n Lemon.io\n\nStack: React / Angular / Next.js / Node.js\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Principal Engineer\n\n\n The AI Whistleblower Initiative\n\nStack: Go\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Oracle Fusion Cloud Lead â€” Lo",
+      "en": "Looking for a senior-level remote role? Here are 7 positions for experienced engineers.\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior React Full-stack Developer\n\n\n Lemon.io\n\nStack: React / Angular / Next.js / Node.js\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Principal Engineer\n\n\n The AI Whistleblower Initiative\n\nStack: Go\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Oracle Fusion Cloud Lead â€” Lo",
+      "score": 0.3493
+    },
+    {
+      "title": "11 Reliable Platforms High Quality to Buy Gmail Accounts & ...",
+      "url": "https://dev.to/bonitahanksf1elc/11-reliable-platforms-high-quality-to-buy-gmail-accounts--13m7",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Why Should You Buy Gmail Accounts? from usadigitalhub.com\n🎯🦋🪄🍀 Contact Now for More Information & Services\n🛸🎨🧩🌙 Online Support Available 24/7\n🦁🍒🎲🪐 Telegram : @usadigitalhub\n🐼🎸🧿🛹 Discord : usadigitalhub\n🌵🎈🦄🎁  WhatsApp : +1 (506) 541-7768\n\n🧿🧩🦋🎯Website:https://usadigitalhub.com/product/buy-old-gmail-accounts/\n🦚🍁🎻🔮 Email : usadigitalhub@gmail.com\n\nIn today’s digital landscape, Gmail accounts have become essential tools for businesses, marketers, and entrepreneurs. If you’re looking to expand your on",
+      "en": "Why Should You Buy Gmail Accounts? from usadigitalhub.com\n🎯🦋🪄🍀 Contact Now for More Information & Services\n🛸🎨🧩🌙 Online Support Available 24/7\n🦁🍒🎲🪐 Telegram : @usadigitalhub\n🐼🎸🧿🛹 Discord : usadigitalhub\n🌵🎈🦄🎁  WhatsApp : +1 (506) 541-7768\n\n🧿🧩🦋🎯Website:https://usadigitalhub.com/product/buy-old-gmail-accounts/\n🦚🍁🎻🔮 Email : usadigitalhub@gmail.com\n\nIn today’s digital landscape, Gmail accounts have become essential tools for businesses, marketers, and entrepreneurs. If you’re looking to expand your on",
+      "score": 0.3493
+    },
+    {
+      "title": "Digital Growth Marketing Lead - Mumbai",
+      "url": "https://dev.to/job_nomix_2f1efce7aed65d2/digital-growth-marketing-lead-mumbai-4gg3",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Digital Growth Marketing Lead Job In Mumbai\n\n\nWhat You’ll Achieve In This Role\n\nYou will build a scalable marketing infrastructure: You will design, build, and maintain our marketing automation engine, leveraging our MarTech stack, APIs, and light scripting (e.g., Python, JS) to connect disparate systems and ensure a seamless flow of data across the entire go-to-market function.\nYou will pioneer our use of AI in marketing: You will act as the team’s AI innovator, proactively identifying, experim",
+      "en": "Digital Growth Marketing Lead Job In Mumbai\n\n\nWhat You’ll Achieve In This Role\n\nYou will build a scalable marketing infrastructure: You will design, build, and maintain our marketing automation engine, leveraging our MarTech stack, APIs, and light scripting (e.g., Python, JS) to connect disparate systems and ensure a seamless flow of data across the entire go-to-market function.\nYou will pioneer our use of AI in marketing: You will act as the team’s AI innovator, proactively identifying, experim",
+      "score": 0.3489
+    },
+    {
+      "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
+      "url": "https://arxiv.org/abs/2608.27439v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Existing automatic red-teaming methods often rely on fixed attacks, while recent agentic attackers coordinate multiple jailbreak tools and show stronger potential through trajectory-based retrieval. However, such retrieval can reuse misleading experiences due to retrieval bias and unc",
+      "en": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Existing automatic red-teaming methods often rely on fixed attacks, while recent agentic attackers coordinate multiple jailbreak tools and show stronger potential through trajectory-based retrieval. However, such retrieval can reuse misleading experiences due to retrieval bias and unc",
+      "score": 0.376
+    },
+    {
+      "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
+      "url": "https://arxiv.org/abs/2608.27429v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuristic graph edits that operate directly on molecular topology. We introduce MAELLE (\\textbf{M}ech\\textbf{A}nistic \\textbf{E}dit f\\textbf{L}ow-matching on e\\textbf{L}ectron r\\textbf{E}arrangements), which instead models reactions as discrete flow matching over electron occupation vectors. Concretely, ",
+      "en": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuristic graph edits that operate directly on molecular topology. We introduce MAELLE (\\textbf{M}ech\\textbf{A}nistic \\textbf{E}dit f\\textbf{L}ow-matching on e\\textbf{L}ectron r\\textbf{E}arrangements), which instead models reactions as discrete flow matching over electron occupation vectors. Concretely, ",
+      "score": 0.3758
+    },
+    {
+      "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
+      "url": "https://arxiv.org/abs/2608.27427v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy both cheaply. We present Persona-Execution Separation (PES): persona and execution reside in different trust domains, connected by a governed contract bridge. The persona is singly-homed and may drift; execution is faceless and audited. Status summaries may return;",
+      "en": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy both cheaply. We present Persona-Execution Separation (PES): persona and execution reside in different trust domains, connected by a governed contract bridge. The persona is singly-homed and may drift; execution is faceless and audited. Status summaries may return;",
+      "score": 0.3758
+    },
+    {
+      "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
+      "url": "https://arxiv.org/abs/2608.27424v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yields a usable security judgment. We evaluate ModelScan, ModelAudit, and Fickling using a controlled, artifact-backed benchmark on a synthetic corpus of 170 Pickle and PyTorch focused artifacts across 145 specimen families, 135 of which have binary security ground truth and 10 of which are intentional",
+      "en": "Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yields a usable security judgment. We evaluate ModelScan, ModelAudit, and Fickling using a controlled, artifact-backed benchmark on a synthetic corpus of 170 Pickle and PyTorch focused artifacts across 145 specimen families, 135 of which have binary security ground truth and 10 of which are intentional",
+      "score": 0.3758
+    },
+    {
+      "title": "Nanako0129/sepia",
+      "url": "https://github.com/Nanako0129/sepia",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity, narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "en": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity, narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "score": 0.7187
+    },
+    {
+      "title": "jprx/darwin-vm",
+      "url": "https://github.com/jprx/darwin-vm",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "en": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "score": 0.6311
+    },
+    {
+      "title": "jub0t/WolfCut",
+      "url": "https://github.com/jub0t/WolfCut",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Free & Open-Source CapCut replacement.",
+      "en": "Free & Open-Source CapCut replacement.",
+      "score": 0.59
+    },
+    {
+      "title": "kacperkapusciak/goldie",
+      "url": "https://github.com/kacperkapusciak/goldie",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "✨ agentic app store previews and screenshots",
+      "en": "✨ agentic app store previews and screenshots",
+      "score": 0.5358
+    }
+  ]
+}

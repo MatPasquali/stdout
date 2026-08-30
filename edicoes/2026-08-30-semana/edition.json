@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-30",
+  "weekly": true,
+  "range": "24/08 a 30/08",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "en": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "score": 0.8208
+    },
+    {
+      "title": "duty1g/x64dbg-mcp-server",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig, zero dependencies, single-binary output, cros",
+      "en": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig, zero dependencies, single-binary output, cros",
+      "score": 0.8191
+    },
+    {
+      "title": "ShadowAqueduct/watermark-remover",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "en": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "score": 0.7988
+    },
+    {
+      "title": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Autonomous research system for measurable, computer-executable research.",
+      "en": "Autonomous research system for measurable, computer-executable research.",
+      "score": 0.7898
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "score": 0.7847
+    },
+    {
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Small Models Have Arrived",
+      "en": "Small Models Have Arrived",
+      "score": 0.7826
+    },
+    {
+      "title": "Forsy-AI/biosecurity-agent",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "AI agent that builds a live biosecurity world around any target.",
+      "en": "AI agent that builds a live biosecurity world around any target.",
+      "score": 0.7754
+    },
+    {
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "en": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "score": 0.7686
+    },
+    {
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "en": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "score": 0.7684
+    },
+    {
+      "title": "Dolly Parton has died",
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Dolly Parton has died",
+      "en": "Dolly Parton has died",
+      "score": 0.7683
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Our decision on Cursor following its acquisition by SpaceX",
+      "en": "Our decision on Cursor following its acquisition by SpaceX",
+      "score": 0.7666
+    },
+    {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Nvidia agrees to acquire Hugging Face for $13B",
+      "en": "Nvidia agrees to acquire Hugging Face for $13B",
+      "score": 0.7646
+    }
+  ]
+}
