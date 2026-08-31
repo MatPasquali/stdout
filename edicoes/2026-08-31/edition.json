@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-31",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 292 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 292 likes e 0 downloads.",
+      "score": 0.879
+    },
+    {
+      "title": "GangTailorUpgrade/CoomeRtool",
+      "url": "https://github.com/GangTailorUpgrade/CoomeRtool",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Coomer Tool",
+      "en": "Coomer Tool",
+      "score": 0.7899
+    },
+    {
+      "title": "“I just chose words carefully”",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "“I just chose words carefully”",
+      "en": "“I just chose words carefully”",
+      "score": 0.7558
+    },
+    {
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "en": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "score": 0.593
+    },
+    {
+      "title": "BreezeBlue/Breeze-TTS-2",
+      "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-speech', com 234 likes e 2236 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-speech', com 234 likes e 2236 downloads.",
+      "score": 0.571
+    },
+    {
+      "title": "Coreia do Sul prepara programa nacional de IA gratuita integrada a serviços públicos",
+      "url": "https://tecnoblog.net/noticias/coreia-do-sul-prepara-programa-nacional-de-ia-gratuita-integrada-a-servicos-publicos/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Programa \"AI for All\" pretende aumentar acesso a modelos locais e integrá-los a serviços públicos.\nCoreia do Sul prepara programa nacional de IA gratuita integrada a serviços públicos",
+      "en": "Programa \"AI for All\" pretende aumentar acesso a modelos locais e integrá-los a serviços públicos.\nCoreia do Sul prepara programa nacional de IA gratuita integrada a serviços públicos",
+      "score": 0.3977
+    },
+    {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "en": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "score": 0.3951
+    },
+    {
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Creepy Crawlies",
+      "en": "Creepy Crawlies",
+      "score": 0.7139
+    },
+    {
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "en": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "score": 0.694
+    },
+    {
+      "title": "Echo Dot em destaque: confira uma seleção de Smart Speakers com Alexa em promoção",
+      "url": "https://olhardigital.com.br/2026/08/31/reviews/echo-dot-em-destaque-confira-uma-selecao-de-smart-speakers-com-alexa-em-promocao-3/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se você quer transformar a sua casa em um ambiente mais inteligente, esta é uma boa oportunidade. Reunimos três opções do Echo Dot, o popular smart speaker da Amazon com Alexa integrada, disponíveis agora em oferta. Cada modelo vem em uma cor diferente, facilitando a escolha de acordo com o seu estilo. Confira. […]\nO post Echo Dot em destaque: confira uma seleção de Smart Speakers com Alexa em promoção apareceu primeiro em Olhar Digital.",
+      "en": "Se você quer transformar a sua casa em um ambiente mais inteligente, esta é uma boa oportunidade. Reunimos três opções do Echo Dot, o popular smart speaker da Amazon com Alexa integrada, disponíveis agora em oferta. Cada modelo vem em uma cor diferente, facilitando a escolha de acordo com o seu estilo. Confira. […]\nO post Echo Dot em destaque: confira uma seleção de Smart Speakers com Alexa em promoção apareceu primeiro em Olhar Digital.",
+      "score": 0.3982
+    },
+    {
+      "title": "Tablet 512 GB: os 7 melhores modelos para quem prioriza armazenamento",
+      "url": "https://tecnoblog.net/guias/tablet-512gb/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Precisa de espaço? Selecionamos os melhores tablets com 512 GB de memória interna para armazenar milhares de livros, vídeos e mais arquivos\nTablet 512 GB: os 7 melhores modelos para quem prioriza armazenamento",
+      "en": "Precisa de espaço? Selecionamos os melhores tablets com 512 GB de memória interna para armazenar milhares de livros, vídeos e mais arquivos\nTablet 512 GB: os 7 melhores modelos para quem prioriza armazenamento",
+      "score": 0.3979
+    },
+    {
+      "title": "Essai - Le prix de l'échec",
+      "url": "https://dev.to/dutcom/essai-le-prix-de-lechec-440l",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "De part mon expérience et ceux de mes proches je sais que l'échec fait partie du chemin.\nCeux qui vont loin on appris à vivre avec.\n\nMais alors qu'est-ce que l'échec ? Qu'est-ce que cet essai va apporter ? 🤷🏻‍♀️\n\nPour les plus optimistes d'entre nous, l'échec n'existe pas vraiment, car même si on n'arrive pas au résultat attendu, le chemin nous aura appris beaucoup, bla bla bla...\n\nLaissons de côté la philosophie et attaquons le sujet sous un angle concret. L'échec dans le business. 🚀\n\nJ'ai pour",
+      "en": "De part mon expérience et ceux de mes proches je sais que l'échec fait partie du chemin.\nCeux qui vont loin on appris à vivre avec.\n\nMais alors qu'est-ce que l'échec ? Qu'est-ce que cet essai va apporter ? 🤷🏻‍♀️\n\nPour les plus optimistes d'entre nous, l'échec n'existe pas vraiment, car même si on n'arrive pas au résultat attendu, le chemin nous aura appris beaucoup, bla bla bla...\n\nLaissons de côté la philosophie et attaquons le sujet sous un angle concret. L'échec dans le business. 🚀\n\nJ'ai pour",
+      "score": 0.349
+    },
+    {
+      "title": "MLOps and ML engineer interview questions, and what each predicts (2026)",
+      "url": "https://dev.to/fourleaf/mlops-and-ml-engineer-interview-questions-and-what-each-predicts-2026-4idd",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Canonical: this is a cross-post. The original lives at https://four-leaf.ai/blog/mlops-ml-interview-questions\n\n\n\n  \n  \n  Key takeaways\n\n\nMLOps and ML engineer interviews split into four rounds: a coding screen, ML fundamentals, ML system design, and a production round on deployment and monitoring. Most published question lists over-weight the fundamentals round because it's the easiest to write answers for, and under-weight the production round, which is where loops are actually decided. Tool tr",
+      "en": "Canonical: this is a cross-post. The original lives at https://four-leaf.ai/blog/mlops-ml-interview-questions\n\n\n\n  \n  \n  Key takeaways\n\n\nMLOps and ML engineer interviews split into four rounds: a coding screen, ML fundamentals, ML system design, and a production round on deployment and monitoring. Most published question lists over-weight the fundamentals round because it's the easiest to write answers for, and under-weight the production round, which is where loops are actually decided. Tool tr",
+      "score": 0.3489
+    },
+    {
+      "title": "Read Tim Cook&#8217;s final message to Apple staff as CEO",
+      "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most dominant forces in the daily lives of billions of people. Today is his last day as CEO. We'll have […]",
+      "en": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most dominant forces in the daily lives of billions of people. Today is his last day as CEO. We'll have […]",
+      "score": 0.3473
+    },
+    {
+      "title": "The Complete Guide to Buy LinkedIn Accounts in the USA and UK",
+      "url": "https://dev.to/ownseoit545/the-complete-guide-to-buy-linkedin-accounts-in-the-usa-and-uk-1nkp",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "![ ](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/xmg7fe5xu77r36p9xr73The Complete Guide to Buy LinkedIn Accounts in the USA and UK\n✔️TG : @ownseoit\n✔️WA : +1 (530) 563-6354\n✔️GM : ownseoit@gmail.com\n\nLinkedIn is one of the world's most widely used professional networking platforms. Businesses, recruiters, consultants, entrepreneurs, sales professionals, and job seekers use it to establish professional identities, communicate with industry contacts, publish information, rec",
+      "en": "![ ](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/xmg7fe5xu77r36p9xr73The Complete Guide to Buy LinkedIn Accounts in the USA and UK\n✔️TG : @ownseoit\n✔️WA : +1 (530) 563-6354\n✔️GM : ownseoit@gmail.com\n\nLinkedIn is one of the world's most widely used professional networking platforms. Businesses, recruiters, consultants, entrepreneurs, sales professionals, and job seekers use it to establish professional identities, communicate with industry contacts, publish information, rec",
+      "score": 0.3471
+    },
+    {
+      "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+      "url": "https://arxiv.org/abs/2608.28589v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated by a neural network, while a unified graph-based loss function enforces the governing equations together with initial, boundary, and vertex transmission conditions. In particular, the formulation incorp",
+      "en": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated by a neural network, while a unified graph-based loss function enforces the governing equations together with initial, boundary, and vertex transmission conditions. In particular, the formulation incorp",
+      "score": 0.3714
+    },
+    {
+      "title": "Blog: Survey of Optimizers",
+      "url": "https://arxiv.org/abs/2608.28557v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Neural-network optimization in 2025-2026 is no longer well described as a succession of new Adam variants. The design space has expanded from coordinates to matrices and layers, from fixed training horizons to policies over time, and from mathematical update rules to state representations that must survive sharding and low-precision computation. This survey organizes recent optimizers and training optimization methods along four largely independent axes: temporal estimation, update geometry, hor",
+      "en": "Neural-network optimization in 2025-2026 is no longer well described as a succession of new Adam variants. The design space has expanded from coordinates to matrices and layers, from fixed training horizons to policies over time, and from mathematical update rules to state representations that must survive sharding and low-precision computation. This survey organizes recent optimizers and training optimization methods along four largely independent axes: temporal estimation, update geometry, hor",
+      "score": 0.3706
+    },
+    {
+      "title": "Logos: An Agent Harness on a Cross-Process Bus",
+      "url": "https://arxiv.org/abs/2608.28553v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Modern agent systems assemble capabilities at runtime, and this dynamic composition has recently received a complete formal treat ment in the spatiotemporal-composability calculus, in which a capability is a component carrying a tracked inverse, and agents are assembled as plugins. This plugin form is carried by a single process sharing one context, a carrier that places all components in one physical failure domain, a fault suspends every component at once, and process death interrupts every se",
+      "en": "Modern agent systems assemble capabilities at runtime, and this dynamic composition has recently received a complete formal treat ment in the spatiotemporal-composability calculus, in which a capability is a component carrying a tracked inverse, and agents are assembled as plugins. This plugin form is carried by a single process sharing one context, a carrier that places all components in one physical failure domain, a fault suspends every component at once, and process death interrupts every se",
+      "score": 0.3705
+    },
+    {
+      "title": "Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms, Expanded Comparisons, and Recommendations for Biomedical Data Mining",
+      "url": "https://arxiv.org/abs/2608.28552v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "As a precursor to high-dimensional biomedical data modeling, reliable feature selection can reduce computational expense, improve modeling performance, and yield simpler, more interpretable models. However, most filter-based feature selection methods struggle to detect feature interactions, while wrapper or embedded feature selection methods are computationally expensive. Relief-based algorithms (RBAs) are filter methods that are sensitive to feature interactions while mitigating these other lim",
+      "en": "As a precursor to high-dimensional biomedical data modeling, reliable feature selection can reduce computational expense, improve modeling performance, and yield simpler, more interpretable models. However, most filter-based feature selection methods struggle to detect feature interactions, while wrapper or embedded feature selection methods are computationally expensive. Relief-based algorithms (RBAs) are filter methods that are sensitive to feature interactions while mitigating these other lim",
+      "score": 0.3705
+    },
+    {
+      "title": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "An agent organization for Claude Code, structured as a company, 15+ departments, 125+ skills, each independently installable.",
+      "en": "An agent organization for Claude Code, structured as a company, 15+ departments, 125+ skills, each independently installable.",
+      "score": 0.7172
+    },
+    {
+      "title": "chrisgreg/boop",
+      "url": "https://github.com/chrisgreg/boop",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "en": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "score": 0.6477
+    },
+    {
+      "title": "damejan80/tokentab",
+      "url": "https://github.com/damejan80/tokentab",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "en": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "score": 0.6423
+    },
+    {
+      "title": "crmne/fastpotify",
+      "url": "https://github.com/crmne/fastpotify",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "en": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "score": 0.6047
+    }
+  ]
+}
