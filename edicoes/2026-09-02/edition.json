@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-02",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "en": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "score": 0.7959
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "en": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "score": 0.7784
+    },
+    {
+      "title": "GangTailorUpgrade/undress-service",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Dress AI Sponsor",
+      "en": "Dress AI Sponsor",
+      "score": 0.7376
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "en": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "score": 0.7621
+    },
+    {
+      "title": "google/timesfm-3.0-pytorch",
+      "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'time-series-forecasting', com 269 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'time-series-forecasting', com 269 likes e 0 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
+      "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
+      "score": 0.4447
+    },
+    {
+      "title": "Novo Claude Fable 5.1 é mais poderoso, mais barato e tem menos restrições",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-claude-fable-51-e-mais-poderoso-mais-barato-e-tem-menos-restricoes/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Anthropic lançou nesta semana o Claude Fable 5.1 e o Claude Mythos 5.1, novas versões do seu modelo mais avançado de inteligência artificial. Os dois compartilham o mesmo conjunto de pesos, mas diferem no nível de restrição aplicado às respostas.\nO Fable 5.1 está disponível para qualquer usuário, enquanto o Mythos 5.1 segue restrito a organizações validadas em programas de acesso da empresa.\nSegundo a Anthropic, o lançamento também reduz custos, muda o armazenamento de dados corporativos e aju",
+      "en": "A Anthropic lançou nesta semana o Claude Fable 5.1 e o Claude Mythos 5.1, novas versões do seu modelo mais avançado de inteligência artificial. Os dois compartilham o mesmo conjunto de pesos, mas diferem no nível de restrição aplicado às respostas.\nO Fable 5.1 está disponível para qualquer usuário, enquanto o Mythos 5.1 segue restrito a organizações validadas em programas de acesso da empresa.\nSegundo a Anthropic, o lançamento também reduz custos, muda o armazenamento de dados corporativos e aju",
+      "score": 0.398
+    },
+    {
+      "title": "Hang on to Your Firefox",
+      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Hang on to Your Firefox",
+      "en": "Hang on to Your Firefox",
+      "score": 0.7381
+    },
+    {
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "en": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "score": 0.7202
+    },
+    {
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "url": "https://www.orbify.eu/demo/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Inception-style curved map for turn-by-turn directions",
+      "en": "Inception-style curved map for turn-by-turn directions",
+      "score": 0.5279
+    },
+    {
+      "title": "Quer jogar com som de qualidade? Confira uma seleção de headsets gamer em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/09/02/reviews/quer-jogar-com-som-de-qualidade-confira-uma-selecao-de-headsets-gamer-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se você ainda usa fone comum para jogar, está perdendo muito da experiência. Um bom headset gamer faz diferença na imersão, na comunicação com o time e até no desempenho, e a Amazon reuniu algumas opções interessantes com preços que valem a atenção. Separamos três modelos que combinam custo-benefício e recursos pensados para quem […]\nO post Quer jogar com som de qualidade? Confira uma seleção de headsets gamer em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Se você ainda usa fone comum para jogar, está perdendo muito da experiência. Um bom headset gamer faz diferença na imersão, na comunicação com o time e até no desempenho, e a Amazon reuniu algumas opções interessantes com preços que valem a atenção. Separamos três modelos que combinam custo-benefício e recursos pensados para quem […]\nO post Quer jogar com som de qualidade? Confira uma seleção de headsets gamer em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.398
+    },
+    {
+      "title": "Anthropic hires architect of UK AI policy as MPs warn of 'clear conflict of interest'",
+      "url": "https://www.theregister.com/public-sector/2026/09/02/anthropic-hires-architect-of-uk-ai-policy-as-mps-warn-of-clear-conflict-of-interest/5293903",
+      "source": "The Register",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Matt Clifford plans to keep role as ARIA chair while leading the LLM maker's dealings with governments outside North America",
+      "en": "Matt Clifford plans to keep role as ARIA chair while leading the LLM maker's dealings with governments outside North America",
+      "score": 0.3966
+    },
+    {
+      "title": "I'm a Developer in Nigeria. I Stopped Calling Myself That First.",
+      "url": "https://dev.to/adeemma/im-a-developer-in-nigeria-i-stopped-calling-myself-that-first-2hi8",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I'm a Developer in Nigeria. I Stopped Calling Myself That First.\n\n\nA few months ago, I searched my own name to see what the internet thought of me. Google's AI summary described me as \"a Nigerian full-stack software engineer... active in the Lagos tech ecosystem.\"\n\nTechnically accurate. And also, I realized, quietly limiting.\n\nNothing about that description was wrong. But it was doing something I hadn't noticed before: framing me as local talent by default, before a single client ever looked at ",
+      "en": "I'm a Developer in Nigeria. I Stopped Calling Myself That First.\n\n\nA few months ago, I searched my own name to see what the internet thought of me. Google's AI summary described me as \"a Nigerian full-stack software engineer... active in the Lagos tech ecosystem.\"\n\nTechnically accurate. And also, I realized, quietly limiting.\n\nNothing about that description was wrong. But it was doing something I hadn't noticed before: framing me as local talent by default, before a single client ever looked at ",
+      "score": 0.35
+    },
+    {
+      "title": "Your saved-jobs list is sorted the wrong way round",
+      "url": "https://dev.to/whateverneveranywhere/your-saved-jobs-list-is-sorted-the-wrong-way-round-3a05",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "The pool of people applying for your next role is growing faster than the number of roles. If you have a list of jobs you meant to apply to, the useful move this week is to send to the oldest one first and cut the rest down to ten.\n\nHere is the number behind that. Robert Half's 2026 research puts the share of already employed US workers planning to start a job search in the first half of 2026 at 38 percent, up from 29 percent a year earlier. Those are people who currently have a job and are choo",
+      "en": "The pool of people applying for your next role is growing faster than the number of roles. If you have a list of jobs you meant to apply to, the useful move this week is to send to the oldest one first and cut the rest down to ten.\n\nHere is the number behind that. Robert Half's 2026 research puts the share of already employed US workers planning to start a job search in the first half of 2026 at 38 percent, up from 29 percent a year earlier. Those are people who currently have a job and are choo",
+      "score": 0.35
+    },
+    {
+      "title": "Corte gigantesco: Uber demite 3,3 mil funcionários e praticamente encerra home office",
+      "url": "https://canaltech.com.br/mercado/corte-gigantesco-uber-demite-33-mil-funcionarios-e-praticamente-encerra-home-office/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A Uber anunciou nesta quarta-feira (2) uma reestruturação que vai cortar cerca de 3,3 mil funcionários em todo o mundo, o equivalente a aproximadamente 10% de sua força de trabalho. A mudança também reduz drasticamente a possibilidade de trabalho remoto: apenas cerca de 1% dos funcionários poderá trabalhar totalmente a distância daqui para frente.\nSegundo a Reuters, a companhia tinha aproximadamente 34 mil funcionários no fim de 2025. Com os cortes, o quadro deve ficar próximo de 30 mil pessoas,",
+      "en": "A Uber anunciou nesta quarta-feira (2) uma reestruturação que vai cortar cerca de 3,3 mil funcionários em todo o mundo, o equivalente a aproximadamente 10% de sua força de trabalho. A mudança também reduz drasticamente a possibilidade de trabalho remoto: apenas cerca de 1% dos funcionários poderá trabalhar totalmente a distância daqui para frente.\nSegundo a Reuters, a companhia tinha aproximadamente 34 mil funcionários no fim de 2025. Com os cortes, o quadro deve ficar próximo de 30 mil pessoas,",
+      "score": 0.3499
+    },
+    {
+      "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
+      "url": "https://arxiv.org/abs/2609.01600v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup. We introduce CordisBench, a 1,200-question benchmark of this lifecycle reasoning. It combines a controlled formal setting with programs executed against Cordis, a runtime that manages component dependencies and cleanup, and asks models to identify affected components, predict state af",
+      "en": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup. We introduce CordisBench, a 1,200-question benchmark of this lifecycle reasoning. It combines a controlled formal setting with programs executed against Cordis, a runtime that manages component dependencies and cleanup, and asks models to identify affected components, predict state af",
+      "score": 0.4622
+    },
+    {
+      "title": "StudentSim: Training LLM-based Student Simulators",
+      "url": "https://arxiv.org/abs/2609.01591v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to collect from real learners. Student simulators can provide this signal as a proxy, yet existing approaches are limited: state-tracking models fit student behavior but struggle to process explanations or corrections, while LLM role-play follows guidance fluently but does not reliably match the competence",
+      "en": "AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to collect from real learners. Student simulators can provide this signal as a proxy, yet existing approaches are limited: state-tracking models fit student behavior but struggle to process explanations or corrections, while LLM role-play follows guidance fluently but does not reliably match the competence",
+      "score": 0.4621
+    },
+    {
+      "title": "A Benchmark for Vehicle Attribute Classification in Cross-Domain Surveillance Scenarios",
+      "url": "https://arxiv.org/abs/2609.01584v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Vehicle attribute analysis is a key component of Intelligent Transportation Systems (ITS), supporting applications such as vehicle identification, traffic monitoring, and forensic investigation. However, models trained under controlled conditions often degrade in real surveillance scenarios due to changes in viewpoint, occlusion, illumination, and sensor characteristics. This paper introduces Unconstrained Vehicle Identification Benchmark (UVIB), a benchmark for evaluating three operational vehi",
+      "en": "Vehicle attribute analysis is a key component of Intelligent Transportation Systems (ITS), supporting applications such as vehicle identification, traffic monitoring, and forensic investigation. However, models trained under controlled conditions often degrade in real surveillance scenarios due to changes in viewpoint, occlusion, illumination, and sensor characteristics. This paper introduces Unconstrained Vehicle Identification Benchmark (UVIB), a benchmark for evaluating three operational vehi",
+      "score": 0.4619
+    },
+    {
+      "title": "Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics",
+      "url": "https://arxiv.org/abs/2609.01575v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Extracting structured fields from hundreds of millions of documents annually remains costly in regulated industries: bespoke OCR cascades cover only a fraction of workflows, privacy rules preclude external models, and existing open-source VLMs that clear quality thresholds cost more to serve than human annotation. We present a deployed document-understanding system built on a Mixture-of-Experts VLM (35B total, 3B active), fine-tuned on in-house production data mixed with open-domain documents cu",
+      "en": "Extracting structured fields from hundreds of millions of documents annually remains costly in regulated industries: bespoke OCR cascades cover only a fraction of workflows, privacy rules preclude external models, and existing open-source VLMs that clear quality thresholds cost more to serve than human annotation. We present a deployed document-understanding system built on a Mixture-of-Experts VLM (35B total, 3B active), fine-tuned on in-house production data mixed with open-domain documents cu",
+      "score": 0.4617
+    },
+    {
+      "title": "brayonpi/hexstellar",
+      "url": "https://github.com/brayonpi/hexstellar",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API, with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+      "en": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API, with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+      "score": 0.7302
+    },
+    {
+      "title": "jlrouzies-fr/DLSS5-Feeder",
+      "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS, feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+      "en": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS, feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+      "score": 0.6511
+    },
+    {
+      "title": "Git-Agni/prod-FARM-IOS-Core",
+      "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "en": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "score": 0.5577
+    }
+  ]
+}
