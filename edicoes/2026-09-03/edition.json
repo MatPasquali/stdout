@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-03",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "en": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "score": 0.8098
+    },
+    {
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "en": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "score": 0.7574
+    },
+    {
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Muse Spark 1.3",
+      "en": "Muse Spark 1.3",
+      "score": 0.7265
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-H3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-video', com 4835 likes e 5092067 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-video', com 4835 likes e 5092067 downloads.",
+      "score": 0.6
+    },
+    {
+      "title": "Qwen/Qwen3.8-Flash-Next",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 4777 likes e 263287 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 4777 likes e 263287 downloads.",
+      "score": 0.5493
+    },
+    {
+      "title": "zai-org/GLM-5.3-Flash",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1998 likes e 517902 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1998 likes e 517902 downloads.",
+      "score": 0.5479
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 2648 likes e 1293463 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 2648 likes e 1293463 downloads.",
+      "score": 0.5145
+    },
+    {
+      "title": "A note on subscription prices from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A note on subscription prices from LWN",
+      "en": "A note on subscription prices from LWN",
+      "score": 0.7226
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "I turned my security cameras into an automatic bird identification system",
+      "en": "I turned my security cameras into an automatic bird identification system",
+      "score": 0.6838
+    },
+    {
+      "title": "OpenShot 4.0 – Open-source video editor",
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "OpenShot 4.0, Open-source video editor",
+      "en": "OpenShot 4.0, Open-source video editor",
+      "score": 0.6684
+    },
+    {
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "en": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "score": 0.6667
+    },
+    {
+      "title": "SC-900 Part 1: Security, Compliance and Identity Concepts (with labs and 12 practice questions)",
+      "url": "https://dev.to/cyberttopic/sc-900-part-1-security-compliance-and-identity-concepts-with-labs-and-12-practice-questions-1kp9",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Domain 1 is only 10-15% of the exam, but it is the vocabulary that the other 85% is written in. If you're fuzzy on \"authentication vs authorization\" or \"who owns the OS in PaaS,\" you will lose points in domains 2 and 3 without realizing why.\n\nThis post covers it in four blocks, then gives you a lab and 12 questions.\n\n\nThis series follows the SC-900 objectives updated on July 28, 2026. Check the official study guide before your exam.\n\n\n\n\n\n\n  \n  \n  1. The shared responsibility model\n\n\nThe single m",
+      "en": "Domain 1 is only 10-15% of the exam, but it is the vocabulary that the other 85% is written in. If you're fuzzy on \"authentication vs authorization\" or \"who owns the OS in PaaS,\" you will lose points in domains 2 and 3 without realizing why.\n\nThis post covers it in four blocks, then gives you a lab and 12 questions.\n\n\nThis series follows the SC-900 objectives updated on July 28, 2026. Check the official study guide before your exam.\n\n\n\n\n\n\n  \n  \n  1. The shared responsibility model\n\n\nThe single m",
+      "score": 0.4497
+    },
+    {
+      "title": "Grade the Free Model Like a Take-Home",
+      "url": "https://dev.to/devio_4040/grade-the-free-model-like-a-take-home-2h1c",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "You know the moment. A teammate drops a chat log into Slack and says the new free model basically nailed the take-home. You skim it. The prose is confident, the function names are tidy, and then you notice there are no tests, the clock is time.sleep, and the retry loop can spin forever if the callee returns None.\n\nChat is an interview. A take-home is a work sample. If you are about to let a free model touch a script that sits next to production, you should grade it the way you grade a human cand",
+      "en": "You know the moment. A teammate drops a chat log into Slack and says the new free model basically nailed the take-home. You skim it. The prose is confident, the function names are tidy, and then you notice there are no tests, the clock is time.sleep, and the retry loop can spin forever if the callee returns None.\n\nChat is an interview. A take-home is a work sample. If you are about to let a free model touch a script that sits next to production, you should grade it the way you grade a human cand",
+      "score": 0.3995
+    },
+    {
+      "title": "AI Is Taking Our Coding Skills. Maybe That’s Not the Same as Taking Our Value.",
+      "url": "https://dev.to/isurogi/ai-is-taking-our-coding-skills-maybe-thats-not-the-same-as-taking-our-value-3cm7",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I think a lot of engineers are quietly wondering the same thing right now.\n\n“If AI can write the code, what exactly am I worth?”\n\nI wonder about it too.\n\nFor a long time, being an engineer meant becoming good at the thing computers could not do for us.\n\nYou learned the language.\nYou learned the framework.\nYou learned how to debug the strange thing that broke only in production at 2 a.m.\n\nAnd little by little, that technical ability became part of your identity.\n\nI was probably that kind of engin",
+      "en": "I think a lot of engineers are quietly wondering the same thing right now.\n\n“If AI can write the code, what exactly am I worth?”\n\nI wonder about it too.\n\nFor a long time, being an engineer meant becoming good at the thing computers could not do for us.\n\nYou learned the language.\nYou learned the framework.\nYou learned how to debug the strange thing that broke only in production at 2 a.m.\n\nAnd little by little, that technical ability became part of your identity.\n\nI was probably that kind of engin",
+      "score": 0.3481
+    },
+    {
+      "title": "The 5-Stage Vetting That Predicts Retention",
+      "url": "https://dev.to/robertoespinoza/the-5-stage-vetting-that-predicts-retention-3p8",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "We reject 97 of every 100 engineers who apply. That number worries some clients until they hear the other one: 97% of the people who get through are still on the team six months later. The two are the same fact from different ends. A vetting bar that predicts retention is the only kind worth running.\n\n\n  \n  \n  Key Takeaways\n\n\n\nWe pass roughly 3% of applicants. The bar is the product.\nFive stages, in order: screen, technical, English, culture, AI tooling.\nThe strongest retention signal comes from",
+      "en": "We reject 97 of every 100 engineers who apply. That number worries some clients until they hear the other one: 97% of the people who get through are still on the team six months later. The two are the same fact from different ends. A vetting bar that predicts retention is the only kind worth running.\n\n\n  \n  \n  Key Takeaways\n\n\n\nWe pass roughly 3% of applicants. The bar is the product.\nFive stages, in order: screen, technical, English, culture, AI tooling.\nThe strongest retention signal comes from",
+      "score": 0.3481
+    },
+    {
+      "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+      "url": "https://arxiv.org/abs/2609.02886v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We introduce SolarWM, a fully open foundation for building interactive video world models from data preparation through long-horizon inference. Training across heterogeneous data sources and video backbones is challenging: datasets differ in temporal scale, camera geometry, visual quality, motion, and captioning styles, while video generators use distinct representations and architectures. Naive data mixing and model-specific implementations therefore produce inconsistent supervision and make re",
+      "en": "We introduce SolarWM, a fully open foundation for building interactive video world models from data preparation through long-horizon inference. Training across heterogeneous data sources and video backbones is challenging: datasets differ in temporal scale, camera geometry, visual quality, motion, and captioning styles, while video generators use distinct representations and architectures. Naive data mixing and model-specific implementations therefore produce inconsistent supervision and make re",
+      "score": 0.4624
+    },
+    {
+      "title": "Discriminative World Models for Web Agents",
+      "url": "https://arxiv.org/abs/2609.02885v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed representations like HTML or AXTree snapshots. However, this objective is misaligned with the downstream ranker, which relies on predicted states being discriminative across candidates to accurately s",
+      "en": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed representations like HTML or AXTree snapshots. However, this objective is misaligned with the downstream ranker, which relies on predicted states being discriminative across candidates to accurately s",
+      "score": 0.4624
+    },
+    {
+      "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
+      "url": "https://arxiv.org/abs/2609.02876v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a trade-off: the fastest ensemble solvers cannot be differentiated in reverse mode at the speed they solve, and the solvers built for differentiation solve more slowly. No single tool has yet offered a reverse-mode gradien",
+      "en": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a trade-off: the fastest ensemble solvers cannot be differentiated in reverse mode at the speed they solve, and the solvers built for differentiation solve more slowly. No single tool has yet offered a reverse-mode gradien",
+      "score": 0.4623
+    },
+    {
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an unreliable lens for understanding internal model computation. We introduce the term ``linguistic illegibility'' to broadly refer to scenarios in which an LLM's externalized or mechanistically-probed language artifacts fail to represent how the model actually thinks. We argue that the specter of lingu",
+      "en": "LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an unreliable lens for understanding internal model computation. We introduce the term ``linguistic illegibility'' to broadly refer to scenarios in which an LLM's externalized or mechanistically-probed language artifacts fail to represent how the model actually thinks. We argue that the specter of lingu",
+      "score": 0.4618
+    },
+    {
+      "title": "shadcn-ui/cn",
+      "url": "https://github.com/shadcn-ui/cn",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "en": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "score": 0.6768
+    },
+    {
+      "title": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source SEO + GEO skills for Claude, keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+      "en": "Open-source SEO + GEO skills for Claude, keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+      "score": 0.6668
+    },
+    {
+      "title": "2akouwu/reverify",
+      "url": "https://github.com/2akouwu/reverify",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "en": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "score": 0.6532
+    },
+    {
+      "title": "rakanki911/DLSS5-Swapper",
+      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "en": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "score": 0.575
+    }
+  ]
+}
