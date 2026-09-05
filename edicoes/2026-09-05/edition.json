@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-05",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Formalizing Fermat's Last Theorem",
+      "en": "Formalizing Fermat's Last Theorem",
+      "score": 0.7658
+    },
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Actively exploited sandbox RCE in all Chromium versions",
+      "en": "Actively exploited sandbox RCE in all Chromium versions",
+      "score": 0.7651
+    },
+    {
+      "title": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "en": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "score": 0.7049
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 13997 likes e 6024467 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 13997 likes e 6024467 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "zai-org/GLM-5.3",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 1713 likes e 370417 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 1713 likes e 370417 downloads.",
+      "score": 0.49
+    },
+    {
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote […]",
+      "en": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote […]",
+      "score": 0.4453
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "en": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "score": 0.4239
+    },
+    {
+      "title": "Hackers had a live feed of every ID verification company scanned for over a year",
+      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Hackers had a live feed of every ID verification company scanned for over a year",
+      "en": "Hackers had a live feed of every ID verification company scanned for over a year",
+      "score": 0.7295
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Introducing Ad Blocker for Firefox on iOS",
+      "en": "Introducing Ad Blocker for Firefox on iOS",
+      "score": 0.6192
+    },
+    {
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "en": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "score": 0.6052
+    },
+    {
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "url": "https://0xcc.io/posts/omarchy-root-creds/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Omarchy: Any User Process Can Escalate to Root",
+      "en": "Omarchy: Any User Process Can Escalate to Root",
+      "score": 0.5305
+    },
+    {
+      "title": "Your CV's hobbies section is usually dead code",
+      "url": "https://dev.to/cvpilot/your-cvs-hobbies-section-is-usually-dead-code-2op5",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "TL;DR\n\n\n\n\"Reading, socialising, travelling\" is on roughly a million CVs and signals nothing except that you filled a section\nKeep hobbies only if you are early-career or short on experience, and make every line specific enough to hint at commitment\nEverything you list is fair game in the interview, so never put down something you cannot talk about with real enthusiasm\n\n\nWhen I was building CVPilot, I read through a pile of real CVs to see how people actually use each section. The hobbies block w",
+      "en": "TL;DR\n\n\n\n\"Reading, socialising, travelling\" is on roughly a million CVs and signals nothing except that you filled a section\nKeep hobbies only if you are early-career or short on experience, and make every line specific enough to hint at commitment\nEverything you list is fair game in the interview, so never put down something you cannot talk about with real enthusiasm\n\n\nWhen I was building CVPilot, I read through a pile of real CVs to see how people actually use each section. The hobbies block w",
+      "score": 0.3984
+    },
+    {
+      "title": "54 Best Sites to Buy Old Facebook Accounts in 2026",
+      "url": "https://dev.to/thch109/54-best-sites-to-buy-old-facebook-accounts-in-2026-mcl",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buy Verified Facebook Accounts\n💫⚡️🌟🌍 We are available online 24/7\n🌸🔥🌙🌟 Telegram: @progmbofficial\n💎🌈⚡️🌍 WhatsApp: +1 (920) 212-9737\n🌠🚀✨🌌 Email: progmb.contact@gmail.com\n⚡️🔥🖤🌑 Website:  https://www.progmb.com/product/buy-verified-facebook-accounts/\n\nBuy Verified Facebook Accounts. When running an online business, there is a lot of emphasis on building a good reputation on the internet. Most business people and marketers are looking for a more unique approach to get accepted on social media platfor",
+      "en": "Buy Verified Facebook Accounts\n💫⚡️🌟🌍 We are available online 24/7\n🌸🔥🌙🌟 Telegram: @progmbofficial\n💎🌈⚡️🌍 WhatsApp: +1 (920) 212-9737\n🌠🚀✨🌌 Email: progmb.contact@gmail.com\n⚡️🔥🖤🌑 Website:  https://www.progmb.com/product/buy-verified-facebook-accounts/\n\nBuy Verified Facebook Accounts. When running an online business, there is a lot of emphasis on building a good reputation on the internet. Most business people and marketers are looking for a more unique approach to get accepted on social media platfor",
+      "score": 0.3494
+    },
+    {
+      "title": "AI Citations Are a Closed Loop: 15 Domains, ~68% of All Answers",
+      "url": "https://dev.to/sandy_eshell/ai-citations-are-a-closed-loop-15-domains-68-of-all-answers-35mc",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "If you publish technical content in 2026, one number should reorganize your strategy: fifteen domains capture roughly 68% of every citation that ChatGPT, Claude, Gemini, Perplexity, and Google AI Overviews produce.\n\nThe number comes from the AI Citation Source Index 2026, which ranks the fifty most-cited domains in AI answers, synthesized from six independent studies covering 680M+ citations (Everything-PR, updated August 2026).\n\nI write content for software companies for a living, and this inde",
+      "en": "If you publish technical content in 2026, one number should reorganize your strategy: fifteen domains capture roughly 68% of every citation that ChatGPT, Claude, Gemini, Perplexity, and Google AI Overviews produce.\n\nThe number comes from the AI Citation Source Index 2026, which ranks the fifty most-cited domains in AI answers, synthesized from six independent studies covering 680M+ citations (Everything-PR, updated August 2026).\n\nI write content for software companies for a living, and this inde",
+      "score": 0.3483
+    },
+    {
+      "title": "It Took Me 20 Years to Come Back to Tech",
+      "url": "https://dev.to/coderlegi0n/it-took-me-20-years-to-come-back-to-tech-21p",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "It Took Me 20 Years to Come Back to Tech\nDev Journey | CoderLegion\n\nWhat happens when someone who discovered programming as a child spends nearly two decades working in a completely different industry, and then finds their way back into technology?\n\nFor Jan Duris (@JankoD84), the answer is a journey through programming, Linux, mechanical engineering, CNC, QA, test automation, DevOps, release engineering, and eventually building his own SaaS product.\n\nJan's relationship with technology began when ",
+      "en": "It Took Me 20 Years to Come Back to Tech\nDev Journey | CoderLegion\n\nWhat happens when someone who discovered programming as a child spends nearly two decades working in a completely different industry, and then finds their way back into technology?\n\nFor Jan Duris (@JankoD84), the answer is a journey through programming, Linux, mechanical engineering, CNC, QA, test automation, DevOps, release engineering, and eventually building his own SaaS product.\n\nJan's relationship with technology began when ",
+      "score": 0.2984
+    },
+    {
+      "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+      "url": "https://arxiv.org/abs/2609.04197v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and propose ESPO (Error-Structured Prompt Optimization), which decomposes prompt optimization into three phases: Diagnose clusters all training errors into structural patterns in one round; Propose genera",
+      "en": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and propose ESPO (Error-Structured Prompt Optimization), which decomposes prompt optimization into three phases: Diagnose clusters all training errors into structural patterns in one round; Propose genera",
+      "score": 0.4216
+    },
+    {
+      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "url": "https://arxiv.org/abs/2609.04196v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, and 3D world generation and reconstruction without relying on external offline modules. To reliably construct and interact with 3D worlds, our framework jointly models three native world states: physics (gravity field and latitude), geometry (depth), and appearance (image), together with a unified Omni-Camera representation that supports diverse tasks and flexible motions. Beyon",
+      "en": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, and 3D world generation and reconstruction without relying on external offline modules. To reliably construct and interact with 3D worlds, our framework jointly models three native world states: physics (gravity field and latitude), geometry (depth), and appearance (image), together with a unified Omni-Camera representation that supports diverse tasks and flexible motions. Beyon",
+      "score": 0.4216
+    },
+    {
+      "title": "Last Translation Benchmark",
+      "url": "https://arxiv.org/abs/2609.04173v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking, and provide unactionable assessments. Even gold human evaluation is not problem-free, because it often lacks reproducibility, objectivity, and scalability. Overall, th",
+      "en": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking, and provide unactionable assessments. Even gold human evaluation is not problem-free, because it often lacks reproducibility, objectivity, and scalability. Overall, th",
+      "score": 0.4215
+    },
+    {
+      "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+      "url": "https://arxiv.org/abs/2609.04170v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerabilities by creating a substrate for the contagious spread of unintended and undesirable behaviors. We report a case study on a research collective of 100 autonomous LLM agents tasked with proving formal mathematical conjectures. Within the swarm, cheating spontaneously emerged and was later challeng",
+      "en": "Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerabilities by creating a substrate for the contagious spread of unintended and undesirable behaviors. We report a case study on a research collective of 100 autonomous LLM agents tasked with proving formal mathematical conjectures. Within the swarm, cheating spontaneously emerged and was later challeng",
+      "score": 0.4214
+    },
+    {
+      "title": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source AI brand visibility and competitor reports",
+      "en": "Open-source AI brand visibility and competitor reports",
+      "score": 0.6963
+    },
+    {
+      "title": "danielblnc/DLSS-NR-on-AMD",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "en": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "score": 0.686
+    },
+    {
+      "title": "nahrek/polyledger",
+      "url": "https://github.com/nahrek/polyledger",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "en": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "score": 0.6258
+    },
+    {
+      "title": "MSNightmare/FalconFlank",
+      "url": "https://github.com/MSNightmare/FalconFlank",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "en": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "score": 0.5818
+    }
+  ]
+}
