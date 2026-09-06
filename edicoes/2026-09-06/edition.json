@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-06",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "pierrenade/short-video-generator-AI",
+      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "en": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "score": 0.8097
+    },
+    {
+      "title": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "en": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "score": 0.7825
+    },
+    {
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Private German rocket makes history, reaches orbit from European soil",
+      "en": "Private German rocket makes history, reaches orbit from European soil",
+      "score": 0.7652
+    },
+    {
+      "title": "openai-community/gpt2",
+      "url": "https://huggingface.co/openai-community/gpt2",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 3705 likes e 14612342 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 3705 likes e 14612342 downloads.",
+      "score": 0.5765
+    },
+    {
+      "title": "sentence-transformers/all-MiniLM-L6-v2",
+      "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'sentence-similarity', com 5561 likes e 253029336 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'sentence-similarity', com 5561 likes e 253029336 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'modelo', com 3564 likes e 10311462 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'modelo', com 3564 likes e 10311462 downloads.",
+      "score": 0.5242
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "en": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "score": 0.364
+    },
+    {
+      "title": "Nitter has more working instances than before the takedowns",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Nitter has more working instances than before the takedowns",
+      "en": "Nitter has more working instances than before the takedowns",
+      "score": 0.7319
+    },
+    {
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "en": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "score": 0.7129
+    },
+    {
+      "title": "Bateria do smartwatch durando pouco? x funções inúteis para desligar",
+      "url": "https://canaltech.com.br/smartwatch/bateria-do-smartwatch-durando-pouco-x-funcoes-inuteis-para-desligar/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se a bateria do seu smartwatch está acabando antes do fim do dia, talvez não seja necessário trocar de relógio. Alguns recursos ficam funcionando constantemente em segundo plano e podem consumir uma quantidade significativa de energia, mesmo quando não são essenciais para a rotina.\nA economia depende do modelo e da forma como cada pessoa utiliza o relógio, mas algumas funções são especialmente interessantes para revisar. Confira o que pode ser desativado sem comprometer a utilidade do seu relógi",
+      "en": "Se a bateria do seu smartwatch está acabando antes do fim do dia, talvez não seja necessário trocar de relógio. Alguns recursos ficam funcionando constantemente em segundo plano e podem consumir uma quantidade significativa de energia, mesmo quando não são essenciais para a rotina.\nA economia depende do modelo e da forma como cada pessoa utiliza o relógio, mas algumas funções são especialmente interessantes para revisar. Confira o que pode ser desativado sem comprometer a utilidade do seu relógi",
+      "score": 0.3996
+    },
+    {
+      "title": "Hora de economizar: iPhones Apple em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/09/06/reviews/hora-de-economizar-iphones-apple-em-promocao-na-amazon-19/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se você está pensando em trocar de celular ou presentear alguém com um iPhone, a Amazon reuniu uma seleção de três modelos Apple com ótimas condições. Do iPhone 15 ao mais recente iPhone 16e, há opções para diferentes perfis e necessidades. Confira as ofertas abaixo e garanta o seu. Apple iPhone 16e de 128 GB […]\nO post Hora de economizar: iPhones Apple em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Se você está pensando em trocar de celular ou presentear alguém com um iPhone, a Amazon reuniu uma seleção de três modelos Apple com ótimas condições. Do iPhone 15 ao mais recente iPhone 16e, há opções para diferentes perfis e necessidades. Confira as ofertas abaixo e garanta o seu. Apple iPhone 16e de 128 GB […]\nO post Hora de economizar: iPhones Apple em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3966
+    },
+    {
+      "title": "What Is an AI Engineer?",
+      "url": "https://dev.to/sri2614/what-is-an-ai-engineer-1e1e",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Contents\n\n\n\nThe job that didn't exist three years ago\nA one-sentence definition\nThe LLM application stack\nAI Engineer vs ML Engineer vs Data Scientist\nThe skills an AI Engineer actually needs\nCommon misconceptions\nTakeaways\nWhere to go next\n\n\n\n  \n  \n  The job that didn't exist three years ago\n\n\nYou can now call a model that writes code, summarizes contracts, and answers support tickets, with a single HTTP request. So a strange thing happened: the hardest part of \"doing AI\" stopped being the math",
+      "en": "Contents\n\n\n\nThe job that didn't exist three years ago\nA one-sentence definition\nThe LLM application stack\nAI Engineer vs ML Engineer vs Data Scientist\nThe skills an AI Engineer actually needs\nCommon misconceptions\nTakeaways\nWhere to go next\n\n\n\n  \n  \n  The job that didn't exist three years ago\n\n\nYou can now call a model that writes code, summarizes contracts, and answers support tickets, with a single HTTP request. So a strange thing happened: the hardest part of \"doing AI\" stopped being the math",
+      "score": 0.4494
+    },
+    {
+      "title": "Top 125 sides Buy Verified Walmart Seller Accounts",
+      "url": "https://dev.to/thch109/top-125-sides-buy-verified-walmart-seller-accounts-187f",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buy Verified Walmart Seller Account\n💫⚡️🌟🌍 We are available online 24/7\n🌸🔥🌙🌟 Telegram: @progmbofficial\n💎🌈⚡️🌍 WhatsApp: +1 (920) 212-9737\n🌠🚀✨🌌 Email: progmb.contact@gmail.com\n⚡️🔥🖤🌑 Website:  https://www.progmb.com/product/buy-walmart-seller-accounts/\n\nLooking to sell your products online? You’ve heard of a Walmart seller account, but are not sure what it is. Let me tell you all! Walmart account is a platform where you can showcase and sell your products to millions of Walmart customers. By creatin",
+      "en": "Buy Verified Walmart Seller Account\n💫⚡️🌟🌍 We are available online 24/7\n🌸🔥🌙🌟 Telegram: @progmbofficial\n💎🌈⚡️🌍 WhatsApp: +1 (920) 212-9737\n🌠🚀✨🌌 Email: progmb.contact@gmail.com\n⚡️🔥🖤🌑 Website:  https://www.progmb.com/product/buy-walmart-seller-accounts/\n\nLooking to sell your products online? You’ve heard of a Walmart seller account, but are not sure what it is. Let me tell you all! Walmart account is a platform where you can showcase and sell your products to millions of Walmart customers. By creatin",
+      "score": 0.3498
+    },
+    {
+      "title": "Top 5 Places to Buy USA Gmail Accounts in This Years 2026",
+      "url": "https://dev.to/allsoppj/top-5-places-to-buy-usa-gmail-accounts-in-this-years-2026-3bg4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buy USA Gmail Accounts\n\n▬▬▬▬⚡️▬▬▬▬➤Fast Reply 24/7 | Instant Support 🚀\n\n▬▬▬▬⚡️▬▬▬▬➤Telegram: @progmbofficial\n\n▬▬▬▬⚡️▬▬▬▬➤WhatsApp: +1 (920) 212-9737\n\n▬▬▬▬⚡️▬▬▬▬➤Telegram Channel: @progmbofficial\n\n▬▬▬▬⚡️▬▬▬▬➤Email: progmb.contact@gmail.com\n\n▬▬▬▬⚡️▬▬▬▬➤Visit Our Website:https://www.progmb.com/product/buy-usa-gmail-accounts/\n\n$1.00 - $15.00Price range: $1.00 through $15.00\n\nBuy USA Gmail Accounts\nBuy USA Gmail account from ProGmb.com will help you do much better in the digital world. With a trusted",
+      "en": "Buy USA Gmail Accounts\n\n▬▬▬▬⚡️▬▬▬▬➤Fast Reply 24/7 | Instant Support 🚀\n\n▬▬▬▬⚡️▬▬▬▬➤Telegram: @progmbofficial\n\n▬▬▬▬⚡️▬▬▬▬➤WhatsApp: +1 (920) 212-9737\n\n▬▬▬▬⚡️▬▬▬▬➤Telegram Channel: @progmbofficial\n\n▬▬▬▬⚡️▬▬▬▬➤Email: progmb.contact@gmail.com\n\n▬▬▬▬⚡️▬▬▬▬➤Visit Our Website:https://www.progmb.com/product/buy-usa-gmail-accounts/\n\n$1.00 - $15.00Price range: $1.00 through $15.00\n\nBuy USA Gmail Accounts\nBuy USA Gmail account from ProGmb.com will help you do much better in the digital world. With a trusted",
+      "score": 0.3496
+    },
+    {
+      "title": "243 Best Tiktok Seller Center Services To Buy Online 2027",
+      "url": "https://dev.to/thch109/243-best-tiktok-seller-center-services-to-buy-online-2027-3942",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buy TikTok Seller Shop Accounts\n💫⚡️🌟🌍 We are available online 24/7\n🌸🔥🌙🌟 Telegram: @progmbofficial\n💎🌈⚡️🌍 WhatsApp: +1 (920) 212-9737\n🌠🚀✨🌌 Email: progmb.contact@gmail.com\n⚡️🔥🖤🌑 Website: https://www.progmb.com/product/buy-tiktok-seller-shop-accounts/\n\nBuy TikTok Seller Shop Accounts. Increase your TikTok presence by purchasing a TikTok Shop account from us. Increase your brand recognition and sales using pre-written accounts designed for use with a specific focus on interaction and sales within the",
+      "en": "Buy TikTok Seller Shop Accounts\n💫⚡️🌟🌍 We are available online 24/7\n🌸🔥🌙🌟 Telegram: @progmbofficial\n💎🌈⚡️🌍 WhatsApp: +1 (920) 212-9737\n🌠🚀✨🌌 Email: progmb.contact@gmail.com\n⚡️🔥🖤🌑 Website: https://www.progmb.com/product/buy-tiktok-seller-shop-accounts/\n\nBuy TikTok Seller Shop Accounts. Increase your TikTok presence by purchasing a TikTok Shop account from us. Increase your brand recognition and sales using pre-written accounts designed for use with a specific focus on interaction and sales within the",
+      "score": 0.3494
+    },
+    {
+      "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents",
+      "url": "https://arxiv.org/abs/2609.04167v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Repository-level software engineering benchmarks have significantly advanced the evaluation of coding agents, but existing benchmarks primarily measure whether generated patches pass functional tests and overlook review-derived acceptance constraints (review constraints) that often influence whether a patch is acceptable in real-world software development. We introduce SWE-Gate, a repository-level benchmark for software engineering agents that explicitly evaluates review constraint compliance al",
+      "en": "Repository-level software engineering benchmarks have significantly advanced the evaluation of coding agents, but existing benchmarks primarily measure whether generated patches pass functional tests and overlook review-derived acceptance constraints (review constraints) that often influence whether a patch is acceptable in real-world software development. We introduce SWE-Gate, a repository-level benchmark for software engineering agents that explicitly evaluates review constraint compliance al",
+      "score": 0.378
+    },
+    {
+      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "url": "https://arxiv.org/abs/2609.04201v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. Small drifts accumulate and amplify into significant geometric collapse. However, we observe that per-frame depth remains stable throughout this failure. The backbone's local geometry remains intact; only the global pose head breaks down. Motivated by this decoupling, we introduce Scal3R. This approa",
+      "en": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. Small drifts accumulate and amplify into significant geometric collapse. However, we observe that per-frame depth remains stable throughout this failure. The backbone's local geometry remains intact; only the global pose head breaks down. Motivated by this decoupling, we introduce Scal3R. This approa",
+      "score": 0.3282
+    },
+    {
+      "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+      "url": "https://arxiv.org/abs/2609.04194v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide step-level supervision via process reward models and generative critics. These practices rely on the text of a reasoning step carrying information about its functional role. But does the text actually encode information about which reasoning steps matter? We operat",
+      "en": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide step-level supervision via process reward models and generative critics. These practices rely on the text of a reasoning step carrying information about its functional role. But does the text actually encode information about which reasoning steps matter? We operat",
+      "score": 0.3281
+    },
+    {
+      "title": "Robust PAC Learning of Concurrent Stochastic Games",
+      "url": "https://arxiv.org/abs/2609.04189v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition kernels and solves a robust CSG to compute a social-welfare optimal $\\varepsilon$-NE, using a robust MDP-based exploration mechanism to drive joint state-action coverage. Crucially, we introduce a Nas",
+      "en": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition kernels and solves a robust CSG to compute a social-welfare optimal $\\varepsilon$-NE, using a robust MDP-based exploration mechanism to drive joint state-action coverage. Crucially, we introduce a Nas",
+      "score": 0.3281
+    },
+    {
+      "title": "Rion-Wu-tech/wechat-intelligence-hub",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "en": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "score": 0.7314
+    },
+    {
+      "title": "yczz/oc-english",
+      "url": "https://github.com/yczz/oc-english",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "养成类游戏英语学习",
+      "en": "养成类游戏英语学习",
+      "score": 0.5875
+    },
+    {
+      "title": "Human-Agent-Society/reef",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Continual learning infra for self-improving agents",
+      "en": "Continual learning infra for self-improving agents",
+      "score": 0.5273
+    },
+    {
+      "title": "sebbbi/NoGraphicsAPI",
+      "url": "https://github.com/sebbbi/NoGraphicsAPI",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
+      "en": "Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
+      "score": 0.5163
+    }
+  ]
+}

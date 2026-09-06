@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-06",
+  "weekly": true,
+  "range": "31/08 a 06/09",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 292 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 292 likes e 0 downloads.",
+      "score": 0.879
+    },
+    {
+      "title": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "en": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "score": 0.8098
+    },
+    {
+      "title": "pierrenade/short-video-generator-AI",
+      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "en": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "score": 0.8097
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Discovery of a new OpenAI agent message board",
+      "en": "Discovery of a new OpenAI agent message board",
+      "score": 0.8042
+    },
+    {
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "en": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "score": 0.7959
+    },
+    {
+      "title": "GangTailorUpgrade/CoomeRtool",
+      "url": "https://github.com/GangTailorUpgrade/CoomeRtool",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Coomer Tool",
+      "en": "Coomer Tool",
+      "score": 0.7899
+    },
+    {
+      "title": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "en": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "score": 0.7825
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "en": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "score": 0.7784
+    },
+    {
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Fastpotify",
+      "en": "Fastpotify",
+      "score": 0.7706
+    },
+    {
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "en": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "score": 0.7673
+    },
+    {
+      "title": "hkqr/my-free-code",
+      "url": "https://github.com/hkqr/my-free-code",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "en": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "score": 0.7673
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Formalizing Fermat's Last Theorem",
+      "en": "Formalizing Fermat's Last Theorem",
+      "score": 0.7658
+    }
+  ]
+}
