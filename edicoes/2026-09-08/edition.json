@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-08",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Mistral raises €3B",
+      "en": "Mistral raises €3B",
+      "score": 0.8171
+    },
+    {
+      "title": "openbmb/MiniCPM5-2B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 575 likes e 2879 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 575 likes e 2879 downloads.",
+      "score": 0.7572
+    },
+    {
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "216M Spy TVs, The LG Smart TV Problem [video]",
+      "en": "216M Spy TVs, The LG Smart TV Problem [video]",
+      "score": 0.7307
+    },
+    {
+      "title": "OpenVDN/vdn-minimax-h3",
+      "url": "https://huggingface.co/OpenVDN/vdn-minimax-h3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-video', com 242 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-video', com 242 likes e 0 downloads.",
+      "score": 0.5069
+    },
+    {
+      "title": "Microsoft breaks another patch Tuesday record",
+      "url": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software vulnerabilities at a rapid pace. Sources tell me that Microsoft […]",
+      "en": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software vulnerabilities at a rapid pace. Sources tell me that Microsoft […]",
+      "score": 0.4479
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "en": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "score": 0.3998
+    },
+    {
+      "title": "Mistral bags €3B to build Europe's sovereign AI champion",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/08/mistral-bags-3b-to-build-europes-sovereign-ai-champion/5294941",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Samsung-led round values the French model maker at more than €21B",
+      "en": "Samsung-led round values the French model maker at more than €21B",
+      "score": 0.3957
+    },
+    {
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Chrome again exempts Google from user site data settings",
+      "en": "Chrome again exempts Google from user site data settings",
+      "score": 0.7154
+    },
+    {
+      "title": "A/I shuts down",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A/I shuts down",
+      "en": "A/I shuts down",
+      "score": 0.6946
+    },
+    {
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "en": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "score": 0.6697
+    },
+    {
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The revolt of the reader",
+      "en": "The revolt of the reader",
+      "score": 0.6607
+    },
+    {
+      "title": "Where to Find Tech Internships This Summer (Sep 8)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-sep-8-367c",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Looking for internships in a specific city? Here are the top locations hiring interns for Summer 2026.\n\n\n  \n  \n  Foster City, CA\n\n\n5 internships\n\n\n\nDevelopment Intern - CDS AI Research Center at Gilead Sciences\n\nAI/ML Intern - IT at Gilead Sciences\n\nDevelopment Intern - Governance, Risk & Analysis at Gilead Sciences\n\n\n\n  \n  \n  - ...and 2 more\n\n\n\n  \n  \n  Raleigh, NC\n\n\n2 internships\n\n\n\nAI Engineer Intern - IT at Gilead Sciences\n\n\n\n  \n  \n  - CFO Intern - IT - Commercial Data & AICOE at Gilead Scien",
+      "en": "Looking for internships in a specific city? Here are the top locations hiring interns for Summer 2026.\n\n\n  \n  \n  Foster City, CA\n\n\n5 internships\n\n\n\nDevelopment Intern - CDS AI Research Center at Gilead Sciences\n\nAI/ML Intern - IT at Gilead Sciences\n\nDevelopment Intern - Governance, Risk & Analysis at Gilead Sciences\n\n\n\n  \n  \n  - ...and 2 more\n\n\n\n  \n  \n  Raleigh, NC\n\n\n2 internships\n\n\n\nAI Engineer Intern - IT at Gilead Sciences\n\n\n\n  \n  \n  - CFO Intern - IT - Commercial Data & AICOE at Gilead Scien",
+      "score": 0.3997
+    },
+    {
+      "title": "The Easiest Platforms 545 to Buy Verified Stripe Accounts in 2026",
+      "url": "https://dev.to/bsjlll6911/the-easiest-platforms-545-to-buy-verified-stripe-accounts-in-2026-1pl5",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buy Verified Stripe Accounts\n💫⚡️🌟🌍 Telegram: @progmbofficial\n📞💬💀🔥 WhatsApp: +1 (920) 212-9737\n📧📩⚡️🖤 Email: progmb.contact@gmail.com\n🌐💻🕶🚀 Website:https://www.progmb.com/product/buy-verified-stripe-accounts/\n\nBuy Verified Stripe Accounts. Buy verified Stripe instant payout accounts from us for secure and reliable payment processing. Our Stripe account is fully compliant, Mail, Personal, Business, LLC, SSN information verified accounts ensure fast, instant payouts, making them perfect for businesse",
+      "en": "Buy Verified Stripe Accounts\n💫⚡️🌟🌍 Telegram: @progmbofficial\n📞💬💀🔥 WhatsApp: +1 (920) 212-9737\n📧📩⚡️🖤 Email: progmb.contact@gmail.com\n🌐💻🕶🚀 Website:https://www.progmb.com/product/buy-verified-stripe-accounts/\n\nBuy Verified Stripe Accounts. Buy verified Stripe instant payout accounts from us for secure and reliable payment processing. Our Stripe account is fully compliant, Mail, Personal, Business, LLC, SSN information verified accounts ensure fast, instant payouts, making them perfect for businesse",
+      "score": 0.3499
+    },
+    {
+      "title": "I Got Destroyed in a Code Review. Here's What I Built After.",
+      "url": "https://dev.to/ronak_arora_656a7ac84199d/i-got-destroyed-in-a-code-review-heres-what-i-built-after-egj",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "okay so you know that feeling when you've been staring at your own code for so long that you genuinely cannot tell if it's good or if you've just gone blind to how bad it is\n\nyeah\n\nbuilt a thing for that\n\nyou paste a github link and it tells you: health score, how complex your functions actually are, how deep your nesting goes, how long your functions are, how much technical debt you're quietly accumulating\n\ntook me getting destroyed in a code review to realize i had no way to check any of this ",
+      "en": "okay so you know that feeling when you've been staring at your own code for so long that you genuinely cannot tell if it's good or if you've just gone blind to how bad it is\n\nyeah\n\nbuilt a thing for that\n\nyou paste a github link and it tells you: health score, how complex your functions actually are, how deep your nesting goes, how long your functions are, how much technical debt you're quietly accumulating\n\ntook me getting destroyed in a code review to realize i had no way to check any of this ",
+      "score": 0.3498
+    },
+    {
+      "title": "Can I remove the AI-generated tag from my AI-generated course?",
+      "url": "https://dev.to/effessdev/can-i-remove-the-ai-generated-tag-from-my-ai-generated-course-5b22",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I recently used DeepSeek v4 Pro to generate an embedded systems course for app, game, or web developers who want to transition into low-level programming and embedded C. I wrote a hyper-specific prompt and asked the AI to first list the chapters and their content. Then I generated each chapter individually. Right now the course has 10 chapters.\n\nOriginally, I created this course for myself, and I've been actively using it. Before studying a new chapter, I paste the content back into an AI to che",
+      "en": "I recently used DeepSeek v4 Pro to generate an embedded systems course for app, game, or web developers who want to transition into low-level programming and embedded C. I wrote a hyper-specific prompt and asked the AI to first list the chapters and their content. Then I generated each chapter individually. Right now the course has 10 chapters.\n\nOriginally, I created this course for myself, and I've been actively using it. Before studying a new chapter, I paste the content back into an AI to che",
+      "score": 0.3498
+    },
+    {
+      "title": "A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
+      "url": "https://arxiv.org/abs/2609.05400v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "When there is not enough labeled data to properly train deep learning models, transfer learning can help. We still do not fully understand how effective it is in neuroimaging, especially for Alzheimer's disease research. It is also not clear if these transferred models can work on new datasets without being retrained for each specific task. We evaluate whether a compact, supervised pretrained model can serve as a reusable foundation model for downstream neuroimaging tasks. We freeze the 7.18 mil",
+      "en": "When there is not enough labeled data to properly train deep learning models, transfer learning can help. We still do not fully understand how effective it is in neuroimaging, especially for Alzheimer's disease research. It is also not clear if these transferred models can work on new datasets without being retrained for each specific task. We evaluate whether a compact, supervised pretrained model can serve as a reusable foundation model for downstream neuroimaging tasks. We freeze the 7.18 mil",
+      "score": 0.3333
+    },
+    {
+      "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
+      "url": "https://arxiv.org/abs/2609.05395v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source models consistently underperform in this multi-step setting, and no existing benchmark measures the gap. We introduce the Korean Open Public API Benchmark (KOPA-Bench), comprising 145 real-world tasks. To close this gap, we present EDGE, an Execution-grounded Dynamic Graph for tool-calling data synthEsi",
+      "en": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source models consistently underperform in this multi-step setting, and no existing benchmark measures the gap. We introduce the Korean Open Public API Benchmark (KOPA-Bench), comprising 145 real-world tasks. To close this gap, we present EDGE, an Execution-grounded Dynamic Graph for tool-calling data synthEsi",
+      "score": 0.3332
+    },
+    {
+      "title": "Think-Verify-Revise: Neuro-Symbolic Visual Reasoning with Vision-Language Models and Dynamic Logic Tensor Networks",
+      "url": "https://arxiv.org/abs/2609.05388v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Visual reasoning tasks require a system to jointly perceive visual content and apply formal relational constraints---a combination that neither pure neural nor purely symbolic approaches handle well in isolation. This paper proposes a Neuro-Symbolic (NeSy) framework that closes this gap by tightly coupling a Vision-Language Model (VLM) for automatic First-Order Logic (FOL) rule induction with a Dynamic Logic Tensor Network (D-LTN) for differentiable rule verification, in a closed iterative feedb",
+      "en": "Visual reasoning tasks require a system to jointly perceive visual content and apply formal relational constraints---a combination that neither pure neural nor purely symbolic approaches handle well in isolation. This paper proposes a Neuro-Symbolic (NeSy) framework that closes this gap by tightly coupling a Vision-Language Model (VLM) for automatic First-Order Logic (FOL) rule induction with a Dynamic Logic Tensor Network (D-LTN) for differentiable rule verification, in a closed iterative feedb",
+      "score": 0.333
+    },
+    {
+      "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
+      "url": "https://arxiv.org/abs/2609.05385v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a system, diagnose errors, or decide when to escalate an output. Such use assumes that the explanations agree with the component's observable decision behaviour. We test two interpretations of the named factors: necessity, meaning that changing a factor would change the output, and sufficiency, meani",
+      "en": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a system, diagnose errors, or decide when to escalate an output. Such use assumes that the explanations agree with the component's observable decision behaviour. We test two interpretations of the named factors: necessity, meaning that changing a factor would change the output, and sufficiency, meani",
+      "score": 0.333
+    },
+    {
+      "title": "Jarvis322/macos-sysdata",
+      "url": "https://github.com/Jarvis322/macos-sysdata",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+      "en": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+      "score": 0.65
+    },
+    {
+      "title": "sonicloudco/recorder",
+      "url": "https://github.com/sonicloudco/recorder",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云",
+      "en": "声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云",
+      "score": 0.4852
+    },
+    {
+      "title": "anthropics/fermats-last-theorem",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "anthropics/fermats-last-theorem",
+      "en": "anthropics/fermats-last-theorem",
+      "score": 0.0627
+    },
+    {
+      "title": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "kajisho5/ffmpeg-skill",
+      "en": "kajisho5/ffmpeg-skill",
+      "score": 0.0545
+    }
+  ]
+}
