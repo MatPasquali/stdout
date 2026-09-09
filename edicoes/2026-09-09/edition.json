@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-09",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "openai/NavierStokesAndEuler",
+      "url": "https://github.com/openai/NavierStokesAndEuler",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "en": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "score": 0.7995
+    },
+    {
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Navier-Stokes, Tristan Buckmaster [pdf]",
+      "en": "Navier-Stokes, Tristan Buckmaster [pdf]",
+      "score": 0.7403
+    },
+    {
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "LibreOffice breaks download records after declaring it has no AI features",
+      "en": "LibreOffice breaks download records after declaring it has no AI features",
+      "score": 0.7393
+    },
+    {
+      "title": "I resigned from Anthropic today",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "I resigned from Anthropic today",
+      "en": "I resigned from Anthropic today",
+      "score": 0.7012
+    },
+    {
+      "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
+      "url": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 348 likes e 19433 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 348 likes e 19433 downloads.",
+      "score": 0.5988
+    },
+    {
+      "title": "google/timesfm-3.0-pytorch",
+      "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'time-series-forecasting', com 680 likes e 444052 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'time-series-forecasting', com 680 likes e 444052 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "en": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "score": 0.3998
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "On the Navier-Stokes Millennium Prize Problem",
+      "en": "On the Navier-Stokes Millennium Prize Problem",
+      "score": 0.7369
+    },
+    {
+      "title": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Jellyfin 12.0",
+      "en": "Jellyfin 12.0",
+      "score": 0.6582
+    },
+    {
+      "title": "Security boffin claims airport group left API keys in client-side JavaScript for four years",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/09/security-boffin-claims-airport-group-left-api-keys-in-client-side-javascript-for-four-years/5295192",
+      "source": "The Register",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Researcher believes overprivileged Iterable creds exposed 8.8M customer records, and could have enabled mass deletion",
+      "en": "Researcher believes overprivileged Iterable creds exposed 8.8M customer records, and could have enabled mass deletion",
+      "score": 0.443
+    },
+    {
+      "title": "9.9: Galaxy S25 Plus (512 GB) registra a maior queda desde junho",
+      "url": "https://tecnoblog.net/achados/9-9-galaxy-s25-plus-512-gb-registra-a-maior-queda-desde-junho/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Galaxy S25 Plus (512 GB) tem tela AMOLED de 120 Hz e chip Snapdragon; celular da Samsung sofre a maior queda no preço em meses, com desconto de 54% no Pix\n9.9: Galaxy S25 Plus (512 GB) registra a maior queda desde junho",
+      "en": "Galaxy S25 Plus (512 GB) tem tela AMOLED de 120 Hz e chip Snapdragon; celular da Samsung sofre a maior queda no preço em meses, com desconto de 54% no Pix\n9.9: Galaxy S25 Plus (512 GB) registra a maior queda desde junho",
+      "score": 0.3998
+    },
+    {
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 9)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-9-nla",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "New internship openings at TikTok, Hex Technologies, Emerson Electric and more. Apply early.\n\n\n  \n  \n  Product Manager Intern\n\n\n TikTok\n\nLocation: San Jose, CA\nCategory: Product\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Product Engineer Intern\n\n\n Hex Technologies\n\nLocation: SF\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Software Development Intern - DeltaV\n\n\n Emerson Electric\n\nLocation: Austin, TX\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  AI Engineer Intern\n\n\n Eudia\n\nLocation: Palo Alto",
+      "en": "New internship openings at TikTok, Hex Technologies, Emerson Electric and more. Apply early.\n\n\n  \n  \n  Product Manager Intern\n\n\n TikTok\n\nLocation: San Jose, CA\nCategory: Product\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Product Engineer Intern\n\n\n Hex Technologies\n\nLocation: SF\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Software Development Intern - DeltaV\n\n\n Emerson Electric\n\nLocation: Austin, TX\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  AI Engineer Intern\n\n\n Eudia\n\nLocation: Palo Alto",
+      "score": 0.3497
+    },
+    {
+      "title": "Remote SWE Jobs Paying Up to $200k (Sep 9)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-200k-sep-9-2eil",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Here are the 1 highest paying fully remote software engineering roles this week.\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\nHundreds more remote roles updated daily.\n\nSee All Remote Jobs on Crackr.dev",
+      "en": "Here are the 1 highest paying fully remote software engineering roles this week.\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\nHundreds more remote roles updated daily.\n\nSee All Remote Jobs on Crackr.dev",
+      "score": 0.3497
+    },
+    {
+      "title": "Agency prices for cold email finally make sense in 2026",
+      "url": "https://dev.to/sandy_eshell/agency-prices-for-cold-email-finally-make-sense-in-2026-1c11",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I have watched the same founder conversation for years: 400 emails sent by hand, four replies, then agency websites showing prices from $397 to nearly $10,000 a month for what looks like the same service. It is not price gouging. The published 2026 pricing finally makes the difference readable.\n\n\nThe market runs from about $1,500 a month for entry-level done-for-you sending to $10,000+ for enterprise programs, with most serious engagements between $2,500 and $6,000 a month (outboundsystem.com, J",
+      "en": "I have watched the same founder conversation for years: 400 emails sent by hand, four replies, then agency websites showing prices from $397 to nearly $10,000 a month for what looks like the same service. It is not price gouging. The published 2026 pricing finally makes the difference readable.\n\n\nThe market runs from about $1,500 a month for entry-level done-for-you sending to $10,000+ for enterprise programs, with most serious engagements between $2,500 and $6,000 a month (outboundsystem.com, J",
+      "score": 0.3496
+    },
+    {
+      "title": "title: Why I built a 100% free ATS resume builder after getting trapped by $30 paywallspublished: true",
+      "url": "https://dev.to/jagadees_varrao_fb33cf66/title-why-i-built-a-100-free-ats-resume-builder-after-getting-trapped-by-30-paywallspublished-1l8h",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "As a developer and job seeker, I experienced the universal frustration of modern resume builders:\nYou spend 45 minutes formatting your projects, tuning your experience, and tweaking your skills. Then you click \"Download PDF\", and BAM:\n\n\n\"Start your 14-day trial for $2.99 (auto-renews at $29.99/mo)\" or you get an ugly watermark slapped across the middle of your resume.\nI decided to solve this once and for all by building ZenResume.\n\n  \n  \n  What makes ZenResume different:\n\n\n\n\n100% Free Vector PDF",
+      "en": "As a developer and job seeker, I experienced the universal frustration of modern resume builders:\nYou spend 45 minutes formatting your projects, tuning your experience, and tweaking your skills. Then you click \"Download PDF\", and BAM:\n\n\n\"Start your 14-day trial for $2.99 (auto-renews at $29.99/mo)\" or you get an ugly watermark slapped across the middle of your resume.\nI decided to solve this once and for all by building ZenResume.\n\n  \n  \n  What makes ZenResume different:\n\n\n\n\n100% Free Vector PDF",
+      "score": 0.349
+    },
+    {
+      "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+      "url": "https://arxiv.org/abs/2609.09158v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm placement, torso adjustment, and gait modulation for collision-free movement through complex 3D spaces. We introduce TANGO, the first whole-body vision-language navigation framework for language-conditi",
+      "en": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm placement, torso adjustment, and gait modulation for collision-free movement through complex 3D spaces. We introduce TANGO, the first whole-body vision-language navigation framework for language-conditi",
+      "score": 0.4622
+    },
+    {
+      "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
+      "url": "https://arxiv.org/abs/2609.09155v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "World models are increasingly used as policy-in-the-loop imagination environments, where reliable rollouts require fine-grained controllability with respect to low-level robot actions. A key obstacle to scaling such models in robotics is that actions are not a universal language in pixel space: changes in visual environment, camera view, robot placement, or embodiment alter how the same numerical action manifests visually, leading to conflicting supervision under mixed training and brittle gener",
+      "en": "World models are increasingly used as policy-in-the-loop imagination environments, where reliable rollouts require fine-grained controllability with respect to low-level robot actions. A key obstacle to scaling such models in robotics is that actions are not a universal language in pixel space: changes in visual environment, camera view, robot placement, or embodiment alter how the same numerical action manifests visually, leading to conflicting supervision under mixed training and brittle gener",
+      "score": 0.4622
+    },
+    {
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.09153v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order, and under which conditions. As trajectories lengthen, agents can lose track of their objectives, invoke tools out of order, and repeat unproductive actions. We introduce the Procedural Graph: just as a knowledge graph o",
+      "en": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order, and under which conditions. As trajectories lengthen, agents can lose track of their objectives, invoke tools out of order, and repeat unproductive actions. We introduce the Procedural Graph: just as a knowledge graph o",
+      "score": 0.4622
+    },
+    {
+      "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+      "url": "https://arxiv.org/abs/2609.09140v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI models often struggle to capture the complex, irregular temporal dynamics and inherent stochasticity of real-world multimodal patient data. Existing AI approaches for modeling longitudinal patient records are predominantly discriminative, limited to a few modali",
+      "en": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI models often struggle to capture the complex, irregular temporal dynamics and inherent stochasticity of real-world multimodal patient data. Existing AI approaches for modeling longitudinal patient records are predominantly discriminative, limited to a few modali",
+      "score": 0.4621
+    },
+    {
+      "title": "yang0/handraw-style",
+      "url": "https://github.com/yang0/handraw-style",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "手绘风格编号画廊与双语提示词 Skill",
+      "en": "手绘风格编号画廊与双语提示词 Skill",
+      "score": 0.578
+    },
+    {
+      "title": "Mantitup-Org/vista",
+      "url": "https://github.com/Mantitup-Org/vista",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Mantitup-Org/vista",
+      "en": "Mantitup-Org/vista",
+      "score": 0.0511
+    }
+  ]
+}
