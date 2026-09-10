@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-10",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1031 likes e 6 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1031 likes e 6 downloads.",
+      "score": 0.805
+    },
+    {
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Shopify acquires Tailwind",
+      "en": "Shopify acquires Tailwind",
+      "score": 0.7923
+    },
+    {
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Muse, Meta’s personal AI agent",
+      "en": "Muse, Meta’s personal AI agent",
+      "score": 0.7734
+    },
+    {
+      "title": "Claude, change the “Add to Cart” button to blue",
+      "url": "https://opusfived.dev/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Claude, change the “Add to Cart” button to blue",
+      "en": "Claude, change the “Add to Cart” button to blue",
+      "score": 0.738
+    },
+    {
+      "title": "nex-agi/Nex-N2.5-Pro",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 581 likes e 3 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 581 likes e 3 downloads.",
+      "score": 0.6495
+    },
+    {
+      "title": "nex-agi/Nex-N2.5-mini",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 630 likes e 2444 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 630 likes e 2444 downloads.",
+      "score": 0.644
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 3335 likes e 1740572 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 3335 likes e 1740572 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "iPhone Duo",
+      "en": "iPhone Duo",
+      "score": 0.7629
+    },
+    {
+      "title": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "DeepSeek v4.1 Flash",
+      "en": "DeepSeek v4.1 Flash",
+      "score": 0.738
+    },
+    {
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "What do Visa and Mastercard do? An intro to card networks",
+      "en": "What do Visa and Mastercard do? An intro to card networks",
+      "score": 0.6663
+    },
+    {
+      "title": "Hora de renovar o seu setup: notebooks em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/09/10/reviews/hora-de-renovar-o-seu-setup-notebooks-em-promocao-na-amazon-11/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se você está pensando em trocar de notebook ou adquirir um novo para trabalho, estudo ou uso no dia a dia, este é o momento certo. Reunimos três opções em oferta na Amazon que valem a sua atenção, desde modelos compactos e acessíveis até ultrabooks leves com Windows 11. Confira a seleção abaixo e […]\nO post Hora de renovar o seu setup: notebooks em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Se você está pensando em trocar de notebook ou adquirir um novo para trabalho, estudo ou uso no dia a dia, este é o momento certo. Reunimos três opções em oferta na Amazon que valem a sua atenção, desde modelos compactos e acessíveis até ultrabooks leves com Windows 11. Confira a seleção abaixo e […]\nO post Hora de renovar o seu setup: notebooks em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3982
+    },
+    {
+      "title": "VAX, TCP/IP, and Thirty Years of the Same Trust Problem",
+      "url": "https://dev.to/lafine_systemsdesign/vax-tcpip-and-thirty-years-of-the-same-trust-problem-3dba",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A Japanese version of this is on Note.\n\nI build RoamSwitch, a network security app for Mac and Linux, on my own. Maybe it's this line of work, but every time I write about AI agents automating cyberattacks, I keep thinking back to 1992, the year I entered this industry. What I was looking at then and what I'm looking at now are supposedly different technologies entirely, yet they keep feeling like the same shape to me. Worth actually writing that down properly, checking memory against real techn",
+      "en": "A Japanese version of this is on Note.\n\nI build RoamSwitch, a network security app for Mac and Linux, on my own. Maybe it's this line of work, but every time I write about AI agents automating cyberattacks, I keep thinking back to 1992, the year I entered this industry. What I was looking at then and what I'm looking at now are supposedly different technologies entirely, yet they keep feeling like the same shape to me. Worth actually writing that down properly, checking memory against real techn",
+      "score": 0.4486
+    },
+    {
+      "title": "245 Best Places to Buy EDU Email Accounts in 2026 (PVA & ...",
+      "url": "https://dev.to/tvnqbe3691/245-best-places-to-buy-edu-email-accounts-in-2026-pva--4mo8",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buy Edu Emails\n💫⚡️🌟🌍 Telegram: @progmbofficial\n📞💬💀🔥 WhatsApp: +1 (920) 212-9737\n📧📩⚡️🖤 Email: progmb.contact@gmail.com\n🌐💻🕶🚀 Website:https://www.progmb.com/product/buy-edu-emails/\n\nBuy Edu Email has become a popular trend among students and researchers seeking access to exclusive educational resources. These specialized email accounts offer unique benefits, such as discounts on software subscriptions, access to academic journals, and eligibility for student discounts. By purchasing an Edu email, i",
+      "en": "Buy Edu Emails\n💫⚡️🌟🌍 Telegram: @progmbofficial\n📞💬💀🔥 WhatsApp: +1 (920) 212-9737\n📧📩⚡️🖤 Email: progmb.contact@gmail.com\n🌐💻🕶🚀 Website:https://www.progmb.com/product/buy-edu-emails/\n\nBuy Edu Email has become a popular trend among students and researchers seeking access to exclusive educational resources. These specialized email accounts offer unique benefits, such as discounts on software subscriptions, access to academic journals, and eligibility for student discounts. By purchasing an Edu email, i",
+      "score": 0.3988
+    },
+    {
+      "title": "I Wanted to Learn Al. Al Gave Me a 200 Tool Shopping List 😅",
+      "url": "https://dev.to/i_am_vesh/i-wanted-to-learn-al-al-gave-me-a-200-tool-shopping-list-10gc",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I’ve been thinking seriously about my next career move, and I’m honestly a bit confused about where to put my effort.\n\nMy background is mainly Data Engineering + DevOps. I’ve worked with AWS and Azure, built data pipelines, worked with CI/CD, Jenkins, GitHub Actions, automation and cloud infrastructure. Kubernetes is something I haven’t used extensively in production yet, but I’ve spent a lot of time understanding the architecture, workloads, networking, deployments and how the whole ecosystem f",
+      "en": "I’ve been thinking seriously about my next career move, and I’m honestly a bit confused about where to put my effort.\n\nMy background is mainly Data Engineering + DevOps. I’ve worked with AWS and Azure, built data pipelines, worked with CI/CD, Jenkins, GitHub Actions, automation and cloud infrastructure. Kubernetes is something I haven’t used extensively in production yet, but I’ve spent a lot of time understanding the architecture, workloads, networking, deployments and how the whole ecosystem f",
+      "score": 0.3986
+    },
+    {
+      "title": "Why Your Resume Gets Rejected by Robots Before a Human Sees It (and How to Fix It)",
+      "url": "https://dev.to/yotta_xlybris/why-your-resume-gets-rejected-by-robots-before-a-human-sees-it-and-how-to-fix-it-2cdo",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "You applied to 40 jobs. You got 2 replies. You're qualified, your experience is real, your skills match. So what happened?\n\nHere's the uncomfortable truth: around 75% of resumes are filtered out by Applicant Tracking Systems (ATS) before a recruiter ever reads them. Not because the candidates weren't good. Because their resumes couldn't be read.\n\nThe good news: this is the most fixable part of your entire job search. This week I dug into how ATS parsing actually works, tested the common \"resume",
+      "en": "You applied to 40 jobs. You got 2 replies. You're qualified, your experience is real, your skills match. So what happened?\n\nHere's the uncomfortable truth: around 75% of resumes are filtered out by Applicant Tracking Systems (ATS) before a recruiter ever reads them. Not because the candidates weren't good. Because their resumes couldn't be read.\n\nThe good news: this is the most fixable part of your entire job search. This week I dug into how ATS parsing actually works, tested the common \"resume",
+      "score": 0.398
+    },
+    {
+      "title": "Programmable World Model",
+      "url": "https://arxiv.org/abs/2609.10540v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over extended interactions. We introduce Programmable World Model, a framework that decouples world-state evolution from visual observation generation. An agent translates natural-language instructions into executable programs that specify entity states and state-transition rules, enabling direct control",
+      "en": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over extended interactions. We introduce Programmable World Model, a framework that decouples world-state evolution from visual observation generation. An agent translates natural-language instructions into executable programs that specify entity states and state-transition rules, enabling direct control",
+      "score": 0.4624
+    },
+    {
+      "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
+      "url": "https://arxiv.org/abs/2609.10539v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing research-method specifications, defined by whether they provide sufficient methodological information for a competent implementer or coding agent to construct the intended method without unsupported assumptions. We construct evidence-grounded specifications and their supported re",
+      "en": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing research-method specifications, defined by whether they provide sufficient methodological information for a competent implementer or coding agent to construct the intended method without unsupported assumptions. We construct evidence-grounded specifications and their supported re",
+      "score": 0.4624
+    },
+    {
+      "title": "Precision in Rice Variety Classification using Stacking-Based Ensemble Learning",
+      "url": "https://arxiv.org/abs/2609.10524v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Rice, a staple food for a significant portion of the global population, exhibits remarkable diversity in its varieties, presenting substantial challenges for accurate identification by consumers, traders, and farmers. This complexity often facilitates fraudulent practices, such as the unauthorized mixing of rice types, which undermines quality and trust in the supply chain. Despite its critical importance, existing research falls short of providing robust and efficient methods for precise rice v",
+      "en": "Rice, a staple food for a significant portion of the global population, exhibits remarkable diversity in its varieties, presenting substantial challenges for accurate identification by consumers, traders, and farmers. This complexity often facilitates fraudulent practices, such as the unauthorized mixing of rice types, which undermines quality and trust in the supply chain. Despite its critical importance, existing research falls short of providing robust and efficient methods for precise rice v",
+      "score": 0.4623
+    },
+    {
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "url": "https://arxiv.org/abs/2609.10522v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VL",
+      "en": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VL",
+      "score": 0.4623
+    },
+    {
+      "title": "sdli1995/dlssg_for_sm86",
+      "url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Here is a dlssg for RTX30 Series GPU",
+      "en": "Here is a dlssg for RTX30 Series GPU",
+      "score": 0.7237
+    },
+    {
+      "title": "achimala/dream-loop",
+      "url": "https://github.com/achimala/dream-loop",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "en": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "score": 0.6751
+    },
+    {
+      "title": "donvito/codex-astra-luna-orchestrator",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "en": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "score": 0.6161
+    },
+    {
+      "title": "AI-FanGe/Microduck-build-tutorial",
+      "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A practical hardware and software setup for a compact RL-powered biped robot.",
+      "en": "A practical hardware and software setup for a compact RL-powered biped robot.",
+      "score": 0.6006
+    }
+  ]
+}
