@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-11",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "en": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "score": 0.8189
+    },
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Shopify is moving from React Native back to Swift and Kotlin",
+      "en": "Shopify is moving from React Native back to Swift and Kotlin",
+      "score": 0.7555
+    },
+    {
+      "title": "Vincentwei1021/anything2explainer",
+      "url": "https://github.com/Vincentwei1021/anything2explainer",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+      "en": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+      "score": 0.7018
+    },
+    {
+      "title": "XHToken/Spark-X2.5-4B",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 1089 likes e 17712 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 1089 likes e 17712 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 823 likes e 682187 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 823 likes e 682187 downloads.",
+      "score": 0.53
+    },
+    {
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "source": "Ars Technica",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "en": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "score": 0.4464
+    },
+    {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "en": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "score": 0.3677
+    },
+    {
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Don't let anyone take away your big box of cables",
+      "en": "Don't let anyone take away your big box of cables",
+      "score": 0.7191
+    },
+    {
+      "title": "Rust is tier-1 language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Rust is tier-1 language at Microsoft",
+      "en": "Rust is tier-1 language at Microsoft",
+      "score": 0.7187
+    },
+    {
+      "title": "Caixa compacta com bateria para 8 horas: confira uma análise da JBL Go 5",
+      "url": "https://olhardigital.com.br/2026/09/11/reviews/caixa-compacta-com-bateria-para-8-horas-confira-uma-analise-da-jbl-go-5/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Modelo tem conexão Bluetooth multiponto e é resistente, saiba o que ela consegue fazer e confira se vale a pena comprar uma\nO post Caixa compacta com bateria para 8 horas: confira uma análise da JBL Go 5 apareceu primeiro em Olhar Digital.",
+      "en": "Modelo tem conexão Bluetooth multiponto e é resistente, saiba o que ela consegue fazer e confira se vale a pena comprar uma\nO post Caixa compacta com bateria para 8 horas: confira uma análise da JBL Go 5 apareceu primeiro em Olhar Digital.",
+      "score": 0.3989
+    },
+    {
+      "title": "Melhor fone de ouvido Xiaomi: 6 modelos para comprar em 2026",
+      "url": "https://tecnoblog.net/guias/melhor-fone-xiaomi/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Selecionamos os melhores fones de ouvido Xiaomi em diversas faixas de preço; conheça modelos com cancelamento de ruído ativo, design ergonômico e resistência à água\nMelhor fone de ouvido Xiaomi: 6 modelos para comprar em 2026",
+      "en": "Selecionamos os melhores fones de ouvido Xiaomi em diversas faixas de preço; conheça modelos com cancelamento de ruído ativo, design ergonômico e resistência à água\nMelhor fone de ouvido Xiaomi: 6 modelos para comprar em 2026",
+      "score": 0.3984
+    },
+    {
+      "title": "Should a Squad Promote a Free Coding Path to Shared Context? Use This 4-Gate Test",
+      "url": "https://dev.to/bestbee/should-a-squad-promote-a-free-coding-path-to-shared-context-use-this-4-gate-test-41o",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I still start these reviews the same way. Not with a model leaderboard. With the merge queue.\n\nA twelve-person squad can mint more unreviewed AI answers in one week than staff engineers can reconcile in a month. That ratio can reverse a “make the free path the default” decision overnight. A viral thread claiming AI already codes better than most developers does not pay the review tax. You do.\n\nPicture Tuesday standup. The EM drops a screenshot. Three people solved the same auth-boundary question",
+      "en": "I still start these reviews the same way. Not with a model leaderboard. With the merge queue.\n\nA twelve-person squad can mint more unreviewed AI answers in one week than staff engineers can reconcile in a month. That ratio can reverse a “make the free path the default” decision overnight. A viral thread claiming AI already codes better than most developers does not pay the review tax. You do.\n\nPicture Tuesday standup. The EM drops a screenshot. Three people solved the same auth-boundary question",
+      "score": 0.3999
+    },
+    {
+      "title": "Senior Remote SWE Roles Hiring Now - 3 Pay $150k+ (Sep 11)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-3-pay-150k-sep-11-228p",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Looking for a senior-level remote role? Here are 6 positions for experienced engineers.\n\n\n  \n  \n  Staff Software Development Engineer SDM\n\n\n Delinea\n\nSalary: $150k - $185k/yr\nStack: Go / DevOps / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Software Engineer Case Execution\n\n\n Pivotal Health\n\nSalary: $190k - $220k/yr\nStack: Python / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind",
+      "en": "Looking for a senior-level remote role? Here are 6 positions for experienced engineers.\n\n\n  \n  \n  Staff Software Development Engineer SDM\n\n\n Delinea\n\nSalary: $150k - $185k/yr\nStack: Go / DevOps / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Software Engineer Case Execution\n\n\n Pivotal Health\n\nSalary: $190k - $220k/yr\nStack: Python / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind",
+      "score": 0.3499
+    },
+    {
+      "title": "How to Create an AI Upskilling Strategy That Produces Real Results",
+      "url": "https://dev.to/scott_mcmahan_d085ae6e508/how-to-create-an-ai-upskilling-strategy-that-produces-real-results-1o6a",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "AI tools are becoming part of software development, documentation, data analysis, project management, and other business functions. However, access to these tools does not automatically give employees the skills to use them effectively.\n\nOrganizations need a structured AI upskilling strategy that connects training to real work.\n\n\n  \n  \n  Begin With Actual Business Problems\n\n\nAI training should start with the tasks and workflows an organization wants to improve.\n\nTeams can examine repetitive proc",
+      "en": "AI tools are becoming part of software development, documentation, data analysis, project management, and other business functions. However, access to these tools does not automatically give employees the skills to use them effectively.\n\nOrganizations need a structured AI upskilling strategy that connects training to real work.\n\n\n  \n  \n  Begin With Actual Business Problems\n\n\nAI training should start with the tasks and workflows an organization wants to improve.\n\nTeams can examine repetitive proc",
+      "score": 0.3493
+    },
+    {
+      "title": "Britain's technology brief is now everyone's job and nobody's responsibility",
+      "url": "https://www.theregister.com/public-sector/2026/09/11/britains-technology-brief-is-now-everyones-job-and-nobodys-responsibility/5295849",
+      "source": "The Register",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Whitehall has scattered science, AI, and digital government across a thicket of competing ministerial portfolios",
+      "en": "Whitehall has scattered science, AI, and digital government across a thicket of competing ministerial portfolios",
+      "score": 0.3467
+    },
+    {
+      "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
+      "url": "https://arxiv.org/abs/2609.11923v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, interdependent gather and scatter steps issued through a generic tree interface. On a GPU every kernel finishes in microseconds, so kernel launches and framework dispatch dominate the run time, and prior GPU implementations have lost to optimized CPU code. We observe that for a fixed",
+      "en": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, interdependent gather and scatter steps issued through a generic tree interface. On a GPU every kernel finishes in microseconds, so kernel launches and framework dispatch dominate the run time, and prior GPU implementations have lost to optimized CPU code. We observe that for a fixed",
+      "score": 0.4623
+    },
+    {
+      "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
+      "url": "https://arxiv.org/abs/2609.11900v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science identifies these relations as foundational to spatial understanding, yet foundation-model evaluations largely focus on metric or viewpoint-dependent relations. We introduce MindTopo, a benchmark of topological intuition across five properties grounded in cognitive science and formal topology: continuity",
+      "en": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science identifies these relations as foundational to spatial understanding, yet foundation-model evaluations largely focus on metric or viewpoint-dependent relations. We introduce MindTopo, a benchmark of topological intuition across five properties grounded in cognitive science and formal topology: continuity",
+      "score": 0.4622
+    },
+    {
+      "title": "Caption-once, Frames-on-Demand: Visual-Need Routing for Budget-Aware Agentic Long Video Understanding",
+      "url": "https://arxiv.org/abs/2609.11899v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Long-video understanding on edge devices must reason over hours of content under tight compute and bandwidth budgets. Subsampling visual tokens loses temporal structure, while text-only video memories lose fine-grained visual attributes. We observe a visual-textual duality: language memories carry long-range temporal structure better than dense frames, while pixels remain decisive for attribute-level perception. Building on this insight, we propose Caption-once, Frames-onDemand (CFD), a budget-a",
+      "en": "Long-video understanding on edge devices must reason over hours of content under tight compute and bandwidth budgets. Subsampling visual tokens loses temporal structure, while text-only video memories lose fine-grained visual attributes. We observe a visual-textual duality: language memories carry long-range temporal structure better than dense frames, while pixels remain decisive for attribute-level perception. Building on this insight, we propose Caption-once, Frames-onDemand (CFD), a budget-a",
+      "score": 0.4622
+    },
+    {
+      "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era",
+      "url": "https://arxiv.org/abs/2609.11897v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Causal discovery aims to uncover causal structures from data and is fundamental to scientific reasoning and intervention-based decision making. Its evaluation relies heavily on structural causal models (SCMs), which specify a causal graph together with the mechanisms that generate data, yet existing studies differ substantially in graph families, mechanisms, and evaluation protocols. The emergence of causal discovery foundation models (CDFMs) further complicates evaluation: performance may refle",
+      "en": "Causal discovery aims to uncover causal structures from data and is fundamental to scientific reasoning and intervention-based decision making. Its evaluation relies heavily on structural causal models (SCMs), which specify a causal graph together with the mechanisms that generate data, yet existing studies differ substantially in graph families, mechanisms, and evaluation protocols. The emergence of causal discovery foundation models (CDFMs) further complicates evaluation: performance may refle",
+      "score": 0.4622
+    },
+    {
+      "title": "iamzulx/crypto-rag",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "en": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "score": 0.6543
+    },
+    {
+      "title": "gazijarin/itsgiving",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Express yourself in meetings (with memes, of course).",
+      "en": "Express yourself in meetings (with memes, of course).",
+      "score": 0.6114
+    },
+    {
+      "title": "Faizpi/bank-sampah",
+      "url": "https://github.com/Faizpi/bank-sampah",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Faizpi/bank-sampah",
+      "en": "Faizpi/bank-sampah",
+      "score": 0.0805
+    },
+    {
+      "title": "Edge0-AI/Edge0",
+      "url": "https://github.com/Edge0-AI/Edge0",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Edge0-AI/Edge0",
+      "en": "Edge0-AI/Edge0",
+      "score": 0.0719
+    }
+  ]
+}
