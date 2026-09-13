@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-13",
+  "weekly": true,
+  "range": "07/09 a 13/09",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "en": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "score": 0.855
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "en": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "score": 0.8189
+    },
+    {
+      "title": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Mistral raises €3B",
+      "en": "Mistral raises €3B",
+      "score": 0.8171
+    },
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Everyone should slow down AI development except for me",
+      "en": "Everyone should slow down AI development except for me",
+      "score": 0.8161
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A misalignment of AI in mathematics",
+      "en": "A misalignment of AI in mathematics",
+      "score": 0.8135
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1031 likes e 6 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1031 likes e 6 downloads.",
+      "score": 0.805
+    },
+    {
+      "title": "EverettFish/holo-card-studio",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "en": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "score": 0.8047
+    },
+    {
+      "title": "openai/NavierStokesAndEuler",
+      "url": "https://github.com/openai/NavierStokesAndEuler",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "en": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "score": 0.7995
+    },
+    {
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Shopify acquires Tailwind",
+      "en": "Shopify acquires Tailwind",
+      "score": 0.7923
+    },
+    {
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Ask HN: Can we please limit the AI news flood?",
+      "en": "Ask HN: Can we please limit the AI news flood?",
+      "score": 0.7862
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "en": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "score": 0.7773
+    },
+    {
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Muse, Meta’s personal AI agent",
+      "en": "Muse, Meta’s personal AI agent",
+      "score": 0.7734
+    }
+  ]
+}
