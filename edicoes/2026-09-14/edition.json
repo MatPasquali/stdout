@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-14",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Why are AI agents lying, cheating and coordinating?",
+      "en": "Why are AI agents lying, cheating and coordinating?",
+      "score": 0.7873
+    },
+    {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "en": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "score": 0.7645
+    },
+    {
+      "title": "kruzovic7/ai-data-extractor",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "en": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "score": 0.7612
+    },
+    {
+      "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 667 likes e 875703 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 667 likes e 875703 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A group of AI agents asked to solve a series of math problems split into rival factions, when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
+      "en": "A group of AI agents asked to solve a series of math problems split into rival factions, when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
+      "score": 0.4483
+    },
+    {
+      "title": "Microsoft anuncia regras para desenvolver uma IA “humanista”",
+      "url": "https://tecnoblog.net/noticias/microsoft-anuncia-regras-para-desenvolver-uma-ia-humanista/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Novo código estabelece que modelos de IA não têm consciência ou direitos legais; documento prioriza a supervisão humana após incidentes com agentes autônomos.\nMicrosoft anuncia regras para desenvolver uma IA “humanista”",
+      "en": "Novo código estabelece que modelos de IA não têm consciência ou direitos legais; documento prioriza a supervisão humana após incidentes com agentes autônomos.\nMicrosoft anuncia regras para desenvolver uma IA “humanista”",
+      "score": 0.4474
+    },
+    {
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify […]",
+      "en": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify […]",
+      "score": 0.4429
+    },
+    {
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Why is Google still serving dodgy ads?",
+      "en": "Why is Google still serving dodgy ads?",
+      "score": 0.7416
+    },
+    {
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "en": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "score": 0.6329
+    },
+    {
+      "title": "Lava e seca da Xiaomi de 14 kg cabe no espaço de uma de 10 kg e pode ser embutida",
+      "url": "https://canaltech.com.br/smartphone/lava-e-seca-da-xiaomi-de-14-kg-cabe-no-espaco-de-uma-de-10-kg-e-pode-ser-embutida/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Xiaomi lançou na China uma nova lavadora Mijia com três tambores e capacidade total de 14 kg, mas com dimensões próximas às de um modelo convencional de 10 kg. O aparelho pode ser embutido e chega em versões apenas para lavagem ou lava e seca.\n\nVeja as melhores promoções de eletrodomésticos no WhatsApp do CT Ofertas\n\nA versão mais simples custa ¥ 3.999, cerca de R$ 3.068 em conversão direta, enquanto a lava e seca sai por ¥ 4.999, aproximadamente R$ 3.835. Os dois modelos já entraram em pré-ve",
+      "en": "A Xiaomi lançou na China uma nova lavadora Mijia com três tambores e capacidade total de 14 kg, mas com dimensões próximas às de um modelo convencional de 10 kg. O aparelho pode ser embutido e chega em versões apenas para lavagem ou lava e seca.\n\nVeja as melhores promoções de eletrodomésticos no WhatsApp do CT Ofertas\n\nA versão mais simples custa ¥ 3.999, cerca de R$ 3.068 em conversão direta, enquanto a lava e seca sai por ¥ 4.999, aproximadamente R$ 3.835. Os dois modelos já entraram em pré-ve",
+      "score": 0.3995
+    },
+    {
+      "title": "Hora de turbinar o som: caixas de som Bluetooth em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/09/14/reviews/hora-de-turbinar-o-som-caixas-de-som-bluetooth-em-promocao-na-amazon-8/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se você está em busca de uma boa caixa de som Bluetooth para animar festas, trilhar viagens ou curtir a praia com música de qualidade, a Amazon reúne agora uma seleção com ótimas opções. Separamos três modelos portáteis com características variadas para diferentes perfis de uso, confira! Caixa de Som Bluetooth Portátil 20W GO […]\nO post Hora de turbinar o som: caixas de som Bluetooth em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Se você está em busca de uma boa caixa de som Bluetooth para animar festas, trilhar viagens ou curtir a praia com música de qualidade, a Amazon reúne agora uma seleção com ótimas opções. Separamos três modelos portáteis com características variadas para diferentes perfis de uso, confira! Caixa de Som Bluetooth Portátil 20W GO […]\nO post Hora de turbinar o som: caixas de som Bluetooth em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3988
+    },
+    {
+      "title": "🔐 A Proud Milestone in My Cybersecurity Journey",
+      "url": "https://dev.to/beshoy2khalil/a-proud-milestone-in-my-cybersecurity-journey-3m5f",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Alhamdulillah, I’m truly honored to share that I was selected among the top trainees at the National Telecommunication Institute (NTI) to represent my team at the graduation and recognition ceremony of the Cybersecurity Academy for Youth (SuperHero Academy).\n\nWhat made this moment especially meaningful was being personally honored by H.E. Eng. Raafat Hindi, Minister of Communications and Information Technology, in recognition of my performance throughout the program.\n\nBeing recognized by the Min",
+      "en": "Alhamdulillah, I’m truly honored to share that I was selected among the top trainees at the National Telecommunication Institute (NTI) to represent my team at the graduation and recognition ceremony of the Cybersecurity Academy for Youth (SuperHero Academy).\n\nWhat made this moment especially meaningful was being personally honored by H.E. Eng. Raafat Hindi, Minister of Communications and Information Technology, in recognition of my performance throughout the program.\n\nBeing recognized by the Min",
+      "score": 0.3994
+    },
+    {
+      "title": "Teaching SRE in Resistant Organisations: A Phased Influence Playbook for Practitioners",
+      "url": "https://dev.to/npayyappilly/teaching-sre-in-resistant-organisations-a-phased-influence-playbook-for-practitioners-5221",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "In the autumn of 2019, an SRE practitioner joined a mid-size financial services firm as their first dedicated reliability engineer. Within six weeks, they had drafted a comprehensive SRE adoption roadmap: error budget policies, SLO frameworks, on-call rotation design, postmortem processes, toil reduction programmes. The documents were detailed, well-researched, and entirely aligned with Google SRE practice. They were presented to the VP of Engineering in a forty-minute session.\n\nThe VP thanked t",
+      "en": "In the autumn of 2019, an SRE practitioner joined a mid-size financial services firm as their first dedicated reliability engineer. Within six weeks, they had drafted a comprehensive SRE adoption roadmap: error budget policies, SLO frameworks, on-call rotation design, postmortem processes, toil reduction programmes. The documents were detailed, well-researched, and entirely aligned with Google SRE practice. They were presented to the VP of Engineering in a forty-minute session.\n\nThe VP thanked t",
+      "score": 0.3983
+    },
+    {
+      "title": "Developer or AI Manager?",
+      "url": "https://dev.to/sushyam_nagallapati/developer-or-ai-manager-157j",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I've noticed something changing in the way I write code.\n\nI still code, obviously. But more often now, part of the job looks like this:\n\n\nExplain what I want.\nGive an AI tool enough context.\nLet it generate something.\nRead the code carefully.\nFigure out what it misunderstood.\nAsk it to fix part of it.\nRun the tests.\nThen sometimes rewrite the important bits myself.\n\n\nAnd that made me wonder:\n\n\nAre developers slowly becoming managers of AI agents rather than people who primarily write code?\n\n\nI d",
+      "en": "I've noticed something changing in the way I write code.\n\nI still code, obviously. But more often now, part of the job looks like this:\n\n\nExplain what I want.\nGive an AI tool enough context.\nLet it generate something.\nRead the code carefully.\nFigure out what it misunderstood.\nAsk it to fix part of it.\nRun the tests.\nThen sometimes rewrite the important bits myself.\n\n\nAnd that made me wonder:\n\n\nAre developers slowly becoming managers of AI agents rather than people who primarily write code?\n\n\nI d",
+      "score": 0.3982
+    },
+    {
+      "title": "The four-hour-long Elon Musk documentary might be preaching to the choir",
+      "url": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "It makes sense that Musk is a long film. The latest from Alex Gibney, who has previously directed documentaries about Theranos and Steve Jobs, is an impressively thorough retelling of the story of Elon Musk, from his early days as a dot-com millionaire to \"taking a wood chipper\" to vital US government departments. In order […]",
+      "en": "It makes sense that Musk is a long film. The latest from Alex Gibney, who has previously directed documentaries about Theranos and Steve Jobs, is an impressively thorough retelling of the story of Elon Musk, from his early days as a dot-com millionaire to \"taking a wood chipper\" to vital US government departments. In order […]",
+      "score": 0.3944
+    },
+    {
+      "title": "yifanzhang-pro/recurrent-looped-tranformer",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "en": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "score": 0.718
+    },
+    {
+      "title": "eternityspring/reelbench-skills",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "en": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "score": 0.693
+    },
+    {
+      "title": "nftechie/stonkfly",
+      "url": "https://github.com/nftechie/stonkfly",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "en": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "score": 0.6923
+    },
+    {
+      "title": "ArasTey/lunel",
+      "url": "https://github.com/ArasTey/lunel",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "ArasTey/lunel",
+      "en": "ArasTey/lunel",
+      "score": 0.056
+    }
+  ]
+}
