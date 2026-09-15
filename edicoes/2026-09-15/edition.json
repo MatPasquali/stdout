@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-15",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "agentverse-os/AgentVerse-OS",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "en": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "score": 0.7826
+    },
+    {
+      "title": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "I can't stop thinking about Papua New Guinea",
+      "en": "I can't stop thinking about Papua New Guinea",
+      "score": 0.7741
+    },
+    {
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Steam Frame starts at $1059",
+      "en": "Steam Frame starts at $1059",
+      "score": 0.7585
+    },
+    {
+      "title": "TokenRhythm/NeoHorse-1-4B",
+      "url": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 1953 likes e 11904 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 1953 likes e 11904 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "openbmb/MiniCPM5-2B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 1429 likes e 271754 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 1429 likes e 271754 downloads.",
+      "score": 0.5294
+    },
+    {
+      "title": "Who's governing your AI? A trust framework for enterprise agents and models",
+      "url": "https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "SPONSORED FEATURE: DigiCert wants to hand every agent a passport, complete with an expiry date and a named human owner",
+      "en": "SPONSORED FEATURE: DigiCert wants to hand every agent a passport, complete with an expiry date and a named human owner",
+      "score": 0.4489
+    },
+    {
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. […]",
+      "en": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. […]",
+      "score": 0.4465
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "iOS 27, iPadOS 27, and macOS 27",
+      "en": "iOS 27, iPadOS 27, and macOS 27",
+      "score": 0.7569
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "XCancel service is suspended until further notice",
+      "en": "XCancel service is suspended until further notice",
+      "score": 0.7469
+    },
+    {
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Homebrew 7.0.0",
+      "en": "Homebrew 7.0.0",
+      "score": 0.6914
+    },
+    {
+      "title": "“Celular que vira câmera” ganha geração 2026: veja tudo que o Vivo X500 Pro faz",
+      "url": "https://canaltech.com.br/smartphone/celular-que-vira-camera-ganha-geracao-2026-veja-tudo-que-o-vivo-x500-pro-faz/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Vivo (Jovi no Brasil) começou a revelar o que prepara para sua nova geração de celulares premium, e o foco está novamente nas câmeras. A empresa detalhou que o Vivo X500 Pro contará com uma combinação de novo processador, recursos avançados para fotos e vídeos e tecnologias que o aproximam de uma máquina fotográfica.\nUma das principais novidades será o Dimensity 9600 Pro, novo chip de alto desempenho da MediaTek produzido em processo de 2 nanômetros. O processador conta ainda com uma arquitetu",
+      "en": "A Vivo (Jovi no Brasil) começou a revelar o que prepara para sua nova geração de celulares premium, e o foco está novamente nas câmeras. A empresa detalhou que o Vivo X500 Pro contará com uma combinação de novo processador, recursos avançados para fotos e vídeos e tecnologias que o aproximam de uma máquina fotográfica.\nUma das principais novidades será o Dimensity 9600 Pro, novo chip de alto desempenho da MediaTek produzido em processo de 2 nanômetros. O processador conta ainda com uma arquitetu",
+      "score": 0.3979
+    },
+    {
+      "title": "11 FRESH JOBS JUST LISTED ON JOBNOMIX 15 Sep 2026",
+      "url": "https://dev.to/job_nomix_2f1efce7aed65d2/11-fresh-jobs-just-listed-on-jobnomix-15-sep-2026-59co",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "🚨 STOP SCROLLING! YOUR NEXT CAREER OPPORTUNITY COULD BE HERE! 🌍🔥\n\n💼 TODAY’S JOB ALERT, 15 SEPTEMBER 2026\n\n✨ 11 FRESH JOBS JUST LISTED ON JOBNOMIX!\n\nLooking for your next opportunity? From Remote & Hybrid roles to Onsite jobs worldwide, your next career move might be just one click away! 👀\n\n🌍 NEW JOBS LIVE ON JOBNOMIX\n\n💻 1. Customer Care Agent (Rainham)\n📍 Rainham, England, United Kingdom\n🏢 Onsite\n👉 Apply: https://jobnomix.com/job/customer-care-agent-rainham\n\n⚙️ 2. System Integration Engineer\n📍 K",
+      "en": "🚨 STOP SCROLLING! YOUR NEXT CAREER OPPORTUNITY COULD BE HERE! 🌍🔥\n\n💼 TODAY’S JOB ALERT, 15 SEPTEMBER 2026\n\n✨ 11 FRESH JOBS JUST LISTED ON JOBNOMIX!\n\nLooking for your next opportunity? From Remote & Hybrid roles to Onsite jobs worldwide, your next career move might be just one click away! 👀\n\n🌍 NEW JOBS LIVE ON JOBNOMIX\n\n💻 1. Customer Care Agent (Rainham)\n📍 Rainham, England, United Kingdom\n🏢 Onsite\n👉 Apply: https://jobnomix.com/job/customer-care-agent-rainham\n\n⚙️ 2. System Integration Engineer\n📍 K",
+      "score": 0.3989
+    },
+    {
+      "title": "BA in Political Science: Course, Subjects, Eligibility & Career",
+      "url": "https://dev.to/ambapali_e7baa738ad1b1fe1/ba-in-political-science-course-subjects-eligibility-career-175h",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "BA in Political Science: Course Details, Subjects, Eligibility, Fees, Career Scope and Jobs\n\n\n\n\nA BA in Political Science is an undergraduate degree for students interested in politics, government, society, and public affairs. The course provides knowledge about political institutions, constitutional systems, governance, and international relations.\n\nMoreover, students learn how political decisions influence society and the economy. They also study important political thinkers, ideologies, and p",
+      "en": "BA in Political Science: Course Details, Subjects, Eligibility, Fees, Career Scope and Jobs\n\n\n\n\nA BA in Political Science is an undergraduate degree for students interested in politics, government, society, and public affairs. The course provides knowledge about political institutions, constitutional systems, governance, and international relations.\n\nMoreover, students learn how political decisions influence society and the economy. They also study important political thinkers, ideologies, and p",
+      "score": 0.3988
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "url": "https://dev.to/job_nomix_2f1efce7aed65d2/enterprise-account-executive-4j19",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Job Overview\n\n\nType: Full Time Mode: Hybrid Location: New York, United States Department: Sales Salary: $120K, $140K Apply before:1 Oct 2026\n\n**About the role\n**As an Enterprise Account Executive, you will be an individual contributor responsible for building your own pipeline by engaging intelligently with Senior Communications professionals to educate them on how Artificial Intelligence can change the way they make reputation and risk-based decisions.\n\nWe’re looking for a strategic seller who",
+      "en": "Job Overview\n\n\nType: Full Time Mode: Hybrid Location: New York, United States Department: Sales Salary: $120K, $140K Apply before:1 Oct 2026\n\n**About the role\n**As an Enterprise Account Executive, you will be an individual contributor responsible for building your own pipeline by engaging intelligently with Senior Communications professionals to educate them on how Artificial Intelligence can change the way they make reputation and risk-based decisions.\n\nWe’re looking for a strategic seller who",
+      "score": 0.3497
+    },
+    {
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 15)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-15-4agm",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "New internship openings at Etched, Cyvl, Pace and more. Apply early.\n\n\n  \n  \n  Core Engineering Intern\n\n\n Etched\n\nLocation: San Jose, CA\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Lab Operations Intern\n\n\n Etched\n\nLocation: San Jose, CA\nCategory: Hardware\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Engineering Intern - Software - Machine Learning\n\n\n Cyvl\n\nLocation: Boston, MA | Somerville, MA\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Hardware Engineer Intern\n\n\n Cyvl\n\nLocation: Boston, MA ",
+      "en": "New internship openings at Etched, Cyvl, Pace and more. Apply early.\n\n\n  \n  \n  Core Engineering Intern\n\n\n Etched\n\nLocation: San Jose, CA\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Lab Operations Intern\n\n\n Etched\n\nLocation: San Jose, CA\nCategory: Hardware\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Engineering Intern - Software - Machine Learning\n\n\n Cyvl\n\nLocation: Boston, MA | Somerville, MA\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Hardware Engineer Intern\n\n\n Cyvl\n\nLocation: Boston, MA ",
+      "score": 0.3489
+    },
+    {
+      "title": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "GPT-6 Astra for embodied AI and robotics.",
+      "en": "GPT-6 Astra for embodied AI and robotics.",
+      "score": 0.7386
+    },
+    {
+      "title": "Chuloo/mural",
+      "url": "https://github.com/Chuloo/mural",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "en": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "score": 0.6647
+    },
+    {
+      "title": "unstablebuild/rune",
+      "url": "https://github.com/unstablebuild/rune",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "the development environment for pros",
+      "en": "the development environment for pros",
+      "score": 0.5401
+    },
+    {
+      "title": "kevinzakka/mjbatch",
+      "url": "https://github.com/kevinzakka/mjbatch",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "en": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "score": 0.5131
+    }
+  ]
+}
