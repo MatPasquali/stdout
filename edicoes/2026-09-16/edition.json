@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-16",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Introducing System One Models and Jev",
+      "en": "Introducing System One Models and Jev",
+      "score": 0.807
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "en": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "score": 0.7519
+    },
+    {
+      "title": "ai-sucks-butt/ai-sucks-butt",
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "If you think AI sucks, star the repo.",
+      "en": "If you think AI sucks, star the repo.",
+      "score": 0.7439
+    },
+    {
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "url": "https://www.effort.news/irregular",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "en": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "score": 0.7061
+    },
+    {
+      "title": "ukisai/Swift-Qwen3.8-27b",
+      "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 305 likes e 2753 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 305 likes e 2753 downloads.",
+      "score": 0.6
+    },
+    {
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
+      "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
+      "score": 0.4013
+    },
+    {
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data, types of information usually considered trade secrets. She…",
+      "en": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data, types of information usually considered trade secrets. She…",
+      "score": 0.401
+    },
+    {
+      "title": "25 years of mass surveillance is enough",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "25 years of mass surveillance is enough",
+      "en": "25 years of mass surveillance is enough",
+      "score": 0.7021
+    },
+    {
+      "title": "An update on Wayback Machine access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "An update on Wayback Machine access",
+      "en": "An update on Wayback Machine access",
+      "score": 0.6903
+    },
+    {
+      "title": "Dario, Please",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Dario, Please",
+      "en": "Dario, Please",
+      "score": 0.6434
+    },
+    {
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "en": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "score": 0.3992
+    },
+    {
+      "title": "These Companies Want Interns This Summer (Sep 16)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-16-3a1o",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "ByteDance, Texas Instruments, Citadel, Zions Bank, SSOE Group, Citadel Securities are all hiring interns for Summer 2026. Here's what's open.\n\n\n  \n  \n   ByteDance\n\n\n1 open internships\n\n\n  \n  \n  - Research Scientist Intern - Seed Responsible AI | San Jose, CA\n\n\n\n  \n  \n   Texas Instruments\n\n\n1 open internships\n\n\n  \n  \n  - Smart Manufacturing and Automation Intern - SMA Quality & Test | Dallas, TX\n\n\n\n  \n  \n   Citadel\n\n\n1 open internships\n\n\n  \n  \n  - Quantitative Researcher Post-Doctoral Intern | Gr",
+      "en": "ByteDance, Texas Instruments, Citadel, Zions Bank, SSOE Group, Citadel Securities are all hiring interns for Summer 2026. Here's what's open.\n\n\n  \n  \n   ByteDance\n\n\n1 open internships\n\n\n  \n  \n  - Research Scientist Intern - Seed Responsible AI | San Jose, CA\n\n\n\n  \n  \n   Texas Instruments\n\n\n1 open internships\n\n\n  \n  \n  - Smart Manufacturing and Automation Intern - SMA Quality & Test | Dallas, TX\n\n\n\n  \n  \n   Citadel\n\n\n1 open internships\n\n\n  \n  \n  - Quantitative Researcher Post-Doctoral Intern | Gr",
+      "score": 0.3992
+    },
+    {
+      "title": "Evaluating ML-Based Hiring Tools: An Engineer's Checklist",
+      "url": "https://dev.to/john_zacharia/evaluating-ml-based-hiring-tools-an-engineers-checklist-1kn0",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "If your company is buying an ML-based hiring tool, there is a decent chance someone will forward the technical due-diligence to an engineer. This is a checklist for that engineer. The business folks will evaluate the demo; your job is to evaluate the model, the data path, and the integration surface, the parts a demo is specifically designed to hide.\n\n\n  \n  \n  1. Explainability is an architecture question, not a UI feature\n\n\nThe first thing to establish: can the system produce a per-decision ex",
+      "en": "If your company is buying an ML-based hiring tool, there is a decent chance someone will forward the technical due-diligence to an engineer. This is a checklist for that engineer. The business folks will evaluate the demo; your job is to evaluate the model, the data path, and the integration surface, the parts a demo is specifically designed to hide.\n\n\n  \n  \n  1. Explainability is an architecture question, not a UI feature\n\n\nThe first thing to establish: can the system produce a per-decision ex",
+      "score": 0.3958
+    },
+    {
+      "title": "Inside OpenAI’s agentic software factory",
+      "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+      "source": "The Pragmatic Engineer",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A deepdive into how Codex has “taken over” OpenAI, how the frontier lab builds its agentic software factory, and the engineering challenges of one billion users. Details from inside OpenAI",
+      "en": "A deepdive into how Codex has “taken over” OpenAI, how the frontier lab builds its agentic software factory, and the engineering challenges of one billion users. Details from inside OpenAI",
+      "score": 0.3576
+    },
+    {
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 16)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-16-3n2i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "New remote roles just dropped from Mitre Media, Delinea, Pivotal Health, ExtraHop and more. No relocation needed.\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Staff Software Development Engineer SDM\n\n\n Delinea\n\nSalary: $150k - $185k/yr\nStack: Go / DevOps / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Software Engineer Case Execution\n\n\n Pivotal Health\n\nSalary: $190k - $220k/yr\nSta",
+      "en": "New remote roles just dropped from Mitre Media, Delinea, Pivotal Health, ExtraHop and more. No relocation needed.\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Staff Software Development Engineer SDM\n\n\n Delinea\n\nSalary: $150k - $185k/yr\nStack: Go / DevOps / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Software Engineer Case Execution\n\n\n Pivotal Health\n\nSalary: $190k - $220k/yr\nSta",
+      "score": 0.3492
+    },
+    {
+      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "url": "https://arxiv.org/abs/2609.17523v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: ",
+      "en": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: ",
+      "score": 0.4616
+    },
+    {
+      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "url": "https://arxiv.org/abs/2609.17521v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that dictate object positions rather than physical dynamics. To address these limitations, we propose PhysStream, an autoregressive model for physics-grounded image-to-video synthesis that incorporates structured scene memory-",
+      "en": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that dictate object positions rather than physical dynamics. To address these limitations, we propose PhysStream, an autoregressive model for physics-grounded image-to-video synthesis that incorporates structured scene memory-",
+      "score": 0.4616
+    },
+    {
+      "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+      "url": "https://arxiv.org/abs/2609.17515v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool calling across four LLMs spanning dense Transformer, dense hybrid, and mixture-of-experts (MoE) architectures, together with depth, width, hybrid, and expert pruning methods. After post-pruning supervised fine-tuning (SFT), we evaluate more than 19,500 instances from three smart-ho",
+      "en": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool calling across four LLMs spanning dense Transformer, dense hybrid, and mixture-of-experts (MoE) architectures, together with depth, width, hybrid, and expert pruning methods. After post-pruning supervised fine-tuning (SFT), we evaluate more than 19,500 instances from three smart-ho",
+      "score": 0.4615
+    },
+    {
+      "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
+      "url": "https://arxiv.org/abs/2609.17499v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions. As one of the most advanced uncertainty estimation frameworks, conformal prediction (CP) offers a promising approach for uncertainty estimation in VLN. However, given that VLN agent requires a sequence of steps, standard calibration in conformal prediction fails to provide coverage guarantee it p",
+      "en": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions. As one of the most advanced uncertainty estimation frameworks, conformal prediction (CP) offers a promising approach for uncertainty estimation in VLN. However, given that VLN agent requires a sequence of steps, standard calibration in conformal prediction fails to provide coverage guarantee it p",
+      "score": 0.4612
+    },
+    {
+      "title": "youngyangyang04/llm-master",
+      "url": "https://github.com/youngyangyang04/llm-master",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "en": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "score": 0.7193
+    },
+    {
+      "title": "nilbuild/page-mascot",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A mascot that watches the cursor and blinks when you poke it",
+      "en": "A mascot that watches the cursor and blinks when you poke it",
+      "score": 0.6598
+    }
+  ]
+}
