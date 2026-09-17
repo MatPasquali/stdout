@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-17",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "en": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "score": 0.8417
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Nvidia announces native GPU programming in Rust",
+      "en": "Nvidia announces native GPU programming in Rust",
+      "score": 0.7995
+    },
+    {
+      "title": "shinthink/blitzstrike",
+      "url": "https://github.com/shinthink/blitzstrike",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "⚡ Blitz Strike, a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+      "en": "⚡ Blitz Strike, a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+      "score": 0.6354
+    },
+    {
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "en": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "score": 0.7644
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Nvidia is the central bank of AI",
+      "en": "Nvidia is the central bank of AI",
+      "score": 0.6064
+    },
+    {
+      "title": "sentence-transformers/all-MiniLM-L6-v2",
+      "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'sentence-similarity', com 6043 likes e 255618777 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'sentence-similarity', com 6043 likes e 255618777 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 4184 likes e 1602865 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 4184 likes e 1602865 downloads.",
+      "score": 0.5289
+    },
+    {
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Small programming tricks",
+      "en": "Small programming tricks",
+      "score": 0.7325
+    },
+    {
+      "title": "EU chief opens door for Canada to become 'associate member'",
+      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "EU chief opens door for Canada to become 'associate member'",
+      "en": "EU chief opens door for Canada to become 'associate member'",
+      "score": 0.7295
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Make your first edit to OpenStreetMap",
+      "en": "Make your first edit to OpenStreetMap",
+      "score": 0.5633
+    },
+    {
+      "title": "Fuck it, make it anyway",
+      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Fuck it, make it anyway",
+      "en": "Fuck it, make it anyway",
+      "score": 0.553
+    },
+    {
+      "title": "Top 35 Sites for Buying Edu Emails: Unlock Student Discounts",
+      "url": "https://dev.to/apbbva6170/top-35-sites-for-buying-edu-emails-unlock-student-discounts-4c5e",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buy Edu Emails\n💫⚡️🌟🌍 We are available online 24/7\n🌸🔥🌙🌟 Telegram: @progmbofficial\n💎🌈⚡️🌍 WhatsApp: +1 (920) 212-9737\n🌠🚀✨🌌 Email: progmb.contact@gmail.com\n⚡️🔥🖤🌑 Website:https://www.progmb.com/product/buy-edu-emails/\n\nBuy Edu Email has become a popular trend among students and researchers seeking access to exclusive educational resources. These specialized email accounts offer unique benefits, such as discounts on software subscriptions, access to academic journals, and eligibility for student disco",
+      "en": "Buy Edu Emails\n💫⚡️🌟🌍 We are available online 24/7\n🌸🔥🌙🌟 Telegram: @progmbofficial\n💎🌈⚡️🌍 WhatsApp: +1 (920) 212-9737\n🌠🚀✨🌌 Email: progmb.contact@gmail.com\n⚡️🔥🖤🌑 Website:https://www.progmb.com/product/buy-edu-emails/\n\nBuy Edu Email has become a popular trend among students and researchers seeking access to exclusive educational resources. These specialized email accounts offer unique benefits, such as discounts on software subscriptions, access to academic journals, and eligibility for student disco",
+      "score": 0.3994
+    },
+    {
+      "title": "I Replaced My $50K/Year Ops Manager with AI Agents. Here's What Actually Worked.",
+      "url": "https://dev.to/hive80lab/i-replaced-my-50kyear-ops-manager-with-ai-agents-heres-what-actually-worked-2l6a",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I Replaced My $50K/Year Ops Manager with AI Agents. Here's What Actually Worked.\n\n\nTags: #ai #operations #productivity #career\n\nCTA: Get the complete Ops Starter Kit at https://hive80lab.gumroad.com\n\n\n\n\n\n  \n  \n  Six Months Ago\n\n\nI was spending $50,000 per year on an ops manager. This wasn't just a salary, it was recruiting, training, turnover, burnout, hiring crises, and the constant emotional labor of managing people who were also burnt out.\n\nToday: I run my entire ops stack on AI agents for u",
+      "en": "I Replaced My $50K/Year Ops Manager with AI Agents. Here's What Actually Worked.\n\n\nTags: #ai #operations #productivity #career\n\nCTA: Get the complete Ops Starter Kit at https://hive80lab.gumroad.com\n\n\n\n\n\n  \n  \n  Six Months Ago\n\n\nI was spending $50,000 per year on an ops manager. This wasn't just a salary, it was recruiting, training, turnover, burnout, hiring crises, and the constant emotional labor of managing people who were also burnt out.\n\nToday: I run my entire ops stack on AI agents for u",
+      "score": 0.3987
+    },
+    {
+      "title": "AI is feared globally as the destroyer of jobs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority sees AI as a threat […]",
+      "en": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority sees AI as a threat […]",
+      "score": 0.3972
+    },
+    {
+      "title": "AI Skills with Matt Pocock",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
+      "source": "The Pragmatic Engineer",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Matt Pocock explains how he uses AI coding skills and agents to plan and build software, and why engineering fundamentals matter more than ever.",
+      "en": "Matt Pocock explains how he uses AI coding skills and agents to plan and build software, and why engineering fundamentals matter more than ever.",
+      "score": 0.3927
+    },
+    {
+      "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+      "url": "https://arxiv.org/abs/2609.19143v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Existing methods that combine dense captioning with pixel-level grounding often produce either incomplete descriptions or inaccurate segmentation masks. We study this problem through panoptic grounded captioning, a task tha",
+      "en": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Existing methods that combine dense captioning with pixel-level grounding often produce either incomplete descriptions or inaccurate segmentation masks. We study this problem through panoptic grounded captioning, a task tha",
+      "score": 0.4615
+    },
+    {
+      "title": "PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics",
+      "url": "https://arxiv.org/abs/2609.19142v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "World models endow perceptual systems with the ability to predict how scenes evolve under interaction. They are most beneficial when trained on diverse volumes of data, to instill a rich prior into downstream applications. Existing methods typically require robot action labels to learn action-conditioned 3D dynamics, which excludes web video data from the training pool. We study 3D point track completion as a pre-training objective for learning transferable 3D dynamics without robot data. Given ",
+      "en": "World models endow perceptual systems with the ability to predict how scenes evolve under interaction. They are most beneficial when trained on diverse volumes of data, to instill a rich prior into downstream applications. Existing methods typically require robot action labels to learn action-conditioned 3D dynamics, which excludes web video data from the training pool. We study 3D point track completion as a pre-training objective for learning transferable 3D dynamics without robot data. Given ",
+      "score": 0.4615
+    },
+    {
+      "title": "In-Context Robot Learning with VLM Agents",
+      "url": "https://arxiv.org/abs/2609.19138v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Enabling robots to adapt to unfamiliar environments as readily as humans remains a moonshot goal of embodied AI. No finite collection of demonstrations can cover every task and situation a robot will encounter, making the ability to learn from context at deployment essential for generalization. Such in-context learning (ICL), however, remains largely beyond the reach of existing robotic policies. The broad agentic capabilities of commercial vision-language models (VLMs), such as GPT-6 Astra, rai",
+      "en": "Enabling robots to adapt to unfamiliar environments as readily as humans remains a moonshot goal of embodied AI. No finite collection of demonstrations can cover every task and situation a robot will encounter, making the ability to learn from context at deployment essential for generalization. Such in-context learning (ICL), however, remains largely beyond the reach of existing robotic policies. The broad agentic capabilities of commercial vision-language models (VLMs), such as GPT-6 Astra, rai",
+      "score": 0.4615
+    },
+    {
+      "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+      "url": "https://arxiv.org/abs/2609.19134v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable learning experience-a challenge we call the scientific experience bottleneck. We introduce ScienceIDE, infrastructure for turning the world's scientific code into programmable environments for scientific agents. Guided by expert-defined scientific",
+      "en": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable learning experience-a challenge we call the scientific experience bottleneck. We introduce ScienceIDE, infrastructure for turning the world's scientific code into programmable environments for scientific agents. Guided by expert-defined scientific",
+      "score": 0.4614
+    },
+    {
+      "title": "letorig/video-generator-client",
+      "url": "https://github.com/letorig/video-generator-client",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "en": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "score": 0.6179
+    },
+    {
+      "title": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "browser-use/jev-ultrafast",
+      "en": "browser-use/jev-ultrafast",
+      "score": 0.0768
+    },
+    {
+      "title": "vinnylarouge/jevlike",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "vinnylarouge/jevlike",
+      "en": "vinnylarouge/jevlike",
+      "score": 0.0691
+    }
+  ]
+}
