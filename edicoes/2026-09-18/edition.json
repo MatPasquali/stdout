@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-18",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 724 likes e 405609 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 724 likes e 405609 downloads.",
+      "score": 0.7894
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Hister: A private search engine for the pages you visit and the files you keep",
+      "en": "Hister: A private search engine for the pages you visit and the files you keep",
+      "score": 0.7597
+    },
+    {
+      "title": "tamaratran/fast-jev-compaction",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "en": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "score": 0.741
+    },
+    {
+      "title": "XingChen-AGI/Xing4.0-29B-A4B",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 421 likes e 3073 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 421 likes e 3073 downloads.",
+      "score": 0.6714
+    },
+    {
+      "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1292 likes e 1078301 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1292 likes e 1078301 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "en": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "score": 0.4482
+    },
+    {
+      "title": "The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time […]",
+      "en": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time […]",
+      "score": 0.4151
+    },
+    {
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "en": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "score": 0.6692
+    },
+    {
+      "title": "União com a Geely: Renault confirma dois novos SUVs híbridos nacionais",
+      "url": "https://canaltech.com.br/carros/sucessor-do-duster-ou-boreal-renault-confirma-dois-novos-suvs-hibridos-nacionais/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Renault trouxe “spoilers” dos planos para seu portfólio no próximo ano. A francesa confirmou a fabricação de dois novos SUVs híbridos no Brasil em 2027, no Complexo Industrial Ayrton Senna em São José dos Pinhais (PR), viabilizados por um investimento de R$ 2 bilhões.\nPor enquanto, a montadora não oficializou o nome dos veículos, mas já se sabe que um dos modelos previstos para a produção paranaense é a nova geração do Renault Arkana, construída sobre a arquitetura GEA da Geely. A segunda novi",
+      "en": "A Renault trouxe “spoilers” dos planos para seu portfólio no próximo ano. A francesa confirmou a fabricação de dois novos SUVs híbridos no Brasil em 2027, no Complexo Industrial Ayrton Senna em São José dos Pinhais (PR), viabilizados por um investimento de R$ 2 bilhões.\nPor enquanto, a montadora não oficializou o nome dos veículos, mas já se sabe que um dos modelos previstos para a produção paranaense é a nova geração do Renault Arkana, construída sobre a arquitetura GEA da Geely. A segunda novi",
+      "score": 0.3994
+    },
+    {
+      "title": "iPhone pode ficar ainda mais caro após reajuste da Samsung",
+      "url": "https://tecnoblog.net/noticias/iphone-pode-ficar-ainda-mais-caro-apos-reajuste-da-samsung/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Apple aceitou pagar até 40% mais pelos chips DRAM e NAND da Samsung a partir de 2027. \niPhone pode ficar ainda mais caro após reajuste da Samsung",
+      "en": "Apple aceitou pagar até 40% mais pelos chips DRAM e NAND da Samsung a partir de 2027. \niPhone pode ficar ainda mais caro após reajuste da Samsung",
+      "score": 0.3986
+    },
+    {
+      "title": "Chuveiro elétrico vs. Ar-condicionado: quem é o verdadeiro vilão da sua conta de luz?",
+      "url": "https://canaltech.com.br/eletro/chuveiro-eletrico-vs-ar-condicionado-quem-e-o-verdadeiro-vilao-da-sua-conta-de-luz/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Chuveiro elétrico e ar-condicionado costumam entrar na lista de suspeitos quando a conta de luz vem mais alta do que o normal. Mas aí entra a pergunta de milhões: o que pesa mais no bolso, quatro banhos de 15 minutos na potência máxima ou um ar-condicionado ligado durante toda a noite?\nEnquanto o  chuveiro concentra uma potência muito elevada em poucos minutos de uso, modelos de  ar-condicionado Inverter conseguem reduzir a demanda após o ambiente atingir a temperatura desejada.\n\n🚿 Encontre as m",
+      "en": "Chuveiro elétrico e ar-condicionado costumam entrar na lista de suspeitos quando a conta de luz vem mais alta do que o normal. Mas aí entra a pergunta de milhões: o que pesa mais no bolso, quatro banhos de 15 minutos na potência máxima ou um ar-condicionado ligado durante toda a noite?\nEnquanto o  chuveiro concentra uma potência muito elevada em poucos minutos de uso, modelos de  ar-condicionado Inverter conseguem reduzir a demanda após o ambiente atingir a temperatura desejada.\n\n🚿 Encontre as m",
+      "score": 0.3982
+    },
+    {
+      "title": "Top 18 Sites to Buy Verified eBay Seller Account In World 2027",
+      "url": "https://dev.to/saceba1091/top-18-sites-to-buy-verified-ebay-seller-account-in-world-2027-5dn5",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buy Verified eBay Seller Accounts\n\n◈{{🎯🎯}}◈➤Fast Reply 24/7 | Instant Support 🚀\n◈{{🎯🎯}}◈➤Telegram: @progmbofficial\n◈{{🎯🎯}}◈➤WhatsApp: +1 (920) 212-9737\n◈{{🎯🎯}}◈➤Telegram Channel: @progmbofficial\n◈{{🎯🎯}}◈➤Email: progmb.contact@gmail.com\n◈{{🎯🎯}}◈➤Visit Our Website:https://www.progmb.com/product/buy-verified-ebay-seller-accounts/\n\n$350.00, $550.00Price range: $350.00 through $550.00\n\nBuy Verified eBay Seller Accounts\nBuy verified eBay seller Accounts from PROGMB and start selling with confidence. ",
+      "en": "Buy Verified eBay Seller Accounts\n\n◈{{🎯🎯}}◈➤Fast Reply 24/7 | Instant Support 🚀\n◈{{🎯🎯}}◈➤Telegram: @progmbofficial\n◈{{🎯🎯}}◈➤WhatsApp: +1 (920) 212-9737\n◈{{🎯🎯}}◈➤Telegram Channel: @progmbofficial\n◈{{🎯🎯}}◈➤Email: progmb.contact@gmail.com\n◈{{🎯🎯}}◈➤Visit Our Website:https://www.progmb.com/product/buy-verified-ebay-seller-accounts/\n\n$350.00, $550.00Price range: $350.00 through $550.00\n\nBuy Verified eBay Seller Accounts\nBuy verified eBay seller Accounts from PROGMB and start selling with confidence. ",
+      "score": 0.3499
+    },
+    {
+      "title": "Why DevOps is Important: The Critical Bridge Between Code and Cloud",
+      "url": "https://dev.to/codingmacawbootcamp/why-devops-is-important-the-critical-bridge-between-code-and-cloud-1ff9",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "In the early days of software engineering, development teams and operations teams existed in completely isolated silos. Developers wrote application code and tossed it over a metaphorical wall. The operations engineers were then forced to figure out how to keep that code running on physical servers without breaking the entire system. This disjointed process resulted in massive deployment delays, catastrophic server crashes, and intense frustration across every department.\n\nModern technology comp",
+      "en": "In the early days of software engineering, development teams and operations teams existed in completely isolated silos. Developers wrote application code and tossed it over a metaphorical wall. The operations engineers were then forced to figure out how to keep that code running on physical servers without breaking the entire system. This disjointed process resulted in massive deployment delays, catastrophic server crashes, and intense frustration across every department.\n\nModern technology comp",
+      "score": 0.3495
+    },
+    {
+      "title": "Best 10 Site To Buy Verified WebMoney Accounts In 2026-2027",
+      "url": "https://dev.to/saceba1091/best-10-site-to-buy-verified-webmoney-accounts-in-2026-2027-bi9",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buy Verified WebMoney Accounts\n\n◈{{🎯🎯}}◈➤Fast Reply 24/7 | Instant Support 🚀\n◈{{🎯🎯}}◈➤Telegram: @progmbofficial\n◈{{🎯🎯}}◈➤WhatsApp: +1 (920) 212-9737\n◈{{🎯🎯}}◈➤Telegram Channel: @progmbofficial\n◈{{🎯🎯}}◈➤Email: progmb.contact@gmail.com\n◈{{🎯🎯}}◈➤Visit Our Website:http://progmb.com/product/buy-verified-webmoney-accounts/\n\nBuy Verified WebMoney Accounts. The perfect solution, then buy verified WebMoney accounts from PROGMB.com now, remove restrictions, and enjoy full access now. Here you will find exa",
+      "en": "Buy Verified WebMoney Accounts\n\n◈{{🎯🎯}}◈➤Fast Reply 24/7 | Instant Support 🚀\n◈{{🎯🎯}}◈➤Telegram: @progmbofficial\n◈{{🎯🎯}}◈➤WhatsApp: +1 (920) 212-9737\n◈{{🎯🎯}}◈➤Telegram Channel: @progmbofficial\n◈{{🎯🎯}}◈➤Email: progmb.contact@gmail.com\n◈{{🎯🎯}}◈➤Visit Our Website:http://progmb.com/product/buy-verified-webmoney-accounts/\n\nBuy Verified WebMoney Accounts. The perfect solution, then buy verified WebMoney accounts from PROGMB.com now, remove restrictions, and enjoy full access now. Here you will find exa",
+      "score": 0.3492
+    },
+    {
+      "title": "14.8 Best Site To Purchase Verified Monzo Accounts 2027",
+      "url": "https://dev.to/saceba1091/148-best-site-to-purchase-verified-monzo-accounts-2027-j79",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buy Verified Monzo Accounts\n\n◈{{🎯🎯}}◈➤Fast Reply 24/7 | Instant Support 🚀\n◈{{🎯🎯}}◈➤Telegram: @progmbofficial\n◈{{🎯🎯}}◈➤WhatsApp: +1 (920) 212-9737\n◈{{🎯🎯}}◈➤Telegram Channel: @progmbofficial\n◈{{🎯🎯}}◈➤Email: progmb.contact@gmail.com\n◈{{🎯🎯}}◈➤Visit Our Website:https://www.progmb.com/product/buy-verified-monzo-accounts/\n\nBuy Verified Monzo Accounts. Looking for a reliable best verified Monzo account? PROGMB.com offers verified Monzo accounts for your needs. Bypass lengthy verification processes and q",
+      "en": "Buy Verified Monzo Accounts\n\n◈{{🎯🎯}}◈➤Fast Reply 24/7 | Instant Support 🚀\n◈{{🎯🎯}}◈➤Telegram: @progmbofficial\n◈{{🎯🎯}}◈➤WhatsApp: +1 (920) 212-9737\n◈{{🎯🎯}}◈➤Telegram Channel: @progmbofficial\n◈{{🎯🎯}}◈➤Email: progmb.contact@gmail.com\n◈{{🎯🎯}}◈➤Visit Our Website:https://www.progmb.com/product/buy-verified-monzo-accounts/\n\nBuy Verified Monzo Accounts. Looking for a reliable best verified Monzo account? PROGMB.com offers verified Monzo accounts for your needs. Bypass lengthy verification processes and q",
+      "score": 0.349
+    },
+    {
+      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "url": "https://arxiv.org/abs/2609.20822v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating ta",
+      "en": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating ta",
+      "score": 0.4625
+    },
+    {
+      "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+      "url": "https://arxiv.org/abs/2609.20820v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to lear",
+      "en": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to lear",
+      "score": 0.4625
+    },
+    {
+      "title": "Can 4D Foundation Models Remember?",
+      "url": "https://arxiv.org/abs/2609.20819v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visu",
+      "en": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visu",
+      "score": 0.4625
+    },
+    {
+      "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+      "url": "https://arxiv.org/abs/2609.20818v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction research has consequently focused on smoke, synthetic liquids, or gently deforming surfaces. To our knowledge, no synchronized multi-view dataset of splashing liquids exists. We therefore introduce a benchmark of 20 real scenes, from coherent streams to violent splashes, captured by seven synchronized, ca",
+      "en": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction research has consequently focused on smoke, synthetic liquids, or gently deforming surfaces. To our knowledge, no synchronized multi-view dataset of splashing liquids exists. We therefore introduce a benchmark of 20 real scenes, from coherent streams to violent splashes, captured by seven synchronized, ca",
+      "score": 0.4625
+    },
+    {
+      "title": "korcarc/text-humanizer",
+      "url": "https://github.com/korcarc/text-humanizer",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "en": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "score": 0.7285
+    },
+    {
+      "title": "TheoLeeCJ/SemIf",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "en": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "score": 0.7082
+    },
+    {
+      "title": "jarrodwatts/jev-trader",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "en": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "score": 0.6994
+    },
+    {
+      "title": "mcncarl/jianying-headless",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "en": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "score": 0.642
+    }
+  ]
+}
