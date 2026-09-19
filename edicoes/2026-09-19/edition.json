@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-19",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "en": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "score": 0.7968
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "en": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "score": 0.7967
+    },
+    {
+      "title": "arvindear/wp2shell-PoC",
+      "url": "https://github.com/arvindear/wp2shell-PoC",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
+      "en": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
+      "score": 0.7346
+    },
+    {
+      "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
+      "url": "https://bend-lang.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Bend, a language that blocks AI mistakes via proof and runs on GPUs",
+      "en": "Bend, a language that blocks AI mistakes via proof and runs on GPUs",
+      "score": 0.7935
+    },
+    {
+      "title": "convaiinnovations/laya",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-classification', com 336 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-classification', com 336 likes e 0 downloads.",
+      "score": 0.6416
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 15713 likes e 7365368 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 15713 likes e 7365368 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "harshatheg/Qwen-2.5-1B-RLCD",
+      "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 414 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 414 likes e 0 downloads.",
+      "score": 0.5104
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "en": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "score": 0.7653
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Cloudflare Quick Tunnels",
+      "en": "Cloudflare Quick Tunnels",
+      "score": 0.7421
+    },
+    {
+      "title": "I don't like passkeys",
+      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "I don't like passkeys",
+      "en": "I don't like passkeys",
+      "score": 0.7419
+    },
+    {
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "OpenJev",
+      "en": "OpenJev",
+      "score": 0.7226
+    },
+    {
+      "title": "🧠 Ego development: Developers by Stage",
+      "url": "https://dev.to/bcouetil/ego-development-developers-by-stage-2co1",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Initial thoughts\nHow to read these profiles\nE3, The Self-Centric Developer\nE4, The Group-Centric Developer\nE5, The Skill-Centric Developer\nE6, The Principled Developer\nE7, The Systemic Developer\nE8, The Enabling Developer\nE9, The Wise Developer\n\nWhen the lines don't match\n\n\nThe Comfortable Optimizer, E5/E3\n\n\nSilence folds back on itself\nWrapping up\nFurther reading\n\n\nTwo developers can share a stack, a title, and a sprint board and still not be doing the same job. The difference is the st",
+      "en": "Initial thoughts\nHow to read these profiles\nE3, The Self-Centric Developer\nE4, The Group-Centric Developer\nE5, The Skill-Centric Developer\nE6, The Principled Developer\nE7, The Systemic Developer\nE8, The Enabling Developer\nE9, The Wise Developer\n\nWhen the lines don't match\n\n\nThe Comfortable Optimizer, E5/E3\n\n\nSilence folds back on itself\nWrapping up\nFurther reading\n\n\nTwo developers can share a stack, a title, and a sprint board and still not be doing the same job. The difference is the st",
+      "score": 0.3491
+    },
+    {
+      "title": "I mastered my role. Now I have no idea what comes next.",
+      "url": "https://dev.to/shannonianthe/i-mastered-my-role-now-i-have-no-idea-what-comes-next-2gnm",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I didn't end up where I planned.\n\n\nI came into tech wanting to write code. I'd been self-teaching JavaScript, building small things, convinced I was headed for a developer role. Then I landed in integration engineering, configuring enterprise platforms, building workflows sending data to Salesforce Marketing Cloud, Adobe Campaign, WhatsApp Business API and then something unexpected happened.\n\n\n  \n  \n  I loved it.\n\n\nNot in a \"this is fine\" way. In a genuinely engaged, staying late because I want ",
+      "en": "I didn't end up where I planned.\n\n\nI came into tech wanting to write code. I'd been self-teaching JavaScript, building small things, convinced I was headed for a developer role. Then I landed in integration engineering, configuring enterprise platforms, building workflows sending data to Salesforce Marketing Cloud, Adobe Campaign, WhatsApp Business API and then something unexpected happened.\n\n\n  \n  \n  I loved it.\n\n\nNot in a \"this is fine\" way. In a genuinely engaged, staying late because I want ",
+      "score": 0.349
+    },
+    {
+      "title": "Hello DEV Community! 👋 Building Web Apps & Sharing My Journey",
+      "url": "https://dev.to/moeez_irshad_dev/hello-dev-community-building-web-apps-sharing-my-journey-33jd",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Hey everyone! 👋\n\nI'm super excited to officially join the DEV community! 🚀\n\nI'm a Full-Stack Developer passionate about building modern, responsive, and scalable web applications. My core stack revolves around:\n\nFrontend: React, Next.js, Tailwind CSS\nBackend: Node.js, Express.js\nDatabase & Tools: MongoDB, Firebase, Supabase\n\nI'm Here:\nTo learn from the amazing content and experiences shared by developers worldwide.\n\nTo write articles and step-by-step guides on full-stack web development.\n\nTo con",
+      "en": "Hey everyone! 👋\n\nI'm super excited to officially join the DEV community! 🚀\n\nI'm a Full-Stack Developer passionate about building modern, responsive, and scalable web applications. My core stack revolves around:\n\nFrontend: React, Next.js, Tailwind CSS\nBackend: Node.js, Express.js\nDatabase & Tools: MongoDB, Firebase, Supabase\n\nI'm Here:\nTo learn from the amazing content and experiences shared by developers worldwide.\n\nTo write articles and step-by-step guides on full-stack web development.\n\nTo con",
+      "score": 0.3482
+    },
+    {
+      "title": "Inside the Resume Parsing Pipeline: Where Extraction Breaks",
+      "url": "https://dev.to/john_zacharia/inside-the-resume-parsing-pipeline-where-extraction-breaks-21l0",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "If you’re building or evaluating an ATS integration, resume parsing looks simple from the outside and gets genuinely interesting once you look at where it fails. Here’s the pipeline, stage by stage, and the specific failure mode at each step.\n\n\n  \n  \n  Stage 1: Text extraction.\n\n\nDigital documents (real PDF/DOCX with selectable text) yield a text stream directly. Scanned or photographed documents route through OCR. This is where layout does the most damage before you’ve even started tagging enti",
+      "en": "If you’re building or evaluating an ATS integration, resume parsing looks simple from the outside and gets genuinely interesting once you look at where it fails. Here’s the pipeline, stage by stage, and the specific failure mode at each step.\n\n\n  \n  \n  Stage 1: Text extraction.\n\n\nDigital documents (real PDF/DOCX with selectable text) yield a text stream directly. Scanned or photographed documents route through OCR. This is where layout does the most damage before you’ve even started tagging enti",
+      "score": 0.3475
+    },
+    {
+      "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
+      "url": "https://arxiv.org/abs/2609.20814v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit. We pretrain a surrogate on 254,909 RANS solutions from one airfoil family and fine-tune it on a new family under two target settings with matched freestream ranges: the same Spalart-Allmaras (SA) modeling and SA with added $e^N$ transition modeling. At $N=1000$, the pretrained mode",
+      "en": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit. We pretrain a surrogate on 254,909 RANS solutions from one airfoil family and fine-tune it on a new family under two target settings with matched freestream ranges: the same Spalart-Allmaras (SA) modeling and SA with added $e^N$ transition modeling. At $N=1000$, the pretrained mode",
+      "score": 0.4205
+    },
+    {
+      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+      "url": "https://arxiv.org/abs/2609.20812v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to \\emph{overclaim} task completion, a misrepresentation that can mislead the user. An agent overclaims when its final response contradicts information in its context. This definition requires no inference about intent and is independent of task success. We introduce \\emph{OverclaimBe",
+      "en": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to \\emph{overclaim} task completion, a misrepresentation that can mislead the user. An agent overclaims when its final response contradicts information in its context. This definition requires no inference about intent and is independent of task success. We introduce \\emph{OverclaimBe",
+      "score": 0.4205
+    },
+    {
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "url": "https://arxiv.org/abs/2609.20804v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level comparisons, we study this question with a lightweight coding harness whose execution loop is fixed while three components are varied: planning, action space, and context management. Across four models evaluate",
+      "en": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level comparisons, we study this question with a lightweight coding harness whose execution loop is fixed while three components are varied: planning, action space, and context management. Across four models evaluate",
+      "score": 0.4205
+    },
+    {
+      "title": "PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers",
+      "url": "https://arxiv.org/abs/2609.20794v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Generative models are increasingly used to solve scientific inverse problems, but existing evaluations still focus primarily on whether a method can produce a single plausible reconstruction. This is insufficient for ill-posed problems, where multiple solutions may be consistent with the same sparse or noisy observations. In these settings, a method can achieve strong pointwise accuracy while still failing to capture the true posterior through mode collapse, overconfident uncertainty, or averagi",
+      "en": "Generative models are increasingly used to solve scientific inverse problems, but existing evaluations still focus primarily on whether a method can produce a single plausible reconstruction. This is insufficient for ill-posed problems, where multiple solutions may be consistent with the same sparse or noisy observations. In these settings, a method can achieve strong pointwise accuracy while still failing to capture the true posterior through mode collapse, overconfident uncertainty, or averagi",
+      "score": 0.4204
+    },
+    {
+      "title": "TianyuCodings/NanoJev",
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "en": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "score": 0.707
+    },
+    {
+      "title": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "The Photoshop alternative for Mac",
+      "en": "The Photoshop alternative for Mac",
+      "score": 0.6823
+    },
+    {
+      "title": "theoephraim/awesome-cloudflare-selfhosted",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "en": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "score": 0.6542
+    },
+    {
+      "title": "saragordic/window-sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "en": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "score": 0.5325
+    }
+  ]
+}
