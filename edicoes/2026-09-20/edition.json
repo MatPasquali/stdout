@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-20",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI-generated posters don’t have to be horrible",
+      "en": "AI-generated posters don’t have to be horrible",
+      "score": 0.7976
+    },
+    {
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "I built non-autoregressive decision models with RL a year ago",
+      "en": "I built non-autoregressive decision models with RL a year ago",
+      "score": 0.78
+    },
+    {
+      "title": "bespokelabsai/nimble",
+      "url": "https://github.com/bespokelabsai/nimble",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "en": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "score": 0.7363
+    },
+    {
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "How to Write with an LLM",
+      "en": "How to Write with an LLM",
+      "score": 0.6739
+    },
+    {
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'modelo', com 4410 likes e 6941478 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'modelo', com 4410 likes e 6941478 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "m-a-p/YuE2-3B",
+      "url": "https://huggingface.co/m-a-p/YuE2-3B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-audio', com 901 likes e 17403 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-audio', com 901 likes e 17403 downloads.",
+      "score": 0.4554
+    },
+    {
+      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The Rust compiler remains unperturbed by the antics of the LLM",
+      "en": "The Rust compiler remains unperturbed by the antics of the LLM",
+      "score": 0.4258
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "en": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "score": 0.7753
+    },
+    {
+      "title": "Hora de renovar o setup: selecionamos notebooks em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/09/20/reviews/hora-de-renovar-o-setup-selecionamos-notebooks-em-promocao-na-amazon-6/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se você está pensando em trocar de computador ou quer um notebook para trabalho, estudos ou uso no dia a dia, a Amazon reúne agora uma seleção de boas opções em diferentes faixas de configuração. Reunimos três modelos que valem atenção, confira abaixo e escolha o que melhor se encaixa na sua necessidade. Notebook […]\nO post Hora de renovar o setup: selecionamos notebooks em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Se você está pensando em trocar de computador ou quer um notebook para trabalho, estudos ou uso no dia a dia, a Amazon reúne agora uma seleção de boas opções em diferentes faixas de configuração. Reunimos três modelos que valem atenção, confira abaixo e escolha o que melhor se encaixa na sua necessidade. Notebook […]\nO post Hora de renovar o setup: selecionamos notebooks em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3987
+    },
+    {
+      "title": "Quer turbinar seu setup? Confira uma seleção de notebooks gamer em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/09/20/reviews/quer-turbinar-seu-setup-confira-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se você está de olho em um notebook gamer para jogar com mais desempenho, seja para títulos pesados ou para trabalhar com edição e renderização , , a Amazon reúne agora algumas boas opções em promoção. Reunimos três modelos com configurações robustas, de marcas consagradas no segmento, para facilitar sua escolha. Dá uma olhada. Notebook […]\nO post Quer turbinar seu setup? Confira uma seleção de notebooks gamer em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Se você está de olho em um notebook gamer para jogar com mais desempenho, seja para títulos pesados ou para trabalhar com edição e renderização , , a Amazon reúne agora algumas boas opções em promoção. Reunimos três modelos com configurações robustas, de marcas consagradas no segmento, para facilitar sua escolha. Dá uma olhada. Notebook […]\nO post Quer turbinar seu setup? Confira uma seleção de notebooks gamer em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3981
+    },
+    {
+      "title": "Controle com ou sem fio? Qual é a melhor opção?",
+      "url": "https://canaltech.com.br/games/controle-com-ou-sem-fio-qual-e-o-melhor/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Quando você procura um novo controle, já notou que há um excesso de opções com e sem fio? Ainda que o modelo com o cabo remeta a tempos antigos, cada um deles oferece uma facilidade distinta que pode te ajudar a atingir seus objetivos em determinados games.\nA tecnologia wireless facilitou muita coisa, principalmente os fios enrolados e o limite de extensão que a outra alternativa carregava antigamente. Contudo, será que é o melhor caminho para você ou há diferenças que vão além de um simples fio",
+      "en": "Quando você procura um novo controle, já notou que há um excesso de opções com e sem fio? Ainda que o modelo com o cabo remeta a tempos antigos, cada um deles oferece uma facilidade distinta que pode te ajudar a atingir seus objetivos em determinados games.\nA tecnologia wireless facilitou muita coisa, principalmente os fios enrolados e o limite de extensão que a outra alternativa carregava antigamente. Contudo, será que é o melhor caminho para você ou há diferenças que vão além de um simples fio",
+      "score": 0.3978
+    },
+    {
+      "title": "7.3 Best Sites to Buy Old Gmail Accounts in the USA",
+      "url": "https://dev.to/sybilmillernn477/73-best-sites-to-buy-old-gmail-accounts-in-the-usa-25ej",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buying Old Gmail Accounts: Account History, Security, Privacy & Long-Term Management (2026)\n⭐️)➣(⭐️)➣✅✅➤If you want to more information just contact now here\n(⭐️)➣(⭐️)➣✅✅➤24 Hours Reply/Contact\n(⭐️)➣(⭐️)➣✅✅➤Telegram:> @getpvatop\n(⭐️)➣(⭐️)➣✅✅➤➤Email:getpvatop@gmail.com\n(⭐️)➣(⭐️)➣✅✅➤  Discord Community: getpvatop\n⭐️%&⭐️%^⭐️%&⭐️%&⭐️%&⭐️%&⭐️%&⭐️%⭐️\n\nhttps://getpvatop.com/product/buy-old-gmail-accounts/\n\nMeta Description:\nDiscover how aged old Gmail accounts work, why account history matters, and how",
+      "en": "Buying Old Gmail Accounts: Account History, Security, Privacy & Long-Term Management (2026)\n⭐️)➣(⭐️)➣✅✅➤If you want to more information just contact now here\n(⭐️)➣(⭐️)➣✅✅➤24 Hours Reply/Contact\n(⭐️)➣(⭐️)➣✅✅➤Telegram:> @getpvatop\n(⭐️)➣(⭐️)➣✅✅➤➤Email:getpvatop@gmail.com\n(⭐️)➣(⭐️)➣✅✅➤  Discord Community: getpvatop\n⭐️%&⭐️%^⭐️%&⭐️%&⭐️%&⭐️%&⭐️%&⭐️%⭐️\n\nhttps://getpvatop.com/product/buy-old-gmail-accounts/\n\nMeta Description:\nDiscover how aged old Gmail accounts work, why account history matters, and how",
+      "score": 0.448
+    },
+    {
+      "title": "Education & Tech Spotlight: AP approves India’s first Quantum-AI university in Amaravati; courses start this September",
+      "url": "https://dev.to/rvit_college_guntur/education-tech-spotlight-ap-approves-indias-first-quantum-ai-university-in-amaravati-courses-414i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Education & Tech Spotlight: AP approves India’s first Quantum-AI university in Amaravati; courses start this September\n\n\n\n🎓 Verified Educational & Tech Briefing | Published by RV Institute of Technology (RVIT Autonomous, Guntur)\n\n\n\n  \n  \n  📌 Executive Overview & Verified Announcement\n\n\nAP approves India’s first Quantum-AI university in Amaravati; courses start this September&nbsp;&nbsp;The Indian Express\n\nIn the rapidly transforming higher education and technology employment landscapes across An",
+      "en": "Education & Tech Spotlight: AP approves India’s first Quantum-AI university in Amaravati; courses start this September\n\n\n\n🎓 Verified Educational & Tech Briefing | Published by RV Institute of Technology (RVIT Autonomous, Guntur)\n\n\n\n  \n  \n  📌 Executive Overview & Verified Announcement\n\n\nAP approves India’s first Quantum-AI university in Amaravati; courses start this September&nbsp;&nbsp;The Indian Express\n\nIn the rapidly transforming higher education and technology employment landscapes across An",
+      "score": 0.3969
+    },
+    {
+      "title": "The 12 Best Platforms to Buy Old Yahoo Accounts In BUlk....",
+      "url": "https://dev.to/sybilmillernn477/the-12-best-platforms-to-buy-old-yahoo-accounts-in-bulk-5jf",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Buy Old Yahoo Accounts\n⭐️)➣(⭐️)➣✅✅➤If you want to more information just contact now here\n(⭐️)➣(⭐️)➣✅✅➤24 Hours Reply/Contact\n(⭐️)➣(⭐️)➣✅✅➤Telegram:> @getpvatop\n(⭐️)➣(⭐️)➣✅✅➤➤Email:getpvatop@gmail.com\n(⭐️)➣(⭐️)➣✅✅➤  Discord Community: getpvatop\n⭐️%&⭐️%^⭐️%&⭐️%&⭐️%&⭐️%&⭐️%&⭐️%⭐️\n\nhttps://getpvatop.com/product/buy-old-yahoo-accounts/\n\nIf you’re looking to Buy Old Yahoo Accounts for professional or business use, GetPVATop.com offers reliable aged Yahoo accounts designed to support a variety of legit",
+      "en": "Buy Old Yahoo Accounts\n⭐️)➣(⭐️)➣✅✅➤If you want to more information just contact now here\n(⭐️)➣(⭐️)➣✅✅➤24 Hours Reply/Contact\n(⭐️)➣(⭐️)➣✅✅➤Telegram:> @getpvatop\n(⭐️)➣(⭐️)➣✅✅➤➤Email:getpvatop@gmail.com\n(⭐️)➣(⭐️)➣✅✅➤  Discord Community: getpvatop\n⭐️%&⭐️%^⭐️%&⭐️%&⭐️%&⭐️%&⭐️%&⭐️%⭐️\n\nhttps://getpvatop.com/product/buy-old-yahoo-accounts/\n\nIf you’re looking to Buy Old Yahoo Accounts for professional or business use, GetPVATop.com offers reliable aged Yahoo accounts designed to support a variety of legit",
+      "score": 0.3485
+    },
+    {
+      "title": "Software Is Where My Actions Count: What a Special Interest Actually Does",
+      "url": "https://dev.to/dobybaxter127/software-is-where-my-actions-count-what-a-special-interest-actually-does-4cgl",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "People assume a special interest is just a hobby turned up too loud. It isn't. It's the one environment where my actions reliably produce consequences I can see, understand, and stand behind. Mine maps onto software, and that single fact explains more about my career than any decision I ever consciously made.\n\n\n  \n  \n  What a special interest actually is\n\n\nThe casual version of the term is something like \"an autistic person who is really into trains.\" Technically true, completely missing the mec",
+      "en": "People assume a special interest is just a hobby turned up too loud. It isn't. It's the one environment where my actions reliably produce consequences I can see, understand, and stand behind. Mine maps onto software, and that single fact explains more about my career than any decision I ever consciously made.\n\n\n  \n  \n  What a special interest actually is\n\n\nThe casual version of the term is something like \"an autistic person who is really into trains.\" Technically true, completely missing the mec",
+      "score": 0.3477
+    },
+    {
+      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+      "url": "https://arxiv.org/abs/2609.20817v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds. Our model jointly reasons over multiple observations and nat",
+      "en": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds. Our model jointly reasons over multiple observations and nat",
+      "score": 0.3273
+    },
+    {
+      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+      "url": "https://arxiv.org/abs/2609.20816v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colorization, but often relies on dedicated color representations or specialized inference procedures. Advances in large language models offer a simpler starting point: even compact models can associate hex values with color semantics. We present Paint-Anything, which learns a shared hex-",
+      "en": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colorization, but often relies on dedicated color representations or specialized inference procedures. Advances in large language models offer a simpler starting point: even compact models can associate hex values with color semantics. We present Paint-Anything, which learns a shared hex-",
+      "score": 0.3273
+    },
+    {
+      "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
+      "url": "https://arxiv.org/abs/2609.20815v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are essential for timely diagnosis, individualized patient management, and targeted surveillance strategies for affected families. However, public endoscopic datasets are largely organized around the individual sporadic polyp, and none links the polyposis phenotype to histopathology and ge",
+      "en": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are essential for timely diagnosis, individualized patient management, and targeted surveillance strategies for affected families. However, public endoscopic datasets are largely organized around the individual sporadic polyp, and none links the polyposis phenotype to histopathology and ge",
+      "score": 0.3273
+    },
+    {
+      "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+      "url": "https://arxiv.org/abs/2609.20800v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling across radically different systems? We introduce JEPA-Anything, a domain-agnostic framework based on orthogonal predictive factorization (OPF). Extending joint-embedding predictive architectures, OPF decomposes latent targets into complementary factors, learns them through dedicated pa",
+      "en": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling across radically different systems? We introduce JEPA-Anything, a domain-agnostic framework based on orthogonal predictive factorization (OPF). Extending joint-embedding predictive architectures, OPF decomposes latent targets into complementary factors, learns them through dedicated pa",
+      "score": 0.3272
+    },
+    {
+      "title": "mizorewww/laya-mlx",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Native MLX runtime for Laya typed decision models, 7-14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "en": "Native MLX runtime for Laya typed decision models, 7-14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "score": 0.7356
+    },
+    {
+      "title": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook",
+      "en": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook",
+      "score": 0.7058
+    },
+    {
+      "title": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "NandhaKishorM/laya",
+      "en": "NandhaKishorM/laya",
+      "score": 0.0697
+    }
+  ]
+}

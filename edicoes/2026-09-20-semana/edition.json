@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-20",
+  "weekly": true,
+  "range": "14/09 a 20/09",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "en": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "score": 0.8417
+    },
+    {
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Introducing System One Models and Jev",
+      "en": "Introducing System One Models and Jev",
+      "score": 0.807
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Nvidia announces native GPU programming in Rust",
+      "en": "Nvidia announces native GPU programming in Rust",
+      "score": 0.7995
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI-generated posters don’t have to be horrible",
+      "en": "AI-generated posters don’t have to be horrible",
+      "score": 0.7976
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "en": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "score": 0.7968
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "en": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "score": 0.7967
+    },
+    {
+      "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
+      "url": "https://bend-lang.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Bend, a language that blocks AI mistakes via proof and runs on GPUs",
+      "en": "Bend, a language that blocks AI mistakes via proof and runs on GPUs",
+      "score": 0.7935
+    },
+    {
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 724 likes e 405609 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 724 likes e 405609 downloads.",
+      "score": 0.7894
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Why are AI agents lying, cheating and coordinating?",
+      "en": "Why are AI agents lying, cheating and coordinating?",
+      "score": 0.7873
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "en": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "score": 0.7826
+    },
+    {
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "I built non-autoregressive decision models with RL a year ago",
+      "en": "I built non-autoregressive decision models with RL a year ago",
+      "score": 0.78
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "en": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "score": 0.7753
+    }
+  ]
+}
