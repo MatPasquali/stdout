@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-22",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "MiMo v2.6",
+      "en": "MiMo v2.6",
+      "score": 0.7655
+    },
+    {
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "I don't want to read what you didn't write",
+      "en": "I don't want to read what you didn't write",
+      "score": 0.7598
+    },
+    {
+      "title": "Altworld/Hemmingway-1",
+      "url": "https://huggingface.co/Altworld/Hemmingway-1",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 466 likes e 2745 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 466 likes e 2745 downloads.",
+      "score": 0.7583
+    },
+    {
+      "title": "AlexWortega/openjev",
+      "url": "https://huggingface.co/AlexWortega/openjev",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-classification', com 466 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-classification', com 466 likes e 0 downloads.",
+      "score": 0.598
+    },
+    {
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "en": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "score": 0.449
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI-Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+      "en": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI-Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+      "score": 0.442
+    },
+    {
+      "title": "Privacy group slams EU for changing the data rules to cater to AI",
+      "url": "https://www.theregister.com/legal/2026/09/22/privacy-group-slams-eu-for-changing-the-data-rules-to-cater-to-ai/5298175",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Schrems campaign raises specter of another legal challenge as legislators propose changes to GDPR",
+      "en": "Schrems campaign raises specter of another legal challenge as legislators propose changes to GDPR",
+      "score": 0.3999
+    },
+    {
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Attention is all you have",
+      "en": "Attention is all you have",
+      "score": 0.7519
+    },
+    {
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Spymarks, Not Watermarks",
+      "en": "Spymarks, Not Watermarks",
+      "score": 0.7323
+    },
+    {
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "What Sun got wrong",
+      "en": "What Sun got wrong",
+      "score": 0.7225
+    },
+    {
+      "title": "ZuckOff Know when a camera is in the room",
+      "url": "https://zuckoff.app/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "ZuckOff Know when a camera is in the room",
+      "en": "ZuckOff Know when a camera is in the room",
+      "score": 0.7106
+    },
+    {
+      "title": "The most valuable part of an agent prompt is the list of things it refuses to do",
+      "url": "https://dev.to/itxtayab/the-most-valuable-part-of-an-agent-prompt-is-the-list-of-things-it-refuses-to-do-163j",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Anthropic open sourced its reference agents for investment banking, equity research and fund administration. Ten of them, Apache-2.0, sitting at 36,000 stars.\n\nThe agents are interesting. The thing I would actually steal is five lines near the top of the README.\n\n\n  \n  \n  Capability is the easy half\n\n\nAnyone can write an agent prompt that says what to do. \"You are an expert financial analyst. Build a DCF model.\" That takes a minute, and it is the part every agent repo shows you.\n\nHere is what th",
+      "en": "Anthropic open sourced its reference agents for investment banking, equity research and fund administration. Ten of them, Apache-2.0, sitting at 36,000 stars.\n\nThe agents are interesting. The thing I would actually steal is five lines near the top of the README.\n\n\n  \n  \n  Capability is the easy half\n\n\nAnyone can write an agent prompt that says what to do. \"You are an expert financial analyst. Build a DCF model.\" That takes a minute, and it is the part every agent repo shows you.\n\nHere is what th",
+      "score": 0.4971
+    },
+    {
+      "title": "These Companies Want Interns This Summer (Sep 22)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-22-55ib",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Geneva Trading, Boston Scientific, PrizePicks, Charles Schwab, Illinois Tool Works, Cambridge Investment Research are all hiring interns for Summer 2026. Here's what's open.\n\n\n  \n  \n   Geneva Trading\n\n\n2 open internships\n\n\n\nData Engineer Intern - PMO | Chicago, IL\n\n\n\n  \n  \n  - C++ Developer Intern | Chicago, IL\n\n\n\n  \n  \n   Boston Scientific\n\n\n1 open internships\n\n\n  \n  \n  - AI Software Development Intern | Arden Hills, MN\n\n\n\n  \n  \n   PrizePicks\n\n\n1 open internships\n\n\n  \n  \n  - Software Engineerin",
+      "en": "Geneva Trading, Boston Scientific, PrizePicks, Charles Schwab, Illinois Tool Works, Cambridge Investment Research are all hiring interns for Summer 2026. Here's what's open.\n\n\n  \n  \n   Geneva Trading\n\n\n2 open internships\n\n\n\nData Engineer Intern - PMO | Chicago, IL\n\n\n\n  \n  \n  - C++ Developer Intern | Chicago, IL\n\n\n\n  \n  \n   Boston Scientific\n\n\n1 open internships\n\n\n  \n  \n  - AI Software Development Intern | Arden Hills, MN\n\n\n\n  \n  \n   PrizePicks\n\n\n1 open internships\n\n\n  \n  \n  - Software Engineerin",
+      "score": 0.399
+    },
+    {
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 22)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-22-2knp",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "New remote roles just dropped from KoboToolbox, Sanctuary Computer Inc, Sticker Mule, Mitre Media and more. No relocation needed.\n\n\n  \n  \n  Frontend Web Application Developer\n\n\n KoboToolbox\n\nSalary: $90k - $105k/yr\nStack: React / TypeScript / Python / Go\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Shopify Developer\n\n\n Sanctuary Computer Inc\n\nSalary: $80k - $150k/yr\nStack: Next.js / Node.js / TypeScript / PostgreSQL\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  AI agent engineer\n\n\n Sticker Mule\n\nSalary: $150k - $",
+      "en": "New remote roles just dropped from KoboToolbox, Sanctuary Computer Inc, Sticker Mule, Mitre Media and more. No relocation needed.\n\n\n  \n  \n  Frontend Web Application Developer\n\n\n KoboToolbox\n\nSalary: $90k - $105k/yr\nStack: React / TypeScript / Python / Go\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Shopify Developer\n\n\n Sanctuary Computer Inc\n\nSalary: $80k - $150k/yr\nStack: Next.js / Node.js / TypeScript / PostgreSQL\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  AI agent engineer\n\n\n Sticker Mule\n\nSalary: $150k - $",
+      "score": 0.399
+    },
+    {
+      "title": "Snow White is Actually a Story About Burnout, Cobalt Mining, and Legacy Code",
+      "url": "https://dev.to/alexv_data/snow-white-is-actually-a-story-about-burnout-cobalt-mining-and-legacy-code-2c46",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Forget Disney. You are living in the Dwarf Barracks.\n\n\nWe’ve been reading the wrong documentation for centuries. \n\nWe thought Snow White was a charming medieval bedtime story. In reality, it is a hardcore system post-mortem detailing the toxic reality of late-stage tech capitalism, zero-day exploits, and physical infrastructure exploitation.\n\nIf you peel back the fairytale varnish, the architecture is terrifyingly familiar:\n\n\n\nThe Magic Mirror? A multimodal LLM trained on toxic engagement metric",
+      "en": "Forget Disney. You are living in the Dwarf Barracks.\n\n\nWe’ve been reading the wrong documentation for centuries. \n\nWe thought Snow White was a charming medieval bedtime story. In reality, it is a hardcore system post-mortem detailing the toxic reality of late-stage tech capitalism, zero-day exploits, and physical infrastructure exploitation.\n\nIf you peel back the fairytale varnish, the architecture is terrifyingly familiar:\n\n\n\nThe Magic Mirror? A multimodal LLM trained on toxic engagement metric",
+      "score": 0.3979
+    },
+    {
+      "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+      "url": "https://arxiv.org/abs/2609.25001v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance online rollouts. To address these challenges, we introduce GameHorizon, a unified data and evaluation suite that measures gameplay capabilities at different",
+      "en": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance online rollouts. To address these challenges, we introduce GameHorizon, a unified data and evaluation suite that measures gameplay capabilities at different",
+      "score": 0.4615
+    },
+    {
+      "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+      "url": "https://arxiv.org/abs/2609.24997v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, specific identities, physical consistency, or ordered events. In this paper, we present VideoGen-Agent, a multimodal agent trained through multitask agentic reinforcement learning to use external tools for video generation. The agent coordinates augmentation, generation, and verification tools through",
+      "en": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, specific identities, physical consistency, or ordered events. In this paper, we present VideoGen-Agent, a multimodal agent trained through multitask agentic reinforcement learning to use external tools for video generation. The agent coordinates augmentation, generation, and verification tools through",
+      "score": 0.4615
+    },
+    {
+      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+      "url": "https://arxiv.org/abs/2609.24983v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model response, the annotator locates the first inappropriate token and either picks a substitute from the model's candidate tokens or types the correct text via free-form editing. The system then truncates everything after that position and continues generation from the corrected prefix, repeating this locate",
+      "en": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model response, the annotator locates the first inappropriate token and either picks a substitute from the model's candidate tokens or types the correct text via free-form editing. The system then truncates everything after that position and continues generation from the corrected prefix, repeating this locate",
+      "score": 0.4614
+    },
+    {
+      "title": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization",
+      "url": "https://arxiv.org/abs/2609.24979v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "On-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and thus model quality, making any realizable quality gains highly impactful. At the same time, their personal nature (i.e., the close coupling to a particular user) means that a given on-device LLM tends to be used in similar, predictable patterns over the course of time. This paper presents a novel me",
+      "en": "On-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and thus model quality, making any realizable quality gains highly impactful. At the same time, their personal nature (i.e., the close coupling to a particular user) means that a given on-device LLM tends to be used in similar, predictable patterns over the course of time. This paper presents a novel me",
+      "score": 0.4614
+    },
+    {
+      "title": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "en": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "score": 0.7494
+    }
+  ]
+}
