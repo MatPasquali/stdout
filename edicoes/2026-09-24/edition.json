@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-24",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Take your agent-built product live: hosting, database, domain, email, payments, on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "en": "Take your agent-built product live: hosting, database, domain, email, payments, on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "score": 0.8823
+    },
+    {
+      "title": "Italian parliament votes for return to nuclear energy",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Italian parliament votes for return to nuclear energy",
+      "en": "Italian parliament votes for return to nuclear energy",
+      "score": 0.7594
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "score": 0.752
+    },
+    {
+      "title": "TaichuAI/ZDTaichu5.0-9B",
+      "url": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1034 likes e 8313 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1034 likes e 8313 downloads.",
+      "score": 0.6
+    },
+    {
+      "title": "Why can’t we just keep rogue AIs off the internet?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep the agents off the internet? \"A strict air […]",
+      "en": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep the agents off the internet? \"A strict air […]",
+      "score": 0.4476
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
+      "en": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
+      "score": 0.4449
+    },
+    {
+      "title": "AI is dominating the conversation at Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week, investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.…",
+      "en": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week, investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.…",
+      "score": 0.4396
+    },
+    {
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "en": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "score": 0.3976
+    },
+    {
+      "title": "Sua memória RAM está travando tudo? Veja uma seleção de opções DDR5 em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/09/24/reviews/sua-memoria-ram-esta-travando-tudo-veja-uma-selecao-de-opcoes-ddr5-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se o seu PC está sofrendo com lentidão, travamentos ou simplesmente não aguenta mais as demandas dos programas e jogos modernos, talvez seja hora de investir em mais memória RAM. Separamos três opções DDR5 que estão em oferta na Amazon e valem muito a atenção, confira: Memória Corsair Vengeance, 32GB (2x16GB), DDR5, 5200MHz, […]\nO post Sua memória RAM está travando tudo? Veja uma seleção de opções DDR5 em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Se o seu PC está sofrendo com lentidão, travamentos ou simplesmente não aguenta mais as demandas dos programas e jogos modernos, talvez seja hora de investir em mais memória RAM. Separamos três opções DDR5 que estão em oferta na Amazon e valem muito a atenção, confira: Memória Corsair Vengeance, 32GB (2x16GB), DDR5, 5200MHz, […]\nO post Sua memória RAM está travando tudo? Veja uma seleção de opções DDR5 em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3491
+    },
+    {
+      "title": "Someone went shopping in ASUS's eShop – for customer data",
+      "url": "https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860",
+      "source": "The Register",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Contact details and order records accessed, but PC maker is keeping schtum on how many customers are affected",
+      "en": "Contact details and order records accessed, but PC maker is keeping schtum on how many customers are affected",
+      "score": 0.3489
+    },
+    {
+      "title": "Quer acelerar seu PC ou notebook? Confira uma seleção de SSDs NVMe Gen4 em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/09/24/reviews/quer-acelerar-seu-pc-ou-notebook-confira-uma-selecao-de-ssds-nvme-gen4-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se o seu computador ainda roda com um SSD lento, ou pior, com HD, está na hora de considerar um upgrade. Reunimos três opções de SSDs NVMe Gen4 disponíveis na Amazon que entregam boa velocidade e custo-benefício para quem quer mais desempenho no dia a dia, seja para trabalho, estudos ou games. Western […]\nO post Quer acelerar seu PC ou notebook? Confira uma seleção de SSDs NVMe Gen4 em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Se o seu computador ainda roda com um SSD lento, ou pior, com HD, está na hora de considerar um upgrade. Reunimos três opções de SSDs NVMe Gen4 disponíveis na Amazon que entregam boa velocidade e custo-benefício para quem quer mais desempenho no dia a dia, seja para trabalho, estudos ou games. Western […]\nO post Quer acelerar seu PC ou notebook? Confira uma seleção de SSDs NVMe Gen4 em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3485
+    },
+    {
+      "title": "Remote SWE Jobs Paying Up to $250k (Sep 24)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-sep-24-3j2e",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Here are the 6 highest paying fully remote software engineering roles this week.\n\n\n  \n  \n  AI agent engineer\n\n\n Sticker Mule\n\nSalary: $150k - $250k/yr\nStack: TypeScript / JavaScript / Go / Java\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Software Engineer Case Execution\n\n\n Pivotal Health\n\nSalary: $190k - $220k/yr\nStack: Python / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr",
+      "en": "Here are the 6 highest paying fully remote software engineering roles this week.\n\n\n  \n  \n  AI agent engineer\n\n\n Sticker Mule\n\nSalary: $150k - $250k/yr\nStack: TypeScript / JavaScript / Go / Java\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Software Engineer Case Execution\n\n\n Pivotal Health\n\nSalary: $190k - $220k/yr\nStack: Python / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr",
+      "score": 0.3985
+    },
+    {
+      "title": "How to Invite a GenAI Speaker to Your College",
+      "url": "https://dev.to/pranjulrathour/how-to-invite-a-genai-speaker-to-your-college-3g8a",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "How to invite a GenAI speaker to your college, the whole checklist.\n\nThe email is two lines: two dates + your students' year. Pick a talk (RAG, fine-tuning on a free GPU, shipping AI as a small team, what wins a hackathon, BCA to GenAI engineer), a 90-minute workshop, or a judging seat. The AV list: HDMI tested the day before, power for laptops, Wi-Fi for 60, one coordinator who replies.\n\nFree for student communities. Previous: VSICS Kanpur (talk show, mentorship session, BCA induction for 100+",
+      "en": "How to invite a GenAI speaker to your college, the whole checklist.\n\nThe email is two lines: two dates + your students' year. Pick a talk (RAG, fine-tuning on a free GPU, shipping AI as a small team, what wins a hackathon, BCA to GenAI engineer), a 90-minute workshop, or a judging seat. The AV list: HDMI tested the day before, power for laptops, Wi-Fi for 60, one coordinator who replies.\n\nFree for student communities. Previous: VSICS Kanpur (talk show, mentorship session, BCA induction for 100+",
+      "score": 0.396
+    },
+    {
+      "title": "Some interviews now let you use AI. That's harder, not easier.",
+      "url": "https://dev.to/henry123/some-interviews-now-let-you-use-ai-thats-harder-not-easier-5gnk",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A growing number of companies hand you the tools and watch how you use them. Same 45 minutes, completely different scoring, and a very obvious gap between people who direct a model and people who follow one.\n\nWritten after two AI-permitted rounds · Updated September 2026 · 8 min read\n\n\nAI tools: allowed in this round\n45:00\n\n!\nThe short version: when AI is allowed, the code stops being the signal. What gets scored is whether you had a plan before you prompted, whether you reviewed what came back,",
+      "en": "A growing number of companies hand you the tools and watch how you use them. Same 45 minutes, completely different scoring, and a very obvious gap between people who direct a model and people who follow one.\n\nWritten after two AI-permitted rounds · Updated September 2026 · 8 min read\n\n\nAI tools: allowed in this round\n45:00\n\n!\nThe short version: when AI is allowed, the code stops being the signal. What gets scored is whether you had a plan before you prompted, whether you reviewed what came back,",
+      "score": 0.3959
+    },
+    {
+      "title": "Design Engineering with Maggie Appleton",
+      "url": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
+      "source": "The Pragmatic Engineer",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Maggie Appleton on what engineers can learn from designers, working with AI agents, and why human judgment still matters.",
+      "en": "Maggie Appleton on what engineers can learn from designers, working with AI agents, and why human judgment still matters.",
+      "score": 0.3594
+    },
+    {
+      "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+      "url": "https://arxiv.org/abs/2609.28470v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench, a suite of AI teaching evaluations and a public platform that enables large-scale data collection with over 175,000 student-AI messages to study whether large language models (LLMs) produce learning gains equivalent to human tutoring. Using StudentBench, we measured learning gains on Quantitative ",
+      "en": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench, a suite of AI teaching evaluations and a public platform that enables large-scale data collection with over 175,000 student-AI messages to study whether large language models (LLMs) produce learning gains equivalent to human tutoring. Using StudentBench, we measured learning gains on Quantitative ",
+      "score": 0.4609
+    },
+    {
+      "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
+      "url": "https://arxiv.org/abs/2609.28449v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Large language models (LLMs) are increasingly used in coding tasks, but their ability to reason about code execution remains unclear. Existing repository-level QA benchmarks mainly evaluate static code understanding and often rely on LLM-based evaluation, while execution-reasoning benchmarks are mostly limited to snippets or functions. We introduce SWE-Flux, a repository-level benchmark for dynamic execution reasoning containing 480 execution-grounded instances across 12 real Python repositories",
+      "en": "Large language models (LLMs) are increasingly used in coding tasks, but their ability to reason about code execution remains unclear. Existing repository-level QA benchmarks mainly evaluate static code understanding and often rely on LLM-based evaluation, while execution-reasoning benchmarks are mostly limited to snippets or functions. We introduce SWE-Flux, a repository-level benchmark for dynamic execution reasoning containing 480 execution-grounded instances across 12 real Python repositories",
+      "score": 0.4606
+    },
+    {
+      "title": "Repairability of Inexact Solvers in Recursive State Estimation with Machine Learning",
+      "url": "https://arxiv.org/abs/2609.28425v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recursive state estimation often executes approximate numerical solutions inside a feedback loop, where highly accurate local steps do not guarantee better overall results. For a fixed linear Kalman model, we characterize when a correction within a prescribed subspace and norm budget can meet a local admissibility tolerance, and how the defects actually executed affect the finite-horizon covariance response. Centering each defect on the exact gain for the implemented covariance separates current",
+      "en": "Recursive state estimation often executes approximate numerical solutions inside a feedback loop, where highly accurate local steps do not guarantee better overall results. For a fixed linear Kalman model, we characterize when a correction within a prescribed subspace and norm budget can meet a local admissibility tolerance, and how the defects actually executed affect the finite-horizon covariance response. Centering each defect on the exact gain for the implemented covariance separates current",
+      "score": 0.46
+    },
+    {
+      "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.28416v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recent advances in large language models (LLMs) have enabled agents to tackle long-horizon tasks across diverse environments. To further improve agent performance, existing language world models typically predict environment observations, yet reconstructing high-entropy, execution-dependent tool responses offers limited value when real feedback is available. Meanwhile, agents suffer from \\emph{task-state contamination}, where unsupported assumptions and outdated plans persist in history and dist",
+      "en": "Recent advances in large language models (LLMs) have enabled agents to tackle long-horizon tasks across diverse environments. To further improve agent performance, existing language world models typically predict environment observations, yet reconstructing high-entropy, execution-dependent tool responses offers limited value when real feedback is available. Meanwhile, agents suffer from \\emph{task-state contamination}, where unsupported assumptions and outdated plans persist in history and dist",
+      "score": 0.4598
+    },
+    {
+      "title": "riba2534/claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "claude-opus-5-5-demo",
+      "en": "claude-opus-5-5-demo",
+      "score": 0.7152
+    },
+    {
+      "title": "heyjunpenn/awesome-jev",
+      "url": "https://github.com/heyjunpenn/awesome-jev",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A verified, community-maintained catalog of 896 open-source projects built with Jev.",
+      "en": "A verified, community-maintained catalog of 896 open-source projects built with Jev.",
+      "score": 0.6446
+    },
+    {
+      "title": "deepopen-com/deepopen",
+      "url": "https://github.com/deepopen-com/deepopen",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine.",
+      "en": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine.",
+      "score": 0.6222
+    },
+    {
+      "title": "driceroland/Search",
+      "url": "https://github.com/driceroland/Search",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "en": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "score": 0.619
+    }
+  ]
+}
