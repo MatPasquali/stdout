@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-26",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "score": 0.8626
+    },
+    {
+      "title": "asokurasu/text-humanizer",
+      "url": "https://github.com/asokurasu/text-humanizer",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.",
+      "en": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.",
+      "score": 0.7927
+    },
+    {
+      "title": "tobi/disktree",
+      "url": "https://github.com/tobi/disktree",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "en": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "score": 0.7749
+    },
+    {
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Pirate Face Rescues LLM Models from Deletion",
+      "en": "Pirate Face Rescues LLM Models from Deletion",
+      "score": 0.6368
+    },
+    {
+      "title": "convaiinnovations/laya",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-classification', com 3808 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-classification', com 3808 likes e 0 downloads.",
+      "score": 0.6
+    },
+    {
+      "title": "XiaomiMiMo/MiMo-V2.6-Flash-RL",
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 473 likes e 23000 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 473 likes e 23000 downloads.",
+      "score": 0.5106
+    },
+    {
+      "title": "XingChen-AGI/Xing4.0-29B-A4B",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 1719 likes e 43947 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 1719 likes e 43947 downloads.",
+      "score": 0.5018
+    },
+    {
+      "title": "Linux support is coming to Snapdragon X2 series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Linux support is coming to Snapdragon X2 series",
+      "en": "Linux support is coming to Snapdragon X2 series",
+      "score": 0.6851
+    },
+    {
+      "title": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Grok 4.7",
+      "en": "Grok 4.7",
+      "score": 0.5858
+    },
+    {
+      "title": "Quer jogar sem travar? Veja uma seleção de notebooks gamer em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/09/26/reviews/quer-jogar-sem-travar-veja-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon-5/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se você está em busca de um notebook gamer para elevar sua experiência nos jogos, a Amazon reúne agora algumas opções interessantes com boas configurações de hardware. Reunimos três modelos que chamam atenção pela ficha técnica e pelo custo-benefício, confira abaixo. Notebook Gamer ASUS TUF Gaming A15, RTX 3050, Ryzen 7, 16 GB […]\nO post Quer jogar sem travar? Veja uma seleção de notebooks gamer em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Se você está em busca de um notebook gamer para elevar sua experiência nos jogos, a Amazon reúne agora algumas opções interessantes com boas configurações de hardware. Reunimos três modelos que chamam atenção pela ficha técnica e pelo custo-benefício, confira abaixo. Notebook Gamer ASUS TUF Gaming A15, RTX 3050, Ryzen 7, 16 GB […]\nO post Quer jogar sem travar? Veja uma seleção de notebooks gamer em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3976
+    },
+    {
+      "title": "Motor de carro elétrico: entenda por que ele é melhor que o a combustão",
+      "url": "https://canaltech.com.br/carros/motor-de-carro-eletrico-entenda-por-que-ele-e-melhor-que-o-a-combustao/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "O carro elétrico ainda não convenceu todo mundo de que é uma opção melhor do que o tradicional modelo a combustão, e isso acontece por alguns motivos. Um dos principais é que muita gente ainda acredita que um motor abastecido com combustível é superior a um motor que funciona com energia elétrica. Mas será que isso é verdade?\nA dúvida faz sentido, principalmente para quem está acostumado há décadas com motores a gasolina, etanol ou diesel. Afinal, são eles que dominaram as ruas e evoluíram duran",
+      "en": "O carro elétrico ainda não convenceu todo mundo de que é uma opção melhor do que o tradicional modelo a combustão, e isso acontece por alguns motivos. Um dos principais é que muita gente ainda acredita que um motor abastecido com combustível é superior a um motor que funciona com energia elétrica. Mas será que isso é verdade?\nA dúvida faz sentido, principalmente para quem está acostumado há décadas com motores a gasolina, etanol ou diesel. Afinal, são eles que dominaram as ruas e evoluíram duran",
+      "score": 0.3948
+    },
+    {
+      "title": "How to run your own 24/7 remote job watcher in 5 minutes (open source, self-hosted)",
+      "url": "https://dev.to/earnnovadev/how-to-run-your-own-247-remote-job-watcher-in-5-minutes-open-source-self-hosted-2np2",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "The hosted job monitors (Distill, PageCrawl, Apify's Upwork tracker) work, but they scrape your sessions, cost a monthly fee, and your data lives on someone else's box. I got tired of that and built GigWatch, a small open-source tool you run on your own machine. Here's how to run your own 24/7 remote-jig watcher in ~5 minutes, no account required.\n\n\n  \n  \n  What it does\n\n\nPoint it at the feeds you care about, tell it what you do, and it pings you only when a new matching gig lands, not a raw d",
+      "en": "The hosted job monitors (Distill, PageCrawl, Apify's Upwork tracker) work, but they scrape your sessions, cost a monthly fee, and your data lives on someone else's box. I got tired of that and built GigWatch, a small open-source tool you run on your own machine. Here's how to run your own 24/7 remote-jig watcher in ~5 minutes, no account required.\n\n\n  \n  \n  What it does\n\n\nPoint it at the feeds you care about, tell it what you do, and it pings you only when a new matching gig lands, not a raw d",
+      "score": 0.3985
+    },
+    {
+      "title": "💡 Why Pay for $1,000 Bootcamps When You Can Swap Skills for Free?",
+      "url": "https://dev.to/manjeet0246/why-pay-for-1000-bootcamps-when-you-can-swap-skills-for-free-2693",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Solving the High Cost of Tech Education\n\n\nExpensive bootcamps and paid courses prevent talented developers from learning new tech stacks. SwapLearn solves this real-world problem through peer-to-peer skill bartering!\n\n\n\nSkill Swapping: Know React but want to learn Python? Swap skills 1-on-1 with a real builder.\n\nIntegrated Video Calls: Built-in WebRTC video sessions, no Zoom or Meet links required.\n\nAI Matchmaking: Automatically match with peers based on availability and complementary skills.\n\n\nL",
+      "en": "Solving the High Cost of Tech Education\n\n\nExpensive bootcamps and paid courses prevent talented developers from learning new tech stacks. SwapLearn solves this real-world problem through peer-to-peer skill bartering!\n\n\n\nSkill Swapping: Know React but want to learn Python? Swap skills 1-on-1 with a real builder.\n\nIntegrated Video Calls: Built-in WebRTC video sessions, no Zoom or Meet links required.\n\nAI Matchmaking: Automatically match with peers based on availability and complementary skills.\n\n\nL",
+      "score": 0.3494
+    },
+    {
+      "title": "How to Build a Safer Home Car-Washing Setup: Pressure, Foam, and Workflow",
+      "url": "https://dev.to/detail-rig/how-to-build-a-safer-home-car-washing-setup-pressure-foam-and-workflow-15c1",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Washing a car at home looks simple: connect a pressure washer, spray some foam, rinse the vehicle, and dry it.\n\nIn practice, the equipment and workflow matter just as much as the cleaning products.\n\nA good home setup should remove dirt efficiently while reducing unnecessary contact with the paint. That means thinking about pressure, water flow, spray distance, foam application, wash media, and drying technique rather than simply buying the most powerful machine.\n\nThis guide explains a practical ",
+      "en": "Washing a car at home looks simple: connect a pressure washer, spray some foam, rinse the vehicle, and dry it.\n\nIn practice, the equipment and workflow matter just as much as the cleaning products.\n\nA good home setup should remove dirt efficiently while reducing unnecessary contact with the paint. That means thinking about pressure, water flow, spray distance, foam application, wash media, and drying technique rather than simply buying the most powerful machine.\n\nThis guide explains a practical ",
+      "score": 0.3491
+    },
+    {
+      "title": "'Someone Already Built That' is the Favourite Excuse of Broke Developers",
+      "url": "https://dev.to/maame-codes/someone-already-built-that-is-the-favourite-excuse-of-broke-developers-44o6",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Let me tell you a quick story about a developer named Sam.\n\nSam is incredibly smart. For a whole year, he stayed up late building a super complex AI tool for digital creators. He launched it online. He posted about it constantly.\n\nThe result? Crickets. He got exactly zero paid users.\n\nOne weekend, Sam went to a neighborhood barbecue. He started talking to a guy named Bob. Bob owns a medium sized company that sells cardboard boxes to local restaurants. It is not a sexy business at all.\n\nBob was c",
+      "en": "Let me tell you a quick story about a developer named Sam.\n\nSam is incredibly smart. For a whole year, he stayed up late building a super complex AI tool for digital creators. He launched it online. He posted about it constantly.\n\nThe result? Crickets. He got exactly zero paid users.\n\nOne weekend, Sam went to a neighborhood barbecue. He started talking to a guy named Bob. Bob owns a medium sized company that sells cardboard boxes to local restaurants. It is not a sexy business at all.\n\nBob was c",
+      "score": 0.3479
+    },
+    {
+      "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+      "url": "https://arxiv.org/abs/2609.30238v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically compensate for missing information by reconstructing modality features or designing complicated fusion mechanisms. However, these methods still suffer from spurious generation and noisy guidance due to the lack of high-level semantic grounding in partially observed multimodal evidence. To address these ",
+      "en": "Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically compensate for missing information by reconstructing modality features or designing complicated fusion mechanisms. However, these methods still suffer from spurious generation and noisy guidance due to the lack of high-level semantic grounding in partially observed multimodal evidence. To address these ",
+      "score": 0.4195
+    },
+    {
+      "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+      "url": "https://arxiv.org/abs/2609.30233v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints. Generalized TAMP addresses this difficulty by exploiting regularities across problem instances to reduce planning effort on new instances. However, existing methods require substantial TAMP-specific engineering. We investigate whether coding agents can automate this process by synthesizing",
+      "en": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints. Generalized TAMP addresses this difficulty by exploiting regularities across problem instances to reduce planning effort on new instances. However, existing methods require substantial TAMP-specific engineering. We investigate whether coding agents can automate this process by synthesizing",
+      "score": 0.4195
+    },
+    {
+      "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
+      "url": "https://arxiv.org/abs/2609.30227v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can verify claims directly from speech. We introduce VeriSpeak, a probe benchmark for studying speech-based fact verification in Large Audio Language Models (LALMs). VeriSpeak contains 3,879 spoken claims spanning temporal, geographical, and relational facts, with balanced true and false labels. The benc",
+      "en": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can verify claims directly from speech. We introduce VeriSpeak, a probe benchmark for studying speech-based fact verification in Large Audio Language Models (LALMs). VeriSpeak contains 3,879 spoken claims spanning temporal, geographical, and relational facts, with balanced true and false labels. The benc",
+      "score": 0.4194
+    },
+    {
+      "title": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
+      "url": "https://arxiv.org/abs/2609.30222v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEverything, a 3D point tracker that breaks this trade-off by representing videos as persistent 3D scene tracks in world coordinates. Grounded in the insight that videos are 2D projections of an underlying 3D world, TrackEverything decouples model complexity from video duration, allowing it to scale with u",
+      "en": "Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEverything, a 3D point tracker that breaks this trade-off by representing videos as persistent 3D scene tracks in world coordinates. Grounded in the insight that videos are 2D projections of an underlying 3D world, TrackEverything decouples model complexity from video duration, allowing it to scale with u",
+      "score": 0.4193
+    },
+    {
+      "title": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "en": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "score": 0.7547
+    },
+    {
+      "title": "nokia-applied-research/AnyJev",
+      "url": "https://github.com/nokia-applied-research/AnyJev",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
+      "en": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
+      "score": 0.7412
+    },
+    {
+      "title": "freestylefly/WeChatBridge",
+      "url": "https://github.com/freestylefly/WeChatBridge",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "en": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "score": 0.6358
+    }
+  ]
+}
