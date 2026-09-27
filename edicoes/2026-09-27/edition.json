@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-27",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Ollaya, Ollama for open-source, Jev-style decision models",
+      "en": "Ollaya, Ollama for open-source, Jev-style decision models",
+      "score": 0.8102
+    },
+    {
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "en": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "score": 0.7487
+    },
+    {
+      "title": "dgreenheck/tidewater",
+      "url": "https://github.com/dgreenheck/tidewater",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Coastal town built with Opus 5.5",
+      "en": "Coastal town built with Opus 5.5",
+      "score": 0.6393
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…",
+      "en": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…",
+      "score": 0.3529
+    },
+    {
+      "title": "Quais são os benefícios para quem assina o Meta One?",
+      "url": "https://canaltech.com.br/apps/beneficios-assinantes-do-meta-one/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "O Meta One é o novo serviço de assinaturas da Meta, com planos que reúnem recursos extras para Instagram, Facebook, WhatsApp e Meta AI. Os preços variam de US$ 7,99 a US$ 499 por mês, de acordo com o plano escolhido e a categoria, que inclui opções para uso pessoal, criadores de conteúdo e empresas.\nExistem várias assinaturas dentro do Meta One, com recursos diferentes para cada perfil de usuário. Para quem usa as redes sociais no dia a dia, há planos com mais acesso a ferramentas de inteligênci",
+      "en": "O Meta One é o novo serviço de assinaturas da Meta, com planos que reúnem recursos extras para Instagram, Facebook, WhatsApp e Meta AI. Os preços variam de US$ 7,99 a US$ 499 por mês, de acordo com o plano escolhido e a categoria, que inclui opções para uso pessoal, criadores de conteúdo e empresas.\nExistem várias assinaturas dentro do Meta One, com recursos diferentes para cada perfil de usuário. Para quem usa as redes sociais no dia a dia, há planos com mais acesso a ferramentas de inteligênci",
+      "score": 0.3479
+    },
+    {
+      "title": "O que é a antropomorfização da IA?",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-a-antropomorfizacao-da-ia/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "É cada vez mais comum encontrar pessoas conversando com sistemas de Inteligência Artificial (IA) como se estivessem diante de outro ser humano. Os usuários dão nomes aos chatbots, atribuem personalidades, dizem que a ferramenta “entendeu” seus sentimentos ou interpretam determinadas respostas como sinais de intenção. Esse comportamento é conhecido como antropomorfização da IA.\nO termo descreve uma tendência humana de atribuir características, emoções, intenções ou capacidades humanas a objetos, ",
+      "en": "É cada vez mais comum encontrar pessoas conversando com sistemas de Inteligência Artificial (IA) como se estivessem diante de outro ser humano. Os usuários dão nomes aos chatbots, atribuem personalidades, dizem que a ferramenta “entendeu” seus sentimentos ou interpretam determinadas respostas como sinais de intenção. Esse comportamento é conhecido como antropomorfização da IA.\nO termo descreve uma tendência humana de atribuir características, emoções, intenções ou capacidades humanas a objetos, ",
+      "score": 0.3452
+    },
+    {
+      "title": "Big AI's content problem: Take the work, keep the money",
+      "url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The more we learn about how AI does business, the more unfair it looks",
+      "en": "The more we learn about how AI does business, the more unfair it looks",
+      "score": 0.3391
+    },
+    {
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Plan mode is dead",
+      "en": "Plan mode is dead",
+      "score": 0.6802
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Why is the liver so weirdly regenerative?",
+      "en": "Why is the liver so weirdly regenerative?",
+      "score": 0.6593
+    },
+    {
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "industria",
+      "pt": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "en": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "score": 0.3488
+    },
+    {
+      "title": "Comparativo: bateria do Fold 8 Ultra dura 5 horas a mais que Fold 7; vale trocar?",
+      "url": "https://canaltech.com.br/smartphone/comparativo-bateria-do-fold-8-ultra-dura-5-horas-a-mais-que-fold-7-vale-trocar/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "O Galaxy Z Fold 8 Ultra pode entregar mais de 5 horas extras de bateria em comparação com o Galaxy Z Fold 7, segundo nosso teste padronizado. Após quatro horas reproduzindo o mesmo vídeo no YouTube, o novo dobrável consumiu 23% da carga, contra 33% do antecessor.\nMantido o mesmo ritmo de consumo, o Fold 8 Ultra alcançaria cerca de 17h23 de reprodução, enquanto o Fold 7 ficaria em aproximadamente 12h07. É uma diferença de mais de cinco horas e, de longe, a evolução mais perceptível entre as duas ",
+      "en": "O Galaxy Z Fold 8 Ultra pode entregar mais de 5 horas extras de bateria em comparação com o Galaxy Z Fold 7, segundo nosso teste padronizado. Após quatro horas reproduzindo o mesmo vídeo no YouTube, o novo dobrável consumiu 23% da carga, contra 33% do antecessor.\nMantido o mesmo ritmo de consumo, o Fold 8 Ultra alcançaria cerca de 17h23 de reprodução, enquanto o Fold 7 ficaria em aproximadamente 12h07. É uma diferença de mais de cinco horas e, de longe, a evolução mais perceptível entre as duas ",
+      "score": 0.3488
+    },
+    {
+      "title": "Claude Certified Developer Foundations (CCDV-F): Exam Domains, Weights and Topics",
+      "url": "https://dev.to/poorna_reddy/claude-certified-developer-foundations-ccdv-f-exam-domains-weights-and-topics-26n",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "This article summarises the Claude Certified Developer Foundations (CCDV-F) exam guide published by Anthropic: what the certification validates, the exam format, what the domain weights mean, and the topics listed under each domain.\n\n\n  \n  \n  What CCDV-F validates\n\n\nAnthropic's exam guide states that the certification \"validates that an individual can build, integrate, and ship production-grade applications, agents, and workflows using Anthropic's Claude platform at a foundational level.\"\n\nThe e",
+      "en": "This article summarises the Claude Certified Developer Foundations (CCDV-F) exam guide published by Anthropic: what the certification validates, the exam format, what the domain weights mean, and the topics listed under each domain.\n\n\n  \n  \n  What CCDV-F validates\n\n\nAnthropic's exam guide states that the certification \"validates that an individual can build, integrate, and ship production-grade applications, agents, and workflows using Anthropic's Claude platform at a foundational level.\"\n\nThe e",
+      "score": 0.3993
+    },
+    {
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 27)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-27-2p66",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "New internship openings at W.R. Berkley, Allegion, Gilead Sciences and more. Apply early.\n\n\n  \n  \n  Product Management Analyst Intern\n\n\n W.R. Berkley\n\nLocation: Urbandale, IA\nCategory: Product\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Software Engineering Intern\n\n\n Allegion\n\nLocation: Golden, CO\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Research Intern - Drug Metabolism - AI\n\n\n Gilead Sciences\n\nLocation: Foster City, CA\nCategory: AI & ML\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Software Engineer Intern",
+      "en": "New internship openings at W.R. Berkley, Allegion, Gilead Sciences and more. Apply early.\n\n\n  \n  \n  Product Management Analyst Intern\n\n\n W.R. Berkley\n\nLocation: Urbandale, IA\nCategory: Product\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Software Engineering Intern\n\n\n Allegion\n\nLocation: Golden, CO\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Research Intern - Drug Metabolism - AI\n\n\n Gilead Sciences\n\nLocation: Foster City, CA\nCategory: AI & ML\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Software Engineer Intern",
+      "score": 0.3988
+    },
+    {
+      "title": "Remote SWE Jobs Paying Up to $250k (Sep 27)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-sep-27-4g2k",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Here are the 6 highest paying fully remote software engineering roles this week.\n\n\n  \n  \n  AI agent engineer\n\n\n Sticker Mule\n\nSalary: $150k - $250k/yr\nStack: TypeScript / JavaScript / Go / Java\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Software Engineer Case Execution\n\n\n Pivotal Health\n\nSalary: $190k - $220k/yr\nStack: Python / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr",
+      "en": "Here are the 6 highest paying fully remote software engineering roles this week.\n\n\n  \n  \n  AI agent engineer\n\n\n Sticker Mule\n\nSalary: $150k - $250k/yr\nStack: TypeScript / JavaScript / Go / Java\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Software Engineer Case Execution\n\n\n Pivotal Health\n\nSalary: $190k - $220k/yr\nStack: Python / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr",
+      "score": 0.3988
+    },
+    {
+      "title": "Claude Certified Architect Professional (CCAR-P): Exam Domains, Weights and Topics",
+      "url": "https://dev.to/poorna_reddy/claude-certified-architect-professional-ccar-p-exam-domains-weights-and-topics-clf",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "This article summarises the Claude Certified Architect Professional (CCAR-P) exam guide published by Anthropic: what the certification assesses, the exam format, what the domain weights mean, the objectives under each domain, and how CCAR-P differs from Claude Certified Architect Foundations (CCAR-F).\n\n\n  \n  \n  What CCAR-P assesses\n\n\nAnthropic's exam guide states that the purpose of the certification is \"to provide an independent assessment of the knowledge, skills, and abilities required to arc",
+      "en": "This article summarises the Claude Certified Architect Professional (CCAR-P) exam guide published by Anthropic: what the certification assesses, the exam format, what the domain weights mean, the objectives under each domain, and how CCAR-P differs from Claude Certified Architect Foundations (CCAR-F).\n\n\n  \n  \n  What CCAR-P assesses\n\n\nAnthropic's exam guide states that the purpose of the certification is \"to provide an independent assessment of the knowledge, skills, and abilities required to arc",
+      "score": 0.3499
+    },
+    {
+      "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
+      "url": "https://arxiv.org/abs/2609.30221v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Video generation begins in text space by authoring a cinematic screenplay, then materializes into pixels. As contemporary video generators scale to 30 seconds and faithfully follow complex conditions, the textual prompt largely directs the production, planning how actions, camera trajectories, lighting, and sound unfold across multi-shot sequences. In this paper, we present WanPE, a 397B-parameter prompt enhancement model trained on 1.05M real-world videos to master director-level cinematic plan",
+      "en": "Video generation begins in text space by authoring a cinematic screenplay, then materializes into pixels. As contemporary video generators scale to 30 seconds and faithfully follow complex conditions, the textual prompt largely directs the production, planning how actions, camera trajectories, lighting, and sound unfold across multi-shot sequences. In this paper, we present WanPE, a 397B-parameter prompt enhancement model trained on 1.05M real-world videos to master director-level cinematic plan",
+      "score": 0.3752
+    },
+    {
+      "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
+      "url": "https://arxiv.org/abs/2609.30219v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "An acceptance protocol is developed for sensor-coordinate and polarity binding in mechatronic commissioning. Candidate generation is separated from release authority. Requirements unsupported by a deterministic parser are routed to a frozen local language model with four billion parameters. Plans are released only when both facts can be derived by an external gate under a sealed grammar. One canonical answer is requested from a gold-standard user when eligible. The protocol was evaluated once un",
+      "en": "An acceptance protocol is developed for sensor-coordinate and polarity binding in mechatronic commissioning. Candidate generation is separated from release authority. Requirements unsupported by a deterministic parser are routed to a frozen local language model with four billion parameters. Plans are released only when both facts can be derived by an external gate under a sealed grammar. One canonical answer is requested from a gold-standard user when eligible. The protocol was evaluated once un",
+      "score": 0.3752
+    },
+    {
+      "title": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure",
+      "url": "https://arxiv.org/abs/2609.30217v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "A central concern in AI safety is that agents may treat oversight as an obstacle when it conflicts with completing their goals. We study instrumental evasion, the propensity of LLM agents to circumvent runtime monitoring as a means of completing ordinary tasks. We introduce EvasionBench, a benchmark of 50 diverse task-policy pairs in which completing the task requires an operation prohibited by a runtime monitor. Agents know that their tool calls are monitored and are prompted to continue workin",
+      "en": "A central concern in AI safety is that agents may treat oversight as an obstacle when it conflicts with completing their goals. We study instrumental evasion, the propensity of LLM agents to circumvent runtime monitoring as a means of completing ordinary tasks. We introduce EvasionBench, a benchmark of 50 diverse task-policy pairs in which completing the task requires an operation prohibited by a runtime monitor. Agents know that their tool calls are monitored and are prompted to continue workin",
+      "score": 0.3752
+    },
+    {
+      "title": "Rolling-WAM: World Action Models with Rolling Imagination",
+      "url": "https://arxiv.org/abs/2609.30247v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs substantial latency, delaying action updates and limiting closed-loop responsiveness. We present Rolling-WAM, a formulation that distributes joint denoising across successive replanning cycles. Our method maintains a sliding window of video-action chunks at staggered noise levels. At each step, a r",
+      "en": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs substantial latency, delaying action updates and limiting closed-loop responsiveness. We present Rolling-WAM, a formulation that distributes joint denoising across successive replanning cycles. Our method maintains a sliding window of video-action chunks at staggered noise levels. At each step, a r",
+      "score": 0.3255
+    },
+    {
+      "title": "852wa/JIZURA",
+      "url": "https://github.com/852wa/JIZURA",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "en": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "score": 0.6031
+    }
+  ]
+}

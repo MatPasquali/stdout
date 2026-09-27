@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-27",
+  "weekly": true,
+  "range": "21/09 a 27/09",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Take your agent-built product live: hosting, database, domain, email, payments, on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "en": "Take your agent-built product live: hosting, database, domain, email, payments, on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "score": 0.8823
+    },
+    {
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "score": 0.8626
+    },
+    {
+      "title": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "en": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "score": 0.8481
+    },
+    {
+      "title": "unreallabsai/unreal-agent",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Async-first agent harness",
+      "en": "Async-first agent harness",
+      "score": 0.8282
+    },
+    {
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Ollaya, Ollama for open-source, Jev-style decision models",
+      "en": "Ollaya, Ollama for open-source, Jev-style decision models",
+      "score": 0.8102
+    },
+    {
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "AX, Google’s Open Agentic Orchestrator",
+      "en": "AX, Google’s Open Agentic Orchestrator",
+      "score": 0.8005
+    },
+    {
+      "title": "asokurasu/text-humanizer",
+      "url": "https://github.com/asokurasu/text-humanizer",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.",
+      "en": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.",
+      "score": 0.7927
+    },
+    {
+      "title": "tobi/disktree",
+      "url": "https://github.com/tobi/disktree",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "en": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "score": 0.7749
+    },
+    {
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "MiMo v2.6",
+      "en": "MiMo v2.6",
+      "score": 0.7655
+    },
+    {
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "en": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "score": 0.7629
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "GPT-6 Sol and Luna",
+      "en": "GPT-6 Sol and Luna",
+      "score": 0.761
+    },
+    {
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "I don't want to read what you didn't write",
+      "en": "I don't want to read what you didn't write",
+      "score": 0.7598
+    }
+  ]
+}
