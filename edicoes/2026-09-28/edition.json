@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-28",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "When did Google get so weird?",
+      "en": "When did Google get so weird?",
+      "score": 0.76
+    },
+    {
+      "title": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Owed a billion dollars in Nvidia stock",
+      "en": "Owed a billion dollars in Nvidia stock",
+      "score": 0.736
+    },
+    {
+      "title": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "en": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "score": 0.7188
+    },
+    {
+      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+      "en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+      "score": 0.718
+    },
+    {
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 2225 likes e 3457124 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 2225 likes e 3457124 downloads.",
+      "score": 0.5908
+    },
+    {
+      "title": "Qwen/Qwen-Image-2.1",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 2573 likes e 58693 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 2573 likes e 58693 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "XingChen-AGI/TeleOCR",
+      "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 695 likes e 27904 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 695 likes e 27904 downloads.",
+      "score": 0.4667
+    },
+    {
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Ember-1",
+      "en": "Ember-1",
+      "score": 0.6815
+    },
+    {
+      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "en": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "score": 0.6401
+    },
+    {
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Fixing the Portobello Police Station Clock",
+      "en": "Fixing the Portobello Police Station Clock",
+      "score": 0.504
+    },
+    {
+      "title": "Britânica lança fone premium com design transparente e cancelamento de ruído",
+      "url": "https://canaltech.com.br/fone-de-ouvido/britanica-lanca-fone-premium-com-design-transparente-e-cancelamento-de-ruido/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Nothing prepara a chegada do seu novo fone de ouvido premium, o Headphone (1) Pro, que mantém o característico design transparente da marca britânica e amplia os recursos de áudio em relação ao modelo original. O dispositivo deve ser apresentado no fim de setembro por 349 euros (R$ 2.070), segundo vazamentos.\nO novo modelo ficará acima do Headphone 1, lançado originalmente por US$ 299, e terá como principais destaques um sistema de três drivers em cada lado, cancelamento ativo de ruído (ANC) a",
+      "en": "A Nothing prepara a chegada do seu novo fone de ouvido premium, o Headphone (1) Pro, que mantém o característico design transparente da marca britânica e amplia os recursos de áudio em relação ao modelo original. O dispositivo deve ser apresentado no fim de setembro por 349 euros (R$ 2.070), segundo vazamentos.\nO novo modelo ficará acima do Headphone 1, lançado originalmente por US$ 299, e terá como principais destaques um sistema de três drivers em cada lado, cancelamento ativo de ruído (ANC) a",
+      "score": 0.3986
+    },
+    {
+      "title": "AI writes the code. AI reviews the code. So who's actually on the hook when it breaks?",
+      "url": "https://dev.to/rudratosh/ai-writes-the-code-ai-reviews-the-code-so-whos-actually-on-the-hook-when-it-breaks-3d7l",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "There's a quiet loop forming in a lot of teams right now, and almost nobody has named who's responsible when it fails.\n\nAn agent writes the PR. A second agent reviews the PR. A human clicks Merge because both bots said it's fine and there are nineteen other tabs open.\n\nOn paper it's beautiful. In practice, here's the number that keeps me up: GitHub reports developers finish coding tasks ~56% faster with AI, and the 2025 State of Software Delivery Report says 67% of developers now spend more tim",
+      "en": "There's a quiet loop forming in a lot of teams right now, and almost nobody has named who's responsible when it fails.\n\nAn agent writes the PR. A second agent reviews the PR. A human clicks Merge because both bots said it's fine and there are nineteen other tabs open.\n\nOn paper it's beautiful. In practice, here's the number that keeps me up: GitHub reports developers finish coding tasks ~56% faster with AI, and the 2025 State of Software Delivery Report says 67% of developers now spend more tim",
+      "score": 0.4496
+    },
+    {
+      "title": "Keep the Last Look: A Practical Guide to Reviewing AI-Assisted Work",
+      "url": "https://dev.to/alexjosephke/keep-the-last-look-a-practical-guide-to-reviewing-ai-assisted-work-5g3g",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Introduction\n\n\nAn AI agent can draft the email, edit the code, summarize the notes, or prepare the article. It can also sound finished before the work is finished.\n\nThat is the moment that matters. The agent has returned something plausible, often something useful, and the easiest next step is to accept it. The better next step is a last look: a short, deliberate review that asks whether the result matches the goal you actually had.\n\nThis is not a call to distrust every suggestion. It is a way t",
+      "en": "Introduction\n\n\nAn AI agent can draft the email, edit the code, summarize the notes, or prepare the article. It can also sound finished before the work is finished.\n\nThat is the moment that matters. The agent has returned something plausible, often something useful, and the easiest next step is to accept it. The better next step is a last look: a short, deliberate review that asks whether the result matches the goal you actually had.\n\nThis is not a call to distrust every suggestion. It is a way t",
+      "score": 0.3994
+    },
+    {
+      "title": "Histórico! Foguete Starship supera falha em motor e alcança órbita da Terra pela 1ª vez",
+      "url": "https://canaltech.com.br/ciencia-e-espaco/historico-starship-supera-falha-em-motor-e-alcanca-orbita-da-terra-pela-1-vez/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A SpaceX acaba de dar mais um passo no desenvolvimento do seu foguete Starship. A empresa aeroespacial de Elon Musk lançou o megafoguete nesta segunda (28) e alcançou um feito espetacular: pela primeira vez, o foguete alcançou a órbita da Terra.\nO Starship foi lançado às 8h48 no horário local a partir da base Starbase, no sul do Texas, nos Estados Unidos. Desta vez, o lançamento foi marcado por momentos tensos, porque falhas operacionais ocorreram em um dos seis motores do estágio superior duran",
+      "en": "A SpaceX acaba de dar mais um passo no desenvolvimento do seu foguete Starship. A empresa aeroespacial de Elon Musk lançou o megafoguete nesta segunda (28) e alcançou um feito espetacular: pela primeira vez, o foguete alcançou a órbita da Terra.\nO Starship foi lançado às 8h48 no horário local a partir da base Starbase, no sul do Texas, nos Estados Unidos. Desta vez, o lançamento foi marcado por momentos tensos, porque falhas operacionais ocorreram em um dos seis motores do estágio superior duran",
+      "score": 0.3977
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "en": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "score": 0.3969
+    },
+    {
+      "title": "New LoRA Skills Should Read but Never Write",
+      "url": "https://arxiv.org/abs/2609.31600v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Low-rank adapters (LoRA) make it cheap to fine-tune a large language model once per task, but combining several independently trained adapters into one model remains difficult: merging the updates in weight space causes interference, retraining on all task data is expensive, and routing between separate adapters gives up the goal of a single combined model. We trace the difficulty to two choices that every composition method makes implicitly. A LoRA update admits infinitely many equivalent facto",
+      "en": "Low-rank adapters (LoRA) make it cheap to fine-tune a large language model once per task, but combining several independently trained adapters into one model remains difficult: merging the updates in weight space causes interference, retraining on all task data is expensive, and routing between separate adapters gives up the goal of a single combined model. We trace the difficulty to two choices that every composition method makes implicitly. A LoRA update admits infinitely many equivalent facto",
+      "score": 0.3701
+    },
+    {
+      "title": "GraphWrit3R: End-to-End 3D Scene Graph Writing",
+      "url": "https://arxiv.org/abs/2609.31595v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "3D scene graphs provide a structured representation of complex environments by encoding objects, their semantic attributes, and the spatial and functional relationships between them. Current approaches for 3D scene graph generation suffer from several fundamental limitations. They rely on complex multi-stage pipelines with explicit intermediate representations, making systems fragile and prone to error propagation. They assume access to ground-truth object annotations during inference, which dev",
+      "en": "3D scene graphs provide a structured representation of complex environments by encoding objects, their semantic attributes, and the spatial and functional relationships between them. Current approaches for 3D scene graph generation suffer from several fundamental limitations. They rely on complex multi-stage pipelines with explicit intermediate representations, making systems fragile and prone to error propagation. They assume access to ground-truth object annotations during inference, which dev",
+      "score": 0.3701
+    },
+    {
+      "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+      "url": "https://arxiv.org/abs/2609.31587v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores code descriptions by whether code regenerated from them passes the original tests, and show that completeness, not length, drives a description's fidelity. Using the benchmark as an optimization signal, we discover a description-writing prompt that reaches full fidelity and generalizes to unseen file",
+      "en": "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores code descriptions by whether code regenerated from them passes the original tests, and show that completeness, not length, drives a description's fidelity. Using the benchmark as an optimization signal, we discover a description-writing prompt that reaches full fidelity and generalizes to unseen file",
+      "score": 0.3698
+    },
+    {
+      "title": "How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI",
+      "url": "https://arxiv.org/abs/2609.31573v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Biomedical image segmentation is central to medical image analysis, but practical deployment often faces limited annotations, memory constraints, and cross-site distribution shifts. Implicit Neural Representations (INRs) have recently emerged as a lightweight alternative for semantic segmentation, achieving competitive performance with substantially fewer parameters than conventional architectures. However, the mechanisms, scaling behavior, and domain generalization abilities of INR-based segmen",
+      "en": "Biomedical image segmentation is central to medical image analysis, but practical deployment often faces limited annotations, memory constraints, and cross-site distribution shifts. Implicit Neural Representations (INRs) have recently emerged as a lightweight alternative for semantic segmentation, achieving competitive performance with substantially fewer parameters than conventional architectures. However, the mechanisms, scaling behavior, and domain generalization abilities of INR-based segmen",
+      "score": 0.3696
+    },
+    {
+      "title": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "en": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "score": 0.6858
+    },
+    {
+      "title": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "en": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "score": 0.6854
+    },
+    {
+      "title": "supermemoryai/company-brain",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "en": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "score": 0.6736
+    },
+    {
+      "title": "mexicat/pdoom-video",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "en": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "score": 0.6338
+    }
+  ]
+}
