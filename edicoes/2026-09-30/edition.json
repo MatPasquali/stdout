@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-30",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "en": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "score": 0.9183
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Dots: Always-on agents",
+      "en": "Dots: Always-on agents",
+      "score": 0.7812
+    },
+    {
+      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "DraftKings is using AI to behaviorally target chronic gamblers",
+      "en": "DraftKings is using AI to behaviorally target chronic gamblers",
+      "score": 0.7614
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "en": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "score": 0.7576
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 5661 likes e 1602348 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 5661 likes e 1602348 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 2512 likes e 1232685 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 2512 likes e 1232685 downloads.",
+      "score": 0.503
+    },
+    {
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,…",
+      "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,…",
+      "score": 0.4416
+    },
+    {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "en": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "score": 0.7496
+    },
+    {
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "America.gov",
+      "en": "America.gov",
+      "score": 0.7261
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "How Delhi cut electricity loss from 50 to 5 percent",
+      "en": "How Delhi cut electricity loss from 50 to 5 percent",
+      "score": 0.7061
+    },
+    {
+      "title": "Coding is not solved",
+      "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Coding is not solved",
+      "en": "Coding is not solved",
+      "score": 0.6655
+    },
+    {
+      "title": "I Never Planned to Work in Cybersecurity",
+      "url": "https://dev.to/danielecangi/i-never-planned-to-work-in-cybersecurity-5bg7",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I never planned to work in cybersecurity.\n\nThat sentence feels slightly strange to write because, looking at the things I have worked on over the last few years, there has never really been a single plan in the first place.\n\nI tend to get involved in whatever I find technically interesting. I have worked on procedural systems, AI experiments, GPU computing, RF observation, benchmarks, games and developer tools. Usually I start because there is a problem I want to understand, a system I want to t",
+      "en": "I never planned to work in cybersecurity.\n\nThat sentence feels slightly strange to write because, looking at the things I have worked on over the last few years, there has never really been a single plan in the first place.\n\nI tend to get involved in whatever I find technically interesting. I have worked on procedural systems, AI experiments, GPU computing, RF observation, benchmarks, games and developer tools. Usually I start because there is a problem I want to understand, a system I want to t",
+      "score": 0.4997
+    },
+    {
+      "title": "Is AI taking entry-level jobs? What the hiring data shows",
+      "url": "https://dev.to/fourleaf/is-ai-taking-entry-level-jobs-what-the-hiring-data-shows-356f",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Three studies published in 2026 now measure what AI is doing to the bottom of the career ladder, and they agree on something narrower than the headlines. Companies that adopt AI are adding senior people faster than junior ones, and young workers in the most exposed occupations are being hired less. None of the three found a wave of entry-level layoffs.\n\nThe biggest of the three is a Stanford Digital Economy Lab working paper by Bharat Chandar and Bouke Klein Teeselink, published September 21, 20",
+      "en": "Three studies published in 2026 now measure what AI is doing to the bottom of the career ladder, and they agree on something narrower than the headlines. Companies that adopt AI are adding senior people faster than junior ones, and young workers in the most exposed occupations are being hired less. None of the three found a wave of entry-level layoffs.\n\nThe biggest of the three is a Stanford Digital Economy Lab working paper by Bharat Chandar and Bouke Klein Teeselink, published September 21, 20",
+      "score": 0.3498
+    },
+    {
+      "title": "Expandi vs HeyReach: Which LinkedIn Automation Tool Wins in 2026?",
+      "url": "https://dev.to/leonligpt/expandi-vs-heyreach-which-linkedin-automation-tool-wins-in-2026-21oo",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Both tools sit at the top end of the LinkedIn outreach market, but they are built for different shapes of team. Expandi is the mature single-sender sequencer. HeyReach is the agency-first multi-account platform. This guide compares them honestly across pricing, multi-account workflows, integrations, and AI, then introduces a third option for teams that fall between them.\n\nIndependently evaluated. Updated for 2026.\n\n\n  \n  \n  Quick verdict\n\n\nHeyReach wins on multi-account workflows, agency white-",
+      "en": "Both tools sit at the top end of the LinkedIn outreach market, but they are built for different shapes of team. Expandi is the mature single-sender sequencer. HeyReach is the agency-first multi-account platform. This guide compares them honestly across pricing, multi-account workflows, integrations, and AI, then introduces a third option for teams that fall between them.\n\nIndependently evaluated. Updated for 2026.\n\n\n  \n  \n  Quick verdict\n\n\nHeyReach wins on multi-account workflows, agency white-",
+      "score": 0.3497
+    },
+    {
+      "title": "Distributed databases with Peter Mattis",
+      "url": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
+      "source": "The Pragmatic Engineer",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Cockroach Labs co-founder Peter Mattis discusses building reliable distributed systems and how AI helps him write more code without sacrificing quality.",
+      "en": "Cockroach Labs co-founder Peter Mattis discusses building reliable distributed systems and how AI helps him write more code without sacrificing quality.",
+      "score": 0.3494
+    },
+    {
+      "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+      "url": "https://arxiv.org/abs/2609.38178v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to reduce this reliance on human effort by using foundation models to autonomously compose learned behaviors to complete tasks. Yet completing tasks this way does not itself teach a t",
+      "en": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to reduce this reliance on human effort by using foundation models to autonomously compose learned behaviors to complete tasks. Yet completing tasks this way does not itself teach a t",
+      "score": 0.4592
+    },
+    {
+      "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+      "url": "https://arxiv.org/abs/2609.38177v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate evidence across viewpoints into a coherent 3D understanding. A growing body of work attempts to close this gap by injecting 3D awareness into MLLMs, either by boosting fine-grained pixel-level cross-view correspondence or by fusing features from 3D geometry foundation models, yet a s",
+      "en": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate evidence across viewpoints into a coherent 3D understanding. A growing body of work attempts to close this gap by injecting 3D awareness into MLLMs, either by boosting fine-grained pixel-level cross-view correspondence or by fusing features from 3D geometry foundation models, yet a s",
+      "score": 0.4592
+    },
+    {
+      "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+      "url": "https://arxiv.org/abs/2609.38169v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low precision often leads to severe accuracy degradation, as quantization errors propagate through successive state updates. We discover that the impact of these errors depends on two complementary dimensions: temporally, errors in long-lived memory can persist across many decoding st",
+      "en": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low precision often leads to severe accuracy degradation, as quantization errors propagate through successive state updates. We discover that the impact of these errors depends on two complementary dimensions: temporally, errors in long-lived memory can persist across many decoding st",
+      "score": 0.4592
+    },
+    {
+      "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+      "url": "https://arxiv.org/abs/2609.38166v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context into a fixed-size recurrent state and substantially reduce the cost of long-context processing, repeatedly reading and updating that state remains a major inference bottleneck. Quantization offers a natural way to reduce this cost, but can significantly degrade model quality, due to the accumulation of",
+      "en": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context into a fixed-size recurrent state and substantially reduce the cost of long-context processing, repeatedly reading and updating that state remains a major inference bottleneck. Quantization offers a natural way to reduce this cost, but can significantly degrade model quality, due to the accumulation of",
+      "score": 0.4592
+    },
+    {
+      "title": "kaankiziltug/logo-design-skill",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "en": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "score": 0.6751
+    },
+    {
+      "title": "lemomo-ai/lemo-opuscar",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "en": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "score": 0.6505
+    },
+    {
+      "title": "glanderness/BeefTV",
+      "url": "https://github.com/glanderness/BeefTV",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Local-first, lightweight, AI-native video workspace.",
+      "en": "Local-first, lightweight, AI-native video workspace.",
+      "score": 0.5516
+    },
+    {
+      "title": "shihabal3amri/DiPlay",
+      "url": "https://github.com/shihabal3amri/DiPlay",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+      "en": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+      "score": 0.5235
+    }
+  ]
+}
