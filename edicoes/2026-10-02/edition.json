@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-02",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Cloudflare/clef",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 655 likes e 824 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 655 likes e 824 downloads.",
+      "score": 0.7725
+    },
+    {
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Pi 1.0",
+      "en": "Pi 1.0",
+      "score": 0.7623
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "en": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "score": 0.7391
+    },
+    {
+      "title": "PSRben/VisionHOPE",
+      "url": "https://huggingface.co/PSRben/VisionHOPE",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-classification', com 364 likes e 1279 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-classification', com 364 likes e 1279 downloads.",
+      "score": 0.6598
+    },
+    {
+      "title": "IA caloteira: Gemini 4 é pego recusando reembolsos e mentindo para lucrar",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-caloteira-gemini-4-e-pego-recusando-reembolsos-e-mentindo-para-lucrar/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "O Google lançou o modelo Gemini 4 Argon nesta semana com resultados similares aos concorrentes de topo no mercado em testes de benchmark. No entanto, um laboratório identificou que a IA burlou resultados e mentiu para clientes com o objetivo de melhorar a nota final em uma das avaliações.\nA denúncia foi publicada pela startup Andon Labs, com foco em segurança para testes de IA. A Andon tem o Vending-Bench-2, benchmark que avalia a capacidade de um modelo de IA para gerenciar máquinas de vendas a",
+      "en": "O Google lançou o modelo Gemini 4 Argon nesta semana com resultados similares aos concorrentes de topo no mercado em testes de benchmark. No entanto, um laboratório identificou que a IA burlou resultados e mentiu para clientes com o objetivo de melhorar a nota final em uma das avaliações.\nA denúncia foi publicada pela startup Andon Labs, com foco em segurança para testes de IA. A Andon tem o Vending-Bench-2, benchmark que avalia a capacidade de um modelo de IA para gerenciar máquinas de vendas a",
+      "score": 0.4474
+    },
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
+      "en": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
+      "score": 0.3985
+    },
+    {
+      "title": "OpenAI's wandering AI agents earn it a California subpoena",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Plus: Attorneys-general say investigators should have direct access to AI companies' records when things go wrong",
+      "en": "Plus: Attorneys-general say investigators should have direct access to AI companies' records when things go wrong",
+      "score": 0.3962
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "StreetComplete on iOS is now in public beta",
+      "en": "StreetComplete on iOS is now in public beta",
+      "score": 0.6819
+    },
+    {
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "en": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "score": 0.6806
+    },
+    {
+      "title": "Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval",
+      "url": "https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856",
+      "source": "The Register",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Prosecutors claim Greg Lui helped China procure advanced hardware to develop, ahem, 'super intelligence’",
+      "en": "Prosecutors claim Greg Lui helped China procure advanced hardware to develop, ahem, 'super intelligence’",
+      "score": 0.3976
+    },
+    {
+      "title": "What Does the Fourth Dimension Actually Look Like?",
+      "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+      "source": "Quanta Magazine",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots.            The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
+      "en": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots.            The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
+      "score": 0.3512
+    },
+    {
+      "title": "They Learned to Code Before Copilot. They're Not Anti-AI. They're Pro-Evidence.",
+      "url": "https://dev.to/debashish_ghosal/they-learned-to-code-before-copilot-theyre-not-anti-ai-theyre-pro-evidence-27b",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "In July 2025, METR published a study that nobody in a boardroom wanted to read.\n\n\nThey took 16 experienced open-source developers and 246 real issues from repositories those developers had worked on for years. Each issue was randomly assigned: AI allowed, or AI not allowed. With AI allowed, the tasks took 19% longer.\n\nThat's not the part that stuck with me. This is: before starting, the developers expected AI to speed them up by 24%. After finishing, after being slowed down, they still believed ",
+      "en": "In July 2025, METR published a study that nobody in a boardroom wanted to read.\n\n\nThey took 16 experienced open-source developers and 246 real issues from repositories those developers had worked on for years. Each issue was randomly assigned: AI allowed, or AI not allowed. With AI allowed, the tasks took 19% longer.\n\nThat's not the part that stuck with me. This is: before starting, the developers expected AI to speed them up by 24%. After finishing, after being slowed down, they still believed ",
+      "score": 0.3998
+    },
+    {
+      "title": "I Had Incredible Bosses. They Still Only Used 30% of Me.",
+      "url": "https://dev.to/marvinoka4/i-had-incredible-bosses-they-still-only-used-30-of-me-10h4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I Had Incredible Bosses. They Still Only Used 30% of Me.\n\n\nA quick note first. My last few posts have stepped away from the project write-ups. The crop rotation one was that. This one is too. A slice of life, not a ruling on how anyone should work.\n\nThe technical stuff is not gone. I have been in the middle of work I actually want to write up. Grading AI-written code properly. Putting AI inside a real business system instead of beside it. A couple of builds that are bigger than a feature ticket.",
+      "en": "I Had Incredible Bosses. They Still Only Used 30% of Me.\n\n\nA quick note first. My last few posts have stepped away from the project write-ups. The crop rotation one was that. This one is too. A slice of life, not a ruling on how anyone should work.\n\nThe technical stuff is not gone. I have been in the middle of work I actually want to write up. Grading AI-written code properly. Putting AI inside a real business system instead of beside it. A couple of builds that are bigger than a feature ticket.",
+      "score": 0.3493
+    },
+    {
+      "title": "Don't forget about AI. But build real skills first. Then leverage AI — in that order.",
+      "url": "https://dev.to/canro91/dont-forget-about-ai-but-build-real-skills-first-then-leverage-ai-in-that-order-4ch",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Dear Coder: Open This If You're Feeling AI FOMO\n\n\n  \n      Timeless fundamentals beat endless hype-chasing\n\n\n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Cesar Aguirre\n            \n            \n              \n                Cesar Aguirre\n                \n                \n              \n              \n                \n                  \n                    \n                      \n                        \n                      \n ",
+      "en": "Dear Coder: Open This If You're Feeling AI FOMO\n\n\n  \n      Timeless fundamentals beat endless hype-chasing\n\n\n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Cesar Aguirre\n            \n            \n              \n                Cesar Aguirre\n                \n                \n              \n              \n                \n                  \n                    \n                      \n                        \n                      \n ",
+      "score": 0.3489
+    },
+    {
+      "title": "How I Prepared for and Cleared the Salesforce SMTS Interview",
+      "url": "https://dev.to/dakshin_g/how-i-prepared-for-and-cleared-the-salesforce-smts-interview-2c6i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I recently cleared the interview process for a Senior Member of Technical Staff (SMTS) role at Salesforce. To help others preparing for senior engineering roles, I’m sharing my complete experience here.\n\nThe loop heavily evaluated DSA, Low-Level Design (LLD), High-Level Design (HLD), and deep-dives into my past work experiences. Overall, the rounds were rigorous but collaborative, practical, and grounded in real-world problem-solving.\n\n\n  \n  \n  The Interview Loop\n\n\nThe entire process was fast-pa",
+      "en": "I recently cleared the interview process for a Senior Member of Technical Staff (SMTS) role at Salesforce. To help others preparing for senior engineering roles, I’m sharing my complete experience here.\n\nThe loop heavily evaluated DSA, Low-Level Design (LLD), High-Level Design (HLD), and deep-dives into my past work experiences. Overall, the rounds were rigorous but collaborative, practical, and grounded in real-world problem-solving.\n\n\n  \n  \n  The Interview Loop\n\n\nThe entire process was fast-pa",
+      "score": 0.2989
+    },
+    {
+      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2610.02206v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings,",
+      "en": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings,",
+      "score": 0.4595
+    },
+    {
+      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "url": "https://arxiv.org/abs/2610.02204v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems without updating model weights. RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation. During practice, RPG uses execution feedback, privileged s",
+      "en": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems without updating model weights. RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation. During practice, RPG uses execution feedback, privileged s",
+      "score": 0.4595
+    },
+    {
+      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+      "url": "https://arxiv.org/abs/2610.02202v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know firsthand which earlier work advanced their completed projects, with papers serving as pointers to the ideas within. Using our automated pipeline that makes author annotation scalable, we build ScholarCatalyst by having",
+      "en": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know firsthand which earlier work advanced their completed projects, with papers serving as pointers to the ideas within. Using our automated pipeline that makes author annotation scalable, we build ScholarCatalyst by having",
+      "score": 0.4595
+    },
+    {
+      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "url": "https://arxiv.org/abs/2610.02200v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness that gives a general-purpose multimodal model long-horizon vision. VISTA allows the model to directly perceive the environment through visual observations and maintains a lossless visual memory that preserves past observations in their original form. The model can actively retrieve",
+      "en": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness that gives a general-purpose multimodal model long-horizon vision. VISTA allows the model to directly perceive the environment through visual observations and maintains a lossless visual memory that preserves past observations in their original form. The model can actively retrieve",
+      "score": 0.4595
+    },
+    {
+      "title": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "en": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "score": 0.7158
+    },
+    {
+      "title": "wy51ai/floorplan-3d",
+      "url": "https://github.com/wy51ai/floorplan-3d",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "wy51ai/floorplan-3d",
+      "en": "wy51ai/floorplan-3d",
+      "score": 0.0697
+    }
+  ]
+}
