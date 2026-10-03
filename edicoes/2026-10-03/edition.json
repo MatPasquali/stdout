@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-03",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open source SDK to build Muse gadgets",
+      "en": "Open source SDK to build Muse gadgets",
+      "score": 0.7874
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Several vulnerabilities have been discovered in the Linux kernel",
+      "en": "Several vulnerabilities have been discovered in the Linux kernel",
+      "score": 0.7617
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "en": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "score": 0.7272
+    },
+    {
+      "title": "convaiinnovations/laya",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-classification', com 5044 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-classification', com 5044 likes e 0 downloads.",
+      "score": 0.6
+    },
+    {
+      "title": "Cloudflare/clef-flash",
+      "url": "https://huggingface.co/Cloudflare/clef-flash",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 331 likes e 4310 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 331 likes e 4310 downloads.",
+      "score": 0.5728
+    },
+    {
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]",
+      "en": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]",
+      "score": 0.4178
+    },
+    {
+      "title": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
+      "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Mostly 'routine research tasks,' and 'some involved government websites, which our models often use,' AI giant tells The Reg",
+      "en": "Mostly 'routine research tasks,' and 'some involved government websites, which our models often use,' AI giant tells The Reg",
+      "score": 0.4115
+    },
+    {
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Frog and Toad and the Increasingly Capable Machines",
+      "en": "Frog and Toad and the Increasingly Capable Machines",
+      "score": 0.7095
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Mike Tomlin spent 12 years building a Minecraft city",
+      "en": "Mike Tomlin spent 12 years building a Minecraft city",
+      "score": 0.7029
+    },
+    {
+      "title": "Quanto custaria o Nokia N95 hoje, corrigido pela inflação?",
+      "url": "https://canaltech.com.br/smartphone/quanto-custaria-o-nokia-n95-hoje-corrigido-pela-inflacao/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "O Nokia N95 foi um dos celulares mais desejados do Brasil durante os anos 2000. Lançado em 2007, reunia recursos que ainda eram incomuns em celulares da época, como câmera de 5 MP, GPS, 3G e navegação na internet.\nA proposta era tão avançada para aquele momento que o N95 chegou a ser descrito como um “computador de bolso”. O modelo tinha teclado deslizante, controles multimídia dedicados, multitarefa e uma série de conexões.\n\n📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas\n\nO preç",
+      "en": "O Nokia N95 foi um dos celulares mais desejados do Brasil durante os anos 2000. Lançado em 2007, reunia recursos que ainda eram incomuns em celulares da época, como câmera de 5 MP, GPS, 3G e navegação na internet.\nA proposta era tão avançada para aquele momento que o N95 chegou a ser descrito como um “computador de bolso”. O modelo tinha teclado deslizante, controles multimídia dedicados, multitarefa e uma série de conexões.\n\n📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas\n\nO preç",
+      "score": 0.3997
+    },
+    {
+      "title": "Notebook ultrafino: 6 modelos leves e compactos para comprar em 2026",
+      "url": "https://tecnoblog.net/guias/notebook-ultrafino-leve/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Encontre os melhores notebooks finos e leves fáceis de transportar na bolsa ou mochila em diversas faixas de preço\nNotebook ultrafino: 6 modelos leves e compactos para comprar em 2026",
+      "en": "Encontre os melhores notebooks finos e leves fáceis de transportar na bolsa ou mochila em diversas faixas de preço\nNotebook ultrafino: 6 modelos leves e compactos para comprar em 2026",
+      "score": 0.3706
+    },
+    {
+      "title": "Hello, World: Why I'm Compiling My Thoughts Here",
+      "url": "https://dev.to/harshithavajja/hello-world-why-im-compiling-my-thoughts-here-3kg",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "👋 New here on DEV! This is my first post, a quick intro to who I am and what I'll be writing about.\n\nEvery programmer's first program prints two words: Hello, World. It doesn't do anything useful. It just proves that everything is set up and working. This post is my version of that.\n\nI'm Harshitha Vajja, though most people call me Hani. I just finished my B.Tech in Computer Science with a focus on AI and Machine Learning. Over the past year, I've spent a lot of time building things: data pipelin",
+      "en": "👋 New here on DEV! This is my first post, a quick intro to who I am and what I'll be writing about.\n\nEvery programmer's first program prints two words: Hello, World. It doesn't do anything useful. It just proves that everything is set up and working. This post is my version of that.\n\nI'm Harshitha Vajja, though most people call me Hani. I just finished my B.Tech in Computer Science with a focus on AI and Machine Learning. Over the past year, I've spent a lot of time building things: data pipelin",
+      "score": 0.4488
+    },
+    {
+      "title": "Remote SWE Jobs Paying Up to $250k (Oct 3)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-oct-3-14a8",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Here are the 6 highest paying fully remote software engineering roles this week.\n\n\n  \n  \n  AI agent engineer\n\n\n Sticker Mule\n\nSalary: $150k - $250k/yr\nStack: TypeScript / JavaScript / Go / Java\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Software Engineer Case Execution\n\n\n Pivotal Health\n\nSalary: $190k - $220k/yr\nStack: Python / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr",
+      "en": "Here are the 6 highest paying fully remote software engineering roles this week.\n\n\n  \n  \n  AI agent engineer\n\n\n Sticker Mule\n\nSalary: $150k - $250k/yr\nStack: TypeScript / JavaScript / Go / Java\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Software Engineer Case Execution\n\n\n Pivotal Health\n\nSalary: $190k - $220k/yr\nStack: Python / Backend\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr",
+      "score": 0.3997
+    },
+    {
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Oct 3)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-oct-3-3eol",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "New internship openings at Range, The Toro Company, Regeneron Pharmaceuticals and more. Apply early.\n\n\n  \n  \n  Software Engineer Intern\n\n\n Range\n\nLocation: McLean, VA\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Mechatronics Engineering Co-op\n\n\n The Toro Company\n\nLocation: Bloomington, MN\nCategory: Hardware\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Data Analytics & Digital Tools Co-op\n\n\n Regeneron Pharmaceuticals\n\nLocation: Rensselaer, NY\nCategory: AI & ML\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Hardware",
+      "en": "New internship openings at Range, The Toro Company, Regeneron Pharmaceuticals and more. Apply early.\n\n\n  \n  \n  Software Engineer Intern\n\n\n Range\n\nLocation: McLean, VA\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Mechatronics Engineering Co-op\n\n\n The Toro Company\n\nLocation: Bloomington, MN\nCategory: Hardware\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Data Analytics & Digital Tools Co-op\n\n\n Regeneron Pharmaceuticals\n\nLocation: Rensselaer, NY\nCategory: AI & ML\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Hardware",
+      "score": 0.3497
+    },
+    {
+      "title": "Planning Custom Trophies for a Hackathon or Tech Event in the UAE",
+      "url": "https://dev.to/marseiliagifts/planning-custom-trophies-for-a-hackathon-or-tech-event-in-the-uae-5fpp",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "You can plan a hackathon down to the minute, with schedules, sponsors, judging rubrics, and a working Wi-Fi network. Then the awards turn up as a generic trophy that nobody remembers.\n\nIf you're organizing a hackathon, developer conference, or internal engineering awards night in the UAE or wider GCC, here is a simple way to plan custom trophies without adding another project to your list.\n\nDisclosure: I work on content for Marseilia Gifts, a Dubai-based awards supplier linked below.\n\n\n  \n  \n  1",
+      "en": "You can plan a hackathon down to the minute, with schedules, sponsors, judging rubrics, and a working Wi-Fi network. Then the awards turn up as a generic trophy that nobody remembers.\n\nIf you're organizing a hackathon, developer conference, or internal engineering awards night in the UAE or wider GCC, here is a simple way to plan custom trophies without adding another project to your list.\n\nDisclosure: I work on content for Marseilia Gifts, a Dubai-based awards supplier linked below.\n\n\n  \n  \n  1",
+      "score": 0.3496
+    },
+    {
+      "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
+      "url": "https://arxiv.org/abs/2610.02199v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress optimizer state, abandon first-order gradients, or change the update geometry while retaining dense state. The recently introduced Muon optimizer reduces optimizer memory through matrix-valued updates. Still, its geometry differs from AdamW and can lead to performance degradation when fine-tuning AdamW",
+      "en": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress optimizer state, abandon first-order gradients, or change the update geometry while retaining dense state. The recently introduced Muon optimizer reduces optimizer memory through matrix-valued updates. Still, its geometry differs from AdamW and can lead to performance degradation when fine-tuning AdamW",
+      "score": 0.4194
+    },
+    {
+      "title": "HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation",
+      "url": "https://arxiv.org/abs/2610.02197v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Video generation models have achieved remarkable visual fidelity and have strong potential to become general-purpose world simulators. Despite this progress, they still fail to generate videos which adhere to laws of physics. The problem becomes even more apparent in realistic settings where multiple physical principles must work together within the same video; for example, \"a balloon floating upward while steam rises from a pot\" requires buoyancy and fluid dynamics to unfold coherently and simu",
+      "en": "Video generation models have achieved remarkable visual fidelity and have strong potential to become general-purpose world simulators. Despite this progress, they still fail to generate videos which adhere to laws of physics. The problem becomes even more apparent in realistic settings where multiple physical principles must work together within the same video; for example, \"a balloon floating upward while steam rises from a pot\" requires buoyancy and fluid dynamics to unfold coherently and simu",
+      "score": 0.4194
+    },
+    {
+      "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
+      "url": "https://arxiv.org/abs/2610.02196v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We study test-time evolution for humanoid loco-manipulation: solving tasks that a controller was never trained for by repurposing its existing skills, improving from its own attempts, and retaining what it learns, without retraining. Our key insight is that a broad controller already holds much of the competence a new task needs, and that this competence becomes accessible through an interface between planning and control that is expressive enough to specify contact-rich, multi-stage interaction",
+      "en": "We study test-time evolution for humanoid loco-manipulation: solving tasks that a controller was never trained for by repurposing its existing skills, improving from its own attempts, and retaining what it learns, without retraining. Our key insight is that a broad controller already holds much of the competence a new task needs, and that this competence becomes accessible through an interface between planning and control that is expressive enough to specify contact-rich, multi-stage interaction",
+      "score": 0.4194
+    },
+    {
+      "title": "The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2610.02191v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "While Large Language Models (LLMs) have demonstrated striking capabilities on frontier mathematical problems, it remains unclear whether they possess the structural mathematical understanding underlying their solutions. In this paper, we take a first step toward systematically studying mathematical understanding in LLMs, from diagnosing its distinct capabilities to leveraging these findings to improve post-training. First, we introduce the notion of Mathematical Primitive to probe structural mat",
+      "en": "While Large Language Models (LLMs) have demonstrated striking capabilities on frontier mathematical problems, it remains unclear whether they possess the structural mathematical understanding underlying their solutions. In this paper, we take a first step toward systematically studying mathematical understanding in LLMs, from diagnosing its distinct capabilities to leveraging these findings to improve post-training. First, we introduce the notion of Mathematical Primitive to probe structural mat",
+      "score": 0.4194
+    },
+    {
+      "title": "chasmlol/SkyCraft",
+      "url": "https://github.com/chasmlol/SkyCraft",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "en": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "score": 0.6991
+    },
+    {
+      "title": "CAPCOM-TD-OSS/REDox",
+      "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+      "en": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+      "score": 0.6628
+    },
+    {
+      "title": "openai/mcp-extensions",
+      "url": "https://github.com/openai/mcp-extensions",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "en": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "score": 0.6318
+    }
+  ]
+}
