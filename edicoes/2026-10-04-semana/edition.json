@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-04",
+  "weekly": true,
+  "range": "28/09 a 04/10",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "en": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "score": 0.9183
+    },
+    {
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Jeff, Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "en": "Jeff, Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "score": 0.8314
+    },
+    {
+      "title": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "en": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "score": 0.8192
+    },
+    {
+      "title": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Answer me with HTML, an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "en": "Answer me with HTML, an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "score": 0.8031
+    },
+    {
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Kolibri: A Sovereign Open-Weight Model",
+      "en": "Kolibri: A Sovereign Open-Weight Model",
+      "score": 0.7937
+    },
+    {
+      "title": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open source SDK to build Muse gadgets",
+      "en": "Open source SDK to build Muse gadgets",
+      "score": 0.7874
+    },
+    {
+      "title": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "en": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "score": 0.786
+    },
+    {
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "It's Time to Investigate the AI Labs",
+      "en": "It's Time to Investigate the AI Labs",
+      "score": 0.7828
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Dots: Always-on agents",
+      "en": "Dots: Always-on agents",
+      "score": 0.7812
+    },
+    {
+      "title": "Tell HN: Bob Cringely has died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tell HN: Bob Cringely has died",
+      "en": "Tell HN: Bob Cringely has died",
+      "score": 0.7733
+    },
+    {
+      "title": "Cloudflare/clef",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 655 likes e 824 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 655 likes e 824 downloads.",
+      "score": 0.7725
+    },
+    {
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Pi 1.0",
+      "en": "Pi 1.0",
+      "score": 0.7623
+    }
+  ]
+}

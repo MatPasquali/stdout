@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-04",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Answer me with HTML, an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "en": "Answer me with HTML, an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "score": 0.8031
+    },
+    {
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Kolibri: A Sovereign Open-Weight Model",
+      "en": "Kolibri: A Sovereign Open-Weight Model",
+      "score": 0.7937
+    },
+    {
+      "title": "Tell HN: Bob Cringely has died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tell HN: Bob Cringely has died",
+      "en": "Tell HN: Bob Cringely has died",
+      "score": 0.7733
+    },
+    {
+      "title": "Aleph-Alpha/Kolibri-1",
+      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 341 likes e 1135 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 341 likes e 1135 downloads.",
+      "score": 0.7466
+    },
+    {
+      "title": "Por que a OpenAI desistiu dos GPTs personalizados",
+      "url": "https://canaltech.com.br/inteligencia-artificial/por-que-a-openai-desistiu-dos-gpts-personalizados/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A OpenAI anunciou a aposentadoria dos GPTs personalizados em todas as versões do ChatGPT, incluindo os planos gratuitos, Plus e Enterprise. A mudança faz parte de uma transição para uma arquitetura baseada em plugins, que conta com instruções, arquivos de referência e aplicativos conectados em uma mesma estrutura.\nOs GPTs ainda podem ser usados e editados neste momento, mas a OpenAI definiu datas para encerrar a criação de novos modelos e o acesso aos existentes. Para contas pessoais, a recomend",
+      "en": "A OpenAI anunciou a aposentadoria dos GPTs personalizados em todas as versões do ChatGPT, incluindo os planos gratuitos, Plus e Enterprise. A mudança faz parte de uma transição para uma arquitetura baseada em plugins, que conta com instruções, arquivos de referência e aplicativos conectados em uma mesma estrutura.\nOs GPTs ainda podem ser usados e editados neste momento, mas a OpenAI definiu datas para encerrar a criação de novos modelos e o acesso aos existentes. Para contas pessoais, a recomend",
+      "score": 0.3941
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The Agent Said It Was Done. The Database Disagreed.",
+      "en": "The Agent Said It Was Done. The Database Disagreed.",
+      "score": 0.3699
+    },
+    {
+      "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+      "url": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Exploitation attempts came from China-hosted IP, VulnCheck researcher says",
+      "en": "Exploitation attempts came from China-hosted IP, VulnCheck researcher says",
+      "score": 0.3565
+    },
+    {
+      "title": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Apple Pass Designer",
+      "en": "Apple Pass Designer",
+      "score": 0.7084
+    },
+    {
+      "title": "Upgrade no setup: mouses gamer sem fio em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/10/04/reviews/upgrade-no-setup-mouses-gamer-sem-fio-em-promocao-na-amazon-24/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Seja para competir em alto nível ou simplesmente ter mais precisão nas partidas do dia a dia, um bom mouse gamer faz toda a diferença. Reunimos três opções sem fio que estão em destaque na Amazon agora, com modelos para diferentes perfis de jogador. Confira a seleção. Redragon Cobra Pro Sem Fio M711-PRO O Cobra […]\nO post Upgrade no setup: mouses gamer sem fio em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Seja para competir em alto nível ou simplesmente ter mais precisão nas partidas do dia a dia, um bom mouse gamer faz toda a diferença. Reunimos três opções sem fio que estão em destaque na Amazon agora, com modelos para diferentes perfis de jogador. Confira a seleção. Redragon Cobra Pro Sem Fio M711-PRO O Cobra […]\nO post Upgrade no setup: mouses gamer sem fio em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3979
+    },
+    {
+      "title": "Como saber quantos anos um notebook vai durar?",
+      "url": "https://canaltech.com.br/notebook/como-saber-quantos-anos-um-notebook-vai-durar/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Na hora de investir em um notebook novo, o processador e o total de memória RAM costumam dominar a ficha técnica e atrair os olhares dos usuários. No entanto, raramente é a CPU quem decreta o fim da vida útil de um laptop. Elementos estruturais e periféricos, como a bateria, as dobradiças da tela e as conexões físicas, quase sempre se desgastam bem antes que o chip interno perca o fôlego.\nSaber estimar quanto tempo um notebook vai durar exige olhar além da velocidade de processamento. Entender a",
+      "en": "Na hora de investir em um notebook novo, o processador e o total de memória RAM costumam dominar a ficha técnica e atrair os olhares dos usuários. No entanto, raramente é a CPU quem decreta o fim da vida útil de um laptop. Elementos estruturais e periféricos, como a bateria, as dobradiças da tela e as conexões físicas, quase sempre se desgastam bem antes que o chip interno perca o fôlego.\nSaber estimar quanto tempo um notebook vai durar exige olhar além da velocidade de processamento. Entender a",
+      "score": 0.395
+    },
+    {
+      "title": "The MacBook Air M5 is $200 off for the first time in months",
+      "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. The 15-inch version, also with 512GB […]",
+      "en": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. The 15-inch version, also with 512GB […]",
+      "score": 0.3942
+    },
+    {
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Oct 4)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-oct-4-4io6",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "New remote roles just dropped from KoboToolbox, Sanctuary Computer Inc, Sticker Mule, Mitre Media and more. No relocation needed.\n\n\n  \n  \n  Frontend Web Application Developer\n\n\n KoboToolbox\n\nSalary: $90k - $105k/yr\nStack: React / TypeScript / Python / Go\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Shopify Developer\n\n\n Sanctuary Computer Inc\n\nSalary: $80k - $150k/yr\nStack: Next.js / Node.js / TypeScript / PostgreSQL\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  AI agent engineer\n\n\n Sticker Mule\n\nSalary: $150k - $",
+      "en": "New remote roles just dropped from KoboToolbox, Sanctuary Computer Inc, Sticker Mule, Mitre Media and more. No relocation needed.\n\n\n  \n  \n  Frontend Web Application Developer\n\n\n KoboToolbox\n\nSalary: $90k - $105k/yr\nStack: React / TypeScript / Python / Go\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Shopify Developer\n\n\n Sanctuary Computer Inc\n\nSalary: $80k - $150k/yr\nStack: Next.js / Node.js / TypeScript / PostgreSQL\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  AI agent engineer\n\n\n Sticker Mule\n\nSalary: $150k - $",
+      "score": 0.3985
+    },
+    {
+      "title": "Quanto custaria um iPod nano hoje, corrigido pela inflação?",
+      "url": "https://canaltech.com.br/smartphone/quanto-custaria-um-ipod-nano-hoje-corrigido-pela-inflacao/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Spotify? Que nada. Antes, para quem quisesse ouvir música, o iPod nano era um dos aparelhos mais desejados. Pequeno, leve e com armazenamento em memória flash, o player virou um dos produtos mais populares da Apple nos anos 2000. Mas quanto custaria um iPod nano hoje, corrigido pela inflação?\nO modelo passou por várias transformações ao longo dos anos.  Os aparelhos também eram caros para a época. Considerando os preços de entrada praticados no Brasil, os iPods nano custavam algumas centenas de ",
+      "en": "Spotify? Que nada. Antes, para quem quisesse ouvir música, o iPod nano era um dos aparelhos mais desejados. Pequeno, leve e com armazenamento em memória flash, o player virou um dos produtos mais populares da Apple nos anos 2000. Mas quanto custaria um iPod nano hoje, corrigido pela inflação?\nO modelo passou por várias transformações ao longo dos anos.  Os aparelhos também eram caros para a época. Considerando os preços de entrada praticados no Brasil, os iPods nano custavam algumas centenas de ",
+      "score": 0.3958
+    },
+    {
+      "title": "My LTIMindtree Interview Experience (2026 Batch) | GET Role",
+      "url": "https://dev.to/divyanshuraj/my-ltimindtree-interview-experience-2026-batch-get-role-4m1m",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Last year, I went through the campus placement process for LTIMindtree for the Graduate Engineer Trainee (GET) role (4.05 LPA). Since many students are preparing for upcoming drives, I want to share exactly what the process looked like, from the online test to the interview questions.\n\n\n  \n  \n  1. Timeline and Eligibility\n\n\nThe process moved quickly. To be eligible, we needed at least 60% in 10th, 12th, and college, with no active backlogs and a maximum 2-year gap in education.\n\n\n\nRegistration: ",
+      "en": "Last year, I went through the campus placement process for LTIMindtree for the Graduate Engineer Trainee (GET) role (4.05 LPA). Since many students are preparing for upcoming drives, I want to share exactly what the process looked like, from the online test to the interview questions.\n\n\n  \n  \n  1. Timeline and Eligibility\n\n\nThe process moved quickly. To be eligible, we needed at least 60% in 10th, 12th, and college, with no active backlogs and a maximum 2-year gap in education.\n\n\n\nRegistration: ",
+      "score": 0.3494
+    },
+    {
+      "title": "Turn Your Fake Product Review Monitoring Project into a Portfolio Asset for Placements",
+      "url": "https://dev.to/collegeprojectexpert/turn-your-fake-product-review-monitoring-project-into-a-portfolio-asset-for-placements-3afg",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "TL;DR\nMost students struggle to transform their final year AI projects into impactful portfolio assets that impress recruiters. The Fake Product Review Monitoring System project from College Project Expert (CPE) offers a ready-made, well-documented solution that can be tailored for GitHub showcases and resumes. With proper preparation and CPE’s viva support, you can confidently highlight your skills during placements.\n\n\n\n\n\n\n  \n  \n  What Common Mistakes Do Students Make When Showcasing Projects?\n",
+      "en": "TL;DR\nMost students struggle to transform their final year AI projects into impactful portfolio assets that impress recruiters. The Fake Product Review Monitoring System project from College Project Expert (CPE) offers a ready-made, well-documented solution that can be tailored for GitHub showcases and resumes. With proper preparation and CPE’s viva support, you can confidently highlight your skills during placements.\n\n\n\n\n\n\n  \n  \n  What Common Mistakes Do Students Make When Showcasing Projects?\n",
+      "score": 0.3493
+    },
+    {
+      "title": "Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning",
+      "url": "https://arxiv.org/abs/2610.02190v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Step-size selection remains a central challenge in large-scale neural network optimization; conservative steps slow convergence, while aggressive steps can destabilize it. We combine \\textbf{Z}ero-and-\\textbf{F}irst-\\textbf{O}rder optimization~(ZFO) and propose a lightweight framework that decouples direction selection from step-size. ZFO uses a trusted first-order optimizer to determine the direction and performs zeroth-order evaluations only along this one-dimensional subspace to choose how fa",
+      "en": "Step-size selection remains a central challenge in large-scale neural network optimization; conservative steps slow convergence, while aggressive steps can destabilize it. We combine \\textbf{Z}ero-and-\\textbf{F}irst-\\textbf{O}rder optimization~(ZFO) and propose a lightweight framework that decouples direction selection from step-size. ZFO uses a trusted first-order optimizer to determine the direction and performs zeroth-order evaluations only along this one-dimensional subspace to choose how fa",
+      "score": 0.3753
+    },
+    {
+      "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+      "url": "https://arxiv.org/abs/2610.02210v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph Print Gallery. Nearly half a century later, a mathematical analysis related its geometry to an untwisted source image through a conformal power map $z \\mapsto z^α$, $α\\in \\mathbb{C}$",
+      "en": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph Print Gallery. Nearly half a century later, a mathematical analysis related its geometry to an untwisted source image through a conformal power map $z \\mapsto z^α$, $α\\in \\mathbb{C}$",
+      "score": 0.3253
+    },
+    {
+      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "url": "https://arxiv.org/abs/2610.02207v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor a",
+      "en": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor a",
+      "score": 0.3253
+    },
+    {
+      "title": "ROWBench: Do Video Models Render What the Program Specifies?",
+      "url": "https://arxiv.org/abs/2610.02205v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently evaluated. Existing benchmarks assess visual quality, controllability, and instruction or physical adherence, but rarely test fidelity to fine-grained, program-specified world events. We introduce PROWBench, comprising 170 programmatically constructed episodes and ",
+      "en": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently evaluated. Existing benchmarks assess visual quality, controllability, and instruction or physical adherence, but rarely test fidelity to fine-grained, program-specified world events. We introduce PROWBench, comprising 170 programmatically constructed episodes and ",
+      "score": 0.3253
+    },
+    {
+      "title": "Edwardxlai/easyread",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "en": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "score": 0.6594
+    },
+    {
+      "title": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "en": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "score": 0.6101
+    }
+  ]
+}
