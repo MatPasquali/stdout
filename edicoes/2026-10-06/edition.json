@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-06",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Mistral Large 4",
+      "en": "Mistral Large 4",
+      "score": 0.7929
+    },
+    {
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Beam: Reflection's 501B open-weight model",
+      "en": "Beam: Reflection's 501B open-weight model",
+      "score": 0.7678
+    },
+    {
+      "title": "StayLameBro/backburner",
+      "url": "https://github.com/StayLameBro/backburner",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "en": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "score": 0.6149
+    },
+    {
+      "title": "Mistral Large 4: \"Le Chonk\"",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Mistral Large 4: \"Le Chonk\"",
+      "en": "Mistral Large 4: \"Le Chonk\"",
+      "score": 0.7499
+    },
+    {
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Anthropic reported diary entry to police, woman faces felony charge",
+      "en": "Anthropic reported diary entry to police, woman faces felony charge",
+      "score": 0.7243
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 17093 likes e 6768060 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 17093 likes e 6768060 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "en": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "score": 0.4488
+    },
+    {
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "score": 0.7255
+    },
+    {
+      "title": "Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Web Search API",
+      "en": "Web Search API",
+      "score": 0.7113
+    },
+    {
+      "title": "Denmark data breach exposes 8.8M people's personal data",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Denmark data breach exposes 8.8M people's personal data",
+      "en": "Denmark data breach exposes 8.8M people's personal data",
+      "score": 0.6952
+    },
+    {
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "en": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "score": 0.6794
+    },
+    {
+      "title": "Filme sobre criador do ChatGPT é aclamado após Amazon largar projeto por US$ 50 bi",
+      "url": "https://canaltech.com.br/entretenimento/filme-sobre-criador-do-chatgpt-e-aclamado-apos-amazon-largar-projeto-por-us-50-bi/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "As primeiras impressões de Artificial, o novo filme do diretor Luca Guadagnino (Me Chame Pelo Seu Nome), já estão circulando pela internet com críticas bastante positivas. Muitos especialistas da área aclamaram o longa-metragem, chamando-o de “extremamente relevante” e “brilhante”.\nAinda sem data de estreia confirmada no Brasil, Artificial conta com Andrew Garfield interpretando Sam Altman, o fundador da OpenAI, durante um período específico de sua carreira: em 2023, o executivo foi demitido da ",
+      "en": "As primeiras impressões de Artificial, o novo filme do diretor Luca Guadagnino (Me Chame Pelo Seu Nome), já estão circulando pela internet com críticas bastante positivas. Muitos especialistas da área aclamaram o longa-metragem, chamando-o de “extremamente relevante” e “brilhante”.\nAinda sem data de estreia confirmada no Brasil, Artificial conta com Andrew Garfield interpretando Sam Altman, o fundador da OpenAI, durante um período específico de sua carreira: em 2023, o executivo foi demitido da ",
+      "score": 0.3496
+    },
+    {
+      "title": "How to find best lawyer according to your needs",
+      "url": "https://dev.to/aayush_baisla_25847245169/how-to-find-best-lawyer-according-to-your-needs-2fld",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Finding a lawyer can feel confusing, especially when you are already dealing with a stressful legal problem. You search online and suddenly see hundreds of advocates offering different services. One lawyer may specialise in criminal cases, another in property disputes, while someone else may focus mainly on divorce and family matters.\n\nSo how do you actually decide who is right for you?\n\nThe answer is simple: don't look for the \"best lawyer\" in general. Look for the best lawyer for your particul",
+      "en": "Finding a lawyer can feel confusing, especially when you are already dealing with a stressful legal problem. You search online and suddenly see hundreds of advocates offering different services. One lawyer may specialise in criminal cases, another in property disputes, while someone else may focus mainly on divorce and family matters.\n\nSo how do you actually decide who is right for you?\n\nThe answer is simple: don't look for the \"best lawyer\" in general. Look for the best lawyer for your particul",
+      "score": 0.3486
+    },
+    {
+      "title": "How UI/UX Designers Can Build Scalable Income With Design Products",
+      "url": "https://dev.to/onujaj/how-uiux-designers-can-build-scalable-income-with-design-products-g0b",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "If you're a UI/UX designer, there's a good chance your income currently depends on one simple equation:\n\nYour time × your hourly or project rate = your income.\n\nYou design a landing page, dashboard, mobile app, or website for a client. You get paid. Then the next client arrives, and you start again.\n\nThere's nothing wrong with freelancing or client work. In fact, client projects are one of the best ways to develop design skills, build a portfolio, understand real business problems, and generate ",
+      "en": "If you're a UI/UX designer, there's a good chance your income currently depends on one simple equation:\n\nYour time × your hourly or project rate = your income.\n\nYou design a landing page, dashboard, mobile app, or website for a client. You get paid. Then the next client arrives, and you start again.\n\nThere's nothing wrong with freelancing or client work. In fact, client projects are one of the best ways to develop design skills, build a portfolio, understand real business problems, and generate ",
+      "score": 0.3479
+    },
+    {
+      "title": "The Rule of Three for Turning Client Work Into Products",
+      "url": "https://dev.to/justinpennington/the-rule-of-three-for-turning-client-work-into-products-5dof",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I have a simple rule for deciding when client work should become a product: if I have built substantially the same system for three different companies, it is no longer a project. It is a pattern, and patterns deserve a permanent home.\n\nI am Justin Pennington, founder of Infraxio, based in Ponte Vedra in St. Johns County, Florida. Before we had a product line, we had a client list: custom systems, integrations, and operational fixes delivered one engagement at a time. This post is a developer-fl",
+      "en": "I have a simple rule for deciding when client work should become a product: if I have built substantially the same system for three different companies, it is no longer a project. It is a pattern, and patterns deserve a permanent home.\n\nI am Justin Pennington, founder of Infraxio, based in Ponte Vedra in St. Johns County, Florida. Before we had a product line, we had a client list: custom systems, integrations, and operational fixes delivered one engagement at a time. This post is a developer-fl",
+      "score": 0.3474
+    },
+    {
+      "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+      "url": "https://arxiv.org/abs/2610.06852v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally faithful, hallucination-free, editable layout. Ex",
+      "en": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally faithful, hallucination-free, editable layout. Ex",
+      "score": 0.4585
+    },
+    {
+      "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+      "url": "https://arxiv.org/abs/2610.06850v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-imitation framework in which robot motion data and a tracking policy improve each other. First, we consolidate motion-captured human-object interaction datasets and retarget them into humanoid robot references while preserving whole-body coordination and dexterous hand-object relat",
+      "en": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-imitation framework in which robot motion data and a tracking policy improve each other. First, we consolidate motion-captured human-object interaction datasets and retarget them into humanoid robot references while preserving whole-body coordination and dexterous hand-object relat",
+      "score": 0.4585
+    },
+    {
+      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "url": "https://arxiv.org/abs/2610.06844v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work, we introduce a framework for reading this contextual space through natural-language interrogation. We train a lightweight bottleneck network that maps intermediate contextual tokens into the input space of a frozen Lar",
+      "en": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work, we introduce a framework for reading this contextual space through natural-language interrogation. We train a lightweight bottleneck network that maps intermediate contextual tokens into the input space of a frozen Lar",
+      "score": 0.4584
+    },
+    {
+      "title": "Recursive Video In-Context Learning for Agentic Robot",
+      "url": "https://arxiv.org/abs/2610.06843v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fits poorly into an agent's context. The full video slows every turn, fixed keyframes lose the contact detail that decides whether a grasp holds, and what the agent needs shifts from the task's structure while planning to the frames around each contact. We introduce Recursive Video ",
+      "en": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fits poorly into an agent's context. The full video slows every turn, fixed keyframes lose the contact detail that decides whether a grasp holds, and what the agent needs shifts from the task's structure while planning to the frames around each contact. We introduce Recursive Video ",
+      "score": 0.4584
+    },
+    {
+      "title": "lucasmarkes/hairline",
+      "url": "https://github.com/lucasmarkes/hairline",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "en": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "score": 0.6023
+    },
+    {
+      "title": "sganggs/Stronghold-Protocol",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1-4 人联机合作（非商业）",
+      "en": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1-4 人联机合作（非商业）",
+      "score": 0.5946
+    },
+    {
+      "title": "storytold/filmcraft",
+      "url": "https://github.com/storytold/filmcraft",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "en": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "score": 0.5715
+    },
+    {
+      "title": "oil-oil/oil-ui",
+      "url": "https://github.com/oil-oil/oil-ui",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "把 AI 的 UI 设计能力推到极限。",
+      "en": "把 AI 的 UI 设计能力推到极限。",
+      "score": 0.5437
+    }
+  ]
+}
