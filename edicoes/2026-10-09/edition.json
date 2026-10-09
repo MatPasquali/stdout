@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-09",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "en": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "score": 0.8359
+    },
+    {
+      "title": "Deno Is Joining Cloudflare",
+      "url": "https://deno.com/blog/cloudflare",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Deno Is Joining Cloudflare",
+      "en": "Deno Is Joining Cloudflare",
+      "score": 0.7655
+    },
+    {
+      "title": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "CADCraft: computer-aided design and drafting, an open-source, clean-room AutoCAD-style app in pure Rust",
+      "en": "CADCraft: computer-aided design and drafting, an open-source, clean-room AutoCAD-style app in pure Rust",
+      "score": 0.7563
+    },
+    {
+      "title": "canberkkkkkk/ema-lightning",
+      "url": "https://huggingface.co/canberkkkkkk/ema-lightning",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-speech', com 312 likes e 12118 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-speech', com 312 likes e 12118 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Google lança agente do Gemini que trabalha sozinho entre vários apps",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-agente-do-gemini-que-trabalha-sozinho-entre-varios-apps/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Por mais confuso que pareça, o Gemini é o novo agente de IA do Google, abastecido pela família de modelos chamada Gemini. A empresa anunciou a novidade nesta quinta-feira (08) para concentrar todas as tarefas de trabalho na mesma ferramenta.\nO objetivo é ter uma solução unificada para todas as tarefas corporativas: a IA consegue desempenhar ações automatizadas entre diferentes apps e ainda funciona como uma base de conhecimento para tirar dúvidas como um especialista.\nO mesmo agente pode ser apl",
+      "en": "Por mais confuso que pareça, o Gemini é o novo agente de IA do Google, abastecido pela família de modelos chamada Gemini. A empresa anunciou a novidade nesta quinta-feira (08) para concentrar todas as tarefas de trabalho na mesma ferramenta.\nO objetivo é ter uma solução unificada para todas as tarefas corporativas: a IA consegue desempenhar ações automatizadas entre diferentes apps e ainda funciona como uma base de conhecimento para tirar dúvidas como um especialista.\nO mesmo agente pode ser apl",
+      "score": 0.4495
+    },
+    {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recently, the idea that AI shouldn’t…",
+      "en": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recently, the idea that AI shouldn’t…",
+      "score": 0.4349
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+      "en": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+      "score": 0.3991
+    },
+    {
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Trump administration is suspending Microsoft from a green card program",
+      "en": "Trump administration is suspending Microsoft from a green card program",
+      "score": 0.7483
+    },
+    {
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Whistle: Speech to Text in 16.9 MB",
+      "en": "Whistle: Speech to Text in 16.9 MB",
+      "score": 0.748
+    },
+    {
+      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "url": "https://news.ycombinator.com/item?id=50006366",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "en": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "score": 0.7313
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "en": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "score": 0.7264
+    },
+    {
+      "title": "Which Claude Certification Should You Take? All 4 Compared",
+      "url": "https://dev.to/avaneeshyadav/which-claude-certification-should-you-take-all-4-compared-1keh",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Anthropic now runs four distinct Claude certifications, and the names alone don't make it obvious which one is actually for you. \"Associate\" sounds junior, \"Architect\" sounds senior, and \"Developer\" sits somewhere in between, but the real differences are about what role you're in, not how experienced you are.\n\nI've gone through this landscape in detail while building free prep content for all four on this site. Here's the honest breakdown: what each certification actually tests, the hard number",
+      "en": "Anthropic now runs four distinct Claude certifications, and the names alone don't make it obvious which one is actually for you. \"Associate\" sounds junior, \"Architect\" sounds senior, and \"Developer\" sits somewhere in between, but the real differences are about what role you're in, not how experienced you are.\n\nI've gone through this landscape in detail while building free prep content for all four on this site. Here's the honest breakdown: what each certification actually tests, the hard number",
+      "score": 0.3493
+    },
+    {
+      "title": "Step-by-Step M.Tech Final Year Project Guide: What Examiners Expect & How to Choose",
+      "url": "https://dev.to/collegeprojectexpert/step-by-step-mtech-final-year-project-guide-what-examiners-expect-how-to-choose-12na",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "TL;DR This M.Tech final year project guide lays out exactly what examiners expect, how to choose your project domain wisely, and a practical week-by-week timeline to keep you on track. Follow these steps to pick a project that fits your specialization, complete it efficiently, and prepare your viva confidently.\n\n\nChoosing and successfully completing an M.Tech final year project can feel overwhelming, especially with so many domains and requirements to juggle. But it doesn’t have to be. In this M",
+      "en": "TL;DR This M.Tech final year project guide lays out exactly what examiners expect, how to choose your project domain wisely, and a practical week-by-week timeline to keep you on track. Follow these steps to pick a project that fits your specialization, complete it efficiently, and prepare your viva confidently.\n\n\nChoosing and successfully completing an M.Tech final year project can feel overwhelming, especially with so many domains and requirements to juggle. But it doesn’t have to be. In this M",
+      "score": 0.3484
+    },
+    {
+      "title": "The Gap Between Knowing Python and Being a Python Developer",
+      "url": "https://dev.to/sameerqaisar17/the-gap-between-knowing-python-and-being-a-python-developer-2nmi",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "📌 Quick Info\n\n\n\n\nTopic: The difference between learning syntax and becoming a developer\n\nTarget Audience: Beginners, self-taught developers, anyone stuck in tutorial hell\n\nGoal: Name the gap and explain how to cross it\n\n\n\n\n\n\n  \n  \n  1. Introduction\n\n\n\n\"I know Python. I've written 25 articles about it. But for a long time, I wasn't a Python developer, I was someone who knew the syntax. Those are different things.\"\n\n\n\n\n\n\n  \n  \n  2. Two Different States\n\n\nThere's a difference between:\n\n\n\nKnowing P",
+      "en": "📌 Quick Info\n\n\n\n\nTopic: The difference between learning syntax and becoming a developer\n\nTarget Audience: Beginners, self-taught developers, anyone stuck in tutorial hell\n\nGoal: Name the gap and explain how to cross it\n\n\n\n\n\n\n  \n  \n  1. Introduction\n\n\n\n\"I know Python. I've written 25 articles about it. But for a long time, I wasn't a Python developer, I was someone who knew the syntax. Those are different things.\"\n\n\n\n\n\n\n  \n  \n  2. Two Different States\n\n\nThere's a difference between:\n\n\n\nKnowing P",
+      "score": 0.3475
+    },
+    {
+      "title": "Corte pesado: Microsoft 365 Família vai reduzir espaço do OneDrive de 6 TB para apenas 2 TB",
+      "url": "https://canaltech.com.br/apps/corte-pesado-microsoft-365-familia-vai-reduzir-espaco-do-onedrive-de-6-tb-para-apenas-2-tb/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A Microsoft anunciou uma redução de até 66,7% no armazenamento em nuvem oferecido pelo Microsoft 365 Família. O plano, que atualmente disponibiliza até 6 TB no OneDrive, passará a oferecer apenas 2 TB compartilhados entre todos os usuários. A novidade começou a valer para novas assinaturas nesta semana e também afetará os clientes antigos em 2027.\nAté então, o Microsoft 365 Família permitia compartilhar a assinatura com até cinco pessoas, além do titular. Cada uma recebia 1 TB de armazenamento i",
+      "en": "A Microsoft anunciou uma redução de até 66,7% no armazenamento em nuvem oferecido pelo Microsoft 365 Família. O plano, que atualmente disponibiliza até 6 TB no OneDrive, passará a oferecer apenas 2 TB compartilhados entre todos os usuários. A novidade começou a valer para novas assinaturas nesta semana e também afetará os clientes antigos em 2027.\nAté então, o Microsoft 365 Família permitia compartilhar a assinatura com até cinco pessoas, além do titular. Cada uma recebia 1 TB de armazenamento i",
+      "score": 0.3474
+    },
+    {
+      "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+      "url": "https://arxiv.org/abs/2610.12468v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following, while limited coverage of unsuccessful interactions can bias predictions toward successful outcomes. To improve action following across embodiments, we render action trajectories into image-space conditions and introduce offline geometric calibr",
+      "en": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following, while limited coverage of unsuccessful interactions can bias predictions toward successful outcomes. To improve action following across embodiments, we render action trajectories into image-space conditions and introduce offline geometric calibr",
+      "score": 0.4581
+    },
+    {
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "https://arxiv.org/abs/2610.12463v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environment. Anthropic reported cases in which a misconfigured third-party environment exposed real systems to agents pursuing simulated cyber tasks. In a separately reported evaluation, Google's Gemini access",
+      "en": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environment. Anthropic reported cases in which a misconfigured third-party environment exposed real systems to agents pursuing simulated cyber tasks. In a separately reported evaluation, Google's Gemini access",
+      "score": 0.4581
+    },
+    {
+      "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+      "url": "https://arxiv.org/abs/2610.12464v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 hours spanning over 1,000 scene types and 14,000 contributors. Rather than relying on opaque downstream metrics, we directly evaluate agent and object-interaction fidelity on a challenging out-of-distribution benchmark. Increasing training data by 100x improves both, but unevenly: the agent is modele",
+      "en": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 hours spanning over 1,000 scene types and 14,000 contributors. Rather than relying on opaque downstream metrics, we directly evaluate agent and object-interaction fidelity on a challenging out-of-distribution benchmark. Increasing training data by 100x improves both, but unevenly: the agent is modele",
+      "score": 0.4581
+    },
+    {
+      "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+      "url": "https://arxiv.org/abs/2610.12458v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual captioning is an ideal diagnostic task, yet current benchmarks face a coupled trade-off: whole-caption scores provide coverage without localization, local probes provide localization without coverage, and unconstrained LLM judges introduce instability. We introduce OmniCapBench (Omni-Video Caption Bench",
+      "en": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual captioning is an ideal diagnostic task, yet current benchmarks face a coupled trade-off: whole-caption scores provide coverage without localization, local probes provide localization without coverage, and unconstrained LLM judges introduce instability. We introduce OmniCapBench (Omni-Video Caption Bench",
+      "score": 0.4581
+    },
+    {
+      "title": "LosaLosSantos/aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "en": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "score": 0.7383
+    },
+    {
+      "title": "noahdunnagan/fsearch",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "en": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "score": 0.7074
+    },
+    {
+      "title": "zhongerxin/iPhone-use",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "en": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "score": 0.6498
+    },
+    {
+      "title": "shadany7824/playgta5",
+      "url": "https://github.com/shadany7824/playgta5",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A source code for playgta5.com.",
+      "en": "A source code for playgta5.com.",
+      "score": 0.6476
+    }
+  ]
+}
