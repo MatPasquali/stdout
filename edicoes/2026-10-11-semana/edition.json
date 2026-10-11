@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-11",
+  "weekly": true,
+  "range": "05/10 a 11/10",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "en": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "score": 0.8359
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Sharing AI progress in mathematics",
+      "en": "Sharing AI progress in mathematics",
+      "score": 0.8151
+    },
+    {
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Mistral Large 4",
+      "en": "Mistral Large 4",
+      "score": 0.7929
+    },
+    {
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "en": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "score": 0.7889
+    },
+    {
+      "title": "nullmoth/nvidia-macos-driver",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "en": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "score": 0.7833
+    },
+    {
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Beam: Reflection's 501B open-weight model",
+      "en": "Beam: Reflection's 501B open-weight model",
+      "score": 0.7678
+    },
+    {
+      "title": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "en": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "score": 0.7666
+    },
+    {
+      "title": "Deno Is Joining Cloudflare",
+      "url": "https://deno.com/blog/cloudflare",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Deno Is Joining Cloudflare",
+      "en": "Deno Is Joining Cloudflare",
+      "score": 0.7655
+    },
+    {
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Margaret Hamilton has died",
+      "en": "Margaret Hamilton has died",
+      "score": 0.7632
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Claude Haiku 5.5",
+      "en": "Claude Haiku 5.5",
+      "score": 0.7613
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Triple-A Minesweeper",
+      "en": "Triple-A Minesweeper",
+      "score": 0.7564
+    },
+    {
+      "title": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "CADCraft: computer-aided design and drafting, an open-source, clean-room AutoCAD-style app in pure Rust",
+      "en": "CADCraft: computer-aided design and drafting, an open-source, clean-room AutoCAD-style app in pure Rust",
+      "score": 0.7563
+    }
+  ]
+}
