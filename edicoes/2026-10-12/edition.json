@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-12",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The gap in shared understanding of LLM capability is widening",
+      "en": "The gap in shared understanding of LLM capability is widening",
+      "score": 0.7789
+    },
+    {
+      "title": "Passkeys are a trap",
+      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Passkeys are a trap",
+      "en": "Passkeys are a trap",
+      "score": 0.7601
+    },
+    {
+      "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "url": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 370 likes e 161715 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 370 likes e 161715 downloads.",
+      "score": 0.5704
+    },
+    {
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 4080 likes e 2188658 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 4080 likes e 2188658 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Cloudflare/clef",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 2084 likes e 15064 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 2084 likes e 15064 downloads.",
+      "score": 0.5096
+    },
+    {
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available […]",
+      "en": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available […]",
+      "score": 0.4441
+    },
+    {
+      "title": "AMD unveils Helion racks for AI agents at OCP summit",
+      "url": "https://www.theregister.com/systems/2026/10/12/amd-unveils-helion-racks-for-ai-agents-at-ocp-summit/5302652",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "CPU-only and mixed CPU/GPU configurations due from partners in November",
+      "en": "CPU-only and mixed CPU/GPU configurations due from partners in November",
+      "score": 0.442
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Fingerprints are the new cookies",
+      "en": "Fingerprints are the new cookies",
+      "score": 0.7343
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Total Annihilation, rebuilt for modern computers",
+      "en": "Total Annihilation, rebuilt for modern computers",
+      "score": 0.7239
+    },
+    {
+      "title": "Bot traffic from Yandex",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Bot traffic from Yandex",
+      "en": "Bot traffic from Yandex",
+      "score": 0.709
+    },
+    {
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "3rd Yandex Cloud Data Center Was Hit",
+      "en": "3rd Yandex Cloud Data Center Was Hit",
+      "score": 0.7007
+    },
+    {
+      "title": "Coding on a Potato Phone: How I Accidentally Started an AGI Company",
+      "url": "https://dev.to/aisovereign/coding-on-a-potato-phone-how-i-accidentally-started-an-agi-company-56ec",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Alright, let's address the elephant in the room: for once, I am not going to bore you with continuous-time recurrent neural networks, semantic chunking algorithms, or neuro-symbolic logic cores. No tensor math today. Promise. \n\nInstead, since I’m actually looking at this platform like a social space rather than an abandoned digital diary, it’s probably time to pull back the curtain and talk about how a kid with an ancient Windows 7 machine and zero mobile data somehow ended up as the Founder and",
+      "en": "Alright, let's address the elephant in the room: for once, I am not going to bore you with continuous-time recurrent neural networks, semantic chunking algorithms, or neuro-symbolic logic cores. No tensor math today. Promise. \n\nInstead, since I’m actually looking at this platform like a social space rather than an abandoned digital diary, it’s probably time to pull back the curtain and talk about how a kid with an ancient Windows 7 machine and zero mobile data somehow ended up as the Founder and",
+      "score": 0.4489
+    },
+    {
+      "title": "From client site to FDE: a practical guide for engineers in Indian IT services",
+      "url": "https://dev.to/neurapath/from-client-site-to-fde-a-practical-guide-for-engineers-in-indian-it-services-2k7g",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "You already do half of a Forward Deployed Engineer's job. Here is how to describe it, how to close the AI gap in 90 days, and how to get picked, internally or outside.\n\nI first published this on Medium. Cross-posting here because a lot of the people asking me about this role are on DEV.\n\nBy Pankit Kumar, Senior Data Scientist and Lead Instructor at NeuraPath Academy\n\nIf you've ever sat in a client's office at 11 at night because a batch job failed and the business head wants to know why the morn",
+      "en": "You already do half of a Forward Deployed Engineer's job. Here is how to describe it, how to close the AI gap in 90 days, and how to get picked, internally or outside.\n\nI first published this on Medium. Cross-posting here because a lot of the people asking me about this role are on DEV.\n\nBy Pankit Kumar, Senior Data Scientist and Lead Instructor at NeuraPath Academy\n\nIf you've ever sat in a client's office at 11 at night because a batch job failed and the business head wants to know why the morn",
+      "score": 0.3463
+    },
+    {
+      "title": "5 Signs It's Time For a Career Change",
+      "url": "https://dev.to/sbenhoff/5-signs-its-time-for-a-career-change-6e4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Do you ever start a day wondering: “Is this what I am really meant to do for the next five years?” Of course, every employee has bad days at work. It might be due to a challenging project, unrealistic deadlines, or an unpleasant manager. However, experiencing a lack of motivation for some weeks or even months doesn’t mean that you have picked the wrong career path.\n\nI’ve been working in tech for over 25 years. Being a developer, then a team lead, lead developer, and finally a technology leader, ",
+      "en": "Do you ever start a day wondering: “Is this what I am really meant to do for the next five years?” Of course, every employee has bad days at work. It might be due to a challenging project, unrealistic deadlines, or an unpleasant manager. However, experiencing a lack of motivation for some weeks or even months doesn’t mean that you have picked the wrong career path.\n\nI’ve been working in tech for over 25 years. Being a developer, then a team lead, lead developer, and finally a technology leader, ",
+      "score": 0.2996
+    },
+    {
+      "title": "🧠 Ego development: Your Delivery Manager's Stage",
+      "url": "https://dev.to/bcouetil/ego-development-your-delivery-managers-stage-4kj4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Initial thoughts\nHow to read these profiles\nE3 - The Self-Centric Manager\nE4 - The Group-Centric Manager\nE5 - The Skill-Centric Manager\nE6 - The Principled Manager\nE7 - The Systemic Manager\nE8 - The Enabling Manager\nE9 - The Wise Manager\n\nWhen the lines don't match\n\n\nThe Green-Dashboard Manager - E5/E3\n\n\nSilence folds back on itself\nWhen your stage and the manager's don't fit\nWrapping up\nFurther reading\n\n\nThe delivery manager sits next to the developer all day, owning priorities, shielding (or p",
+      "en": "Initial thoughts\nHow to read these profiles\nE3 - The Self-Centric Manager\nE4 - The Group-Centric Manager\nE5 - The Skill-Centric Manager\nE6 - The Principled Manager\nE7 - The Systemic Manager\nE8 - The Enabling Manager\nE9 - The Wise Manager\n\nWhen the lines don't match\n\n\nThe Green-Dashboard Manager - E5/E3\n\n\nSilence folds back on itself\nWhen your stage and the manager's don't fit\nWrapping up\nFurther reading\n\n\nThe delivery manager sits next to the developer all day, owning priorities, shielding (or p",
+      "score": 0.2989
+    },
+    {
+      "title": "Can Language Models Play the Wikipedia Game?",
+      "url": "https://arxiv.org/abs/2610.13948v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. In the game, players must reach a target article using only article links. We compared sentence embedding models and LLMs across five Wikipedia languages and five academic-literature datasets. We const",
+      "en": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. In the game, players must reach a target article using only article links. We compared sentence embedding models and LLMs across five Wikipedia languages and five academic-literature datasets. We const",
+      "score": 0.3673
+    },
+    {
+      "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+      "url": "https://arxiv.org/abs/2610.13947v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the literature on procedural and agentic generation, we present Artisan, a system that extends the latest method Articraft by introducing a multi-agent pipeline with physical simulation feedback, enabling comprehensive attributes beyond geometry, appearance, and physically plausible articulation, such as collision-fre",
+      "en": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the literature on procedural and agentic generation, we present Artisan, a system that extends the latest method Articraft by introducing a multi-agent pipeline with physical simulation feedback, enabling comprehensive attributes beyond geometry, appearance, and physically plausible articulation, such as collision-fre",
+      "score": 0.3673
+    },
+    {
+      "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+      "url": "https://arxiv.org/abs/2610.13935v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They require access to model weights or large concept-annotated datasets, and most methods cannot provide image-level attribution. We propose Hide and Seek (HnS), a new method for concept-level attribution that",
+      "en": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They require access to model weights or large concept-annotated datasets, and most methods cannot provide image-level attribution. We propose Hide and Seek (HnS), a new method for concept-level attribution that",
+      "score": 0.3672
+    },
+    {
+      "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+      "url": "https://arxiv.org/abs/2610.13918v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical insomnia and boundary instability in narcolepsy type 1. Here, we present DyssomniaNN: a multi-scale biophysical computational framework coupling Borbély's two-process regulation of sleep homeostasis and circadian drive with Saper's hypothalamic reciprocal flip-flop circuit and a recurrent corticothala",
+      "en": "Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical insomnia and boundary instability in narcolepsy type 1. Here, we present DyssomniaNN: a multi-scale biophysical computational framework coupling Borbély's two-process regulation of sleep homeostasis and circadian drive with Saper's hypothalamic reciprocal flip-flop circuit and a recurrent corticothala",
+      "score": 0.3671
+    }
+  ]
+}
