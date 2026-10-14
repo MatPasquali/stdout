@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-14",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "en": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "score": 0.8274
+    },
+    {
+      "title": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac, full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "en": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac, full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "score": 0.7975
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Gemini 4 Argon",
+      "en": "Gemini 4 Argon",
+      "score": 0.7575
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI is a tool and using it well takes skill",
+      "en": "AI is a tool and using it well takes skill",
+      "score": 0.7317
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Redesigning source control at Anthropic",
+      "en": "Redesigning source control at Anthropic",
+      "score": 0.7221
+    },
+    {
+      "title": "autotrust/JEV-35B",
+      "url": "https://huggingface.co/autotrust/JEV-35B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-classification', com 714 likes e 27970 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-classification', com 714 likes e 27970 downloads.",
+      "score": 0.5626
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 7737 likes e 1823507 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 7737 likes e 1823507 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "en": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "score": 0.7126
+    },
+    {
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Apple HomeView",
+      "en": "Apple HomeView",
+      "score": 0.7088
+    },
+    {
+      "title": "Firefox Enterprise",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Firefox Enterprise",
+      "en": "Firefox Enterprise",
+      "score": 0.7059
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "11 year old unsoundness bugs found in Rust borrow checker",
+      "en": "11 year old unsoundness bugs found in Rust borrow checker",
+      "score": 0.7029
+    },
+    {
+      "title": "My first open-source merge started with an ordinary evening",
+      "url": "https://dev.to/hinata25s/my-first-open-source-merge-started-with-an-ordinary-evening-760",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I didn’t plan to become an open-source contributor.\nIn January 2026, I didn’t really know what to do with my evening.\nSo I opened Apache Grails, found a small issue, tried a PR… and went to sleep.\nNext thing I know, my phone lights up. Merged.\nThat PR was for a CONTRIBUTING.md, and it became my first-ever open-source merge. In Apache Grails. No big speech. No perfect plan. Just a tiny push… and somehow, that push became the start of my internship story.\nSince then, I’ve been helping with somethi",
+      "en": "I didn’t plan to become an open-source contributor.\nIn January 2026, I didn’t really know what to do with my evening.\nSo I opened Apache Grails, found a small issue, tried a PR… and went to sleep.\nNext thing I know, my phone lights up. Merged.\nThat PR was for a CONTRIBUTING.md, and it became my first-ever open-source merge. In Apache Grails. No big speech. No perfect plan. Just a tiny push… and somehow, that push became the start of my internship story.\nSince then, I’ve been helping with somethi",
+      "score": 0.399
+    },
+    {
+      "title": "Good Engineers Have Opinions",
+      "url": "https://dev.to/jgwesterfield/good-engineers-have-opinions-153",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "One trait I have started noticing in good engineers, regardless of seniority, is that they are opinionated.\n\nNot argumentative for the sake of it. Not the person who turns every code review into a hostage situation because someone used a different library. I mean they have a point of view. They have thought about the tradeoffs, they can say what they think we should do, and they are willing to stand behind it.\n\nThat matters more than I used to think.\n\n\n  \n  \n  An opinion gives you somewhere to s",
+      "en": "One trait I have started noticing in good engineers, regardless of seniority, is that they are opinionated.\n\nNot argumentative for the sake of it. Not the person who turns every code review into a hostage situation because someone used a different library. I mean they have a point of view. They have thought about the tradeoffs, they can say what they think we should do, and they are willing to stand behind it.\n\nThat matters more than I used to think.\n\n\n  \n  \n  An opinion gives you somewhere to s",
+      "score": 0.3492
+    },
+    {
+      "title": "Why Template Upwork Proposals Get Ignored (Rewrite One in 120 Words)",
+      "url": "https://dev.to/rlane/why-template-upwork-proposals-get-ignored-rewrite-one-in-120-words-22da",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Most ignored Upwork proposals are not “bad English.” They are portable. The first screen could sit under any job title, for any client, in any industry, and busy US buyers can feel that in a few seconds.\n\nMarketplace incentives push volume: save a master letter, swap the title, send. Client incentives push the opposite. They skim for one signal: this person read my brief and can start without drama.\n\nThis is a rewrite drill: one generic opener fails for clear reasons, then a ~120-word skeleton th",
+      "en": "Most ignored Upwork proposals are not “bad English.” They are portable. The first screen could sit under any job title, for any client, in any industry, and busy US buyers can feel that in a few seconds.\n\nMarketplace incentives push volume: save a master letter, swap the title, send. Client incentives push the opposite. They skim for one signal: this person read my brief and can start without drama.\n\nThis is a rewrite drill: one generic opener fails for clear reasons, then a ~120-word skeleton th",
+      "score": 0.3492
+    },
+    {
+      "title": "Netflix is laying off around 1,000 employees",
+      "url": "https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Following a report last week that Netflix was planning to lay off five percent of the company, today the streamer's co-CEOs Ted Sarandos and Greg Peters announced in an email that it would actually be laying off six percent of its workforce, or around 1,000 employees, according to Variety, which obtained a copy of the […]",
+      "en": "Following a report last week that Netflix was planning to lay off five percent of the company, today the streamer's co-CEOs Ted Sarandos and Greg Peters announced in an email that it would actually be laying off six percent of its workforce, or around 1,000 employees, according to Variety, which obtained a copy of the […]",
+      "score": 0.3489
+    },
+    {
+      "title": "ChunkAct: Action Chunking for Agentic Robotics",
+      "url": "https://arxiv.org/abs/2610.18874v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks without retraining. This generality comes at a steep price in efficiency. Every primitive requires a round of LLM reasoning over the full interaction history, so the cost of an episode grows with the number of primitives. We find this reasoning largely redundant: once ",
+      "en": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks without retraining. This generality comes at a steep price in efficiency. Every primitive requires a round of LLM reasoning over the full interaction history, so the cost of an episode grows with the number of primitives. We find this reasoning largely redundant: once ",
+      "score": 0.461
+    },
+    {
+      "title": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
+      "url": "https://arxiv.org/abs/2610.18873v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every recorded action can reinforce poor behavior, while filtering out failures discards evidence of physical interactions and their consequences. We introduce \\textbf{LoopWAM}, a closed-loop world-action model that learns directly from this full quality spectrum, using rollouts from both itself and other dep",
+      "en": "Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every recorded action can reinforce poor behavior, while filtering out failures discards evidence of physical interactions and their consequences. We introduce \\textbf{LoopWAM}, a closed-loop world-action model that learns directly from this full quality spectrum, using rollouts from both itself and other dep",
+      "score": 0.461
+    },
+    {
+      "title": "Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs",
+      "url": "https://arxiv.org/abs/2610.18870v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We generally perceive that training text-to-image diffusion models requires heavy compute: it is true if we aim at a comprehensive frontier model. This understanding prevents people from training their own models when getting started in the field. We develop MiniDog, a framework that enables pretraining diffusion transformers in 55 minutes and fine-tuning in another 15 minutes on four 3090 GPUs. For data, we use 26k dog images from ImageNet and caption them for pretraining and use 2k images gene",
+      "en": "We generally perceive that training text-to-image diffusion models requires heavy compute: it is true if we aim at a comprehensive frontier model. This understanding prevents people from training their own models when getting started in the field. We develop MiniDog, a framework that enables pretraining diffusion transformers in 55 minutes and fine-tuning in another 15 minutes on four 3090 GPUs. For data, we use 26k dog images from ImageNet and caption them for pretraining and use 2k images gene",
+      "score": 0.461
+    },
+    {
+      "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+      "url": "https://arxiv.org/abs/2610.18869v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal human demonstrations and 24 target tasks. Within each VLA, we match demonstrations and training budgets. Additional comparisons examine pretraining data size and the roles of quality tags during fine-tuning and inference. Ac",
+      "en": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal human demonstrations and 24 target tasks. Within each VLA, we match demonstrations and training budgets. Additional comparisons examine pretraining data size and the roles of quality tags during fine-tuning and inference. Ac",
+      "score": 0.461
+    },
+    {
+      "title": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "en": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "score": 0.699
+    },
+    {
+      "title": "trhhubsd/ARTEXX",
+      "url": "https://github.com/trhhubsd/ARTEXX",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+      "en": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+      "score": 0.6177
+    },
+    {
+      "title": "shaongitbd/doory",
+      "url": "https://github.com/shaongitbd/doory",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open source canva alternative",
+      "en": "Open source canva alternative",
+      "score": 0.6141
+    },
+    {
+      "title": "NVIDIA-Omniverse/usd-brep",
+      "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+      "en": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+      "score": 0.5701
+    }
+  ]
+}
