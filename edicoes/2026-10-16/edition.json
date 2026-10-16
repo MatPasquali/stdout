@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-16",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "feder-cr/git-ai",
+      "url": "https://github.com/feder-cr/git-ai",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Git designed for AI agents.",
+      "en": "Git designed for AI agents.",
+      "score": 0.831
+    },
+    {
+      "title": "ahwootech/BRUTAL",
+      "url": "https://github.com/ahwootech/BRUTAL",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "en": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "score": 0.8212
+    },
+    {
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Neural networks are clean",
+      "en": "Neural networks are clean",
+      "score": 0.7979
+    },
+    {
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 4732 likes e 1262307 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 4732 likes e 1262307 downloads.",
+      "score": 0.6
+    },
+    {
+      "title": "black-forest-labs/flux-3-image-klein",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-image', com 365 likes e 22790 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-image', com 365 likes e 22790 downloads.",
+      "score": 0.5623
+    },
+    {
+      "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 823 likes e 17553 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 823 likes e 17553 downloads.",
+      "score": 0.4467
+    },
+    {
+      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "source": "Quanta Magazine",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken, but not unfixable.            The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
+      "en": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken, but not unfixable.            The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
+      "score": 0.4465
+    },
+    {
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Muse Spark Open",
+      "en": "Muse Spark Open",
+      "score": 0.7614
+    },
+    {
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Wayland desktop for Linux with skeuomorphic design",
+      "en": "Wayland desktop for Linux with skeuomorphic design",
+      "score": 0.7331
+    },
+    {
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tiny Little Office",
+      "en": "Tiny Little Office",
+      "score": 0.7073
+    },
+    {
+      "title": "Passkeys are not a trap",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Passkeys are not a trap",
+      "en": "Passkeys are not a trap",
+      "score": 0.693
+    },
+    {
+      "title": "Design GitHub Actions in 45 Minutes: Job Queue, Runners, Live Logs and the Cache",
+      "url": "https://dev.to/gabrielanhaia/design-github-actions-in-45-minutes-job-queue-runners-live-logs-and-the-cache-3meb",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Book: System Design Pocket Guide: Interviews\n\n\nAlso by me: Thinking in Go (2-book series), Complete Guide to Go Programming + Hexagonal Architecture in Go\n\n\nMy project: Hermes IDE | GitHub, an IDE for developers who ship with Claude Code and other AI coding tools\n\nMe: xgabriel.com | GitHub\n\n\n\n\n\n\nIn December 2025 GitHub wrote that the re-architected backend behind Actions handles 71 million jobs per day, and that developers used 11.5 billion Actions minutes in public and open source projects th",
+      "en": "Book: System Design Pocket Guide: Interviews\n\n\nAlso by me: Thinking in Go (2-book series), Complete Guide to Go Programming + Hexagonal Architecture in Go\n\n\nMy project: Hermes IDE | GitHub, an IDE for developers who ship with Claude Code and other AI coding tools\n\nMe: xgabriel.com | GitHub\n\n\n\n\n\n\nIn December 2025 GitHub wrote that the re-architected backend behind Actions handles 71 million jobs per day, and that developers used 11.5 billion Actions minutes in public and open source projects th",
+      "score": 0.3977
+    },
+    {
+      "title": "These Companies Want Interns This Summer (Oct 16)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-oct-16-4pfn",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Salesforce, Paccar, Atom Computing, Astera Labs, Sierra Nevada Corporation, Cboe are all hiring interns for Summer 2026. Here's what's open.\n\n\n  \n  \n   Salesforce\n\n\n3 open internships\n\n\n\nProduct Management Specialist Intern | SF | NYC\n\nProduct Management Specialist Intern | SF | NYC\n\n\n\n  \n  \n  - Product Management Specialist Intern | SF | NYC\n\n\n\n  \n  \n   Paccar\n\n\n1 open internships\n\n\n  \n  \n  - Summer Intern - Product Definition Analytics | Renton, WA\n\n\n\n  \n  \n   Atom Computing\n\n\n1 open internshi",
+      "en": "Salesforce, Paccar, Atom Computing, Astera Labs, Sierra Nevada Corporation, Cboe are all hiring interns for Summer 2026. Here's what's open.\n\n\n  \n  \n   Salesforce\n\n\n3 open internships\n\n\n\nProduct Management Specialist Intern | SF | NYC\n\nProduct Management Specialist Intern | SF | NYC\n\n\n\n  \n  \n  - Product Management Specialist Intern | SF | NYC\n\n\n\n  \n  \n   Paccar\n\n\n1 open internships\n\n\n  \n  \n  - Summer Intern - Product Definition Analytics | Renton, WA\n\n\n\n  \n  \n   Atom Computing\n\n\n1 open internshi",
+      "score": 0.3493
+    },
+    {
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Oct 16)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-oct-16-11k8",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "New remote roles just dropped from Mitre Media, Lemon.io, Sanctuary Computer Inc, Delinea and more. No relocation needed.\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior React Full stack Developer\n\n\n Lemon.io\n\nSalary: $80k - $200k/yr\nStack: React / Node.js / TypeScript / JavaScript\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Shopify Developer\n\n\n Sanctuary Computer Inc\n\nSalary: $80k ",
+      "en": "New remote roles just dropped from Mitre Media, Lemon.io, Sanctuary Computer Inc, Delinea and more. No relocation needed.\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior React Full stack Developer\n\n\n Lemon.io\n\nSalary: $80k - $200k/yr\nStack: React / Node.js / TypeScript / JavaScript\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior Shopify Developer\n\n\n Sanctuary Computer Inc\n\nSalary: $80k ",
+      "score": 0.3493
+    },
+    {
+      "title": "Read for upgrading your skills and to earn more.",
+      "url": "https://dev.to/amina_ahmad_805f06e78c4a0/read-for-upgrading-your-skills-and-to-earn-more-3mik",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "From Developer to Product Manager: A Practical 2026 Guide (With AI Skills)\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Amina Ahmad\n            \n            \n              \n                Amina Ahmad\n                \n                \n              \n              \n                \n                  \n                    \n                      \n                        \n                      \n                      Amina Ahmad",
+      "en": "From Developer to Product Manager: A Practical 2026 Guide (With AI Skills)\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Amina Ahmad\n            \n            \n              \n                Amina Ahmad\n                \n                \n              \n              \n                \n                  \n                    \n                      \n                        \n                      \n                      Amina Ahmad",
+      "score": 0.3482
+    },
+    {
+      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2610.22372v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how policies follow preferences in zero-shot settings;",
+      "en": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how policies follow preferences in zero-shot settings;",
+      "score": 0.4618
+    },
+    {
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "url": "https://arxiv.org/abs/2610.22367v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated with a small set of computational primitives, optimizing them in the quantum setting presents unique challenges, including a reversibility constraint absent from ordinary classical computation. Here ",
+      "en": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated with a small set of computational primitives, optimizing them in the quantum setting presents unique challenges, including a reversibility constraint absent from ordinary classical computation. Here ",
+      "score": 0.4618
+    },
+    {
+      "title": "Grounding Generative Verification in 3D Content",
+      "url": "https://arxiv.org/abs/2610.22360v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recent advances in multimodal large language models (MLLMs) and 3D generation have expanded 3D understanding and synthesis. However, beyond visual fidelity, task-specific correctness grounded in 3D evidence remains a major challenge. We argue that building reliable 3D systems requires not only stronger generation and reasoning, but also verification feedback that identifies unmet requirements and explains their violations, allowing systems to reflect on and refine their outputs. Such feedback mu",
+      "en": "Recent advances in multimodal large language models (MLLMs) and 3D generation have expanded 3D understanding and synthesis. However, beyond visual fidelity, task-specific correctness grounded in 3D evidence remains a major challenge. We argue that building reliable 3D systems requires not only stronger generation and reasoning, but also verification feedback that identifies unmet requirements and explains their violations, allowing systems to reflect on and refine their outputs. Such feedback mu",
+      "score": 0.4618
+    },
+    {
+      "title": "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.22356v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Vision-language models still struggle to understand 3D spatial relations across views and update spatial judgments as the observer moves. A common approach fuses 3D reconstruction features into visual tokens, but aligning these features with pretrained semantic representations remains challenging under limited spatial supervision. We propose DK-VLM with Dual-Kernel Attention, which computes attention from both a visual token's input position and its geometric position in the scene. A semantic ke",
+      "en": "Vision-language models still struggle to understand 3D spatial relations across views and update spatial judgments as the observer moves. A common approach fuses 3D reconstruction features into visual tokens, but aligning these features with pretrained semantic representations remains challenging under limited spatial supervision. We propose DK-VLM with Dual-Kernel Attention, which computes attention from both a visual token's input position and its geometric position in the scene. A semantic ke",
+      "score": 0.4618
+    },
+    {
+      "title": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Turn your regular JavaScript code into a neural net.",
+      "en": "Turn your regular JavaScript code into a neural net.",
+      "score": 0.7837
+    },
+    {
+      "title": "opengeos/RustGIS",
+      "url": "https://github.com/opengeos/RustGIS",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A fast, free and open-source GIS in pure Rust.",
+      "en": "A fast, free and open-source GIS in pure Rust.",
+      "score": 0.5926
+    },
+    {
+      "title": "chenwei810/Semiconductor_Manufacturing_Introduction",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Introduction to Semiconductor Manufacturing",
+      "en": "Introduction to Semiconductor Manufacturing",
+      "score": 0.5862
+    }
+  ]
+}
