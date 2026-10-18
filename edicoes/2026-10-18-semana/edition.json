@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-18",
+  "weekly": true,
+  "range": "12/10 a 18/10",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 594 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 594 likes e 0 downloads.",
+      "score": 0.8449
+    },
+    {
+      "title": "feder-cr/git-ai",
+      "url": "https://github.com/feder-cr/git-ai",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Git designed for AI agents.",
+      "en": "Git designed for AI agents.",
+      "score": 0.831
+    },
+    {
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "en": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "score": 0.8274
+    },
+    {
+      "title": "ahwootech/BRUTAL",
+      "url": "https://github.com/ahwootech/BRUTAL",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "en": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "score": 0.8212
+    },
+    {
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Neural networks are clean",
+      "en": "Neural networks are clean",
+      "score": 0.7979
+    },
+    {
+      "title": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac, full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "en": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac, full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "score": 0.7975
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "en": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "score": 0.7864
+    },
+    {
+      "title": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Turn your regular JavaScript code into a neural net.",
+      "en": "Turn your regular JavaScript code into a neural net.",
+      "score": 0.7837
+    },
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The gap in shared understanding of LLM capability is widening",
+      "en": "The gap in shared understanding of LLM capability is widening",
+      "score": 0.7789
+    },
+    {
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "en": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "score": 0.7692
+    },
+    {
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Things to know when you get cancer",
+      "en": "Things to know when you get cancer",
+      "score": 0.764
+    },
+    {
+      "title": "OpenCode Hacked: User credentials leaked",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "OpenCode Hacked: User credentials leaked",
+      "en": "OpenCode Hacked: User credentials leaked",
+      "score": 0.7632
+    }
+  ]
+}
