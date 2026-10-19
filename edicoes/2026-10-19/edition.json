@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-19",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Namecheap just seized and disabled all my domains",
+      "en": "Namecheap just seized and disabled all my domains",
+      "score": 0.8002
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "score": 0.7626
+    },
+    {
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "en": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "score": 0.6976
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "You could have invented transformers from memory",
+      "en": "You could have invented transformers from memory",
+      "score": 0.6683
+    },
+    {
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 4622 likes e 2739572 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 4622 likes e 2739572 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "en": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "score": 0.4466
+    },
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents, copies of Claude Opus 4.7 nicknamed Eko, were able to…",
+      "en": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents, copies of Claude Opus 4.7 nicknamed Eko, were able to…",
+      "score": 0.435
+    },
+    {
+      "title": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Solar surpasses nuclear power globally for first time",
+      "en": "Solar surpasses nuclear power globally for first time",
+      "score": 0.708
+    },
+    {
+      "title": "What I self-host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "What I self-host",
+      "en": "What I self-host",
+      "score": 0.6308
+    },
+    {
+      "title": "Jev meets the Trolley Problem",
+      "url": "https://zachlandes.com/trolley-problem/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Jev meets the Trolley Problem",
+      "en": "Jev meets the Trolley Problem",
+      "score": 0.6215
+    },
+    {
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Americans' social activity has steeply declined in the past 30 years",
+      "en": "Americans' social activity has steeply declined in the past 30 years",
+      "score": 0.5715
+    },
+    {
+      "title": "How to Use Free Resources and Know When to Get Ready-Made Final Year Projects",
+      "url": "https://dev.to/collegeprojectexpert/how-to-use-free-resources-and-know-when-to-get-ready-made-final-year-projects-2goh",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "TL;DR Planning your final year project well means knowing when to use free resources like open datasets, GitHub repos, and handy tools, and when to consider a ready-made or custom project to save time. This article offers a practical 12-week roadmap for engineering students to confidently use free project tools and decide smartly on ready-made projects from trusted sources like CollegeProjectExpert.in.\n\n\n\n\n\n\n  \n  \n  What Free Resources Are Available for Final Year Projects?\n\n\nStarting your fina",
+      "en": "TL;DR Planning your final year project well means knowing when to use free resources like open datasets, GitHub repos, and handy tools, and when to consider a ready-made or custom project to save time. This article offers a practical 12-week roadmap for engineering students to confidently use free project tools and decide smartly on ready-made projects from trusted sources like CollegeProjectExpert.in.\n\n\n\n\n\n\n  \n  \n  What Free Resources Are Available for Final Year Projects?\n\n\nStarting your fina",
+      "score": 0.3982
+    },
+    {
+      "title": "3 Real-World AWS Cloud Engineer Interview Questions You Should Practice",
+      "url": "https://dev.to/mehtasumti/3-real-world-aws-cloud-engineer-interview-questions-you-should-practice-3j1l",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Preparing for an AWS Cloud Engineer, Cloud Support, or DevOps interview? Here are three troubleshooting scenarios worth practicing.\n\n\n  \n  \n  1. EC2 Is Running, but the Application Is Not Accessible\n\n\nCheck the application service, listening port, security groups, network ACLs, route tables, and public connectivity.\n\n\n  \n  \n  2. Application Load Balancer Returns Errors\n\n\nIdentify the HTTP status code first. Then investigate target health, listener rules, target group configuration, and applicati",
+      "en": "Preparing for an AWS Cloud Engineer, Cloud Support, or DevOps interview? Here are three troubleshooting scenarios worth practicing.\n\n\n  \n  \n  1. EC2 Is Running, but the Application Is Not Accessible\n\n\nCheck the application service, listening port, security groups, network ACLs, route tables, and public connectivity.\n\n\n  \n  \n  2. Application Load Balancer Returns Errors\n\n\nIdentify the HTTP status code first. Then investigate target health, listener rules, target group configuration, and applicati",
+      "score": 0.3496
+    },
+    {
+      "title": "Remote Full-Stack Software Engineer Role at micro1 – $120K–$160K USD**",
+      "url": "https://dev.to/shirin_rafia_b5bcc938691e/remote-full-stack-software-engineer-role-at-micro1-120k-160k-usd-32c9",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "micro1 is hiring a Software Engineer for its Platform Engineering team. The role focuses on building and scaling full-stack applications, backend services, internal tools, and AI-driven infrastructure.\n\nPosition: Software Engineer, Platform Engineering\nLocation: Remote\nEmployment type: Full-time\nAdvertised base salary: $120,000-$160,000 USD per year\nAdditional compensation: Equity and potential performance-based bonuses.\n\nKey responsibilities:\n\n\nBuild full-stack applications using React, Node.js",
+      "en": "micro1 is hiring a Software Engineer for its Platform Engineering team. The role focuses on building and scaling full-stack applications, backend services, internal tools, and AI-driven infrastructure.\n\nPosition: Software Engineer, Platform Engineering\nLocation: Remote\nEmployment type: Full-time\nAdvertised base salary: $120,000-$160,000 USD per year\nAdditional compensation: Equity and potential performance-based bonuses.\n\nKey responsibilities:\n\n\nBuild full-stack applications using React, Node.js",
+      "score": 0.3488
+    },
+    {
+      "title": "How long does it take to find a job in 2026?",
+      "url": "https://dev.to/fourleaf/how-long-does-it-take-to-find-a-job-in-2026-26k0",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "The typical unemployed job seeker in the United States had been looking for 11.5 weeks in September 2026. That is the median duration of unemployment in table A-12 of the Bureau of Labor Statistics Employment Situation release for September 2026, published October 2. Call it a little under three months.\n\nThe same table puts the mean at 24.8 weeks, more than double the median. Both numbers are true. The gap between them says the distribution has a long tail, and that tail is the part of a job sea",
+      "en": "The typical unemployed job seeker in the United States had been looking for 11.5 weeks in September 2026. That is the median duration of unemployment in table A-12 of the Bureau of Labor Statistics Employment Situation release for September 2026, published October 2. Call it a little under three months.\n\nThe same table puts the mean at 24.8 weeks, more than double the median. Both numbers are true. The gap between them says the distribution has a long tail, and that tail is the part of a job sea",
+      "score": 0.3486
+    },
+    {
+      "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+      "url": "https://arxiv.org/abs/2610.23845v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the Surveillance, Epidemiology, and End Results (SEER) database, a widely used U.S. cancer registry underlying tens of thousands of published studies. First, we introduce SEER-Repro, a benchmark of 20 publ",
+      "en": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the Surveillance, Epidemiology, and End Results (SEER) database, a widely used U.S. cancer registry underlying tens of thousands of published studies. First, we introduce SEER-Repro, a benchmark of 20 publ",
+      "score": 0.3722
+    },
+    {
+      "title": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+      "url": "https://arxiv.org/abs/2610.23839v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and testable research hypotheses: evidence-grounded claims about consequential uncertainties, coupled with feasible investigations, explicit decision criteria, and alternative explanations. Our DiscoveryRSI framework develops hypothesis trees through multi-agent evolutionary search, c",
+      "en": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and testable research hypotheses: evidence-grounded claims about consequential uncertainties, coupled with feasible investigations, explicit decision criteria, and alternative explanations. Our DiscoveryRSI framework develops hypothesis trees through multi-agent evolutionary search, c",
+      "score": 0.3722
+    },
+    {
+      "title": "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?",
+      "url": "https://arxiv.org/abs/2610.23827v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the quality of the entanglement that a candidate path can deliver, with end-to-end fidelity as a central metric. Inspired by the optical-networking experience with quality-of-transmission (QoT) estimation, this article asks when a quantum controller should compute fidelity analytically,",
+      "en": "Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the quality of the entanglement that a candidate path can deliver, with end-to-end fidelity as a central metric. Inspired by the optical-networking experience with quality-of-transmission (QoT) estimation, this article asks when a quantum controller should compute fidelity analytically,",
+      "score": 0.372
+    },
+    {
+      "title": "Self-Building Labs",
+      "url": "https://arxiv.org/abs/2610.23826v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures they were built for. Adapting them to a new experiment still takes extensive manual engineering, which makes laboratory flexibility the bottleneck for scaling discovery. We introduce the self-building laboratory (SBL), which designs, configures, and operates its own laboratory setu",
+      "en": "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures they were built for. Adapting them to a new experiment still takes extensive manual engineering, which makes laboratory flexibility the bottleneck for scaling discovery. We introduce the self-building laboratory (SBL), which designs, configures, and operates its own laboratory setu",
+      "score": 0.3719
+    },
+    {
+      "title": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "en": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "score": 0.6963
+    },
+    {
+      "title": "Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "en": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "score": 0.6924
+    },
+    {
+      "title": "OpenMOSS/MOSS-Image",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "en": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "score": 0.6013
+    },
+    {
+      "title": "xscreensaver-official/xscreensaver",
+      "url": "https://github.com/xscreensaver-official/xscreensaver",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "There is no official XScreenSaver GitHub repository.",
+      "en": "There is no official XScreenSaver GitHub repository.",
+      "score": 0.5803
+    }
+  ]
+}
