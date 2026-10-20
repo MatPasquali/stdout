@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-20",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "DeepSeek just open-sourced its inference engine",
+      "en": "DeepSeek just open-sourced its inference engine",
+      "score": 0.8384
+    },
+    {
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "en": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "score": 0.7641
+    },
+    {
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "en": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "score": 0.7145
+    },
+    {
+      "title": "OpenMOSS-Team/MOSS-Image-SFT",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 481 likes e 4547 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 481 likes e 4547 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…",
+      "en": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…",
+      "score": 0.4881
+    },
+    {
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "en": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "score": 0.4452
+    },
+    {
+      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of…",
+      "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of…",
+      "score": 0.4437
+    },
+    {
+      "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "en": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "score": 0.7408
+    },
+    {
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Wine ported to OpenBSD",
+      "en": "Wine ported to OpenBSD",
+      "score": 0.6911
+    },
+    {
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "I built a drone with only one motor [video]",
+      "en": "I built a drone with only one motor [video]",
+      "score": 0.6869
+    },
+    {
+      "title": "Linux 7.3",
+      "url": "https://lwn.net/Articles/1101143/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Linux 7.3",
+      "en": "Linux 7.3",
+      "score": 0.6824
+    },
+    {
+      "title": "Where to Find Tech Internships This Summer (Oct 20)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-oct-20-5a5d",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Looking for internships in a specific city? Here are the top locations hiring interns for Summer 2026.\n\n\n  \n  \n  Williamsport, PA\n\n\n1 internships\n\n\n  \n  \n  - Industrial Software Engineer Intern at Textron\n\n\n\n  \n  \n  Burbank, CA\n\n\n1 internships\n\n\n  \n  \n  - Gameplay Programmer Intern at Insomniac Games\n\n\n\n  \n  \n  Palo Alto, CA\n\n\n1 internships\n\n\n  \n  \n  - AI Core PhD Research Intern at Nubank\n\n\n\n  \n  \n  NYC\n\n\n1 internships\n\n\n  \n  \n  - Software Engineer Intern at Braze\n\n\n\n  \n  \n  Fort Wayne, IN\n\n\n1 ",
+      "en": "Looking for internships in a specific city? Here are the top locations hiring interns for Summer 2026.\n\n\n  \n  \n  Williamsport, PA\n\n\n1 internships\n\n\n  \n  \n  - Industrial Software Engineer Intern at Textron\n\n\n\n  \n  \n  Burbank, CA\n\n\n1 internships\n\n\n  \n  \n  - Gameplay Programmer Intern at Insomniac Games\n\n\n\n  \n  \n  Palo Alto, CA\n\n\n1 internships\n\n\n  \n  \n  - AI Core PhD Research Intern at Nubank\n\n\n\n  \n  \n  NYC\n\n\n1 internships\n\n\n  \n  \n  - Software Engineer Intern at Braze\n\n\n\n  \n  \n  Fort Wayne, IN\n\n\n1 ",
+      "score": 0.3988
+    },
+    {
+      "title": "How Beginners Can Start a Career in Digital Marketing",
+      "url": "https://dev.to/shahana_shihab/how-beginners-can-start-a-career-in-digital-marketing-4ahn",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Digital marketing has become an important part of how businesses reach customers, build brand awareness, and grow online. For beginners, starting a career in this field can feel confusing because there are many skills and tools to learn. However, with a clear plan and consistent practice, it is possible to build a strong foundation.\n\n\nLearn the Basics of Digital Marketing\n\n\nStart by understanding the main areas of digital marketing, including search engine optimization (SEO), social media market",
+      "en": "Digital marketing has become an important part of how businesses reach customers, build brand awareness, and grow online. For beginners, starting a career in this field can feel confusing because there are many skills and tools to learn. However, with a clear plan and consistent practice, it is possible to build a strong foundation.\n\n\nLearn the Basics of Digital Marketing\n\n\nStart by understanding the main areas of digital marketing, including search engine optimization (SEO), social media market",
+      "score": 0.3494
+    },
+    {
+      "title": "Senior Remote SWE Roles Hiring Now - 4 Pay $150k+ (Oct 20)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-4-pay-150k-oct-20-gkg",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Looking for a senior-level remote role? Here are 6 positions for experienced engineers.\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior React Full stack Developer\n\n\n Lemon.io\n\nSalary: $80k - $200k/yr\nStack: React / Node.js / TypeScript / JavaScript\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Staff Software Development Engineer SDM\n\n\n Delinea\n\nSalary: $150k - $185k/yr\nStack: Go / DevOps / B",
+      "en": "Looking for a senior-level remote role? Here are 6 positions for experienced engineers.\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior React Full stack Developer\n\n\n Lemon.io\n\nSalary: $80k - $200k/yr\nStack: React / Node.js / TypeScript / JavaScript\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Staff Software Development Engineer SDM\n\n\n Delinea\n\nSalary: $150k - $185k/yr\nStack: Go / DevOps / B",
+      "score": 0.3488
+    },
+    {
+      "title": "The referral ask that does not make people wince",
+      "url": "https://dev.to/simali_dud_b97add4154d7a6/the-referral-ask-that-does-not-make-people-wince-1nna",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Most referral requests fail because they hand the recipient a blank sheet and a chore. When someone asks you to put in a good word, they usually want you to summarize their entire work history from scratch, which is work nobody wants to do on a Tuesday afternoon. \n\nHere is the one sentence you should send instead: \"If you know anyone on that infrastructure team, would you mind dropping this two-line note into their Slack: [Your Name] is spinning up self-hosted engines and wants to talk about ope",
+      "en": "Most referral requests fail because they hand the recipient a blank sheet and a chore. When someone asks you to put in a good word, they usually want you to summarize their entire work history from scratch, which is work nobody wants to do on a Tuesday afternoon. \n\nHere is the one sentence you should send instead: \"If you know anyone on that infrastructure team, would you mind dropping this two-line note into their Slack: [Your Name] is spinning up self-hosted engines and wants to talk about ope",
+      "score": 0.3476
+    },
+    {
+      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+      "url": "https://arxiv.org/abs/2610.26860v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only modest gains. Such tasks demand grounded perception, external knowledge, and numerical measurements obtained through heterogeneous tools, whose outputs must be made interpretable to the model and retai",
+      "en": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only modest gains. Such tasks demand grounded perception, external knowledge, and numerical measurements obtained through heterogeneous tools, whose outputs must be made interpretable to the model and retai",
+      "score": 0.4613
+    },
+    {
+      "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
+      "url": "https://arxiv.org/abs/2610.26861v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requests to construct and iteratively revise mechanisms that satisfy functional requirements in physical simulation. Verifying these requirements is nontrivial: different candidate mechanisms may realize the same function through entirely different components, controls, and operating",
+      "en": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requests to construct and iteratively revise mechanisms that satisfy functional requirements in physical simulation. Verifying these requirements is nontrivial: different candidate mechanisms may realize the same function through entirely different components, controls, and operating",
+      "score": 0.4613
+    },
+    {
+      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+      "url": "https://arxiv.org/abs/2610.26855v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action spaces and limited multimodal supervision. We present Ropedia W0, the first egocentric loco-manipulation world foundation model spanning humans and robots with diverse embodiments. We curate Xp-Data, comprising 10k hours of egocentric human data and 3k hours of robot data with unified multimodal annotati",
+      "en": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action spaces and limited multimodal supervision. We present Ropedia W0, the first egocentric loco-manipulation world foundation model spanning humans and robots with diverse embodiments. We curate Xp-Data, comprising 10k hours of egocentric human data and 3k hours of robot data with unified multimodal annotati",
+      "score": 0.4613
+    },
+    {
+      "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
+      "url": "https://arxiv.org/abs/2610.26848v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: First-Attempt Performance, Efficiency, Success, Budget and Improvement from failure. Different VLMs are evaluated on 18 manipulation tasks under a fixed interaction budget. The analysis of experimental results motivates the Physical Barrel Hypothesis: different capabilities may cons",
+      "en": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: First-Attempt Performance, Efficiency, Success, Budget and Improvement from failure. Different VLMs are evaluated on 18 manipulation tasks under a fixed interaction budget. The analysis of experimental results motivates the Physical Barrel Hypothesis: different capabilities may cons",
+      "score": 0.4613
+    },
+    {
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "en": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "score": 0.6966
+    },
+    {
+      "title": "alchaincyf/huashu-motion",
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent, point at the frame to change it.",
+      "en": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent, point at the frame to change it.",
+      "score": 0.6913
+    },
+    {
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "中小学+高中数学知识图谱 + 前置诊断：课标对齐、人教版一-九年级与高中必修、选择性必修、802 知识点、3355 题、自适应诊断",
+      "en": "中小学+高中数学知识图谱 + 前置诊断：课标对齐、人教版一-九年级与高中必修、选择性必修、802 知识点、3355 题、自适应诊断",
+      "score": 0.6013
+    },
+    {
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "ly05010419/MacNativeGames",
+      "en": "ly05010419/MacNativeGames",
+      "score": 0.0606
+    }
+  ]
+}
