@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-21",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "en": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "score": 0.8148
+    },
+    {
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "en": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "score": 0.7451
+    },
+    {
+      "title": "eMudhra intermediate CA compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "eMudhra intermediate CA compromise",
+      "en": "eMudhra intermediate CA compromise",
+      "score": 0.738
+    },
+    {
+      "title": "Timestral: Mistral's time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Timestral: Mistral's time-series foundation models",
+      "en": "Timestral: Mistral's time-series foundation models",
+      "score": 0.6956
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 8698 likes e 2057942 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 8698 likes e 2057942 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Comfy-Org/MOSS-Image",
+      "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'modelo', com 321 likes e 1290080 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'modelo', com 321 likes e 1290080 downloads.",
+      "score": 0.4482
+    },
+    {
+      "title": "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Containerized datacenters, androids, and telecoms all feature in Berlin keynote interrupted by environmental protesters",
+      "en": "Containerized datacenters, androids, and telecoms all feature in Berlin keynote interrupted by environmental protesters",
+      "score": 0.3982
+    },
+    {
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Show HN: SimCity, but with Permits",
+      "en": "Show HN: SimCity, but with Permits",
+      "score": 0.7276
+    },
+    {
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Voxtral 3",
+      "en": "Voxtral 3",
+      "score": 0.7123
+    },
+    {
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "DeepSeek search and fetch, $0.75 per 1000 successful requests",
+      "en": "DeepSeek search and fetch, $0.75 per 1000 successful requests",
+      "score": 0.5953
+    },
+    {
+      "title": "It's still ok to enjoy programming",
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "It's still ok to enjoy programming",
+      "en": "It's still ok to enjoy programming",
+      "score": 0.5858
+    },
+    {
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Oct 21)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-oct-21-ppl",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "New internship openings at ClickHouse, Paccar, Insomniac Games and more. Apply early.\n\n\n  \n  \n  Research Intern\n\n\n ClickHouse\n\nLocation: Remote in Germany | SF | Remote in USA | Remote in Netherlands\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Technical Content Author Intern - Technical Content Analytics\n\n\n Paccar\n\nLocation: Renton, WA\nCategory: AI & ML\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Technical Artist Intern\n\n\n Insomniac Games\n\nLocation: Burbank, CA\nCategory: Software\n\nFind on Crackr.de",
+      "en": "New internship openings at ClickHouse, Paccar, Insomniac Games and more. Apply early.\n\n\n  \n  \n  Research Intern\n\n\n ClickHouse\n\nLocation: Remote in Germany | SF | Remote in USA | Remote in Netherlands\nCategory: Software\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Technical Content Author Intern - Technical Content Analytics\n\n\n Paccar\n\nLocation: Renton, WA\nCategory: AI & ML\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Technical Artist Intern\n\n\n Insomniac Games\n\nLocation: Burbank, CA\nCategory: Software\n\nFind on Crackr.de",
+      "score": 0.3983
+    },
+    {
+      "title": "A Developer's System for Finishing Online Courses While Working Full-Time",
+      "url": "https://dev.to/alan-matthew/a-developers-system-for-finishing-online-courses-while-working-full-time-15pf",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Most people don't fail online courses because the material is too hard. They fail because the course is competing with a full-time job, and the course loses by default. The fix isn't more willpower. It's better project management.\n\nIf you build software, you already have the mental models. Here's how to apply them to a course.\n\n\n  \n  \n  1. Scope the course like a project\n\n\nBefore week one, read the syllabus the way you'd read a spec.\n\n\n\nList every deliverable with its due date and its weight in ",
+      "en": "Most people don't fail online courses because the material is too hard. They fail because the course is competing with a full-time job, and the course loses by default. The fix isn't more willpower. It's better project management.\n\nIf you build software, you already have the mental models. Here's how to apply them to a course.\n\n\n  \n  \n  1. Scope the course like a project\n\n\nBefore week one, read the syllabus the way you'd read a spec.\n\n\n\nList every deliverable with its due date and its weight in ",
+      "score": 0.3973
+    },
+    {
+      "title": "How to Spot Local Businesses With Broken Websites (a 2-Minute Check Per Site)",
+      "url": "https://dev.to/prospectsignal/how-to-spot-local-businesses-with-broken-websites-a-2-minute-check-per-site-39b6",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A local business that already has a website, but a broken one, can be an easier first client than a business with no site at all. The owner already believes a website matters. What they're missing is someone who noticed the problem and explained it plainly.\n\nThe catch is that \"this site looks dated\" isn't a reason anyone hires you. You need problems the owner can check for themselves in a few seconds. Here's the routine I'd use to find them, one site at a time.\n\n\n  \n  \n  Start with evidence, not",
+      "en": "A local business that already has a website, but a broken one, can be an easier first client than a business with no site at all. The owner already believes a website matters. What they're missing is someone who noticed the problem and explained it plainly.\n\nThe catch is that \"this site looks dated\" isn't a reason anyone hires you. You need problems the owner can check for themselves in a few seconds. Here's the routine I'd use to find them, one site at a time.\n\n\n  \n  \n  Start with evidence, not",
+      "score": 0.349
+    },
+    {
+      "title": "Novo TIM Beta terá 50 GB por R$ 60, mas só entra quem ganhar convite",
+      "url": "https://canaltech.com.br/telecom/novo-tim-beta-tera-50-gb-por-r-60-mas-so-entra-quem-ganhar-convite/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Na última terça-feira (20), a TIM anunciou o BetaCreator, nova versão do TIM Beta que oferece 50 GB de internet por R$ 60 mensais. O plano mantém o preço da modalidade anterior, mas traz mudanças nos benefícios e na forma de contratação. Para entrar, será necessário receber um convite e validar o código pelo aplicativo Meu TIM.\nA oferta inclui acesso a Facebook, Instagram, TikTok e X sem desconto da franquia de dados, além de Deezer Premium e benefícios do TIM Mais.\n\n📱 Veja as melhores promoções",
+      "en": "Na última terça-feira (20), a TIM anunciou o BetaCreator, nova versão do TIM Beta que oferece 50 GB de internet por R$ 60 mensais. O plano mantém o preço da modalidade anterior, mas traz mudanças nos benefícios e na forma de contratação. Para entrar, será necessário receber um convite e validar o código pelo aplicativo Meu TIM.\nA oferta inclui acesso a Facebook, Instagram, TikTok e X sem desconto da franquia de dados, além de Deezer Premium e benefícios do TIM Mais.\n\n📱 Veja as melhores promoções",
+      "score": 0.3486
+    },
+    {
+      "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+      "url": "https://arxiv.org/abs/2610.28632v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump as replayable 3D motion placed in the 3D scene. Here we present a model that directly co-generates the video and 3D motion for any supplied rig, along with a camera that registers this motion to the sc",
+      "en": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump as replayable 3D motion placed in the 3D scene. Here we present a model that directly co-generates the video and 3D motion for any supplied rig, along with a camera that registers this motion to the sc",
+      "score": 0.4607
+    },
+    {
+      "title": "AEON: Unifying Video and 3D World Models",
+      "url": "https://arxiv.org/abs/2610.28631v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consistency; and (2) 3D generative models (e.g., Marble), which generate geometrically consistent scenes but often yield static, less realistic observations. We present AEON, a unified framework that bridges video-based and 3D-based world models and combines the benefits of both. The key insight of AEON l",
+      "en": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consistency; and (2) 3D generative models (e.g., Marble), which generate geometrically consistent scenes but often yield static, less realistic observations. We present AEON, a unified framework that bridges video-based and 3D-based world models and combines the benefits of both. The key insight of AEON l",
+      "score": 0.4607
+    },
+    {
+      "title": "SolarRenderer: Few-Step Generative Reference Rendering",
+      "url": "https://arxiv.org/abs/2610.28630v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and completes the appearance it leaves open. Existing renderers are tied to the representation of one engine, need tens of denoising steps or a costly distillation of their own, and learn from conditions that are not aligned with their target videos. We present SolarRenderer, a structure-conditioned video rende",
+      "en": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and completes the appearance it leaves open. Existing renderers are tied to the representation of one engine, need tens of denoising steps or a costly distillation of their own, and learn from conditions that are not aligned with their target videos. We present SolarRenderer, a structure-conditioned video rende",
+      "score": 0.4607
+    },
+    {
+      "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+      "url": "https://arxiv.org/abs/2610.28629v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs). Although general GBs constitute the vast majority of real-world interfaces in polycrystalline materials, they remain understudied because their s",
+      "en": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs). Although general GBs constitute the vast majority of real-world interfaces in polycrystalline materials, they remain understudied because their s",
+      "score": 0.4607
+    },
+    {
+      "title": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "en": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "score": 0.6986
+    },
+    {
+      "title": "Tencent-Hunyuan/Hy-Memory",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Tencent-Hunyuan/Hy-Memory",
+      "en": "Tencent-Hunyuan/Hy-Memory",
+      "score": 0.0502
+    }
+  ]
+}
