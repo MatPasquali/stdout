@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-22",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "CVE-2026-109618/109619, 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "en": "CVE-2026-109618/109619, 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "score": 0.8741
+    },
+    {
+      "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+      "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Security advisory: Critical remote code execution vulnerabilities, update now",
+      "en": "Security advisory: Critical remote code execution vulnerabilities, update now",
+      "score": 0.7721
+    },
+    {
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Today's PHP security release, and how we're strengthening security",
+      "en": "Today's PHP security release, and how we're strengthening security",
+      "score": 0.7602
+    },
+    {
+      "title": "RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 448 likes e 420 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 448 likes e 420 downloads.",
+      "score": 0.6885
+    },
+    {
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'feature-extraction', com 2834 likes e 185259 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'feature-extraction', com 2834 likes e 185259 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 2083 likes e 124773 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 2083 likes e 124773 downloads.",
+      "score": 0.5306
+    },
+    {
+      "title": "OpenMOSS-Team/MOSS-Image-Base",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 481 likes e 5013 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 481 likes e 5013 downloads.",
+      "score": 0.4386
+    },
+    {
+      "title": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "PHP 8.2.35",
+      "en": "PHP 8.2.35",
+      "score": 0.7279
+    },
+    {
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "en": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "score": 0.7091
+    },
+    {
+      "title": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "EA is shutting down BioWare",
+      "en": "EA is shutting down BioWare",
+      "score": 0.7024
+    },
+    {
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "en": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "score": 0.701
+    },
+    {
+      "title": "The Pulse: Time to rethink software security because of AI?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+      "source": "The Pragmatic Engineer",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A month’s worth of security breaches in a single day, will things get worse before they improve? Also: Anthropic accused of version control “rip off”, and more",
+      "en": "A month’s worth of security breaches in a single day, will things get worse before they improve? Also: Anthropic accused of version control “rip off”, and more",
+      "score": 0.3968
+    },
+    {
+      "title": "Nvidia's Huang: Don't mention the AI-pocalypse",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/22/nvidias-huang-dont-mention-the-ai-pocalypse/5304743",
+      "source": "The Register",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "GPU chief doesn't want to hear about job losses or the end of human civilization",
+      "en": "GPU chief doesn't want to hear about job losses or the end of human civilization",
+      "score": 0.3948
+    },
+    {
+      "title": "These Companies Want Interns This Summer (Oct 22)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-oct-22-2e6f",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Paccar, TikTok, Oshkosh, ClickHouse, Travelers, Insomniac Games are all hiring interns for Summer 2026. Here's what's open.\n\n\n  \n  \n   Paccar\n\n\n2 open internships\n\n\n\nFleet Pricing Intern - Fleet Pricing | Renton, WA\n\n\n\n  \n  \n  - Technical Content Author Intern - Technical Content Analytics | Renton, WA\n\n\n\n  \n  \n   TikTok\n\n\n1 open internships\n\n\n  \n  \n  - Product-Led-Growth Product Manager Project Intern | San Jose, CA\n\n\n\n  \n  \n   Oshkosh\n\n\n1 open internships\n\n\n  \n  \n  - Digital Manufacturing Inte",
+      "en": "Paccar, TikTok, Oshkosh, ClickHouse, Travelers, Insomniac Games are all hiring interns for Summer 2026. Here's what's open.\n\n\n  \n  \n   Paccar\n\n\n2 open internships\n\n\n\nFleet Pricing Intern - Fleet Pricing | Renton, WA\n\n\n\n  \n  \n  - Technical Content Author Intern - Technical Content Analytics | Renton, WA\n\n\n\n  \n  \n   TikTok\n\n\n1 open internships\n\n\n  \n  \n  - Product-Led-Growth Product Manager Project Intern | San Jose, CA\n\n\n\n  \n  \n   Oshkosh\n\n\n1 open internships\n\n\n  \n  \n  - Digital Manufacturing Inte",
+      "score": 0.3484
+    },
+    {
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Oct 22)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-oct-22-g6k",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "New remote roles just dropped from DuckDuckGo, Mitre Media, Lemon.io, Delinea and more. No relocation needed.\n\n\n  \n  \n  Senior Backend Engineer\n\n\n DuckDuckGo\n\nSalary: $190k/yr\nStack: Node.js / JavaScript / Go / Java\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior React Full stack Developer\n\n\n Lemon.io\n\nSalary: $80k - $200k/yr\nStack: React / Node.js / TypeS",
+      "en": "New remote roles just dropped from DuckDuckGo, Mitre Media, Lemon.io, Delinea and more. No relocation needed.\n\n\n  \n  \n  Senior Backend Engineer\n\n\n DuckDuckGo\n\nSalary: $190k/yr\nStack: Node.js / JavaScript / Go / Java\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Tech Lead Full-Stack Rails Engineer\n\n\n Mitre Media\n\nSalary: $170k - $200k/yr\nStack: React / JavaScript / Java / Ruby\n\nFind on Crackr.dev\n\n\n\n\n\n  \n  \n  Senior React Full stack Developer\n\n\n Lemon.io\n\nSalary: $80k - $200k/yr\nStack: React / Node.js / TypeS",
+      "score": 0.3484
+    },
+    {
+      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+      "url": "https://arxiv.org/abs/2610.30132v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL, and existing synthesis methods depend on external corpora or stronger teacher models, which become harder to obtain as the trained models get stronger. Recently, RL from zero data, in which a model l",
+      "en": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL, and existing synthesis methods depend on external corpora or stronger teacher models, which become harder to obtain as the trained models get stronger. Recently, RL from zero data, in which a model l",
+      "score": 0.4609
+    },
+    {
+      "title": "Rethinking Video Autoencoders for Interactive World Models",
+      "url": "https://arxiv.org/abs/2610.30129v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate in the latent space of a video autoencoder, whose compression sets their cost per frame and how long each action waits to take effect. Yet world models often reuse the autoencoders of text-to-video generators, built for offline generation with no agent waiting and, without their training data and cod",
+      "en": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate in the latent space of a video autoencoder, whose compression sets their cost per frame and how long each action waits to take effect. Yet world models often reuse the autoencoders of text-to-video generators, built for offline generation with no agent waiting and, without their training data and cod",
+      "score": 0.4608
+    },
+    {
+      "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+      "url": "https://arxiv.org/abs/2610.30125v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface friction. Without calibrating these physics factors for world models, predictions tend to regress toward an empirical prior and induce severe drift in novel test scenes. To this end, we propose PhysiCalWorld, which calibrates a",
+      "en": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface friction. Without calibrating these physics factors for world models, predictions tend to regress toward an empirical prior and induce severe drift in novel test scenes. To this end, we propose PhysiCalWorld, which calibrates a",
+      "score": 0.4608
+    },
+    {
+      "title": "The role of locality and weight sharing in convolutional neural networks",
+      "url": "https://arxiv.org/abs/2610.30118v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "The success of convolutional neural networks is often attributed to locality and weight sharing. However, how these two properties separately shape learning, and how their effects depend on the spatial correlations of natural images, remain poorly understood. We address these questions in a teacher-student model with a convolutional teacher acting on $P$ input positions with correlation $c$ between positions. We compare convolutional and locally connected students trained by online stochastic gr",
+      "en": "The success of convolutional neural networks is often attributed to locality and weight sharing. However, how these two properties separately shape learning, and how their effects depend on the spatial correlations of natural images, remain poorly understood. We address these questions in a teacher-student model with a convolutional teacher acting on $P$ input positions with correlation $c$ between positions. We compare convolutional and locally connected students trained by online stochastic gr",
+      "score": 0.4608
+    },
+    {
+      "title": "humblemuzzu/dumbtv",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+      "en": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+      "score": 0.6532
+    },
+    {
+      "title": "tek-sys-hub/Rubix-lang",
+      "url": "https://github.com/tek-sys-hub/Rubix-lang",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "The 100% Pure x86-64 Assembly Systems Language",
+      "en": "The 100% Pure x86-64 Assembly Systems Language",
+      "score": 0.653
+    },
+    {
+      "title": "Ansub/tv-detox",
+      "url": "https://github.com/Ansub/tv-detox",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "en": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "score": 0.6339
+    }
+  ]
+}
