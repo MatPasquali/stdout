@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-24",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Every AI model has the same \"controversial\" take on humans",
+      "en": "Every AI model has the same \"controversial\" take on humans",
+      "score": 0.7853
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "en": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "score": 0.7614
+    },
+    {
+      "title": "wesbos/3d-model-anything",
+      "url": "https://github.com/wesbos/3d-model-anything",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+      "en": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+      "score": 0.7247
+    },
+    {
+      "title": "black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-image', com 1460 likes e 590742 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-image', com 1460 likes e 590742 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "fishaudio/drama-3",
+      "url": "https://huggingface.co/fishaudio/drama-3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-speech', com 964 likes e 19831 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-speech', com 964 likes e 19831 downloads.",
+      "score": 0.5215
+    },
+    {
+      "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 322 likes e 5583 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 322 likes e 5583 downloads.",
+      "score": 0.5207
+    },
+    {
+      "title": "AI models think humans are a bunch of amoral sheep",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Ask LLMs for their most controversial take on humanity, and it turns out they have little nice to say about us, as one AI experiment found",
+      "en": "Ask LLMs for their most controversial take on humanity, and it turns out they have little nice to say about us, as one AI experiment found",
+      "score": 0.4104
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Today, we hacked what we'd set out to hack: the iPhone",
+      "en": "Today, we hacked what we'd set out to hack: the iPhone",
+      "score": 0.7591
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Apple Music 404 Not Found",
+      "en": "Apple Music 404 Not Found",
+      "score": 0.7406
+    },
+    {
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry",
+      "url": "https://news.ycombinator.com/item?id=50193416",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry",
+      "en": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry",
+      "score": 0.6841
+    },
+    {
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "There isn't an easy exploit for this PHP vulnerability",
+      "en": "There isn't an easy exploit for this PHP vulnerability",
+      "score": 0.6541
+    },
+    {
+      "title": "Why I Chose Software Engineering, Navigating AI in Real Projects, and My Vision for the Future",
+      "url": "https://dev.to/t2ha4d/why-i-chose-software-engineering-navigating-ai-in-real-projects-and-my-vision-for-the-future-cic",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "The world is moving fast toward complete digital transformation. As technology becomes central to every major industry, from finance to healthcare, I realized early on that staying on the sidelines was never an option for me.\n\nI chose software engineering because of the future it holds and the opportunity to build systems people actually rely on every single day. As a senior student, my current focus is on full-stack web development, and my long-term plan is to move deeper into cybersecurity. To",
+      "en": "The world is moving fast toward complete digital transformation. As technology becomes central to every major industry, from finance to healthcare, I realized early on that staying on the sidelines was never an option for me.\n\nI chose software engineering because of the future it holds and the opportunity to build systems people actually rely on every single day. As a senior student, my current focus is on full-stack web development, and my long-term plan is to move deeper into cybersecurity. To",
+      "score": 0.3965
+    },
+    {
+      "title": "Why I Treat Delivery Capacity as a Sales Constraint",
+      "url": "https://dev.to/ashkan/why-i-treat-delivery-capacity-as-a-sales-constraint-4gbn",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Most services companies separate sales and delivery in their heads. Sales brings in revenue. Delivery figures out how to fulfill it. When the two collide, the usual answer is \"we'll hire.\"\n\nI learned to think about it differently. As a partner, I helped grow a software consulting company from about $6M to $60M in under three years. Later I founded and scaled a fully remote software consultancy. In both cases, the moments of greatest risk were not the slow months. They were the months when sales ",
+      "en": "Most services companies separate sales and delivery in their heads. Sales brings in revenue. Delivery figures out how to fulfill it. When the two collide, the usual answer is \"we'll hire.\"\n\nI learned to think about it differently. As a partner, I helped grow a software consulting company from about $6M to $60M in under three years. Later I founded and scaled a fully remote software consultancy. In both cases, the moments of greatest risk were not the slow months. They were the months when sales ",
+      "score": 0.3497
+    },
+    {
+      "title": "Remote applications: what changes when nobody meets you first",
+      "url": "https://dev.to/mitulgelani/remote-applications-what-changes-when-nobody-meets-you-first-23i3",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A remote job application is not just an office application with a different location. Before anyone schedules a call, your writing, timing, and proof of work may have to do more of the introducing. That does not mean performing a polished online personality. It means making it easy for a busy person to understand how you work when the first contact is written.\n\n\n  \n  \n  Show that you can work across time zones\n\n\nDo not hide your location in a footer. Put your city, country, and time zone near yo",
+      "en": "A remote job application is not just an office application with a different location. Before anyone schedules a call, your writing, timing, and proof of work may have to do more of the introducing. That does not mean performing a polished online personality. It means making it easy for a busy person to understand how you work when the first contact is written.\n\n\n  \n  \n  Show that you can work across time zones\n\n\nDo not hide your location in a footer. Put your city, country, and time zone near yo",
+      "score": 0.349
+    },
+    {
+      "title": "Security testing for QA engineers: what Verizon, IBM and OWASP 2025 tell us",
+      "url": "https://dev.to/automationdatacamp/security-testing-for-qa-engineers-what-verizon-ibm-and-owasp-2025-tell-us-2jmd",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Security work is moving closer to testing. Breaches are costly, attackers often get in through known weaknesses, and US employers keep hiring in the field. Here are three public sources (Verizon, IBM and the US Bureau of Labor Statistics), plus the OWASP Top 10, and what a tester can take from them.\n\nOne rule before anything else: security testing is done only on systems you are authorised to test, with the owner's written permission. Everything below rests on that rule.\n\n\n  \n  \n  TL;DR\n\n\n\n\nVeri",
+      "en": "Security work is moving closer to testing. Breaches are costly, attackers often get in through known weaknesses, and US employers keep hiring in the field. Here are three public sources (Verizon, IBM and the US Bureau of Labor Statistics), plus the OWASP Top 10, and what a tester can take from them.\n\nOne rule before anything else: security testing is done only on systems you are authorised to test, with the owner's written permission. Everything below rests on that rule.\n\n\n  \n  \n  TL;DR\n\n\n\n\nVeri",
+      "score": 0.3471
+    },
+    {
+      "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
+      "url": "https://arxiv.org/abs/2610.31636v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather than a classifier: a tool-using agent explores the corpus through a read-only, budgeted API and compiles each finding into an executable test, which a native speaker then validates. On the 26.5M-document Slovak portion of FineWeb2, three runs costing \\$2.21-\\$2.84 each found seven findings over four ",
+      "en": "Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather than a classifier: a tool-using agent explores the corpus through a read-only, budgeted API and compiles each finding into an executable test, which a native speaker then validates. On the 26.5M-document Slovak portion of FineWeb2, three runs costing \\$2.21-\\$2.84 each found seven findings over four ",
+      "score": 0.4201
+    },
+    {
+      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+      "url": "https://arxiv.org/abs/2610.31670v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the st",
+      "en": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the st",
+      "score": 0.3703
+    },
+    {
+      "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+      "url": "https://arxiv.org/abs/2610.31668v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving world. This survey adopts world modeling as a unifying lens for examining these developments. Viewing an observed video as a partial, lossy, and temporally ordered projection of a latent temporal world, w",
+      "en": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving world. This survey adopts world modeling as a unifying lens for examining these developments. Viewing an observed video as a partial, lossy, and temporally ordered projection of a latent temporal world, w",
+      "score": 0.3703
+    },
+    {
+      "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+      "url": "https://arxiv.org/abs/2610.31662v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for example, one agent may propose a decision, while a separate verifier agent evaluates it and outputs a correctness or safety score. Based on this information, we must decide whether to accept the AI deci",
+      "en": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for example, one agent may propose a decision, while a separate verifier agent evaluates it and outputs a correctness or safety score. Based on this information, we must decide whether to accept the AI deci",
+      "score": 0.3703
+    },
+    {
+      "title": "xevrion/hatchzip",
+      "url": "https://github.com/xevrion/hatchzip",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+      "en": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+      "score": 0.6711
+    },
+    {
+      "title": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+      "en": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+      "score": 0.5694
+    },
+    {
+      "title": "oosexgang/hackios-xnu-kernel",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "oosexgang/hackios-xnu-kernel",
+      "en": "oosexgang/hackios-xnu-kernel",
+      "score": 0.0732
+    }
+  ]
+}
