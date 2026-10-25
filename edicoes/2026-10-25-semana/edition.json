@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-25",
+  "weekly": true,
+  "range": "19/10 a 25/10",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "CVE-2026-109618/109619, 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "en": "CVE-2026-109618/109619, 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "score": 0.8741
+    },
+    {
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "DeepSeek just open-sourced its inference engine",
+      "en": "DeepSeek just open-sourced its inference engine",
+      "score": 0.8384
+    },
+    {
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "en": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "score": 0.8251
+    },
+    {
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "en": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "score": 0.8148
+    },
+    {
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Namecheap just seized and disabled all my domains",
+      "en": "Namecheap just seized and disabled all my domains",
+      "score": 0.8002
+    },
+    {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Every AI model has the same \"controversial\" take on humans",
+      "en": "Every AI model has the same \"controversial\" take on humans",
+      "score": 0.7853
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "en": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "score": 0.7823
+    },
+    {
+      "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+      "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Security advisory: Critical remote code execution vulnerabilities, update now",
+      "en": "Security advisory: Critical remote code execution vulnerabilities, update now",
+      "score": 0.7721
+    },
+    {
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "en": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "score": 0.7641
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "score": 0.7626
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "en": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "score": 0.7614
+    },
+    {
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Today's PHP security release, and how we're strengthening security",
+      "en": "Today's PHP security release, and how we're strengthening security",
+      "score": 0.7602
+    }
+  ]
+}

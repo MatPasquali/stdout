@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-25",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "en": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "score": 0.8251
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "en": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "score": 0.7823
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "en": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "score": 0.7473
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-M3.1-Flash",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 335 likes e 7355 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 335 likes e 7355 downloads.",
+      "score": 0.6
+    },
+    {
+      "title": "InternScience/Sage-A1.5",
+      "url": "https://huggingface.co/InternScience/Sage-A1.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 283 likes e 3875 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 283 likes e 3875 downloads.",
+      "score": 0.5355
+    },
+    {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+      "en": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+      "score": 0.3973
+    },
+    {
+      "title": "Moonshot limita capacidades de seu modelo de IA mais avançado para evitar ataques hackers",
+      "url": "https://olhardigital.com.br/2026/10/25/inteligencia-artificial/moonshot-limita-capacidades-de-seu-modelo-de-ia-mais-avancado-para-evitar-ataques-hackers/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A startup chinesa Moonshot AI anunciou neste fim de semana que reduziu as capacidades ciberofensivas de seu mais novo modelo de inteligência artificial.\nO post Moonshot limita capacidades de seu modelo de IA mais avançado para evitar ataques hackers apareceu primeiro em Olhar Digital.",
+      "en": "A startup chinesa Moonshot AI anunciou neste fim de semana que reduziu as capacidades ciberofensivas de seu mais novo modelo de inteligência artificial.\nO post Moonshot limita capacidades de seu modelo de IA mais avançado para evitar ataques hackers apareceu primeiro em Olhar Digital.",
+      "score": 0.3953
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "en": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "score": 0.7323
+    },
+    {
+      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "en": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "score": 0.6182
+    },
+    {
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "en": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "score": 0.3675
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "en": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "score": 0.359
+    },
+    {
+      "title": "Your resume says \"40% faster.\" Can you explain the measurement?",
+      "url": "https://dev.to/nailrole/your-resume-says-40-faster-can-you-explain-the-measurement-282i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A resume bullet can fit on one line. The explanation behind it needs a process, a baseline and a clear account of your contribution.\n\nBefore sending a resume that says “40% faster,” rehearse one follow-up: What exactly became faster, and how did you measure it?\n\nDisclosure: this article was generated by Nailrole’s AI agent from an existing illustrative profile and the sources linked below. It is not a firsthand hiring story or a customer outcome.\n\n\n  \n  \n  Start with the process you actually mea",
+      "en": "A resume bullet can fit on one line. The explanation behind it needs a process, a baseline and a clear account of your contribution.\n\nBefore sending a resume that says “40% faster,” rehearse one follow-up: What exactly became faster, and how did you measure it?\n\nDisclosure: this article was generated by Nailrole’s AI agent from an existing illustrative profile and the sources linked below. It is not a firsthand hiring story or a customer outcome.\n\n\n  \n  \n  Start with the process you actually mea",
+      "score": 0.3997
+    },
+    {
+      "title": "AI IS CHANGING THE GAME — BUT DEVELOPERS ARE STILL IN CONTROL.",
+      "url": "https://dev.to/collins_odiera_7d76e0e91b/ai-is-changing-the-game-but-developers-are-still-in-control-ae0",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "AI IS CHANGING THE GAME, BUT DEVELOPERS ARE STILL IN CONTROL.\n\nWe are living in an era where AI can write code, debug applications, generate designs, and even build entire websites from a simple prompt.\n\nBut here is the real question: Will AI replace software developers, or will developers who use AI replace those who don't?\n\nThe future belongs to those who understand more than just how to write code. It belongs to people who can:\n\n\nBuild real-world solutions.\nThink critically and solve complex",
+      "en": "AI IS CHANGING THE GAME, BUT DEVELOPERS ARE STILL IN CONTROL.\n\nWe are living in an era where AI can write code, debug applications, generate designs, and even build entire websites from a simple prompt.\n\nBut here is the real question: Will AI replace software developers, or will developers who use AI replace those who don't?\n\nThe future belongs to those who understand more than just how to write code. It belongs to people who can:\n\n\nBuild real-world solutions.\nThink critically and solve complex",
+      "score": 0.3996
+    },
+    {
+      "title": "Vibe Coding is Not Engineering: You Are Just a Prompt Monkey",
+      "url": "https://dev.to/juliqn_stonov_1a449be254e/vibe-coding-is-not-engineering-you-are-just-a-prompt-monkey-340e",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Let us be honest for a second. The tech industry has hit rock bottom with the term \"Vibe Coding\". Software engineering used to be about memory management, system architecture, database optimization, and deep logical thinking. Today, the new wave of developers just opens Cursor AI or Copilot, types three lines of plain English, and hopes for the best.\nIf you do not know how your code compiles, if you cannot read a stack trace without asking an AI, and if your entire deploy pipeline relies on an L",
+      "en": "Let us be honest for a second. The tech industry has hit rock bottom with the term \"Vibe Coding\". Software engineering used to be about memory management, system architecture, database optimization, and deep logical thinking. Today, the new wave of developers just opens Cursor AI or Copilot, types three lines of plain English, and hopes for the best.\nIf you do not know how your code compiles, if you cannot read a stack trace without asking an AI, and if your entire deploy pipeline relies on an L",
+      "score": 0.3983
+    },
+    {
+      "title": "Which AI companies are hiring engineers, and what they pay: 691 jobs from career pages in 9 seconds",
+      "url": "https://dev.to/cleanscrape/which-ai-companies-are-hiring-engineers-and-what-they-pay-691-jobs-from-career-pages-in-9-seconds-34e4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Job boards repost, duplicate and keep expired listings. The cleanest source for who is hiring is the company's own careers page, and most companies run it on one of a handful of job board systems: Greenhouse, Lever, Ashby, Workable, Recruitee, Personio or Teamtailor. So I built a small tool on Apify that reads those boards directly.\n\nHere is one real run: engineering jobs at seven AI companies.\n\n  \n  \n\n\n\n  \n  \n  The input\n\n\nYou can paste a careers link, the company's website, or just its name. T",
+      "en": "Job boards repost, duplicate and keep expired listings. The cleanest source for who is hiring is the company's own careers page, and most companies run it on one of a handful of job board systems: Greenhouse, Lever, Ashby, Workable, Recruitee, Personio or Teamtailor. So I built a small tool on Apify that reads those boards directly.\n\nHere is one real run: engineering jobs at seven AI companies.\n\n  \n  \n\n\n\n  \n  \n  The input\n\n\nYou can paste a careers link, the company's website, or just its name. T",
+      "score": 0.3489
+    },
+    {
+      "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+      "url": "https://arxiv.org/abs/2610.31659v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset-use auditing plants a shared signal in a dataset before release, then later checks whether that signal appears in a suspect model's generated outputs. Existing approaches often trade off verifiability, fidelity, robustness, and deployability. We introduce $\\textbf{SpectralCanary",
+      "en": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset-use auditing plants a shared signal in a dataset before release, then later checks whether that signal appears in a suspect model's generated outputs. Existing approaches often trade off verifiability, fidelity, robustness, and deployability. We introduce $\\textbf{SpectralCanary",
+      "score": 0.3268
+    },
+    {
+      "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.31656v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from past trajectories at quadratic memory and computation cost. In this work, we propose Memory-Enhanced Test-Time Adaptation (METTA) for meta-reinforcement learning. It decomposes the fast adaptation pha",
+      "en": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from past trajectories at quadratic memory and computation cost. In this work, we propose Memory-Enhanced Test-Time Adaptation (METTA) for meta-reinforcement learning. It decomposes the fast adaptation pha",
+      "score": 0.3268
+    },
+    {
+      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+      "url": "https://arxiv.org/abs/2610.31651v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, colliding, or disconnected parts. We argue that providing agents with tools for assembling builds and verifying their physical feasibility is sufficient for them to produce physically valid assemblies that still adhere to input prompts. Focusing on the domain of LEGO brick builds,",
+      "en": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, colliding, or disconnected parts. We argue that providing agents with tools for assembling builds and verifying their physical feasibility is sufficient for them to produce physically valid assemblies that still adhere to input prompts. Focusing on the domain of LEGO brick builds,",
+      "score": 0.3268
+    },
+    {
+      "title": "Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation",
+      "url": "https://arxiv.org/abs/2610.31649v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Single-image 3D generation has achieved high fidelity on curated benchmarks, yet degrades sharply on real-world images with uneven illumination, blur, and occlusions. Purifying such inputs requires deciding when to intervene and preserving the visual cues needed for 3D generation, while leaving clean inputs unchanged. We introduce Gate3DGen, a selective pre-processing model that gates image inputs to existing 3D generators without retraining them. A degradation-aware router bypasses inputs class",
+      "en": "Single-image 3D generation has achieved high fidelity on curated benchmarks, yet degrades sharply on real-world images with uneven illumination, blur, and occlusions. Purifying such inputs requires deciding when to intervene and preserving the visual cues needed for 3D generation, while leaving clean inputs unchanged. We introduce Gate3DGen, a selective pre-processing model that gates image inputs to existing 3D generators without retraining them. A degradation-aware router bypasses inputs class",
+      "score": 0.3268
+    },
+    {
+      "title": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+      "en": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+      "score": 0.6677
+    },
+    {
+      "title": "ELY-Open-Source/ElyOffice",
+      "url": "https://github.com/ELY-Open-Source/ElyOffice",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Ely Office: offline-first desktop apps in Rust and GPUI",
+      "en": "Ely Office: offline-first desktop apps in Rust and GPUI",
+      "score": 0.6069
+    },
+    {
+      "title": "colinhacks/reylo",
+      "url": "https://github.com/colinhacks/reylo",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "en": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "score": 0.5674
+    },
+    {
+      "title": "Jakeschincariol/day-trader-skill",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "en": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "score": 0.5562
+    }
+  ]
+}
