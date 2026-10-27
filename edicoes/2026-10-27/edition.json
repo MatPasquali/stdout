@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-27",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Three new discoveries in mathematics, computer science, and physics",
+      "en": "Three new discoveries in mathematics, computer science, and physics",
+      "score": 0.8158
+    },
+    {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "en": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "score": 0.7837
+    },
+    {
+      "title": "enesozturk/dimensional-drawing",
+      "url": "https://github.com/enesozturk/dimensional-drawing",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Create Apple style dimensional drawings of UI components.",
+      "en": "Create Apple style dimensional drawings of UI components.",
+      "score": 0.5916
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "en": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "score": 0.7308
+    },
+    {
+      "title": "unsloth/flint-GGUF",
+      "url": "https://huggingface.co/unsloth/flint-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 282 likes e 149888 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 282 likes e 149888 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face Blog",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Can we trust LLMs to judge whether a research idea is novel?",
+      "en": "Can we trust LLMs to judge whether a research idea is novel?",
+      "score": 0.3991
+    },
+    {
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]",
+      "en": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]",
+      "score": 0.3987
+    },
+    {
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The Exponential Time Hypothesis Is False [pdf]",
+      "en": "The Exponential Time Hypothesis Is False [pdf]",
+      "score": 0.7406
+    },
+    {
+      "title": "My favorite robot vacuum just got quieter, and more expensive",
+      "url": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of just 52 decibels at its highest suction level, the Serene claims to be about as quiet as a […]",
+      "en": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of just 52 decibels at its highest suction level, the Serene claims to be about as quiet as a […]",
+      "score": 0.4487
+    },
+    {
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "en": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "score": 0.3996
+    },
+    {
+      "title": "Hora de turbinar seu PC: selecionamos ótimas memórias RAM em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/10/27/reviews/hora-de-turbinar-seu-pc-selecionamos-otimas-memorias-ram-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se o seu computador anda travando ou você quer montar uma nova máquina com mais desempenho, essa é a hora certa de investir em memória RAM. Reunimos três opções em oferta na Amazon, com modelos DDR5 de fabricantes renomados como Corsair e Adata, para diferentes necessidades e configurações. Confira! CORSAIR Vengeance DDR5 16GB 5200MHz CL40 […]\nO post Hora de turbinar seu PC: selecionamos ótimas memórias RAM em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Se o seu computador anda travando ou você quer montar uma nova máquina com mais desempenho, essa é a hora certa de investir em memória RAM. Reunimos três opções em oferta na Amazon, com modelos DDR5 de fabricantes renomados como Corsair e Adata, para diferentes necessidades e configurações. Confira! CORSAIR Vengeance DDR5 16GB 5200MHz CL40 […]\nO post Hora de turbinar seu PC: selecionamos ótimas memórias RAM em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3993
+    },
+    {
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "en": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "score": 0.7507
+    },
+    {
+      "title": "AI Training Jobs Explained: How Developers Can Earn by Training AI Models",
+      "url": "https://dev.to/ajogi_paul_24dd367ee8be9e/ai-training-jobs-explained-how-developers-can-earn-by-training-ai-models-27co",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "AI Training Jobs Explained: How Developers Can Earn by Training AI Models\n\n\nArtificial intelligence is changing how software is built, but there's another opportunity developers should pay attention to: AI training jobs.\n\nCompanies developing AI models need more than powerful computers and algorithms. They also need people who understand programming, can evaluate technical outputs, identify errors, and provide feedback that makes AI systems more reliable.\n\nThis has created opportunities for soft",
+      "en": "AI Training Jobs Explained: How Developers Can Earn by Training AI Models\n\n\nArtificial intelligence is changing how software is built, but there's another opportunity developers should pay attention to: AI training jobs.\n\nCompanies developing AI models need more than powerful computers and algorithms. They also need people who understand programming, can evaluate technical outputs, identify errors, and provide feedback that makes AI systems more reliable.\n\nThis has created opportunities for soft",
+      "score": 0.4984
+    },
+    {
+      "title": "AI SDRs Cost $1 a Lead or $3,750 a Month. Humans Still Close the Deal.",
+      "url": "https://dev.to/ashkan/ai-sdrs-cost-1-a-lead-or-3750-a-month-humans-still-close-the-deal-432i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A September 2026 comparison of 13 AI sales development tools at aiagentforsales.com lists published prices from $1 per qualified lead (HubSpot Breeze Prospecting) to $3,750 a month and up for an autonomous AI BDR (11x Alice Growth). It compares those numbers with $98,000 to $173,000 a year for a fully loaded human SDR. The same page cites 2026 industry surveys: 22% of teams say they fully replaced human SDRs with AI, 45% run hybrid models, and about 2% report pure AI SDR deployments that stuck.\n",
+      "en": "A September 2026 comparison of 13 AI sales development tools at aiagentforsales.com lists published prices from $1 per qualified lead (HubSpot Breeze Prospecting) to $3,750 a month and up for an autonomous AI BDR (11x Alice Growth). It compares those numbers with $98,000 to $173,000 a year for a fully loaded human SDR. The same page cites 2026 industry surveys: 22% of teams say they fully replaced human SDRs with AI, 45% run hybrid models, and about 2% report pure AI SDR deployments that stuck.\n",
+      "score": 0.4482
+    },
+    {
+      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "source": "The Pragmatic Engineer",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "“AI SRE” is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
+      "en": "“AI SRE” is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
+      "score": 0.3493
+    },
+    {
+      "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+      "url": "https://arxiv.org/abs/2610.35868v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose DecisionRAG, which brings the capabilities of pretrained language models to retrieval using decision models that jointly evaluate candidate branches in a single forward pass, without generating any tokens, and show that ",
+      "en": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose DecisionRAG, which brings the capabilities of pretrained language models to retrieval using decision models that jointly evaluate candidate branches in a single forward pass, without generating any tokens, and show that ",
+      "score": 0.4594
+    },
+    {
+      "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+      "url": "https://arxiv.org/abs/2610.35866v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating autonomous research systems and discovering ideas in language modeling. Arena supports diverse research objectives within a shared experimental environment by separating admissibility from improvement: model quality and resource constraints determine whether a result qualifies, while",
+      "en": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating autonomous research systems and discovering ideas in language modeling. Arena supports diverse research objectives within a shared experimental environment by separating admissibility from improvement: model quality and resource constraints determine whether a result qualifies, while",
+      "score": 0.4594
+    },
+    {
+      "title": "VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
+      "url": "https://arxiv.org/abs/2610.35864v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a ruleconsistent game or narration synchronized to on-screen events. A different route is emerging: multimodal agents that write code to render every frame and synthesize every sound. We introduce VibeVideoBench, a benchmark for evaluating agents on code-driven video generation. Its 239 self-contained tasks in English and Chinese span 12 categories, from data stories and music-driven",
+      "en": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a ruleconsistent game or narration synchronized to on-screen events. A different route is emerging: multimodal agents that write code to render every frame and synthesize every sound. We introduce VibeVideoBench, a benchmark for evaluating agents on code-driven video generation. Its 239 self-contained tasks in English and Chinese span 12 categories, from data stories and music-driven",
+      "score": 0.4594
+    },
+    {
+      "title": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
+      "url": "https://arxiv.org/abs/2610.35847v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across a longitudinal care pathway. Here we introduce NPC-RubricBench, a phase-aware benchmark for evaluating multistage clinical reasoning across the cancer care continuum, using nasopharyngeal carcinoma as a defined disease context. Curated from longitudinal records of 405 patients across two cancer cen",
+      "en": "Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across a longitudinal care pathway. Here we introduce NPC-RubricBench, a phase-aware benchmark for evaluating multistage clinical reasoning across the cancer care continuum, using nasopharyngeal carcinoma as a defined disease context. Curated from longitudinal records of 405 patients across two cancer cen",
+      "score": 0.4593
+    },
+    {
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "unclebob/ub-mode",
+      "en": "unclebob/ub-mode",
+      "score": 0.0713
+    }
+  ]
+}
