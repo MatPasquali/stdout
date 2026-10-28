@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-28",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "en": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "score": 0.7813
+    },
+    {
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "en": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "score": 0.7736
+    },
+    {
+      "title": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "en": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "score": 0.767
+    },
+    {
+      "title": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI promised less work. I've never worked more",
+      "en": "AI promised less work. I've never worked more",
+      "score": 0.7516
+    },
+    {
+      "title": "baidu/Unlimited-OCR-2",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 310 likes e 8357 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 310 likes e 8357 downloads.",
+      "score": 0.6034
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 9675 likes e 2234788 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 9675 likes e 2234788 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 336 likes e 8892 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 336 likes e 8892 downloads.",
+      "score": 0.5107
+    },
+    {
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Ghostty 1.4",
+      "en": "Ghostty 1.4",
+      "score": 0.7566
+    },
+    {
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Apple's git still trusts the compromised eMudhra certificates",
+      "en": "Apple's git still trusts the compromised eMudhra certificates",
+      "score": 0.756
+    },
+    {
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Genie 4",
+      "en": "Genie 4",
+      "score": 0.7399
+    },
+    {
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "en": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "score": 0.7397
+    },
+    {
+      "title": "What Is \"Long-Context Networking\"? How AI Agents Streamline Business Communication",
+      "url": "https://dev.to/questmeet/what-is-long-context-networking-how-ai-agents-streamline-business-communication-2lgn",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A professional may have years of project documentation, case studies, recorded demos, and customer success stories. A prospective client may have a detailed business problem, specific constraints, and clear expectations for collaboration. Yet their first exchange often looks like this:\n\n\"I'm a senior full-stack developer.\"\n\n\"We're looking for someone who knows React.\"\n\nNeither statement is wrong. But almost everything that could help them assess a possible collaboration has disappeared.\n\nBusines",
+      "en": "A professional may have years of project documentation, case studies, recorded demos, and customer success stories. A prospective client may have a detailed business problem, specific constraints, and clear expectations for collaboration. Yet their first exchange often looks like this:\n\n\"I'm a senior full-stack developer.\"\n\n\"We're looking for someone who knows React.\"\n\nNeither statement is wrong. But almost everything that could help them assess a possible collaboration has disappeared.\n\nBusines",
+      "score": 0.3997
+    },
+    {
+      "title": "How Financial Controllers Use iPhone Notes to Track Accounting Insights",
+      "url": "https://dev.to/nemos_app/how-financial-controllers-use-iphone-notes-to-track-accounting-insights-4phm",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "TL;DR\n\nHow Financial Controllers Use iPhone Notes to Track Accounting Insights. Capture the insights that build lasting expertise.\n\nProfessional work in this domain generates insights continuously, through client engagements, market observations, peer conversations, and direct practice. The observation that arrives during a transaction, a session, or a market event is most valuable when captured immediately.\n\niPhone notes provide a personal knowledge layer that stays with you through every cont",
+      "en": "TL;DR\n\nHow Financial Controllers Use iPhone Notes to Track Accounting Insights. Capture the insights that build lasting expertise.\n\nProfessional work in this domain generates insights continuously, through client engagements, market observations, peer conversations, and direct practice. The observation that arrives during a transaction, a session, or a market event is most valuable when captured immediately.\n\niPhone notes provide a personal knowledge layer that stays with you through every cont",
+      "score": 0.3497
+    },
+    {
+      "title": "OpenAI, Ramp and Notion jobs API: the Ashby job board API and the pay behind one flag",
+      "url": "https://dev.to/glitchbound/openai-ramp-and-notion-jobs-api-the-ashby-job-board-api-and-the-pay-behind-one-flag-2bb8",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "OpenAI (openai), Ramp (ramp) and Notion (notion) post their jobs on Ashby, and Ashby publishes every job board through a public API with no key and no paging:\n\n\n\ncurl -s \"https://api.ashbyhq.com/posting-api/job-board/openai\" \\\n  | jq '(.jobs | length), (.jobs[0] | has(\"compensation\"))'\n\n\n\n\n\n\nThat printed 808 and false: every OpenAI job in one response of 13.5 MB, and no pay in it. Five things to know, measured on 2026-10-28 with a few seconds between requests.\n\n\n  \n  \n  1. The pay needs includeC",
+      "en": "OpenAI (openai), Ramp (ramp) and Notion (notion) post their jobs on Ashby, and Ashby publishes every job board through a public API with no key and no paging:\n\n\n\ncurl -s \"https://api.ashbyhq.com/posting-api/job-board/openai\" \\\n  | jq '(.jobs | length), (.jobs[0] | has(\"compensation\"))'\n\n\n\n\n\n\nThat printed 808 and false: every OpenAI job in one response of 13.5 MB, and no pay in it. Five things to know, measured on 2026-10-28 with a few seconds between requests.\n\n\n  \n  \n  1. The pay needs includeC",
+      "score": 0.3495
+    },
+    {
+      "title": "Cisco CCNA Certification 2026: Exam, Salary & Career Guide",
+      "url": "https://dev.to/ccieshubham/cisco-ccna-certification-2026-exam-salary-career-guide-155p",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Introduction: What Is Cisco CCNA Certification?\n\n\nThe Cisco CCNA certification is one of the most widely recognized entry-level professional certifications for individuals interested in computer networking, IT infrastructure, and network security. It helps learners develop the technical knowledge required to understand, configure, and troubleshoot modern networks.\n\nFor students, fresh graduates, IT support professionals, and aspiring network engineers, preparing for the Cisco Certified Network A",
+      "en": "Introduction: What Is Cisco CCNA Certification?\n\n\nThe Cisco CCNA certification is one of the most widely recognized entry-level professional certifications for individuals interested in computer networking, IT infrastructure, and network security. It helps learners develop the technical knowledge required to understand, configure, and troubleshoot modern networks.\n\nFor students, fresh graduates, IT support professionals, and aspiring network engineers, preparing for the Cisco Certified Network A",
+      "score": 0.3493
+    },
+    {
+      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "url": "https://arxiv.org/abs/2610.37666v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a fundamental trade-off between scalable data and explicit action grounding. We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics and strength",
+      "en": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a fundamental trade-off between scalable data and explicit action grounding. We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics and strength",
+      "score": 0.4586
+    },
+    {
+      "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+      "url": "https://arxiv.org/abs/2610.37657v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following injected instructions. We evaluate HoS on Llama-3.3-70B-Instruct and GPT-OSS-20B. We compare it against SecAlign++, a state-of-the-art finetuning-based defense, and ASIDE, a defens",
+      "en": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following injected instructions. We evaluate HoS on Llama-3.3-70B-Instruct and GPT-OSS-20B. We compare it against SecAlign++, a state-of-the-art finetuning-based defense, and ASIDE, a defens",
+      "score": 0.4586
+    },
+    {
+      "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+      "url": "https://arxiv.org/abs/2610.37655v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable programming frameworks in which machine-learning models are developed. We present KPPax, a kinetic preprocessor that generates differentiable, just-in-time compiled, and vectorisable chemistry code in JAX from mechanisms written in the KPP language. KPPax evaluates the rate law with sparse operations in lo",
+      "en": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable programming frameworks in which machine-learning models are developed. We present KPPax, a kinetic preprocessor that generates differentiable, just-in-time compiled, and vectorisable chemistry code in JAX from mechanisms written in the KPP language. KPPax evaluates the rate law with sparse operations in lo",
+      "score": 0.4586
+    },
+    {
+      "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
+      "url": "https://arxiv.org/abs/2610.37651v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA learn from failed rollouts, but agentic failures can also come from prompt weaknesses, harness limitations, stochastic execution, or noisy judges. We argue that such failures may not provide useful learning signal, and may even be harmful; and thus it is essential to curate which tasks are provided to t",
+      "en": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA learn from failed rollouts, but agentic failures can also come from prompt weaknesses, harness limitations, stochastic execution, or noisy judges. We argue that such failures may not provide useful learning signal, and may even be harmful; and thus it is essential to curate which tasks are provided to t",
+      "score": 0.4585
+    },
+    {
+      "title": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "en": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "score": 0.7649
+    },
+    {
+      "title": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "en": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "score": 0.7552
+    },
+    {
+      "title": "KillaBoi/StealMyBitcoin-PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A public release of the Steal My Bitcoin challenge",
+      "en": "A public release of the Steal My Bitcoin challenge",
+      "score": 0.6258
+    },
+    {
+      "title": "Snapintosh/Snapintosh",
+      "url": "https://github.com/Snapintosh/Snapintosh",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "en": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "score": 0.5642
+    }
+  ]
+}
