@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-01",
+  "weekly": true,
+  "range": "26/10 a 01/11",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Towards a More Autonomous Agent System",
+      "en": "Towards a More Autonomous Agent System",
+      "score": 0.8436
+    },
+    {
+      "title": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "词光 · Word Atlas, Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "en": "词光 · Word Atlas, Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "score": 0.8309
+    },
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Three new discoveries in mathematics, computer science, and physics",
+      "en": "Three new discoveries in mathematics, computer science, and physics",
+      "score": 0.8158
+    },
+    {
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Mika, 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "en": "Mika, 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "score": 0.8017
+    },
+    {
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Anthropic S-1",
+      "en": "Anthropic S-1",
+      "score": 0.7923
+    },
+    {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "en": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "score": 0.7837
+    },
+    {
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "en": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "score": 0.7813
+    },
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI isn't replacing SREs, it's deskilling them",
+      "en": "AI isn't replacing SREs, it's deskilling them",
+      "score": 0.7766
+    },
+    {
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "en": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "score": 0.7736
+    },
+    {
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "en": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "score": 0.7731
+    },
+    {
+      "title": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "en": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "score": 0.767
+    },
+    {
+      "title": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "en": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "score": 0.7649
+    }
+  ]
+}

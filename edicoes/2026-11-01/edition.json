@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-01",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Towards a More Autonomous Agent System",
+      "en": "Towards a More Autonomous Agent System",
+      "score": 0.8436
+    },
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "HackerTube: YouTube built from videos recommended by HN",
+      "en": "HackerTube: YouTube built from videos recommended by HN",
+      "score": 0.7621
+    },
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Serbia just elected the world's brainiest parliament",
+      "en": "Serbia just elected the world's brainiest parliament",
+      "score": 0.7475
+    },
+    {
+      "title": "Pika-Labs/Pika-H3-Flex",
+      "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 294 likes e 404 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 294 likes e 404 downloads.",
+      "score": 0.6684
+    },
+    {
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'automatic-speech-recognition', com 578 likes e 29364 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'automatic-speech-recognition', com 578 likes e 29364 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "score": 0.3498
+    },
+    {
+      "title": "Sam Altman diz que RAM deveria ficar em data centers, não nos PCs dos usuários",
+      "url": "https://olhardigital.com.br/2026/11/01/pro/sam-altman-diz-que-ram-deveria-ficar-em-data-centers-nao-nos-pcs-dos-usuarios/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Altman criticou especialmente a ideia de que modelos de IA de código aberto, executados diretamente nos computadores dos usuários, poderiam reduzir necessidade de grandes centros de processamento\nO post Sam Altman diz que RAM deveria ficar em data centers, não nos PCs dos usuários apareceu primeiro em Olhar Digital.",
+      "en": "Altman criticou especialmente a ideia de que modelos de IA de código aberto, executados diretamente nos computadores dos usuários, poderiam reduzir necessidade de grandes centros de processamento\nO post Sam Altman diz que RAM deveria ficar em data centers, não nos PCs dos usuários apareceu primeiro em Olhar Digital.",
+      "score": 0.3468
+    },
+    {
+      "title": "Restrooms along the Norwegian Scenic Routes",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Restrooms along the Norwegian Scenic Routes",
+      "en": "Restrooms along the Norwegian Scenic Routes",
+      "score": 0.7168
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "en": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "score": 0.6975
+    },
+    {
+      "title": "Ainda vale a pena comprar a Radeon RX 580 em 2026?",
+      "url": "https://canaltech.com.br/hardware/ainda-vale-a-pena-comprar-a-radeon-rx-560-em-2026/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Lançada originalmente em 2017 como uma revisão da arquitetura Polaris, a AMD Radeon RX 580, uma das GPUs favoritas do criador do Linux, se tornou uma verdadeira lenda entre os PC gamers que buscavam custo-benefício no Brasil. Por quase uma década, o modelo dominou o mercado de entrada e o de placas importadas, servindo como o ponto de partida de milhões de jogadores brasileiros que buscavam uma experiência digna em 1080p sem gastar rios de dinheiro.\nNo entanto, o cenário da indústria de hardware",
+      "en": "Lançada originalmente em 2017 como uma revisão da arquitetura Polaris, a AMD Radeon RX 580, uma das GPUs favoritas do criador do Linux, se tornou uma verdadeira lenda entre os PC gamers que buscavam custo-benefício no Brasil. Por quase uma década, o modelo dominou o mercado de entrada e o de placas importadas, servindo como o ponto de partida de milhões de jogadores brasileiros que buscavam uma experiência digna em 1080p sem gastar rios de dinheiro.\nNo entanto, o cenário da indústria de hardware",
+      "score": 0.4462
+    },
+    {
+      "title": "Verão com El Niño: 5 dicas para preparar seu ar-condicionado",
+      "url": "https://canaltech.com.br/eletro/verao-com-el-nino-5-dicas-para-preparar-seu-ar-condicionado/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A previsão de um El Niño intenso e de períodos prolongados de calor no Brasil torna importante preparar o ar-condicionado para o verão. Limpar os filtros, revisar o equipamento, ajustar a temperatura e controlar o consumo de energia são medidas que ajudam a manter o conforto térmico nos dias mais quentes sem aumentar desnecessariamente a conta de luz.\nSegundo Marcely Sondermann, meteorologista da Climatempo, o El Niño deve intensificar calor no verão: o fenômeno deve atingir seu pico no fim de 2",
+      "en": "A previsão de um El Niño intenso e de períodos prolongados de calor no Brasil torna importante preparar o ar-condicionado para o verão. Limpar os filtros, revisar o equipamento, ajustar a temperatura e controlar o consumo de energia são medidas que ajudam a manter o conforto térmico nos dias mais quentes sem aumentar desnecessariamente a conta de luz.\nSegundo Marcely Sondermann, meteorologista da Climatempo, o El Niño deve intensificar calor no verão: o fenômeno deve atingir seu pico no fim de 2",
+      "score": 0.3997
+    },
+    {
+      "title": "Later Clients Ask Their AI Agents to Learn About You First",
+      "url": "https://dev.to/questmeet/later-clients-ask-their-ai-agents-to-learn-about-you-first-4l8m",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "You have work worth showing: products you have built, problems you have solved, clients you have helped. But making that work discoverable often becomes another job.\n\nWrite a professional introduction. Choose the right keywords. Select a few portfolio examples. Explain what makes your service different. Update everything when your focus changes. Repeat the process whenever you want to reach a different audience.\n\nFor a freelancer, consultant, or founder, this creates a trade-off. Time spent desc",
+      "en": "You have work worth showing: products you have built, problems you have solved, clients you have helped. But making that work discoverable often becomes another job.\n\nWrite a professional introduction. Choose the right keywords. Select a few portfolio examples. Explain what makes your service different. Update everything when your focus changes. Repeat the process whenever you want to reach a different audience.\n\nFor a freelancer, consultant, or founder, this creates a trade-off. Time spent desc",
+      "score": 0.3997
+    },
+    {
+      "title": "How Much Does a Business Website Cost in 2026?",
+      "url": "https://dev.to/jason_derula_691267be0412/httpscodexsmithcombloghow-much-does-a-business-website-cost-in-2026-18c4",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Quick answer: how much does a business website cost in 2026?\n\nA professionally built small business website costs $3,000-$15,000 in the US, AED 6,000-25,000 in the UAE, CAD 7,500-20,000 in Canada, and ₹25,000-₹1,00,000 in India. Online stores usually start around $1,600 (₹1,50,000) with an India-based team and $15,000+ with a North American agency. On top of the build, budget 15-20% of the build cost every year for hosting, security and updates.\n\nThe gap is not about quality alone. It is mostly ",
+      "en": "Quick answer: how much does a business website cost in 2026?\n\nA professionally built small business website costs $3,000-$15,000 in the US, AED 6,000-25,000 in the UAE, CAD 7,500-20,000 in Canada, and ₹25,000-₹1,00,000 in India. Online stores usually start around $1,600 (₹1,50,000) with an India-based team and $15,000+ with a North American agency. On top of the build, budget 15-20% of the build cost every year for hosting, security and updates.\n\nThe gap is not about quality alone. It is mostly ",
+      "score": 0.3995
+    },
+    {
+      "title": "GothamLoop vs 1point3acres (2026): Which Question Bank Is Better?",
+      "url": "https://dev.to/prachub/gothamloop-vs-1point3acres-2026-which-question-bank-is-better-1ioa",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "1point3acres is the source and GothamLoop is a paid English decoder of it. As of October 2026, 1point3acres runs a Chinese-language forum plus an English question bank listing 10,512 questions across 401 companies, with passes from $88 monthly. GothamLoop sells a ranked list of 4,002 questions for $199 a month or $329 one time, as of October 2026. If you read Chinese, pick 1point3acres. If you don't and have one loop at a company GothamLoop lists, GothamLoop is the narrower buy. PracHub, which a",
+      "en": "1point3acres is the source and GothamLoop is a paid English decoder of it. As of October 2026, 1point3acres runs a Chinese-language forum plus an English question bank listing 10,512 questions across 401 companies, with passes from $88 monthly. GothamLoop sells a ranked list of 4,002 questions for $199 a month or $329 one time, as of October 2026. If you read Chinese, pick 1point3acres. If you don't and have one loop at a company GothamLoop lists, GothamLoop is the narrower buy. PracHub, which a",
+      "score": 0.3497
+    },
+    {
+      "title": "How to Follow Up When Nobody Replies: Email and LinkedIn",
+      "url": "https://dev.to/vishalmauryadev/how-to-follow-up-when-nobody-replies-email-and-linkedin-7p3",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "When nobody replies, wait a few business days, then send a short follow-up that adds something new and makes replying easy. Assume the person is busy, not that they are ignoring you, and plan on one to three follow-ups at most.\n\nFollowing up feels awkward, which is why most people do not do it. But messages get buried, and a polite nudge is often what gets a reply. The trick is to be useful, not pushy.\n\nThis guide covers timing, the structure of a good follow-up, examples for cold email, LinkedI",
+      "en": "When nobody replies, wait a few business days, then send a short follow-up that adds something new and makes replying easy. Assume the person is busy, not that they are ignoring you, and plan on one to three follow-ups at most.\n\nFollowing up feels awkward, which is why most people do not do it. But messages get buried, and a polite nudge is often what gets a reply. The trick is to be useful, not pushy.\n\nThis guide covers timing, the structure of a good follow-up, examples for cold email, LinkedI",
+      "score": 0.3497
+    },
+    {
+      "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
+      "url": "https://arxiv.org/abs/2610.40640v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled with dynamic objects and events, remains largely unmodeled in prior work. We introduce Video-to-4DAVScene, a new task that turns a video into an explorable, time-varying 4D audio-visual scene, and present the SonoWorld4D framework for this task. Given a monocular video, our metho",
+      "en": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled with dynamic objects and events, remains largely unmodeled in prior work. We introduce Video-to-4DAVScene, a new task that turns a video into an explorable, time-varying 4D audio-visual scene, and present the SonoWorld4D framework for this task. Given a monocular video, our metho",
+      "score": 0.3229
+    },
+    {
+      "title": "world2vec: Mechanistic world models through latent dynamics learning",
+      "url": "https://arxiv.org/abs/2610.40637v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce world2vec to learn mechanistic world models without reward information directly from observations and actions. World2vec learns latent dynamics that faithfully reproduce the true system over long prediction horizons, with at least one order of magnitude fewer parameters than Dream",
+      "en": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce world2vec to learn mechanistic world models without reward information directly from observations and actions. World2vec learns latent dynamics that faithfully reproduce the true system over long prediction horizons, with at least one order of magnitude fewer parameters than Dream",
+      "score": 0.3229
+    },
+    {
+      "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
+      "url": "https://arxiv.org/abs/2610.40619v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test behind it. Assertions about how events unfold across many cases fill the Web, and each is a temporal hypothesis that only a significance test over the right records can settle. The verifier must specify the null, select the test and decide which records bear on the hypothesis, and any",
+      "en": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test behind it. Assertions about how events unfold across many cases fill the Web, and each is a temporal hypothesis that only a significance test over the right records can settle. The verifier must specify the null, select the test and decide which records bear on the hypothesis, and any",
+      "score": 0.3228
+    },
+    {
+      "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
+      "url": "https://arxiv.org/abs/2610.40616v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inference attacks (MIAs) address this by testing whether a given image was in a model's training set. The standard approach scores an image by its reconstruction loss and flags low-loss images as members. This often fails because some images are simply easier to reconstruct than others, so a simple unseen image can score a lower loss than a complex training image. Difficulty calib",
+      "en": "Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inference attacks (MIAs) address this by testing whether a given image was in a model's training set. The standard approach scores an image by its reconstruction loss and flags low-loss images as members. This often fails because some images are simply easier to reconstruct than others, so a simple unseen image can score a lower loss than a complex training image. Difficulty calib",
+      "score": 0.3228
+    },
+    {
+      "title": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "en": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "score": 0.6382
+    },
+    {
+      "title": "kevinraymond/florilegium",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+      "en": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+      "score": 0.604
+    },
+    {
+      "title": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "VERY experimental Nintendo Switch 2 emulator",
+      "en": "VERY experimental Nintendo Switch 2 emulator",
+      "score": 0.5676
+    },
+    {
+      "title": "haydenschmitty/floorplan",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "en": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "score": 0.5374
+    }
+  ]
+}
