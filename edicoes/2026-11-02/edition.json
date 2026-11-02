@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-02",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "WTF Ubuntu?",
+      "en": "WTF Ubuntu?",
+      "score": 0.7542
+    },
+    {
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Astra can read and write weights to improve Qwen",
+      "en": "Astra can read and write weights to improve Qwen",
+      "score": 0.7491
+    },
+    {
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Craft Anything: understand how any software works, and craft your own.",
+      "en": "Craft Anything: understand how any software works, and craft your own.",
+      "score": 0.7036
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 19001 likes e 7915637 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 19001 likes e 7915637 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 4676 likes e 177009 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 4676 likes e 177009 downloads.",
+      "score": 0.5289
+    },
+    {
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 5545 likes e 2516622 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 5545 likes e 2516622 downloads.",
+      "score": 0.4875
+    },
+    {
+      "title": "speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-3d', com 402 likes e 7787 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-3d', com 402 likes e 7787 downloads.",
+      "score": 0.4314
+    },
+    {
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Show HN: HackerBooks, HackerTube, but for books mentioned on HN",
+      "en": "Show HN: HackerBooks, HackerTube, but for books mentioned on HN",
+      "score": 0.7485
+    },
+    {
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Ask HN: Which TV do you recommend for privacy?",
+      "en": "Ask HN: Which TV do you recommend for privacy?",
+      "score": 0.7395
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "en": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "score": 0.6523
+    },
+    {
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Postgres 19 is late because so many more bugs are being found now",
+      "en": "Postgres 19 is late because so many more bugs are being found now",
+      "score": 0.6258
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "en": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "score": 0.3975
+    },
+    {
+      "title": "Impressoras em promoção: veja uma seleção com ótimas opções para casa e escritório",
+      "url": "https://olhardigital.com.br/2026/11/02/reviews/impressoras-em-promocao-veja-uma-selecao-com-otimas-opcoes-para-casa-e-escritorio-2/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Se você está precisando de uma impressora nova, seja para o home office, para os filhos estudarem ou para aquelas tarefas do dia a dia , , este é um bom momento para dar uma olhada nas ofertas disponíveis na Amazon. Reunimos três modelos multifuncionais de marcas conhecidas que estão com boas condições de compra. […]\nO post Impressoras em promoção: veja uma seleção com ótimas opções para casa e escritório apareceu primeiro em Olhar Digital.",
+      "en": "Se você está precisando de uma impressora nova, seja para o home office, para os filhos estudarem ou para aquelas tarefas do dia a dia , , este é um bom momento para dar uma olhada nas ofertas disponíveis na Amazon. Reunimos três modelos multifuncionais de marcas conhecidas que estão com boas condições de compra. […]\nO post Impressoras em promoção: veja uma seleção com ótimas opções para casa e escritório apareceu primeiro em Olhar Digital.",
+      "score": 0.3975
+    },
+    {
+      "title": "WARN Act and Life Insurance — What Happens to Your Coverage After a Layoff",
+      "url": "https://dev.to/layoffatlas/warn-act-and-life-insurance-what-happens-to-your-coverage-after-a-layoff-22dn",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "WARN Act and Life Insurance, What Happens to Your Coverage After a Layoff\n\n\nWhen a WARN notice arrives, most workers focus on pay, unemployment benefits, and health insurance. Life insurance is easy to overlook, until it is gone. Many employer-paid policies end when employment ends, sometimes on the last day of work. The notice period is the time to check what you have and when it stops. This article explains the general rules; it is not legal or financial advice, and exact terms depend on you",
+      "en": "WARN Act and Life Insurance, What Happens to Your Coverage After a Layoff\n\n\nWhen a WARN notice arrives, most workers focus on pay, unemployment benefits, and health insurance. Life insurance is easy to overlook, until it is gone. Many employer-paid policies end when employment ends, sometimes on the last day of work. The notice period is the time to check what you have and when it stops. This article explains the general rules; it is not legal or financial advice, and exact terms depend on you",
+      "score": 0.3493
+    },
+    {
+      "title": "Thinking about a UK renewable energy MSc as a developer? A worked example from Strathclyde",
+      "url": "https://dev.to/helpmedegree/thinking-about-a-uk-renewable-energy-msc-as-a-developer-a-worked-example-from-strathclyde-40pb",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I work on UK university applications at HelpMeDegree, and a question that comes up from developers is whether a one-year UK masters in renewable energy is a sensible career move or just an expensive way to feel better about their job. So here's a straight look at one real course as the worked example: the University of Strathclyde's MSc Sustainable Engineering: Renewable Energy Systems & the Environment in Glasgow.\n\nMost answers online are either university marketing or \"just learn Python and ap",
+      "en": "I work on UK university applications at HelpMeDegree, and a question that comes up from developers is whether a one-year UK masters in renewable energy is a sensible career move or just an expensive way to feel better about their job. So here's a straight look at one real course as the worked example: the University of Strathclyde's MSc Sustainable Engineering: Renewable Energy Systems & the Environment in Glasgow.\n\nMost answers online are either university marketing or \"just learn Python and ap",
+      "score": 0.349
+    },
+    {
+      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+      "url": "https://arxiv.org/abs/2610.42149v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inherit the test-time scaling and fine-grained controllability observed in large language models. We attribute this failure to a fundamental modality mismatch: reasoning is performed in a discrete token space,",
+      "en": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inherit the test-time scaling and fine-grained controllability observed in large language models. We attribute this failure to a fundamental modality mismatch: reasoning is performed in a discrete token space,",
+      "score": 0.3664
+    },
+    {
+      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "url": "https://arxiv.org/abs/2610.42148v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines fail to support these workloads effectively, suffering from severe prefix recomputation overheads or distorted output probabilities. To address this challenge, we propose Flide, an efficient and exact inference engine that decouples the logical tree structure ",
+      "en": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines fail to support these workloads effectively, suffering from severe prefix recomputation overheads or distorted output probabilities. To address this challenge, we propose Flide, an efficient and exact inference engine that decouples the logical tree structure ",
+      "score": 0.3664
+    },
+    {
+      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+      "url": "https://arxiv.org/abs/2610.42147v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which a dedicated indexer selects a subset of keys for the attention. Yet current methods of indexing either still have quadratic cost in context size or lose accuracy at ultra-long context scale. We addres",
+      "en": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which a dedicated indexer selects a subset of keys for the attention. Yet current methods of indexing either still have quadratic cost in context size or lose accuracy at ultra-long context scale. We addres",
+      "score": 0.3664
+    },
+    {
+      "title": "Hierarchical World Models with Implicit Dynamics",
+      "url": "https://arxiv.org/abs/2610.42146v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-actions or latent skills, leading to brittle representations and limited fine-grained control. We introduce ID-WM (Implicit Dynamics World Models), a hierarchical world model that decouples state-space reachability from l",
+      "en": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-actions or latent skills, leading to brittle representations and limited fine-grained control. We introduce ID-WM (Implicit Dynamics World Models), a hierarchical world model that decouples state-space reachability from l",
+      "score": 0.3664
+    },
+    {
+      "title": "Arjun-Ingole/hop",
+      "url": "https://github.com/Arjun-Ingole/hop",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Install Linux next to Windows without a USB stick",
+      "en": "Install Linux next to Windows without a USB stick",
+      "score": 0.6103
+    },
+    {
+      "title": "BryceYuuu/RUN",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "en": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "score": 0.5577
+    }
+  ]
+}
