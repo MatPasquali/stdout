@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-03",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "en": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "score": 0.7817
+    },
+    {
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Show HN: Subvocal, Talk to your computer without making noise",
+      "en": "Show HN: Subvocal, Talk to your computer without making noise",
+      "score": 0.755
+    },
+    {
+      "title": "caru-ini/stack-diagram",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "en": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "score": 0.7303
+    },
+    {
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Claude Code regularly sends each background agent’s transcript to its model",
+      "en": "Claude Code regularly sends each background agent’s transcript to its model",
+      "score": 0.6363
+    },
+    {
+      "title": "burner22/numbat",
+      "url": "https://huggingface.co/burner22/numbat",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'modelo', com 316 likes e 7461 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'modelo', com 316 likes e 7461 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Tech Review",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires, to make sure, in other words, that rogue agents don’t break the law,…",
+      "en": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires, to make sure, in other words, that rogue agents don’t break the law,…",
+      "score": 0.4862
+    },
+    {
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+      "en": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+      "score": 0.4491
+    },
+    {
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "If you love a website, back it up",
+      "en": "If you love a website, back it up",
+      "score": 0.7317
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "en": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "score": 0.5971
+    },
+    {
+      "title": "Improved asteroid deflection model runs faster, reveals more doomsday worries",
+      "url": "https://www.theregister.com/science/2026/11/03/improved-asteroid-deflection-model-runs-faster-reveals-more-doomsday-worries/5307317",
+      "source": "The Register",
+      "kind": "news",
+      "category": "industria",
+      "pt": "“We expected aim to matter ... What surprised us was how much,' says Sandia physicist Nathan Moore",
+      "en": "“We expected aim to matter ... What surprised us was how much,' says Sandia physicist Nathan Moore",
+      "score": 0.3985
+    },
+    {
+      "title": "This space company is betting its future on a propellant available everywhere",
+      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+      "source": "Ars Technica",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
+      "en": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
+      "score": 0.3971
+    },
+    {
+      "title": "#My Day 2 of Web Development: Learning CSS and Styling HTML",
+      "url": "https://dev.to/harish_karunanithi_78e999/my-day-2-of-web-development-learning-css-and-styling-html-1dgm",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Today, I explored CSS (Cascading Style Sheets) and learned how it helps transform a simple HTML webpage into an attractive and well-structured website.\n\nHTML provides the structure of a webpage, while CSS controls its appearance, including colours, fonts, spacing, layouts and more.\n\nWhat I learned today\nI explored the three different ways of implementing CSS in HTML:\n\n\nInline CSS\nInline CSS is written directly inside an HTML element using the style, attribute.It is useful for applying styles to ",
+      "en": "Today, I explored CSS (Cascading Style Sheets) and learned how it helps transform a simple HTML webpage into an attractive and well-structured website.\n\nHTML provides the structure of a webpage, while CSS controls its appearance, including colours, fonts, spacing, layouts and more.\n\nWhat I learned today\nI explored the three different ways of implementing CSS in HTML:\n\n\nInline CSS\nInline CSS is written directly inside an HTML element using the style, attribute.It is useful for applying styles to ",
+      "score": 0.2996
+    },
+    {
+      "title": "We built a free ATS resume checker that runs entirely in the browser",
+      "url": "https://dev.to/hirastra/we-built-a-free-ats-resume-checker-that-runs-entirely-in-the-browser-53me",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Every placement season, students in India pay for \"ATS score\" tools or upload their resumes to sites they've never heard of, hoping for a magic number. Most of those tools score keyword density, which isn't how applicant tracking systems actually work.\n\nWe run Hirastra, a site that lists fresher IT jobs verified on 1,300+ companies' own careers pages. Our users kept asking \"is my resume ATS-friendly?\", so we rebuilt our checker from how real ATS software screens resumes. It's free, and the resum",
+      "en": "Every placement season, students in India pay for \"ATS score\" tools or upload their resumes to sites they've never heard of, hoping for a magic number. Most of those tools score keyword density, which isn't how applicant tracking systems actually work.\n\nWe run Hirastra, a site that lists fresher IT jobs verified on 1,300+ companies' own careers pages. Our users kept asking \"is my resume ATS-friendly?\", so we rebuilt our checker from how real ATS software screens resumes. It's free, and the resum",
+      "score": 0.2994
+    },
+    {
+      "title": "Project manager LinkedIn About section examples you can adapt",
+      "url": "https://dev.to/fourleaf/project-manager-linkedin-about-section-examples-you-can-adapt-3lj2",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "LinkedIn's own help page says the About section \"should express your mission, motivation, and skills,\" and suggests keeping it to one or two paragraphs. Project managers tend to fill those paragraphs with the job description. \"Delivered projects on time and on budget\" is what the role is for, so a hiring manager reading it learns nothing about you.\n\nThe fix is to write the section the way you'd write a status report for a sponsor who has no patience. Name the kind of project, say what was hard a",
+      "en": "LinkedIn's own help page says the About section \"should express your mission, motivation, and skills,\" and suggests keeping it to one or two paragraphs. Project managers tend to fill those paragraphs with the job description. \"Delivered projects on time and on budget\" is what the role is for, so a hiring manager reading it learns nothing about you.\n\nThe fix is to write the section the way you'd write a status report for a sponsor who has no patience. Name the kind of project, say what was hard a",
+      "score": 0.2987
+    },
+    {
+      "title": "GEICO Files a 114-Worker WARN Notice in Lakeland, Florida, Effective December 31, 2026",
+      "url": "https://dev.to/layoffatlas/geico-files-a-114-worker-warn-notice-in-lakeland-florida-effective-december-31-2026-lm1",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "GEICO Files a 114-Worker WARN Notice in Lakeland, Florida, Effective December 31, 2026\n\n\nGEICO has filed a WARN notice covering 114 workers at its Lakeland, Florida site, with an effective date of December 31, 2026. The notice was published on November 2, 2026, making it the newest dated filing on Layoff Atlas's national homepage at the time of writing, and the largest fresh dated filing not previously covered by this series.\n\nThe filing lists the site as 3535 W Pipkin Road, Lakeland, FL 33811,",
+      "en": "GEICO Files a 114-Worker WARN Notice in Lakeland, Florida, Effective December 31, 2026\n\n\nGEICO has filed a WARN notice covering 114 workers at its Lakeland, Florida site, with an effective date of December 31, 2026. The notice was published on November 2, 2026, making it the newest dated filing on Layoff Atlas's national homepage at the time of writing, and the largest fresh dated filing not previously covered by this series.\n\nThe filing lists the site as 3535 W Pipkin Road, Lakeland, FL 33811,",
+      "score": 0.2986
+    },
+    {
+      "title": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+      "url": "https://arxiv.org/abs/2611.03646v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Learning from human data offers a scalable path toward embodied intelligence, yet it requires models to accurately understand fine-grained human actions from egocentric observations. However, existing benchmarks remain limited in action atomicity, temporal precision, and hand-action association. We introduce EgoActionBench, a benchmark that represents continuous human manipulation as temporally localized atomic actions associated with the left hand, right hand, or both hands. EgoActionBench cont",
+      "en": "Learning from human data offers a scalable path toward embodied intelligence, yet it requires models to accurately understand fine-grained human actions from egocentric observations. However, existing benchmarks remain limited in action atomicity, temporal precision, and hand-action association. We introduce EgoActionBench, a benchmark that represents continuous human manipulation as temporally localized atomic actions associated with the left hand, right hand, or both hands. EgoActionBench cont",
+      "score": 0.4581
+    },
+    {
+      "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
+      "url": "https://arxiv.org/abs/2611.03641v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despite these advances, purely neural LLMs continue to struggle with elementary logical reasoning problems and lack the determinism, soundness, and reliability characteristic of symbolic reasoning systems. Conversely, classical symbolic methods such as SAT solving and exact cover guara",
+      "en": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despite these advances, purely neural LLMs continue to struggle with elementary logical reasoning problems and lack the determinism, soundness, and reliability characteristic of symbolic reasoning systems. Conversely, classical symbolic methods such as SAT solving and exact cover guara",
+      "score": 0.458
+    },
+    {
+      "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+      "url": "https://arxiv.org/abs/2611.03634v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of authenticated workflows, while existing synthetic environments for training often lack functional depth and visual fidelity. We propose WebHarbor, a suite of 153 executable and dockerized website environments that faithfully reconstruct the visual interfaces, content, and functiona",
+      "en": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of authenticated workflows, while existing synthetic environments for training often lack functional depth and visual fidelity. We propose WebHarbor, a suite of 153 executable and dockerized website environments that faithfully reconstruct the visual interfaces, content, and functiona",
+      "score": 0.458
+    },
+    {
+      "title": "Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data",
+      "url": "https://arxiv.org/abs/2611.03626v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We present Isekai3D Synthetic Data Generation (SDG), a platform for simulating and capturing synthetic 3D gameplay for research in vision and world models, neural graphics, gameplay agents, and other applications. The platform combines reusable environment and character assets with Unreal Engine plugins in a two-stage workflow. First, world simulation generates gameplay while recording the world state, character movements, actions, and camera tracks needed for replay. Second, the recorded simula",
+      "en": "We present Isekai3D Synthetic Data Generation (SDG), a platform for simulating and capturing synthetic 3D gameplay for research in vision and world models, neural graphics, gameplay agents, and other applications. The platform combines reusable environment and character assets with Unreal Engine plugins in a two-stage workflow. First, world simulation generates gameplay while recording the world state, character movements, actions, and camera tracks needed for replay. Second, the recorded simula",
+      "score": 0.4579
+    },
+    {
+      "title": "Verlintas/NOIR",
+      "url": "https://github.com/Verlintas/NOIR",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "en": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "score": 0.677
+    },
+    {
+      "title": "elvarofficial/teardown",
+      "url": "https://github.com/elvarofficial/teardown",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "en": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "score": 0.6061
+    }
+  ]
+}
