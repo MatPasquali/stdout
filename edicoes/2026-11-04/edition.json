@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-04",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Stringman, an $800 open-source room scale gripper robot",
+      "en": "Stringman, an $800 open-source room scale gripper robot",
+      "score": 0.8091
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "en": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "score": 0.8048
+    },
+    {
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "en": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "score": 0.7881
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI is forcing us to pay off 40 years of technical debt",
+      "en": "AI is forcing us to pay off 40 years of technical debt",
+      "score": 0.7917
+    },
+    {
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Google will turn off search for schools that reject AI",
+      "en": "Google will turn off search for schools that reject AI",
+      "score": 0.7463
+    },
+    {
+      "title": "moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 338 likes e 797 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 338 likes e 797 downloads.",
+      "score": 0.6028
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 10592 likes e 2493402 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 10592 likes e 2493402 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "en": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "score": 0.7557
+    },
+    {
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Jailbreaking my car's navigation system just so I can change the time",
+      "en": "Jailbreaking my car's navigation system just so I can change the time",
+      "score": 0.7286
+    },
+    {
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "en": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "score": 0.656
+    },
+    {
+      "title": "Galaxy S26 com fone grátis fica mais barato que iPhone 17 em oferta",
+      "url": "https://canaltech.com.br/smartphone/galaxy-s26-com-fone-gratis-fica-mais-barato-que-iphone-17-em-oferta/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Galaxy S26 entrou em uma promoção interessante para quem quer comprar um celular topo de linha da Samsung sem gastar tanto. O aparelho está disponível por R$ 3.779,10 no Pix, com um Galaxy Buds Core incluso, o que torna a oferta ainda mais atraente para quem também procura um fone sem fio.\nO valor é bem inferior ao cobrado pelo iPhone 17, que aparece por R$ 5.354 na versão de 256 GB. Já quem prefere um modelo mais avançado da Samsung pode considerar o Galaxy S26 Ultra, que também está em promoçã",
+      "en": "Galaxy S26 entrou em uma promoção interessante para quem quer comprar um celular topo de linha da Samsung sem gastar tanto. O aparelho está disponível por R$ 3.779,10 no Pix, com um Galaxy Buds Core incluso, o que torna a oferta ainda mais atraente para quem também procura um fone sem fio.\nO valor é bem inferior ao cobrado pelo iPhone 17, que aparece por R$ 5.354 na versão de 256 GB. Já quem prefere um modelo mais avançado da Samsung pode considerar o Galaxy S26 Ultra, que também está em promoçã",
+      "score": 0.3998
+    },
+    {
+      "title": "Data scientist LinkedIn About section examples you can adapt",
+      "url": "https://dev.to/fourleaf/data-scientist-linkedin-about-section-examples-you-can-adapt-98p",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Ask a data scientist about a model and the useful follow-up is some version of \"better than what?\" A LinkedIn About section that never answers it tends to read as a stack list. Python, SQL, scikit-learn, PyTorch, \"machine learning, deep learning, NLP and statistical modeling.\" A recruiter reading that still cannot tell whether you build forecasting models for a supply chain team, run causal analyses for a product org, or fine-tune language models for a search team. Those are three different hire",
+      "en": "Ask a data scientist about a model and the useful follow-up is some version of \"better than what?\" A LinkedIn About section that never answers it tends to read as a stack list. Python, SQL, scikit-learn, PyTorch, \"machine learning, deep learning, NLP and statistical modeling.\" A recruiter reading that still cannot tell whether you build forecasting models for a supply chain team, run causal analyses for a product org, or fine-tune language models for a search team. Those are three different hire",
+      "score": 0.4483
+    },
+    {
+      "title": "8 Top-Rated Car Repair Shops in Jaipur With No Website (Lead List for Web Developers, Nov 2026)",
+      "url": "https://dev.to/mantis_ai/what-breaks-when-you-build-a-google-maps-lead-pipeline-and-how-to-design-around-it-2ko6",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "If you build websites and you're looking for your next client in Jaipur, start with this list.\n\n\n📍 Jaipur · 🔧 Car repair & garages · 🌐 No website on Google · ⭐ 4.6, 5.0 rating · 💬 107, 2,131 reviews\n\n\nThese garages already have the trust: hundreds of five-star reviews. What they don't have is a website. When someone searches \"car service near me\", there's nothing to click through to, and the garage that does have a site often gets the call.\n\nThat gap is your pitch.\n\n\n  \n  \n  🏆 The list\n\n\n\n\n\n#\n",
+      "en": "If you build websites and you're looking for your next client in Jaipur, start with this list.\n\n\n📍 Jaipur · 🔧 Car repair & garages · 🌐 No website on Google · ⭐ 4.6, 5.0 rating · 💬 107, 2,131 reviews\n\n\nThese garages already have the trust: hundreds of five-star reviews. What they don't have is a website. When someone searches \"car service near me\", there's nothing to click through to, and the garage that does have a site often gets the call.\n\nThat gap is your pitch.\n\n\n  \n  \n  🏆 The list\n\n\n\n\n\n#\n",
+      "score": 0.3495
+    },
+    {
+      "title": "WARN Act and Recall Rights: Can Laid-Off Workers Be Called Back?",
+      "url": "https://dev.to/layoffatlas/warn-act-and-recall-rights-can-laid-off-workers-be-called-back-416a",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "WARN Act and Recall Rights: Can Laid-Off Workers Be Called Back?\n\n\nWhen a WARN notice arrives, one of the first questions workers ask is whether they might be called back. The notice gives a date and a number of affected workers, but it usually says nothing about recall. That silence is not an oversight: the federal WARN Act is a notice law, not a job-protection law, and it does not, on its own, give workers a right to be recalled.\n\nThat distinction matters right now. Layoff Atlas currently trac",
+      "en": "WARN Act and Recall Rights: Can Laid-Off Workers Be Called Back?\n\n\nWhen a WARN notice arrives, one of the first questions workers ask is whether they might be called back. The notice gives a date and a number of affected workers, but it usually says nothing about recall. That silence is not an oversight: the federal WARN Act is a notice law, not a job-protection law, and it does not, on its own, give workers a right to be recalled.\n\nThat distinction matters right now. Layoff Atlas currently trac",
+      "score": 0.3487
+    },
+    {
+      "title": "cosskill update: persona pages now teach the rewrite, not just the chat",
+      "url": "https://dev.to/neo_xia_3f4c019330af5fb9d/cosskill-update-persona-pages-now-teach-the-rewrite-not-just-the-chat-318g",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Two weeks ago I posted about the front-door change: cosskill, an AI roleplay simulator for rehearsing hard conversations, now opens the homepage straight into the ex-partner persona chat, and the Chinese site mirrors the same default.\n\nThis week's quiet update is about teaching, not chatting: persona pages now carry a guided practice example. Instead of only describing who a persona is and what they believe, each page shows one complete rehearsal loop:\n\n\nDraft, the message most people would a",
+      "en": "Two weeks ago I posted about the front-door change: cosskill, an AI roleplay simulator for rehearsing hard conversations, now opens the homepage straight into the ex-partner persona chat, and the Chinese site mirrors the same default.\n\nThis week's quiet update is about teaching, not chatting: persona pages now carry a guided practice example. Instead of only describing who a persona is and what they believe, each page shows one complete rehearsal loop:\n\n\nDraft, the message most people would a",
+      "score": 0.3478
+    },
+    {
+      "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+      "url": "https://arxiv.org/abs/2611.05377v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations often entangle the underlying action with irrelevant visual variations, limiting transfer across embodiments. We introduce DreamX, which repurposes a pretrained video diffusion model as a universal late",
+      "en": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations often entangle the underlying action with irrelevant visual variations, limiting transfer across embodiments. We introduce DreamX, which repurposes a pretrained video diffusion model as a universal late",
+      "score": 0.4577
+    },
+    {
+      "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+      "url": "https://arxiv.org/abs/2611.05376v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf. Yet people still forget what they once knew, miss what they are not looking at, fail to find the right words, and face hard choices without the benefit of their own history, because the machine that could help stands outside the situation. As AI moves into the physical world, atte",
+      "en": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf. Yet people still forget what they once knew, miss what they are not looking at, fail to find the right words, and face hard choices without the benefit of their own history, because the machine that could help stands outside the situation. As AI moves into the physical world, atte",
+      "score": 0.4577
+    },
+    {
+      "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
+      "url": "https://arxiv.org/abs/2611.05368v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuition, resulting in data that contributes little to overall policy performance. Recent work has shown that curating such unguided datasets can substantially improve policy performance, but these approaches operate by filtering existing datasets after collection and therefore do not prevent the acquisit",
+      "en": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuition, resulting in data that contributes little to overall policy performance. Recent work has shown that curating such unguided datasets can substantially improve policy performance, but these approaches operate by filtering existing datasets after collection and therefore do not prevent the acquisit",
+      "score": 0.4577
+    },
+    {
+      "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
+      "url": "https://arxiv.org/abs/2611.05361v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Reliable evaluation of visual 3D reconstruction and depth estimation in vegetation-rich outdoor environments is limited by the scarcity of geometric ground-truth data and the cost of complete scanner surveys. We present a LiDARbased reference-generation pipeline for evaluating the zero-shot performance of feed-forward visual-geometry models alongside conventional structure-from-motion (SfM) methods. The pipeline reuses camera images, LiDAR scans, and reference poses from existing multi-sensor lo",
+      "en": "Reliable evaluation of visual 3D reconstruction and depth estimation in vegetation-rich outdoor environments is limited by the scarcity of geometric ground-truth data and the cost of complete scanner surveys. We present a LiDARbased reference-generation pipeline for evaluating the zero-shot performance of feed-forward visual-geometry models alongside conventional structure-from-motion (SfM) methods. The pipeline reuses camera images, LiDAR scans, and reference poses from existing multi-sensor lo",
+      "score": 0.4576
+    },
+    {
+      "title": "Pika-Labs/Pika-H3-Flex",
+      "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Pika H3 Flex: video and audio generation inference",
+      "en": "Pika H3 Flex: video and audio generation inference",
+      "score": 0.5145
+    }
+  ]
+}
