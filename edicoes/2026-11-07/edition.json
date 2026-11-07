@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-07",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "en": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "score": 0.7591
+    },
+    {
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Libghostty 1.0",
+      "en": "Libghostty 1.0",
+      "score": 0.7538
+    },
+    {
+      "title": "Sandflow-ai/sand3d",
+      "url": "https://github.com/Sandflow-ai/sand3d",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "3D modeling in Python, built for LLMs.",
+      "en": "3D modeling in Python, built for LLMs.",
+      "score": 0.7317
+    },
+    {
+      "title": "black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-image', com 2668 likes e 1143397 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-image', com 2668 likes e 1143397 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "ccore/Qwen3.5-4B-3D-Coder",
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'modelo', com 850 likes e 221506 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'modelo', com 850 likes e 221506 downloads.",
+      "score": 0.4776
+    },
+    {
+      "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 368 likes e 1369 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 368 likes e 1369 downloads.",
+      "score": 0.4246
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "en": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "score": 0.4105
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tesla to wind down Cybertruck production",
+      "en": "Tesla to wind down Cybertruck production",
+      "score": 0.7488
+    },
+    {
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "en": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "score": 0.705
+    },
+    {
+      "title": "EngageXP lança o Gamin PLUS, um clube de benefícios para gamers; veja como funciona.",
+      "url": "https://olhardigital.com.br/2026/11/07/games-e-consoles/gamin-plus-clube-gamer-chega-ao-brasil-por-r25-mensais/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "O serviço oferece moedas virtuais para resgatar jogos e créditos in-game, além de descontos e comunidade exclusiva no modelo de assinatura mensal.\nO post EngageXP lança o Gamin PLUS, um clube de benefícios para gamers; veja como funciona. apareceu primeiro em Olhar Digital.",
+      "en": "O serviço oferece moedas virtuais para resgatar jogos e créditos in-game, além de descontos e comunidade exclusiva no modelo de assinatura mensal.\nO post EngageXP lança o Gamin PLUS, um clube de benefícios para gamers; veja como funciona. apareceu primeiro em Olhar Digital.",
+      "score": 0.394
+    },
+    {
+      "title": "Review Leapmotor C10 REEV: um SUV para enterrar qualquer preconceito",
+      "url": "https://canaltech.com.br/carros/review-leapmotor-c10-reev-um-suv-para-enterrar-qualquer-preconceito/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Quando o CT Auto dirigiu o Leapmotor C10 REEV pela primeira vez, uma coisa ficou clara: o SUV da marca chinesa tinha uma proposta diferente dos outros eletrificados que estavam chegando ao Brasil. Não era simplesmente mais um híbrido plug-in, nem um elétrico com uma bateria enorme. A ideia era entregar a experiência de um carro elétrico e usar um motor a combustão para resolver justamente o maior receio de quem ainda não migrou para essa tecnologia: a autonomia.\nDepois de conviver novamente com ",
+      "en": "Quando o CT Auto dirigiu o Leapmotor C10 REEV pela primeira vez, uma coisa ficou clara: o SUV da marca chinesa tinha uma proposta diferente dos outros eletrificados que estavam chegando ao Brasil. Não era simplesmente mais um híbrido plug-in, nem um elétrico com uma bateria enorme. A ideia era entregar a experiência de um carro elétrico e usar um motor a combustão para resolver justamente o maior receio de quem ainda não migrou para essa tecnologia: a autonomia.\nDepois de conviver novamente com ",
+      "score": 0.3913
+    },
+    {
+      "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+      "source": "The Register",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "The case for managed inference, or automatically routing queries to the right model for the right job",
+      "en": "The case for managed inference, or automatically routing queries to the right model for the right job",
+      "score": 0.3966
+    },
+    {
+      "title": "The 15-Minute Pre-Submit Resume QA Pipeline",
+      "url": "https://dev.to/muhammadalimughal/the-15-minute-pre-submit-resume-qa-pipeline-18f2",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "You can spend a weekend rewriting bullets and still lose the interview to a parsing break, a phone number ATS cannot tokenize, or three fluff lines that make a semantic screener score you as generic. The fix is not another rewrite. It is a short, boring, repeatable QA pipeline you run every time before you hit Apply, the same way you run tests before you ship.\n\nI wrote this with help from AI tools and checked every checklist item, lint snippet and before/after example myself. I build Smart Resu",
+      "en": "You can spend a weekend rewriting bullets and still lose the interview to a parsing break, a phone number ATS cannot tokenize, or three fluff lines that make a semantic screener score you as generic. The fix is not another rewrite. It is a short, boring, repeatable QA pipeline you run every time before you hit Apply, the same way you run tests before you ship.\n\nI wrote this with help from AI tools and checked every checklist item, lint snippet and before/after example myself. I build Smart Resu",
+      "score": 0.3489
+    },
+    {
+      "title": "How to get a Slack alert when a company posts a new job (Greenhouse, Lever, Ashby) with n8n or Python",
+      "url": "https://dev.to/steadyscrape/how-to-get-a-slack-alert-when-a-company-posts-a-new-job-greenhouse-lever-ashby-with-n8n-or-129a",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Whether you're job hunting, selling to companies that are hiring, or keeping an eye on competitors, \"tell me when Stripe posts a new role\" is a surprisingly annoying problem. Career pages don't have RSS. Job board alerts miss postings, duplicate them, and arrive days late.\n\nMost companies host their career page on an applicant tracking system (ATS) like Greenhouse, Lever or Ashby, and those have public job feeds. The tricky part isn't fetching jobs. It's remembering which ones you've already see",
+      "en": "Whether you're job hunting, selling to companies that are hiring, or keeping an eye on competitors, \"tell me when Stripe posts a new role\" is a surprisingly annoying problem. Career pages don't have RSS. Job board alerts miss postings, duplicate them, and arrive days late.\n\nMost companies host their career page on an applicant tracking system (ATS) like Greenhouse, Lever or Ashby, and those have public job feeds. The tricky part isn't fetching jobs. It's remembering which ones you've already see",
+      "score": 0.3485
+    },
+    {
+      "title": "Give yourself a payday: the one habit that steadies freelance income",
+      "url": "https://dev.to/muhammad_naveed_61dc33722/give-yourself-a-payday-the-one-habit-that-steadies-freelance-income-3j23",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A salary arrives on a fixed date. Freelance money does not. It lands on a Tuesday, then nothing for three weeks, then two payments in one day. A budget that tries to follow that rhythm will always feel behind.\n\nThe fix is simple, and it sounds almost too simple: give yourself a payday. Pick one date a month, and pay yourself a fixed amount on that date, from money that has already cleared.\n\nFor the rest of the month, client payments go into a holding pot, not into your spending. You do not spend",
+      "en": "A salary arrives on a fixed date. Freelance money does not. It lands on a Tuesday, then nothing for three weeks, then two payments in one day. A budget that tries to follow that rhythm will always feel behind.\n\nThe fix is simple, and it sounds almost too simple: give yourself a payday. Pick one date a month, and pay yourself a fixed amount on that date, from money that has already cleared.\n\nFor the rest of the month, client payments go into a holding pot, not into your spending. You do not spend",
+      "score": 0.3481
+    },
+    {
+      "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "url": "https://arxiv.org/abs/2611.08438v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerful systems without fully understanding how they work, how they will behave in unfamiliar situations, or how to reliably control them. Mechanistic interpretability offers a path towards understanding th",
+      "en": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerful systems without fully understanding how they work, how they will behave in unfamiliar situations, or how to reliably control them. Mechanistic interpretability offers a path towards understanding th",
+      "score": 0.4172
+    },
+    {
+      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+      "url": "https://arxiv.org/abs/2611.08428v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of levels: feature tutoring; metadata, settings, and preference access; retrieval over summaries and messages, confirmed mutation, and full orchestration. Me",
+      "en": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of levels: feature tutoring; metadata, settings, and preference access; retrieval over summaries and messages, confirmed mutation, and full orchestration. Me",
+      "score": 0.417
+    },
+    {
+      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+      "url": "https://arxiv.org/abs/2611.08487v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be understood as sparse superpositions of interpretable behavioral modes. This structure is directly predicted by generative models of user behavior for linear embeddings and extends approxim",
+      "en": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be understood as sparse superpositions of interpretable behavioral modes. This structure is directly predicted by generative models of user behavior for linear embeddings and extends approxim",
+      "score": 0.3681
+    },
+    {
+      "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
+      "url": "https://arxiv.org/abs/2611.08486v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanatory clarity and purposeful visual expression. We examine these questions through a visual retrospective of 371 motivation and framework figures from 200 papers. The corpus comprises a quota-based main sample of 160 papers spanning four temporal periods and a separate purposive style-contrast sample ",
+      "en": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanatory clarity and purposeful visual expression. We examine these questions through a visual retrospective of 371 motivation and framework figures from 200 papers. The corpus comprises a quota-based main sample of 160 papers spanning four temporal periods and a separate purposive style-contrast sample ",
+      "score": 0.3681
+    },
+    {
+      "title": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "en": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "score": 0.6918
+    },
+    {
+      "title": "chadyi/StudyOnTV",
+      "url": "https://github.com/chadyi/StudyOnTV",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "StudyOnTV (Tiledaoti TV), open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later.",
+      "en": "StudyOnTV (Tiledaoti TV), open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later.",
+      "score": 0.5474
+    },
+    {
+      "title": "AssassinCreator/steam-stash-value-report-card",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "en": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "score": 0.5105
+    },
+    {
+      "title": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "JenkinWoo/sheeridVerify",
+      "en": "JenkinWoo/sheeridVerify",
+      "score": 0.0744
+    }
+  ]
+}
