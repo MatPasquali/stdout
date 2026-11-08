@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-08",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Headless 3D and VFX engine for agents. Research preview.",
+      "en": "Headless 3D and VFX engine for agents. Research preview.",
+      "score": 0.7603
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Need for Speed Underground 2 online in the browser",
+      "en": "Need for Speed Underground 2 online in the browser",
+      "score": 0.7438
+    },
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "What I run on my $10 USD OpenStick homelab",
+      "en": "What I run on my $10 USD OpenStick homelab",
+      "score": 0.727
+    },
+    {
+      "title": "NousResearch/Arete-27B",
+      "url": "https://huggingface.co/NousResearch/Arete-27B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 269 likes e 1747 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 269 likes e 1747 downloads.",
+      "score": 0.6667
+    },
+    {
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'automatic-speech-recognition', com 3106 likes e 67230 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'automatic-speech-recognition', com 3106 likes e 67230 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Guia definitivo: Saiba qual versão do Gemini você realmente deve usar",
+      "url": "https://canaltech.com.br/inteligencia-artificial/guia-definitivo-qual-versao-gemini-usar/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Frequentemente, o Google anuncia novos modelos de IA do Gemini. Com tantas opções, fica difícil acompanhar as novidades, as diferenças entre as IAs e, principalmente, qual é a mais indicada para cada tarefa. \nSe a ideia é corrigir um texto ou escrever um e-mail, por exemplo, um modelo mais leve pode resolver a tarefa. Mas, se você precisa analisar documentos extensos, programar ou resolver problemas complexos, vale recorrer a uma opção com maior capacidade de raciocínio.\nPor isso, sempre utiliza",
+      "en": "Frequentemente, o Google anuncia novos modelos de IA do Gemini. Com tantas opções, fica difícil acompanhar as novidades, as diferenças entre as IAs e, principalmente, qual é a mais indicada para cada tarefa. \nSe a ideia é corrigir um texto ou escrever um e-mail, por exemplo, um modelo mais leve pode resolver a tarefa. Mas, se você precisa analisar documentos extensos, programar ou resolver problemas complexos, vale recorrer a uma opção com maior capacidade de raciocínio.\nPor isso, sempre utiliza",
+      "score": 0.3989
+    },
+    {
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "score": 0.3499
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Every Mac comes with an (undocumented) family member classifier",
+      "en": "Every Mac comes with an (undocumented) family member classifier",
+      "score": 0.7223
+    },
+    {
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model, which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage, often sold for around $950 to $1,000 shortly after […]",
+      "en": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model, which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage, often sold for around $950 to $1,000 shortly after […]",
+      "score": 0.398
+    },
+    {
+      "title": "Lava e seca na Black Friday: 5 modelos que podem despencar de preço",
+      "url": "https://canaltech.com.br/eletro/lava-e-seca-na-black-friday-5-modelos-que-podem-despencar-de-preco/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A Black Friday é uma boa oportunidade para trocar a máquina de lavar por uma lava e seca, que economiza espaço na lavanderia e dispensa a necessidade de estender roupas no varal. Dependendo do modelo, também oferece recursos inteligentes, ciclos especiais e tecnologias para cuidar melhor dos tecidos. Separamos alguns modelos para ficar de olho! \nAlgumas opções de Samsung, LG, Brastemp, Philco e Electrolux aparecem com preços que podem ficar ainda mais interessantes durante a temporada de promoçõ",
+      "en": "A Black Friday é uma boa oportunidade para trocar a máquina de lavar por uma lava e seca, que economiza espaço na lavanderia e dispensa a necessidade de estender roupas no varal. Dependendo do modelo, também oferece recursos inteligentes, ciclos especiais e tecnologias para cuidar melhor dos tecidos. Separamos alguns modelos para ficar de olho! \nAlgumas opções de Samsung, LG, Brastemp, Philco e Electrolux aparecem com preços que podem ficar ainda mais interessantes durante a temporada de promoçõ",
+      "score": 0.3962
+    },
+    {
+      "title": "Echo Dot: qual preço é promoção de verdade na Black Friday?",
+      "url": "https://canaltech.com.br/produtos/echo-dot-qual-preco-e-promocao-de-verdade-na-black-friday/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "O Echo Dot de 5ª geração é uma das opções para quem deseja ter a Alexa em casa e controlar dispositivos inteligentes por comandos de voz. O dispositivo é uma alternativa interessante acessar recursos que vão além da reprodução de música, e buscar por ofertas na Black Friday é uma boa estratégia para encontrar preços mais acessíveis do produto da Amazon. \nO modelo se destaca especialmente por automatizar tarefas simples da rotina, como controlar a iluminação, acionar aparelhos compatíveis e criar",
+      "en": "O Echo Dot de 5ª geração é uma das opções para quem deseja ter a Alexa em casa e controlar dispositivos inteligentes por comandos de voz. O dispositivo é uma alternativa interessante acessar recursos que vão além da reprodução de música, e buscar por ofertas na Black Friday é uma boa estratégia para encontrar preços mais acessíveis do produto da Amazon. \nO modelo se destaca especialmente por automatizar tarefas simples da rotina, como controlar a iluminação, acionar aparelhos compatíveis e criar",
+      "score": 0.3945
+    },
+    {
+      "title": "Payroll",
+      "url": "https://dev.to/timo_hoyland_b8cf7d8283f7/payroll-4gl1",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "We all love getting paid.\n\nIt's normal. It's expected. We're not there for the subsidised coffee. We work for money because we need to live.\n\nPeople need food, shelter, cars, and holidays. We tie our income to our financial security. Our financial security is tied to our mental health.\n\nSomewhat.\n\nWe don't really think about payroll, but imagine it's late. We will then. We'll also think about it every month thereafter.\n\nIt's reassuring to be paid on time, in full. It shows the work, and people a",
+      "en": "We all love getting paid.\n\nIt's normal. It's expected. We're not there for the subsidised coffee. We work for money because we need to live.\n\nPeople need food, shelter, cars, and holidays. We tie our income to our financial security. Our financial security is tied to our mental health.\n\nSomewhat.\n\nWe don't really think about payroll, but imagine it's late. We will then. We'll also think about it every month thereafter.\n\nIt's reassuring to be paid on time, in full. It shows the work, and people a",
+      "score": 0.3986
+    },
+    {
+      "title": "Maki Assessment for Technical Candidates: Match Practice to Your Invitation",
+      "url": "https://dev.to/prachub/maki-assessment-for-technical-candidates-match-practice-to-your-invitation-35ch",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A Maki invitation is a preparation brief, not the name of one fixed exam. Before practicing algorithms, inspect the activities your employer actually selected. A technical candidate might need to reason about code, interpret numerical information, explain a decision on video, or complete another named activity. Preparing the wrong format can consume the time you need for the right one.\n\nThis guide separates official platform documentation, limited candidate reports, and original preparation exer",
+      "en": "A Maki invitation is a preparation brief, not the name of one fixed exam. Before practicing algorithms, inspect the activities your employer actually selected. A technical candidate might need to reason about code, interpret numerical information, explain a decision on video, or complete another named activity. Preparing the wrong format can consume the time you need for the right one.\n\nThis guide separates official platform documentation, limited candidate reports, and original preparation exer",
+      "score": 0.3498
+    },
+    {
+      "title": "Top Platforms to Find Remote AI/ML Jobs in 2025",
+      "url": "https://dev.to/ebrima_sarge_0ea0c2cd3953/top-platforms-to-find-remote-aiml-jobs-in-2025-k4p",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Introduction\n\n\nThe remote AI/ML job market has matured fast. Two years ago, finding legitimate contract work as an ML engineer or AI specialist meant wading through LinkedIn noise and cold outreach that led nowhere. Now there's a small tier of platforms purpose-built for this niche, and a few of them are actually good.\n\nThis is a practical rundown of what to look for and which platforms are worth your time in 2025. I'll mention two that I've personally found useful and include referral links (d",
+      "en": "Introduction\n\n\nThe remote AI/ML job market has matured fast. Two years ago, finding legitimate contract work as an ML engineer or AI specialist meant wading through LinkedIn noise and cold outreach that led nowhere. Now there's a small tier of platforms purpose-built for this niche, and a few of them are actually good.\n\nThis is a practical rundown of what to look for and which platforms are worth your time in 2025. I'll mention two that I've personally found useful and include referral links (d",
+      "score": 0.3488
+    },
+    {
+      "title": "A $70,000 OPT Fee Has Been Proposed. What It Could Mean for a Future STEM OPT Request",
+      "url": "https://dev.to/pixelrecruiting/a-70000-opt-fee-has-been-proposed-what-it-could-mean-for-a-future-stem-opt-request-4kf7",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Are you on OPT right now, and hoping to ask for the STEM OPT extension later? Then one federal proposal from October 2026 is worth ten minutes of reading.\n\n\n  \n  \n  The short answer\n\n\n\nDHS has proposed two new OPT fees: $70,000 the first time a student gets OPT, and $30,000 for each later OPT request. For a student whose school already paid the $70,000, the STEM OPT extension counts as a later request.\nThe school would pay the fee, not USCIS and not (directly) you. But DHS openly says schools co",
+      "en": "Are you on OPT right now, and hoping to ask for the STEM OPT extension later? Then one federal proposal from October 2026 is worth ten minutes of reading.\n\n\n  \n  \n  The short answer\n\n\n\nDHS has proposed two new OPT fees: $70,000 the first time a student gets OPT, and $30,000 for each later OPT request. For a student whose school already paid the $70,000, the STEM OPT extension counts as a later request.\nThe school would pay the fee, not USCIS and not (directly) you. But DHS openly says schools co",
+      "score": 0.3486
+    },
+    {
+      "title": "Where and Why is Grounded Reasoning Useful?",
+      "url": "https://arxiv.org/abs/2611.08485v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of grounded reasoning are understudied. We study where and why grounded reasoning is most useful. To do so, we introduce a chain-of-thought analysis method to measure how much a model uses its outputted grounding in its thinking trace and perform a detailed ablation study of a grou",
+      "en": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of grounded reasoning are understudied. We study where and why grounded reasoning is most useful. To do so, we introduce a chain-of-thought analysis method to measure how much a model uses its outputted grounding in its thinking trace and perform a detailed ablation study of a grou",
+      "score": 0.3248
+    },
+    {
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "url": "https://arxiv.org/abs/2611.08478v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment. Our autonomous pipeline extracts each paper's open-ended research question and reproduces its proposed method as the baseline; an AI-Scientist entering the",
+      "en": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment. Our autonomous pipeline extracts each paper's open-ended research question and reproduces its proposed method as the baseline; an AI-Scientist entering the",
+      "score": 0.3248
+    },
+    {
+      "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+      "url": "https://arxiv.org/abs/2611.08477v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-conditioned egocentric video generation, pose estimation, and joint action-video generation. Our role-adaptive action renderer provides video-native representations for multidirectional action-video learning, making metric motion usable as both a spatial control signal and a recoverable generation targe",
+      "en": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-conditioned egocentric video generation, pose estimation, and joint action-video generation. Our role-adaptive action renderer provides video-native representations for multidirectional action-video learning, making metric motion usable as both a spatial control signal and a recoverable generation targe",
+      "score": 0.3248
+    },
+    {
+      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+      "url": "https://arxiv.org/abs/2611.08465v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residual stream directions from a subject model to text exemplars that strongly activate those directions. Our objective is to maximise the cosine similarity of a supplied residual stream direction with the ",
+      "en": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residual stream directions from a subject model to text exemplars that strongly activate those directions. Our objective is to maximise the cosine similarity of a supplied residual stream direction with the ",
+      "score": 0.3247
+    },
+    {
+      "title": "sarpstar/cinecode",
+      "url": "https://github.com/sarpstar/cinecode",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "en": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "score": 0.6733
+    },
+    {
+      "title": "egoist/mygo-music",
+      "url": "https://github.com/egoist/mygo-music",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A native music player you extend with plugins",
+      "en": "A native music player you extend with plugins",
+      "score": 0.5929
+    },
+    {
+      "title": "libracoder/kiri",
+      "url": "https://github.com/libracoder/kiri",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A small, fast container runtime for macOS, Windows and Linux",
+      "en": "A small, fast container runtime for macOS, Windows and Linux",
+      "score": 0.574
+    },
+    {
+      "title": "CzJam/gjgjxweb",
+      "url": "https://github.com/CzJam/gjgjxweb",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "《搞机工具箱》Web移植版",
+      "en": "《搞机工具箱》Web移植版",
+      "score": 0.5439
+    }
+  ]
+}

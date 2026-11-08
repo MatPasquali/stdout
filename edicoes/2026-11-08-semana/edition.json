@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-08",
+  "weekly": true,
+  "range": "02/11 a 08/11",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Claude Code sends your email address to websites",
+      "en": "Claude Code sends your email address to websites",
+      "score": 0.8147
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Stringman, an $800 open-source room scale gripper robot",
+      "en": "Stringman, an $800 open-source room scale gripper robot",
+      "score": 0.8091
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "en": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "score": 0.8048
+    },
+    {
+      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "en": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "score": 0.8002
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI is forcing us to pay off 40 years of technical debt",
+      "en": "AI is forcing us to pay off 40 years of technical debt",
+      "score": 0.7917
+    },
+    {
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "sshole",
+      "en": "sshole",
+      "score": 0.7884
+    },
+    {
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "en": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "score": 0.7881
+    },
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "en": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "score": 0.7817
+    },
+    {
+      "title": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Headless 3D and VFX engine for agents. Research preview.",
+      "en": "Headless 3D and VFX engine for agents. Research preview.",
+      "score": 0.7603
+    },
+    {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "en": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "score": 0.7591
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "MS Paint Remote Code Execution Vulnerability",
+      "en": "MS Paint Remote Code Execution Vulnerability",
+      "score": 0.7586
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "en": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "score": 0.7557
+    }
+  ]
+}
