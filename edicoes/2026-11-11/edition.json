@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-11",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "en": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "score": 0.8637
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Smart home devices should work without the internet",
+      "en": "Smart home devices should work without the internet",
+      "score": 0.7512
+    },
+    {
+      "title": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "en": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "score": 0.7186
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 11487 likes e 2848771 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 11487 likes e 2848771 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1916 likes e 33617 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 1916 likes e 33617 downloads.",
+      "score": 0.5042
+    },
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "en": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "score": 0.4415
+    },
+    {
+      "title": "Restrito a assinantes Ultra, Gemini 4 Carbon chega como nova IA de raciocínio profundo",
+      "url": "https://canaltech.com.br/inteligencia-artificial/restrito-a-assinantes-ultra-gemini-4-carbon-chega-como-nova-ia-de-raciocinio-profundo/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "O Google liberou o Gemini 4 Carbon, seu modelo de inteligência artificial mais avançado até o momento, para desenvolvedores, empresas, pesquisadores e assinantes do plano Google AI Ultra. A ferramenta foi desenvolvida para tarefas que exigem raciocínio profundo, pesquisas científicas, programação complexa e análises de segurança digital. Inicialmente, o modelo ficou restrito a um grupo selecionado de especialistas em cibersegurança.\nO Gemini 4 Carbon foi projetado para lidar com problemas mais c",
+      "en": "O Google liberou o Gemini 4 Carbon, seu modelo de inteligência artificial mais avançado até o momento, para desenvolvedores, empresas, pesquisadores e assinantes do plano Google AI Ultra. A ferramenta foi desenvolvida para tarefas que exigem raciocínio profundo, pesquisas científicas, programação complexa e análises de segurança digital. Inicialmente, o modelo ficou restrito a um grupo selecionado de especialistas em cibersegurança.\nO Gemini 4 Carbon foi projetado para lidar com problemas mais c",
+      "score": 0.3971
+    },
+    {
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": ".name Grandfathered",
+      "en": ".name Grandfathered",
+      "score": 0.7388
+    },
+    {
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "AlphaProof Code",
+      "en": "AlphaProof Code",
+      "score": 0.7085
+    },
+    {
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "en": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "score": 0.7027
+    },
+    {
+      "title": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Unlocking any car from X brand in most of the world",
+      "en": "Unlocking any car from X brand in most of the world",
+      "score": 0.6399
+    },
+    {
+      "title": "The Container Store Files a 183-Worker WARN Notice for Maryland Closure",
+      "url": "https://dev.to/layoffatlas/the-container-store-files-a-183-worker-warn-notice-for-maryland-closure-2d3j",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "The Container Store Files a 183-Worker WARN Notice for Maryland Closure\n\n\nThe Container Store has filed a WARN notice in Maryland covering 183 workers, with the closure effective January 15, 2027. The notice was filed on November 6, 2026, according to the Maryland Department of Labor, Licensing and Regulation (DLLR) record tracked by Layoff Atlas.\n\nThe filing is recorded as a closure, not a layoff, which means the affected site is shutting down rather than cutting part of its workforce. The reco",
+      "en": "The Container Store Files a 183-Worker WARN Notice for Maryland Closure\n\n\nThe Container Store has filed a WARN notice in Maryland covering 183 workers, with the closure effective January 15, 2027. The notice was filed on November 6, 2026, according to the Maryland Department of Labor, Licensing and Regulation (DLLR) record tracked by Layoff Atlas.\n\nThe filing is recorded as a closure, not a layoff, which means the affected site is shutting down rather than cutting part of its workforce. The reco",
+      "score": 0.3487
+    },
+    {
+      "title": "Application engineer cover letter, with an example you can adapt",
+      "url": "https://dev.to/fourleaf/application-engineer-cover-letter-with-an-example-you-can-adapt-455l",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "An application engineer cover letter has one job. The Bureau of Labor Statistics sales engineer profile says these engineers \"combine technical knowledge of the products or services they are selling with strong interpersonal skills,\" and the letter has to show a hiring manager both halves of that sentence.\n\nThat BLS line describes the sales applications engineer, and it is a useful brief for the other versions of the title too. A common failure is proving only half of it. The letter lists tools,",
+      "en": "An application engineer cover letter has one job. The Bureau of Labor Statistics sales engineer profile says these engineers \"combine technical knowledge of the products or services they are selling with strong interpersonal skills,\" and the letter has to show a hiring manager both halves of that sentence.\n\nThat BLS line describes the sales applications engineer, and it is a useful brief for the other versions of the title too. A common failure is proving only half of it. The letter lists tools,",
+      "score": 0.3483
+    },
+    {
+      "title": "I Had the Same AI Tools as Everyone Else. Here’s why my projects shipped faster anyway.",
+      "url": "https://dev.to/mestonecold/i-had-the-same-ai-tools-as-everyone-else-heres-why-my-projects-shipped-faster-anyway-fm6",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "How did I build and deploy 3 fully functional apps while still in college, before I even landed my first internship?\n\nNo professor ever showed me how to do anything in college. So I did it all by trial and error, and that's why I was able to create a \"real\" portfolio before my SDE internship even began.\n\nAt some point, probably after the 100th time someone told me to \"build projects,\" I finally figured this out: coding and shipping are two entirely separate skill sets.\n\nI learned this the hard ",
+      "en": "How did I build and deploy 3 fully functional apps while still in college, before I even landed my first internship?\n\nNo professor ever showed me how to do anything in college. So I did it all by trial and error, and that's why I was able to create a \"real\" portfolio before my SDE internship even began.\n\nAt some point, probably after the 100th time someone told me to \"build projects,\" I finally figured this out: coding and shipping are two entirely separate skill sets.\n\nI learned this the hard ",
+      "score": 0.3476
+    },
+    {
+      "title": "Career Ladders in a Small Startup: What I'd Do Before You Hit 30 People",
+      "url": "https://dev.to/vbaranov/career-ladders-in-a-small-startup-what-id-do-before-you-hit-30-people-1k63",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Most engineers want to keep growing. Many of them don't know how, and in a small startup, nobody has written it down for them.\n\nThat's a real problem. Without a visible path, good engineers stall, or leave for a company that has one. But the usual fix, copying a big tech company's career framework, tends to make things worse.\n\nHere's how I approached it as a CTO, and what I learned.\n\n\n  \n  \n  The problem with \"just add a career ladder\"\n\n\nA few things are true at once in an early-stage startup:\n\n",
+      "en": "Most engineers want to keep growing. Many of them don't know how, and in a small startup, nobody has written it down for them.\n\nThat's a real problem. Without a visible path, good engineers stall, or leave for a company that has one. But the usual fix, copying a big tech company's career framework, tends to make things worse.\n\nHere's how I approached it as a CTO, and what I learned.\n\n\n  \n  \n  The problem with \"just add a career ladder\"\n\n\nA few things are true at once in an early-stage startup:\n\n",
+      "score": 0.2988
+    },
+    {
+      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "url": "https://arxiv.org/abs/2611.14519v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what deter",
+      "en": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what deter",
+      "score": 0.4576
+    },
+    {
+      "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "url": "https://arxiv.org/abs/2611.14518v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardized annotations and the heterogeneity of existing datasets limit the development of robust foundation models. In this work, we introduce a novel approach to building a multi-domain foundation model for le sion detection by",
+      "en": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardized annotations and the heterogeneity of existing datasets limit the development of robust foundation models. In this work, we introduce a novel approach to building a multi-domain foundation model for le sion detection by",
+      "score": 0.4576
+    },
+    {
+      "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "url": "https://arxiv.org/abs/2611.14515v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans and tailored to specific domains. We introduce AutoScaffold, a unified AI-for-AI framework that turn",
+      "en": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans and tailored to specific domains. We introduce AutoScaffold, a unified AI-for-AI framework that turn",
+      "score": 0.4576
+    },
+    {
+      "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "url": "https://arxiv.org/abs/2611.14511v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across diverse protein-ligand complexes. Expert chemists equipped with 3D visualization tools and physics-based scores perform near chance, highlighting the difficulty of interpreting available chemical sign",
+      "en": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across diverse protein-ligand complexes. Expert chemists equipped with 3D visualization tools and physics-based scores perform near chance, highlighting the difficulty of interpreting available chemical sign",
+      "score": 0.4575
+    },
+    {
+      "title": "hembramneeraj3-create/aida-64-extreme",
+      "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+      "en": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+      "score": 0.6205
+    },
+    {
+      "title": "mahmoudtawfik1998/secure-pdf-document-processor",
+      "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+      "en": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+      "score": 0.572
+    },
+    {
+      "title": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+      "en": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+      "score": 0.5705
+    },
+    {
+      "title": "AleRibeiro44/archicad-desktop-setup",
+      "url": "https://github.com/AleRibeiro44/archicad-desktop-setup",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
+      "en": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
+      "score": 0.5704
+    }
+  ]
+}
