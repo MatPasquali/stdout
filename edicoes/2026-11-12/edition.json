@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-12",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "My AI agents found an unmapped Maya site?",
+      "en": "My AI agents found an unmapped Maya site?",
+      "score": 0.8051
+    },
+    {
+      "title": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "en": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "score": 0.7997
+    },
+    {
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Jensen Huang resigns",
+      "en": "Jensen Huang resigns",
+      "score": 0.7909
+    },
+    {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Anthropic IPO",
+      "en": "Anthropic IPO",
+      "score": 0.7187
+    },
+    {
+      "title": "Comfy-Org/MiniMax-H3-Image",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 285 likes e 835593 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 285 likes e 835593 downloads.",
+      "score": 0.6815
+    },
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "en": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "score": 0.4994
+    },
+    {
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "en": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "score": 0.447
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Nvidia is preparing to oust Jensen Huang",
+      "en": "Nvidia is preparing to oust Jensen Huang",
+      "score": 0.7347
+    },
+    {
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tim Peters has died",
+      "en": "Tim Peters has died",
+      "score": 0.7159
+    },
+    {
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "AWS emulator",
+      "en": "AWS emulator",
+      "score": 0.7114
+    },
+    {
+      "title": "Hora de turbinar o som: caixas de som Bluetooth em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/11/12/reviews/hora-de-turbinar-o-som-caixas-de-som-bluetooth-em-promocao-na-amazon-16/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Se você está em busca de uma boa caixa de som Bluetooth para levar na viagem, curtir na praia ou animar uma festa, a Amazon reúne algumas opções interessantes que valem a atenção. Separamos três modelos portáteis com boa conectividade, resistência e praticidade, confira a seleção e encontre a que combina mais com o […]\nO post Hora de turbinar o som: caixas de som Bluetooth em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "en": "Se você está em busca de uma boa caixa de som Bluetooth para levar na viagem, curtir na praia ou animar uma festa, a Amazon reúne algumas opções interessantes que valem a atenção. Separamos três modelos portáteis com boa conectividade, resistência e praticidade, confira a seleção e encontre a que combina mais com o […]\nO post Hora de turbinar o som: caixas de som Bluetooth em promoção na Amazon apareceu primeiro em Olhar Digital.",
+      "score": 0.3995
+    },
+    {
+      "title": "AI Is Turning Tomorrow’s Dreams Into Today’s Reality",
+      "url": "https://dev.to/oliviaemma1100/ai-is-turning-tomorrows-dreams-into-todays-reality-64d",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Artificial Intelligence is opening new doors and creating opportunities that once seemed impossible. The future is becoming more exciting as AI transforms the way we work, learn, communicate, and solve everyday challenges.\n\nFrom smart assistants and creative tools to advanced automation and personalized experiences, AI is helping people achieve more with less effort. It is also creating new career paths, supporting business growth, and encouraging innovation across different industries.\n\nWhat on",
+      "en": "Artificial Intelligence is opening new doors and creating opportunities that once seemed impossible. The future is becoming more exciting as AI transforms the way we work, learn, communicate, and solve everyday challenges.\n\nFrom smart assistants and creative tools to advanced automation and personalized experiences, AI is helping people achieve more with less effort. It is also creating new career paths, supporting business growth, and encouraging innovation across different industries.\n\nWhat on",
+      "score": 0.3966
+    },
+    {
+      "title": "The Pulse: What can we learn from the Railway hack?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+      "source": "The Pragmatic Engineer",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Also: native mobile and frontend jobs are disappearing, how trust helps an “AI-native” engineering team to succeed, Carta starts selling a coding harness, and more",
+      "en": "Also: native mobile and frontend jobs are disappearing, how trust helps an “AI-native” engineering team to succeed, Carta starts selling a coding harness, and more",
+      "score": 0.3499
+    },
+    {
+      "title": "A Day in the Life of Someone Who Just Wanted to Open LinkedIn in Peace",
+      "url": "https://dev.to/necoz/a-day-in-the-life-of-someone-who-just-wanted-to-open-linkedin-in-peace-2be",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "All I wanted was a referral. LinkedIn had other plans.\n\nEvery morning, I open LinkedIn with a very simple intention.\n\nFind a recruiter.\nConnect with someone working at a company I like.\nMaybe send a cold DM.\nPerhaps find a job opening that doesn't require 7 years of experience for an entry-level position.\n\nSimple. Reasonable. Harmless.\n\nAnd then LinkedIn loads.\n\n\"I'm thrilled to announce...\" \n\nOh, we're doing this again.🔪🔪🔪🔪🔪\n\nSomeone has joined a company. Someone has completed an internship. So",
+      "en": "All I wanted was a referral. LinkedIn had other plans.\n\nEvery morning, I open LinkedIn with a very simple intention.\n\nFind a recruiter.\nConnect with someone working at a company I like.\nMaybe send a cold DM.\nPerhaps find a job opening that doesn't require 7 years of experience for an entry-level position.\n\nSimple. Reasonable. Harmless.\n\nAnd then LinkedIn loads.\n\n\"I'm thrilled to announce...\" \n\nOh, we're doing this again.🔪🔪🔪🔪🔪\n\nSomeone has joined a company. Someone has completed an internship. So",
+      "score": 0.3474
+    },
+    {
+      "title": "More game developers are starting to use generative AI",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that […]",
+      "en": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that […]",
+      "score": 0.3465
+    },
+    {
+      "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+      "url": "https://arxiv.org/abs/2611.14505v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each instance only once, and assume a single family of learner, so memory-based and weight-based systems are rarely compared on the same scale. We propose Continual-ARC, a lifelong stream built from the three ARC-AGI editions, whose tasks need no domain knowledge. The",
+      "en": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each instance only once, and assume a single family of learner, so memory-based and weight-based systems are rarely compared on the same scale. We propose Continual-ARC, a lifelong stream built from the three ARC-AGI editions, whose tasks need no domain knowledge. The",
+      "score": 0.4142
+    },
+    {
+      "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+      "url": "https://arxiv.org/abs/2611.14504v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-ligand sequences. From a single representation space, Bonbon exhibits three zero-shot emergent capabilities at hierarchical levels of resolution: functional (mechanism of action), residue (binding site l",
+      "en": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-ligand sequences. From a single representation space, Bonbon exhibits three zero-shot emergent capabilities at hierarchical levels of resolution: functional (mechanism of action), residue (binding site l",
+      "score": 0.4141
+    },
+    {
+      "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
+      "url": "https://arxiv.org/abs/2611.14498v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision systems consume far more energy and can be sensitive to adversarial perturbations. Whether networks with brain-like wiring are more robust at lower computational cost is unclear. We address this by benchmarking a task-optimized, continuous-time recurrent neural network of the fly visual system constrained by its synaptic connectome (FlyNet) against artificial neural networks. We com",
+      "en": "Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision systems consume far more energy and can be sensitive to adversarial perturbations. Whether networks with brain-like wiring are more robust at lower computational cost is unclear. We address this by benchmarking a task-optimized, continuous-time recurrent neural network of the fly visual system constrained by its synaptic connectome (FlyNet) against artificial neural networks. We com",
+      "score": 0.4141
+    },
+    {
+      "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+      "url": "https://arxiv.org/abs/2611.14493v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics), applied to two analytics agents in a controlled research setting using frozen execution traces. Phase 1 quantifies e",
+      "en": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics), applied to two analytics agents in a controlled research setting using frozen execution traces. Phase 1 quantifies e",
+      "score": 0.414
+    },
+    {
+      "title": "Arda313131882/aion-2-trainer-tool",
+      "url": "https://github.com/Arda313131882/aion-2-trainer-tool",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
+      "en": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
+      "score": 0.5905
+    },
+    {
+      "title": "sajawal-12/cubase-studio-desktop",
+      "url": "https://github.com/sajawal-12/cubase-studio-desktop",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
+      "en": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
+      "score": 0.5411
+    },
+    {
+      "title": "CodeSouvik/clion-standalone-enhancement",
+      "url": "https://github.com/CodeSouvik/clion-standalone-enhancement",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "CLion full installer: complete standalone setup, all features activated",
+      "en": "CLion full installer: complete standalone setup, all features activated",
+      "score": 0.541
+    },
+    {
+      "title": "PHISHER420/autodesk-inventor-desktop-config",
+      "url": "https://github.com/PHISHER420/autodesk-inventor-desktop-config",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
+      "en": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
+      "score": 0.5409
+    }
+  ]
+}
