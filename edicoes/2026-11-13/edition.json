@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-13",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "en": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "score": 0.7826
+    },
+    {
+      "title": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Private AI meeting notes. Free and open source.",
+      "en": "Private AI meeting notes. Free and open source.",
+      "score": 0.7661
+    },
+    {
+      "title": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Service degradation on Microsoft 365",
+      "en": "Service degradation on Microsoft 365",
+      "score": 0.7567
+    },
+    {
+      "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 3028 likes e 1639400 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 3028 likes e 1639400 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Zyphra/ZONOS3-Mini",
+      "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-speech', com 269 likes e 13068 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-speech', com 269 likes e 13068 downloads.",
+      "score": 0.5037
+    },
+    {
+      "title": "Caso Jensen Huang: o que acontece com o império dos chips após a queda da “Taylor Swift” da IA?",
+      "url": "https://olhardigital.com.br/2026/11/13/pro/caso-jensen-huang-o-que-acontece-com-o-imperio-dos-chips-apos-a-queda-da-taylor-swift-da-ia/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A saída do fundador da Nvidia pode afetar alianças comerciais, decisões sobre chips e a disputa entre EUA e China pela IA\nO post Caso Jensen Huang: o que acontece com o império dos chips após a queda da “Taylor Swift” da IA? apareceu primeiro em Olhar Digital.",
+      "en": "A saída do fundador da Nvidia pode afetar alianças comerciais, decisões sobre chips e a disputa entre EUA e China pela IA\nO post Caso Jensen Huang: o que acontece com o império dos chips após a queda da “Taylor Swift” da IA? apareceu primeiro em Olhar Digital.",
+      "score": 0.3988
+    },
+    {
+      "title": "Jensen Huang was reckless with the environment, too",
+      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+      "source": "The Verge",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's […]",
+      "en": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's […]",
+      "score": 0.3985
+    },
+    {
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Nvidia employees petition to bring back Jensen Huang",
+      "en": "Nvidia employees petition to bring back Jensen Huang",
+      "score": 0.7429
+    },
+    {
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Rust 1.100",
+      "en": "Rust 1.100",
+      "score": 0.737
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "en": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "score": 0.7202
+    },
+    {
+      "title": "Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Socratic Tutor",
+      "en": "Socratic Tutor",
+      "score": 0.6216
+    },
+    {
+      "title": "AI Gave Everyone a Red Team. It Did Not Give Anyone Judgment.",
+      "url": "https://dev.to/harrisonsec/ai-gave-everyone-a-red-team-it-did-not-give-anyone-judgment-2bn2",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A junior engineer with an agent can now do, in an afternoon, what a boutique security firm billed for in 2016. Map the surface, chain the findings, write the exploit, draft the report. The price of a red team fell to roughly the cost of the tokens.\n\nThe easy read is that offense won and skill is now a commodity. That read is wrong, and seeing why it is wrong tells you exactly what the AI era still pays a human for.\n\n\n  \n  \n  AI changed one thing, not two\n\n\nAI collapsed the cost of execution. It ",
+      "en": "A junior engineer with an agent can now do, in an afternoon, what a boutique security firm billed for in 2016. Map the surface, chain the findings, write the exploit, draft the report. The price of a red team fell to roughly the cost of the tokens.\n\nThe easy read is that offense won and skill is now a commodity. That read is wrong, and seeing why it is wrong tells you exactly what the AI era still pays a human for.\n\n\n  \n  \n  AI changed one thing, not two\n\n\nAI collapsed the cost of execution. It ",
+      "score": 0.4469
+    },
+    {
+      "title": "Cyber Security Career Roadmap 2026: From Fundamentals to First Job",
+      "url": "https://dev.to/techexprt/cyber-security-career-roadmap-2026-from-fundamentals-to-first-job-3gfj",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Cyber security is one of the fastest-growing fields in tech, yet most beginners make the same mistake: they jump straight to hacking tools without understanding the fundamentals.\n\nHere is the order that actually works:\n\n\n\nComputer fundamentals, operating systems, file systems, the command line, Windows administration and Linux basics.\n\nNetworking, IP addressing, DNS, DHCP, routing, TCP/IP, firewalls and VPNs. Networking is the foundation of security; without it, everything else is harder.\n\nLin",
+      "en": "Cyber security is one of the fastest-growing fields in tech, yet most beginners make the same mistake: they jump straight to hacking tools without understanding the fundamentals.\n\nHere is the order that actually works:\n\n\n\nComputer fundamentals, operating systems, file systems, the command line, Windows administration and Linux basics.\n\nNetworking, IP addressing, DNS, DHCP, routing, TCP/IP, firewalls and VPNs. Networking is the foundation of security; without it, everything else is harder.\n\nLin",
+      "score": 0.3982
+    },
+    {
+      "title": "AI vs. Human Writers: Why Original Storytelling Still Wins in 2026",
+      "url": "https://dev.to/dureadan/ai-vs-human-writers-why-original-storytelling-still-wins-in-2026-4ji0",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "AI vs. Human Writers: Why Original Storytelling Still Wins in 2026\n\n\n\nRoughly 73% of publishers surveyed in a 2025 Reuters Institute report said AI-generated content lacked the emotional specificity needed to build loyal readership. That single figure tells you something important: speed and volume are not the same as resonance. In the debate over AI vs. human writers, why original storytelling still wins in 2026 comes down to something no language model has yet solved, the ability to look at li",
+      "en": "AI vs. Human Writers: Why Original Storytelling Still Wins in 2026\n\n\n\nRoughly 73% of publishers surveyed in a 2025 Reuters Institute report said AI-generated content lacked the emotional specificity needed to build loyal readership. That single figure tells you something important: speed and volume are not the same as resonance. In the debate over AI vs. human writers, why original storytelling still wins in 2026 comes down to something no language model has yet solved, the ability to look at li",
+      "score": 0.3982
+    },
+    {
+      "title": "How to Compare Two PDF Files Online Privately (Client-Side) + Free Dev & Career Tools",
+      "url": "https://dev.to/harsh_kushwah_bbab05ec3b8/how-to-compare-two-pdf-files-online-privately-client-side-free-dev-career-tools-2h39",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Whether you are a software developer reviewing updated API documentation, a freelancer checking revisions in a client contract, or a job seeker comparing two versions of your resume, finding the exact differences between two PDF files can be frustrating.\n\nMost online PDF comparison tools either:\n\n\nUpload your sensitive documents to remote servers, raising privacy concerns.\nPut strict daily limits or watermarks unless you pay for a monthly subscription.\n\n\nThat’s why we built Jobsixo, a fast, bro",
+      "en": "Whether you are a software developer reviewing updated API documentation, a freelancer checking revisions in a client contract, or a job seeker comparing two versions of your resume, finding the exact differences between two PDF files can be frustrating.\n\nMost online PDF comparison tools either:\n\n\nUpload your sensitive documents to remote servers, raising privacy concerns.\nPut strict daily limits or watermarks unless you pay for a monthly subscription.\n\n\nThat’s why we built Jobsixo, a fast, bro",
+      "score": 0.3963
+    },
+    {
+      "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+      "url": "https://arxiv.org/abs/2611.17331v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training (TTT) layers save computation but sacrifice quality. We propose Test-Time Baking (TTB), a strategy that learns to bake global scene information from cross-view attention into a lightweight MLP, enabling fast and high-fidelity novel-view decoding. The first key is to repurpose the ",
+      "en": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training (TTT) layers save computation but sacrifice quality. We propose Test-Time Baking (TTB), a strategy that learns to bake global scene information from cross-view attention into a lightweight MLP, enabling fast and high-fidelity novel-view decoding. The first key is to repurpose the ",
+      "score": 0.4579
+    },
+    {
+      "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "url": "https://arxiv.org/abs/2611.17332v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why. In academia, limited compute and inconsistent baselines often restrict evaluations to small-scale, single-point comparisons, making it difficult ",
+      "en": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why. In academia, limited compute and inconsistent baselines often restrict evaluations to small-scale, single-point comparisons, making it difficult ",
+      "score": 0.4579
+    },
+    {
+      "title": "K2V: Generative Keyframing For Physically Plausible Video Generation",
+      "url": "https://arxiv.org/abs/2611.17324v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Video diffusion models are able to generate samples with high-quality appearance and textural qualities. However, content produced by these methods is known to exhibit significant physical errors. This is because, in a classical video generation setting, all physical reasoning must take place simultaneously and exclusively within the diffusion process.We propose to resolve these issues by redistributing the task of physical reasoning onto a language model-backed keyframe generation module, which",
+      "en": "Video diffusion models are able to generate samples with high-quality appearance and textural qualities. However, content produced by these methods is known to exhibit significant physical errors. This is because, in a classical video generation setting, all physical reasoning must take place simultaneously and exclusively within the diffusion process.We propose to resolve these issues by redistributing the task of physical reasoning onto a language model-backed keyframe generation module, which",
+      "score": 0.4579
+    },
+    {
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "url": "https://arxiv.org/abs/2611.17323v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSSL), framing SSL as a program search problem and st",
+      "en": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSSL), framing SSL as a program search problem and st",
+      "score": 0.4579
+    },
+    {
+      "title": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "en": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "score": 0.7447
+    },
+    {
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Apex Neural Rendering (ANR) by Apex Compute",
+      "en": "Apex Neural Rendering (ANR) by Apex Compute",
+      "score": 0.7391
+    },
+    {
+      "title": "alexeyw/lot-map",
+      "url": "https://github.com/alexeyw/lot-map",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "en": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "score": 0.6843
+    },
+    {
+      "title": "kolbicz/WQFiles",
+      "url": "https://github.com/kolbicz/WQFiles",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+      "en": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+      "score": 0.6326
+    }
+  ]
+}
