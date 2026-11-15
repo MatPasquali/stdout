@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-15",
+  "weekly": true,
+  "range": "09/11 a 15/11",
+  "intro": {
+    "pt": "Os destaques de tecnologia da semana, reunidos em uma edição.",
+    "en": "This week's top tech stories, gathered in one edition."
+  },
+  "credits": "resumo compilado automaticamente por stdout",
+  "items": [
+    {
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "en": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "score": 0.8637
+    },
+    {
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "KetchUp, Open-source SketchUp alternative built with Rust and WebGPU",
+      "en": "KetchUp, Open-source SketchUp alternative built with Rust and WebGPU",
+      "score": 0.841
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "score": 0.8369
+    },
+    {
+      "title": "Fold Epic Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Fold Epic Paper Airplanes",
+      "en": "Fold Epic Paper Airplanes",
+      "score": 0.8159
+    },
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "SpaceX catches the Starship to end Flight 15",
+      "en": "SpaceX catches the Starship to end Flight 15",
+      "score": 0.8135
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "en": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "score": 0.8087
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "My AI agents found an unmapped Maya site?",
+      "en": "My AI agents found an unmapped Maya site?",
+      "score": 0.8051
+    },
+    {
+      "title": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "en": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "score": 0.7997
+    },
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Google Gemini routes personal Drive files and emails to human annotators",
+      "en": "Google Gemini routes personal Drive files and emails to human annotators",
+      "score": 0.796
+    },
+    {
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Jensen Huang resigns",
+      "en": "Jensen Huang resigns",
+      "score": 0.7909
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "en": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "score": 0.7826
+    },
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Lovable apps expose passport details and more than 200K private messages",
+      "en": "Lovable apps expose passport details and more than 200K private messages",
+      "score": 0.7755
+    }
+  ]
+}
