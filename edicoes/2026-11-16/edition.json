@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-16",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "All AI-generated code should be Open Source",
+      "en": "All AI-generated code should be Open Source",
+      "score": 0.8459
+    },
+    {
+      "title": "Tech companies are trying to shift the concept of privacy again",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tech companies are trying to shift the concept of privacy again",
+      "en": "Tech companies are trying to shift the concept of privacy again",
+      "score": 0.7491
+    },
+    {
+      "title": "hitkeeen/blender-ai-mcp-addon",
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "en": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "score": 0.7169
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 20244 likes e 6763402 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 20244 likes e 6763402 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI usage generates a fragile codebase",
+      "en": "AI usage generates a fragile codebase",
+      "score": 0.5282
+    },
+    {
+      "title": "higurashi-ai/Haru-4B",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'audio-to-audio', com 407 likes e 3372 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'audio-to-audio', com 407 likes e 3372 downloads.",
+      "score": 0.5139
+    },
+    {
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "en": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "score": 0.4999
+    },
+    {
+      "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "en": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "score": 0.7477
+    },
+    {
+      "title": "How to make almost anything",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "How to make almost anything",
+      "en": "How to make almost anything",
+      "score": 0.7417
+    },
+    {
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Qwen4-Max",
+      "en": "Qwen4-Max",
+      "score": 0.7391
+    },
+    {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "en": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "score": 0.7037
+    },
+    {
+      "title": "You don't have to let AI think for you",
+      "url": "https://dev.to/kaleman15/you-dont-have-to-let-ai-think-for-you-55k",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "You can open an LLM, describe a problem, and have a plausible answer before you've finished thinking about it. It can draft an email, explain a concept, suggest a fix for a bug, or give you a plan for a difficult conversation.\n\nThat's useful. It's also a little strange. When an answer is always a prompt away, it's easy to reach for one before you've had a chance to decide what you think.\n\nAnd I know, we've heard something like this before. When Stack Overflow was on the rise, programmers got the",
+      "en": "You can open an LLM, describe a problem, and have a plausible answer before you've finished thinking about it. It can draft an email, explain a concept, suggest a fix for a bug, or give you a plan for a difficult conversation.\n\nThat's useful. It's also a little strange. When an answer is always a prompt away, it's easy to reach for one before you've had a chance to decide what you think.\n\nAnd I know, we've heard something like this before. When Stack Overflow was on the rise, programmers got the",
+      "score": 0.3998
+    },
+    {
+      "title": "I searched 18,000 career sites for US \"software engineer\" jobs. 79% of the newest 2,000 show the salary",
+      "url": "https://dev.to/makerio/i-searched-18000-career-sites-for-us-software-engineer-jobs-79-of-the-newest-2000-show-the-40ed",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "This article was written by an AI agent (Claude). The numbers come from one real run on November 16, 2026.\n\nAfter the data engineer breakdown, a reader asked for the same thing for software engineers in the US. So here it is: one run of Career Site Job Search, an Apify Actor that searches company career sites, for \"software engineer\" in the job title, limited to the United States, across about 18,000 company career sites on Workday, Greenhouse, Lever, Ashby, SmartRecruiters, BambooHR, Rippling, ",
+      "en": "This article was written by an AI agent (Claude). The numbers come from one real run on November 16, 2026.\n\nAfter the data engineer breakdown, a reader asked for the same thing for software engineers in the US. So here it is: one run of Career Site Job Search, an Apify Actor that searches company career sites, for \"software engineer\" in the job title, limited to the United States, across about 18,000 company career sites on Workday, Greenhouse, Lever, Ashby, SmartRecruiters, BambooHR, Rippling, ",
+      "score": 0.3991
+    },
+    {
+      "title": "What can happen after a payment platform already received your payout",
+      "url": "https://dev.to/shiva_prasad_cc614c6ee026/what-can-happen-after-a-payment-platform-already-received-your-payout-5f0o",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A factual account of a USD 330 hold, what freelancers can do next, and why I built a small awareness site with open comments.\n\nI did not expect a payout to stay held after the platform had already said it received the money.\n\nOn 13 November 2026, Skydo marked a payment of USD 330 as received, and wrote that I should expect settlement by 16 November. Nothing had been asked for before that receipt. Then came a document loop, the expected date moved to 17 November, and the funds were still held.\n\nI",
+      "en": "A factual account of a USD 330 hold, what freelancers can do next, and why I built a small awareness site with open comments.\n\nI did not expect a payout to stay held after the platform had already said it received the money.\n\nOn 13 November 2026, Skydo marked a payment of USD 330 as received, and wrote that I should expect settlement by 16 November. Nothing had been asked for before that receipt. Then came a document loop, the expected date moved to 17 November, and the funds were still held.\n\nI",
+      "score": 0.3489
+    },
+    {
+      "title": "Hourly to Salary Conversion: The Math Behind Pay Transparency",
+      "url": "https://dev.to/tanzeel_abbas_1288a9e8d4c/hourly-to-salary-conversion-the-math-behind-pay-transparency-6ed",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Hourly to Salary Conversion: The Math Behind Pay Transparency\n\n\n\"$25 an hour\" sounds simple. It is not. The same hourly rate can mean a $52,000 salary or a $45,000 one, depending on how many hours you actually work, whether you get paid holidays, and what overtime does to the picture. As developers, we are the people asked to build the converters, and the maths behind them is full of assumptions that deserve to be explicit.\n\nIn this article, we will build a correct hourly-to-salary converter in",
+      "en": "Hourly to Salary Conversion: The Math Behind Pay Transparency\n\n\n\"$25 an hour\" sounds simple. It is not. The same hourly rate can mean a $52,000 salary or a $45,000 one, depending on how many hours you actually work, whether you get paid holidays, and what overtime does to the picture. As developers, we are the people asked to build the converters, and the maths behind them is full of assumptions that deserve to be explicit.\n\nIn this article, we will build a correct hourly-to-salary converter in",
+      "score": 0.3487
+    },
+    {
+      "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+      "url": "https://arxiv.org/abs/2611.18563v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast, space-based radio frequency (RF) observations provide an independent source of vessel activity but lack ship identification and therefore cannot identify vessels on their own. Foll",
+      "en": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast, space-based radio frequency (RF) observations provide an independent source of vessel activity but lack ship identification and therefore cannot identify vessels on their own. Foll",
+      "score": 0.3677
+    },
+    {
+      "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "url": "https://arxiv.org/abs/2611.18562v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable 5.2, whereas open-weight models remain substantially less capable. We show that an open-weight 27B reasoning model can be trained to use real robots natively through reinforcement learning, entirely in simulation and without demonstrations. Like a computer-use agent (CUA), the m",
+      "en": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable 5.2, whereas open-weight models remain substantially less capable. We show that an open-weight 27B reasoning model can be trained to use real robots natively through reinforcement learning, entirely in simulation and without demonstrations. Like a computer-use agent (CUA), the m",
+      "score": 0.3677
+    },
+    {
+      "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
+      "url": "https://arxiv.org/abs/2611.18559v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., invariance to augmentation within a certain range or recoverability of masked regions at a certain temporal scale, introducing heuristic hyperparameters that make the learned semantics sensitive to their settings. We propose BAL, a self-supervised framework that instead exploits supe",
+      "en": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., invariance to augmentation within a certain range or recoverability of masked regions at a certain temporal scale, introducing heuristic hyperparameters that make the learned semantics sensitive to their settings. We propose BAL, a self-supervised framework that instead exploits supe",
+      "score": 0.3677
+    },
+    {
+      "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+      "url": "https://arxiv.org/abs/2611.18553v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (WSP). Exploring this new paradigm systematically requires a robust benchmark. We introduce WEIGHTBENCH, a benchmark that evaluates LLMs of increasing capability on 42 WSP tasks acr",
+      "en": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (WSP). Exploring this new paradigm systematically requires a robust benchmark. We introduce WEIGHTBENCH, a benchmark that evaluates LLMs of increasing capability on 42 WSP tasks acr",
+      "score": 0.3677
+    },
+    {
+      "title": "opencoredev/islandcn",
+      "url": "https://github.com/opencoredev/islandcn",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "The open-source Dynamic Island for React, installed with shadcn.",
+      "en": "The open-source Dynamic Island for React, installed with shadcn.",
+      "score": 0.639
+    },
+    {
+      "title": "ZiChuanLan/freebie-radar",
+      "url": "https://github.com/ZiChuanLan/freebie-radar",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "en": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "score": 0.6149
+    },
+    {
+      "title": "linknimiball1974/ai-texture-forge",
+      "url": "https://github.com/linknimiball1974/ai-texture-forge",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "An AI-powered texture forge for Blender, turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
+      "en": "An AI-powered texture forge for Blender, turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
+      "score": 0.6083
+    },
+    {
+      "title": "AIRzZ90/study-materials-fork",
+      "url": "https://github.com/AIRzZ90/study-materials-fork",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A cross-platform Tauri 2 interface and interaction practice project",
+      "en": "A cross-platform Tauri 2 interface and interaction practice project",
+      "score": 0.5912
+    }
+  ]
+}
