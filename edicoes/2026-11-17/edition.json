@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-17",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+      "en": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+      "score": 0.8064
+    },
+    {
+      "title": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "en": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "score": 0.7883
+    },
+    {
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "en": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "score": 0.7586
+    },
+    {
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "GPT‑6.2 Astra and Sol",
+      "en": "GPT‑6.2 Astra and Sol",
+      "score": 0.7164
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 1422 likes e 727110 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 1422 likes e 727110 downloads.",
+      "score": 0.5652
+    },
+    {
+      "title": "n4ze3m/tiny-voca",
+      "url": "https://huggingface.co/n4ze3m/tiny-voca",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-speech', com 225 likes e 3042 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-speech', com 225 likes e 3042 downloads.",
+      "score": 0.5614
+    },
+    {
+      "title": "speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-3d', com 2449 likes e 36388 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-3d', com 2449 likes e 36388 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "en": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "score": 0.7377
+    },
+    {
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "en": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "score": 0.7334
+    },
+    {
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "en": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "score": 0.6901
+    },
+    {
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "BugMeNot has closed",
+      "en": "BugMeNot has closed",
+      "score": 0.6857
+    },
+    {
+      "title": "Inference engineering for software engineers",
+      "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+      "source": "The Pragmatic Engineer",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "When is the right time to drop APIs provided by the frontier AI labs, and what about choosing models & providers, caching, dedicated GPUs, KV cache concerns, and more? A practical deepdive",
+      "en": "When is the right time to drop APIs provided by the frontier AI labs, and what about choosing models & providers, caching, dedicated GPUs, KV cache concerns, and more? A practical deepdive",
+      "score": 0.4434
+    },
+    {
+      "title": "Modelling a quote pipeline: one next action per lead, and why 'overdue' must be computed, not stored",
+      "url": "https://dev.to/tidycents/modelling-a-quote-pipeline-one-next-action-per-lead-and-why-overdue-must-be-computed-not-stored-1om",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Lead & Quote Recovery Desk, PAID $19 one-time, FREE demo: https://gettidycents.com/product/lead-quote-recovery-desk\n\nMost lost sales are not \"no\". They are quotes nobody followed up. The data model that fixes this is small.\n\n\n  \n  \n  One record per enquiry, one next action\n\n\n\n\n\nconst lead = {\n  id: 'L-104',\n  source: 'referral',            // where it came from\n  stage: 'quoted',               // new | qualified | quoted | won | lost\n  quotes: [{ v: 1, totalCents: 480000, sentOn: '2026-11-03' }",
+      "en": "Lead & Quote Recovery Desk, PAID $19 one-time, FREE demo: https://gettidycents.com/product/lead-quote-recovery-desk\n\nMost lost sales are not \"no\". They are quotes nobody followed up. The data model that fixes this is small.\n\n\n  \n  \n  One record per enquiry, one next action\n\n\n\n\n\nconst lead = {\n  id: 'L-104',\n  source: 'referral',            // where it came from\n  stage: 'quoted',               // new | qualified | quoted | won | lost\n  quotes: [{ v: 1, totalCents: 480000, sentOn: '2026-11-03' }",
+      "score": 0.3999
+    },
+    {
+      "title": "A fake recruiter sent me a coding test. The repo was malware",
+      "url": "https://dev.to/guilherme_michels/a-fake-recruiter-sent-me-a-coding-test-the-repo-was-malware-17f5",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A few weeks ago I got targeted by a fake recruiter scam. I wrote about it on LinkedIn and it reached far more people than I expected. Here is the full version, with what I learned and what I now do before running any take-home test.\n\n\n  \n  \n  How it started\n\n\nThe recruiter's LinkedIn profile was very convincing. We had mutual connections, the company was real, and he even sent me a presentation of the project I would be working on. It looked like a normal hiring process.\n\nThen came the technical",
+      "en": "A few weeks ago I got targeted by a fake recruiter scam. I wrote about it on LinkedIn and it reached far more people than I expected. Here is the full version, with what I learned and what I now do before running any take-home test.\n\n\n  \n  \n  How it started\n\n\nThe recruiter's LinkedIn profile was very convincing. We had mutual connections, the company was real, and he even sent me a presentation of the project I would be working on. It looked like a normal hiring process.\n\nThen came the technical",
+      "score": 0.3492
+    },
+    {
+      "title": "Run your job search from Claude Code, Cursor or Codex with an MCP server",
+      "url": "https://dev.to/getrefine/run-your-job-search-from-claude-code-cursor-or-codex-with-an-mcp-server-27eg",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "If you spend most of your day in Claude Code, Cursor or Codex, a job search is one more set of tabs: careers pages, a spreadsheet, an inbox, a calendar. This post shows how to run that search from the assistant you already have open, using Refine's hosted MCP server.\n\nRefine is a job-search workspace. You follow companies with filters, new matching roles show up as they're posted, and every role you care about sits on a board from saved to offer. The MCP server exposes all of that as tools your ",
+      "en": "If you spend most of your day in Claude Code, Cursor or Codex, a job search is one more set of tabs: careers pages, a spreadsheet, an inbox, a calendar. This post shows how to run that search from the assistant you already have open, using Refine's hosted MCP server.\n\nRefine is a job-search workspace. You follow companies with filters, new matching roles show up as they're posted, and every role you care about sits on a board from saved to offer. The MCP server exposes all of that as tools your ",
+      "score": 0.3476
+    },
+    {
+      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+      "url": "https://arxiv.org/abs/2611.21605v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading. We propose Cross-Input Relative Policy Optimization (CrossRPO), which trains agents on contrast sets. A contrast set asks one question about several versions of an image that differ only i",
+      "en": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading. We propose Cross-Input Relative Policy Optimization (CrossRPO), which trains agents on contrast sets. A contrast set asks one question about several versions of an image that differ only i",
+      "score": 0.4555
+    },
+    {
+      "title": "FaceJev: Direct Visual Decisions for Face Forgery Detection",
+      "url": "https://arxiv.org/abs/2611.21604v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Face forgery detection methods often perform well on seen manipulations but generalize poorly to unseen ones. Multimodal Large Language Models (MLLMs) can recognize facial parts and assess their visual plausibility. Existing MLLM-based methods typically express these judgments through textual explanations, but seldom treat individual part decisions as explicit learning targets. We present FaceJev, an MLLM-based method for face forgery detection through direct visual decisions. Following the Jev ",
+      "en": "Face forgery detection methods often perform well on seen manipulations but generalize poorly to unseen ones. Multimodal Large Language Models (MLLMs) can recognize facial parts and assess their visual plausibility. Existing MLLM-based methods typically express these judgments through textual explanations, but seldom treat individual part decisions as explicit learning targets. We present FaceJev, an MLLM-based method for face forgery detection through direct visual decisions. Following the Jev ",
+      "score": 0.4555
+    },
+    {
+      "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+      "url": "https://arxiv.org/abs/2611.21598v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can provide a reusable memory when combined with environment detection and failure-driven search. The Evolutionary Neuroplastic Agent (ENA) evolves small neural networks without gradients, archives selected policies by detected dynamic regime, and retrieves them through Bayesian pol",
+      "en": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can provide a reusable memory when combined with environment detection and failure-driven search. The Evolutionary Neuroplastic Agent (ENA) evolves small neural networks without gradients, archives selected policies by detected dynamic regime, and retrieves them through Bayesian pol",
+      "score": 0.4555
+    },
+    {
+      "title": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
+      "url": "https://arxiv.org/abs/2611.21586v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Job titles and job descriptions alone provide limited insight into how technical roles differ in a changing job market. To assess how such roles differ in their work and industry applications, we design and compare two methods based on deep learning and transformer representations using 36,081 early-career job postings collected from LinkedIn in the United States between December 2025 and October 2026. We first apply PERC, short for Preprocessing (P), Embedding (E), Dimensionality Reduction (R) ",
+      "en": "Job titles and job descriptions alone provide limited insight into how technical roles differ in a changing job market. To assess how such roles differ in their work and industry applications, we design and compare two methods based on deep learning and transformer representations using 36,081 early-career job postings collected from LinkedIn in the United States between December 2025 and October 2026. We first apply PERC, short for Preprocessing (P), Embedding (E), Dimensionality Reduction (R) ",
+      "score": 0.4554
+    },
+    {
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "en": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "score": 0.7314
+    },
+    {
+      "title": "joshpuckett/allo",
+      "url": "https://github.com/joshpuckett/allo",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Allo is your friendly neighborhood typeface, free and open source",
+      "en": "Allo is your friendly neighborhood typeface, free and open source",
+      "score": 0.6939
+    },
+    {
+      "title": "CzzzzzzJ/mdldm-maitian",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "en": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "score": 0.6366
+    },
+    {
+      "title": "haziqahmedqasmi/PeakCut",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "en": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "score": 0.6336
+    }
+  ]
+}
