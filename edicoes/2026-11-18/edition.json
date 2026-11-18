@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-18",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI is killing All About Berlin",
+      "en": "AI is killing All About Berlin",
+      "score": 0.7943
+    },
+    {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Google's AI answers reducing search traffic by 40%",
+      "en": "Google's AI answers reducing search traffic by 40%",
+      "score": 0.7778
+    },
+    {
+      "title": "chuanqisun/spaceship",
+      "url": "https://github.com/chuanqisun/spaceship",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Steer your ideas in realtime",
+      "en": "Steer your ideas in realtime",
+      "score": 0.6957
+    },
+    {
+      "title": "tencent/Hy4-flash",
+      "url": "https://huggingface.co/tencent/Hy4-flash",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 214 likes e 159 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 214 likes e 159 downloads.",
+      "score": 0.5637
+    },
+    {
+      "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 369 likes e 377 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 369 likes e 377 downloads.",
+      "score": 0.5552
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 12525 likes e 2871190 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 12525 likes e 2871190 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "apple/FastFrames-L",
+      "url": "https://huggingface.co/apple/FastFrames-L",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-video', com 190 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-video', com 190 likes e 0 downloads.",
+      "score": 0.5389
+    },
+    {
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "en": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "score": 0.7603
+    },
+    {
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Quad9's withdrawal from France: A canary in the coal mine",
+      "en": "Quad9's withdrawal from France: A canary in the coal mine",
+      "score": 0.7423
+    },
+    {
+      "title": "Apple Services Down",
+      "url": "https://developer.apple.com/system-status/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Apple Services Down",
+      "en": "Apple Services Down",
+      "score": 0.721
+    },
+    {
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Optimizely compromised, served malware on Zoom, GitLab",
+      "en": "Optimizely compromised, served malware on Zoom, GitLab",
+      "score": 0.6859
+    },
+    {
+      "title": "How to write a cold email for an internship",
+      "url": "https://dev.to/datafordresearch/how-to-write-a-cold-email-for-an-internship-5932",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Most students only apply through the online form. That works sometimes, but a short, specific email to a real person can get your application read by someone who can actually move it forward. It is also how a lot of internships at small companies and startups get filled, because many of them never post the role at all. Here is how I would write one.\n\n\n  \n  \n  Pick the right person\n\n\nThe best person to email is usually not the CEO or a general HR inbox. Aim for someone close to the work:\n\n\nA mana",
+      "en": "Most students only apply through the online form. That works sometimes, but a short, specific email to a real person can get your application read by someone who can actually move it forward. It is also how a lot of internships at small companies and startups get filled, because many of them never post the role at all. Here is how I would write one.\n\n\n  \n  \n  Pick the right person\n\n\nThe best person to email is usually not the CEO or a general HR inbox. Aim for someone close to the work:\n\n\nA mana",
+      "score": 0.3485
+    },
+    {
+      "title": "Software factories and code reviews with Harjot Gill",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+      "source": "The Pragmatic Engineer",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI.",
+      "en": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI.",
+      "score": 0.3477
+    },
+    {
+      "title": "true",
+      "url": "https://dev.to/varma_e924161d9/true-4fkg",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "GitHub Stars Don't Pay Salaries. So How Do Open-Source Projects Make Millions?\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Varma\n            \n            \n              \n                Varma\n                \n                \n              \n              \n                \n                  \n                    \n                      \n                        \n                      \n                      Varma\n              ",
+      "en": "GitHub Stars Don't Pay Salaries. So How Do Open-Source Projects Make Millions?\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Varma\n            \n            \n              \n                Varma\n                \n                \n              \n              \n                \n                  \n                    \n                      \n                        \n                      \n                      Varma\n              ",
+      "score": 0.3476
+    },
+    {
+      "title": "ProvenPlate – Developer wellness",
+      "url": "https://dev.to/shan_haider_9d60ce26e3ade/provenplate-developer-wellness-31pb",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "*7 Healthy Habits That Can Help Developers Stay Productive\n*\nSoftware development requires concentration, problem-solving, and long hours of mental effort. While improving technical skills is important, maintaining healthy everyday habits can also support a more balanced and productive development routine.\n\nHere are seven practical habits developers can incorporate into their daily lives.\n\n*1. Start Your Day With a Balanced Breakfast\n*\nA nutritious breakfast can help you establish a consistent m",
+      "en": "*7 Healthy Habits That Can Help Developers Stay Productive\n*\nSoftware development requires concentration, problem-solving, and long hours of mental effort. While improving technical skills is important, maintaining healthy everyday habits can also support a more balanced and productive development routine.\n\nHere are seven practical habits developers can incorporate into their daily lives.\n\n*1. Start Your Day With a Balanced Breakfast\n*\nA nutritious breakfast can help you establish a consistent m",
+      "score": 0.3473
+    },
+    {
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "url": "https://arxiv.org/abs/2611.23229v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperfect predictions to augment the fine-tuning set. In",
+      "en": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperfect predictions to augment the fine-tuning set. In",
+      "score": 0.4564
+    },
+    {
+      "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.23228v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent layers such as Gated DeltaNet (GDN), are attractive for this setting, but maintaining a sliding window is expensive. The reason is that recurrent layers combine all past frames into a shared state, so expiring old frame",
+      "en": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent layers such as Gated DeltaNet (GDN), are attractive for this setting, but maintaining a sliding window is expensive. The reason is that recurrent layers combine all past frames into a shared state, so expiring old frame",
+      "score": 0.4564
+    },
+    {
+      "title": "FastFrames: Video Generation at Interactive Latency",
+      "url": "https://arxiv.org/abs/2611.23226v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of magnitude too slow for fluid interaction. This paper introduces FastFrames, a family of fast autoregressive video diffusion models that achieves interactive latency without compromising quality. We profile the inference pipeline of state-of-the-art models and find that operations often treated as fixe",
+      "en": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of magnitude too slow for fluid interaction. This paper introduces FastFrames, a family of fast autoregressive video diffusion models that achieves interactive latency without compromising quality. We profile the inference pipeline of state-of-the-art models and find that operations often treated as fixe",
+      "score": 0.4564
+    },
+    {
+      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "url": "https://arxiv.org/abs/2611.23225v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory constructions, wrapped M5-branes and exact worldsheet constructions. Its open-book benchmark inventory contains 1,073 items, including 499 with automatic finite-answer checking. For retrieval-augmented generation",
+      "en": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory constructions, wrapped M5-branes and exact worldsheet constructions. Its open-book benchmark inventory contains 1,073 items, including 499 with automatic finite-answer checking. For retrieval-augmented generation",
+      "score": 0.4564
+    },
+    {
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "en": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "score": 0.614
+    },
+    {
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "en": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "score": 0.6007
+    },
+    {
+      "title": "huggingface/pybot",
+      "url": "https://github.com/huggingface/pybot",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
+      "en": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
+      "score": 0.5666
+    },
+    {
+      "title": "zephyr4123/snug",
+      "url": "https://github.com/zephyr4123/snug",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote.",
+      "en": "为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote.",
+      "score": 0.5506
+    }
+  ]
+}
