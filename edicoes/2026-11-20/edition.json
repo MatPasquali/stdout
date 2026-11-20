@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-20",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "en": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "score": 0.8493
+    },
+    {
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "en": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "score": 0.8413
+    },
+    {
+      "title": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "en": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "score": 0.8302
+    },
+    {
+      "title": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Anthropic’s Nasdaq debut",
+      "en": "Anthropic’s Nasdaq debut",
+      "score": 0.7224
+    },
+    {
+      "title": "sensenova/SenseNova-Loop-9B",
+      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 431 likes e 1631 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 431 likes e 1631 downloads.",
+      "score": 0.6638
+    },
+    {
+      "title": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 751 likes e 309394 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 751 likes e 309394 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Sentinel7/h3",
+      "url": "https://huggingface.co/Sentinel7/h3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'modelo', com 196 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'modelo', com 196 likes e 0 downloads.",
+      "score": 0.4489
+    },
+    {
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Pancreatic cancer halted by virus injection in three patients",
+      "en": "Pancreatic cancer halted by virus injection in three patients",
+      "score": 0.7053
+    },
+    {
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "UK government forced to admit it issued Apple a secret encryption order",
+      "en": "UK government forced to admit it issued Apple a secret encryption order",
+      "score": 0.6881
+    },
+    {
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "How the European Commission rolled out Matrix to more than 40k staff",
+      "en": "How the European Commission rolled out Matrix to more than 40k staff",
+      "score": 0.681
+    },
+    {
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Garage Door Spam",
+      "en": "Garage Door Spam",
+      "score": 0.5778
+    },
+    {
+      "title": "The Impact of Artificial Intelligence on Software Engineers",
+      "url": "https://dev.to/abdelsaleem233/the-impact-of-artificial-intelligence-on-software-engineers-2gd0",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Introduction\n\nArtificial Intelligence (AI) is becoming an important part of the technology industry, and software development is one of the areas experiencing significant changes. Today, developers can use AI tools to write code, identify errors, explain programming concepts and even suggest solutions to complex problems. Tasks that once required a lot of time can now be completed much faster with the help of these tools. However, this development has raised an important question: Will AI eventu",
+      "en": "Introduction\n\nArtificial Intelligence (AI) is becoming an important part of the technology industry, and software development is one of the areas experiencing significant changes. Today, developers can use AI tools to write code, identify errors, explain programming concepts and even suggest solutions to complex problems. Tasks that once required a lot of time can now be completed much faster with the help of these tools. However, this development has raised an important question: Will AI eventu",
+      "score": 0.3965
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "en": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "score": 0.3908
+    },
+    {
+      "title": "My Day at the Youth Parliament of Pakistan — and How It Differs from PILDAT’s Programme",
+      "url": "https://dev.to/mafzalkalwardev/my-day-at-the-youth-parliament-of-pakistan-and-how-it-differs-from-pildats-programme-50cn",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "On 20 November 2026 I attended an event of the Youth Parliament of Pakistan. It was held in a hall, and certificates were presented by guests. I went to learn about the organisation. I left with a Certificate of Appreciation, and with a clearer picture of what this Youth Parliament is, including how it differs from another programme that uses a very similar name.\n\nThe certificate was given by Mr Abrar Ul Haq, Chairman of the Youth Parliament of Pakistan, in recognition of dedicated participatio",
+      "en": "On 20 November 2026 I attended an event of the Youth Parliament of Pakistan. It was held in a hall, and certificates were presented by guests. I went to learn about the organisation. I left with a Certificate of Appreciation, and with a clearer picture of what this Youth Parliament is, including how it differs from another programme that uses a very similar name.\n\nThe certificate was given by Mr Abrar Ul Haq, Chairman of the Youth Parliament of Pakistan, in recognition of dedicated participatio",
+      "score": 0.3499
+    },
+    {
+      "title": "Startups on Ashby pay more and hire more remotely: 50,000 open jobs compared with Greenhouse",
+      "url": "https://dev.to/makerio/startups-on-ashby-pay-more-and-hire-more-remotely-50000-open-jobs-compared-with-greenhouse-569k",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Ashby is the hiring system many AI companies and venture-backed startups moved to in the last few years: OpenAI, Snowflake, Harvey, Airwallex, Applied Intuition, Crusoe, Mistral, Legora. Like Greenhouse, every Ashby job board has a public JSON API. We read all the boards we know of every night, so we can compare the two.\n\nNumbers below are from the November 18, 2026 build: 50,121 open jobs on 2,180 Ashby boards and 164,004 on 3,976 Greenhouse boards.\n\n\n  \n  \n  Ashby jobs are more often remote\n\n\n",
+      "en": "Ashby is the hiring system many AI companies and venture-backed startups moved to in the last few years: OpenAI, Snowflake, Harvey, Airwallex, Applied Intuition, Crusoe, Mistral, Legora. Like Greenhouse, every Ashby job board has a public JSON API. We read all the boards we know of every night, so we can compare the two.\n\nNumbers below are from the November 18, 2026 build: 50,121 open jobs on 2,180 Ashby boards and 164,004 on 3,976 Greenhouse boards.\n\n\n  \n  \n  Ashby jobs are more often remote\n\n\n",
+      "score": 0.3498
+    },
+    {
+      "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+      "url": "https://arxiv.org/abs/2611.26619v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for allocating GPU memory among caches and managing their residency across GPU and host memory. The Transparent Cache Pool redistributes physical pages among cache components behind fixed virtual address",
+      "en": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for allocating GPU memory among caches and managing their residency across GPU and host memory. The Transparent Cache Pool redistributes physical pages among cache components behind fixed virtual address",
+      "score": 0.4569
+    },
+    {
+      "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+      "url": "https://arxiv.org/abs/2611.26613v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these agents succeed nor where they fail. In this paper, we present a systematic action-level analysis of frontier agents on direct robot control across 12 manipulation benchmarks. We introduce AgentRoboCritic, an inten",
+      "en": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these agents succeed nor where they fail. In this paper, we present a systematic action-level analysis of frontier agents on direct robot control across 12 manipulation benchmarks. We introduce AgentRoboCritic, an inten",
+      "score": 0.4568
+    },
+    {
+      "title": "Bio-PM-Guided Synthetic IMU Generation",
+      "url": "https://arxiv.org/abs/2611.26607v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Collecting and labeling inertial measurement unit (IMU) data for human activity recognition (HAR) is expensive, and models trained on one group of subjects often fail to generalize to unseen individuals. Even with balanced data, classifiers struggle to distinguish dynamically similar activity classes and benefit from targeted augmentation. We explore whether synthetic IMU data generated in the representation space of a pretrained biosignal encoder, Bio-PM \\cite{b1}, can serve as a practical augm",
+      "en": "Collecting and labeling inertial measurement unit (IMU) data for human activity recognition (HAR) is expensive, and models trained on one group of subjects often fail to generalize to unseen individuals. Even with balanced data, classifiers struggle to distinguish dynamically similar activity classes and benefit from targeted augmentation. We explore whether synthetic IMU data generated in the representation space of a pretrained biosignal encoder, Bio-PM \\cite{b1}, can serve as a practical augm",
+      "score": 0.4568
+    },
+    {
+      "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+      "url": "https://arxiv.org/abs/2611.26601v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found and fixed. These claims, however, are scattered across papers, vendor reports and disclosures and are rarely comparable. We introduce a framework that rates these capabilities on an autonomy scale modeled on the levels of driving automation, and qualifies each claim by its correc",
+      "en": "LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found and fixed. These claims, however, are scattered across papers, vendor reports and disclosures and are rarely comparable. We introduce a framework that rates these capabilities on an autonomy scale modeled on the levels of driving automation, and qualifies each claim by its correc",
+      "score": 0.4567
+    },
+    {
+      "title": "siliconjungle/shapeshift-labs-ink-studio",
+      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+      "en": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+      "score": 0.5748
+    }
+  ]
+}
