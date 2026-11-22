@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-22",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "en": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "score": 0.8002
+    },
+    {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "en": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "score": 0.7687
+    },
+    {
+      "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 428 likes e 129693 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 428 likes e 129693 downloads.",
+      "score": 0.7681
+    },
+    {
+      "title": "apple/DepthPro2",
+      "url": "https://huggingface.co/apple/DepthPro2",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'depth-estimation', com 253 likes e 0 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'depth-estimation', com 253 likes e 0 downloads.",
+      "score": 0.5068
+    },
+    {
+      "title": "5 notebooks bons até R$ 8.000 que valem à pena comprar na Black Friday 2026",
+      "url": "https://canaltech.com.br/notebook/black-friday-notebooks-bons-ate-8000-reais-para-comprar/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A faixa dos R$ 8.000 coloca o consumidor diante de notebooks potentes e de ótima qualidade. Enquanto faixas inferiores exigem certas concessões em acabamento, memória ou capacidade gráfica, esse patamar permite investir em ultrabooks com telas OLED de alta resolução, até 32 GB de RAM, recursos avançados de IA e GPUs dedicadas de atual geração.\nPara ajudar você a aproveitar as melhores oportunidades da Black Friday 2026 sem erro, selecionamos cinco modelos que valem a pena ficar de olho. A lista ",
+      "en": "A faixa dos R$ 8.000 coloca o consumidor diante de notebooks potentes e de ótima qualidade. Enquanto faixas inferiores exigem certas concessões em acabamento, memória ou capacidade gráfica, esse patamar permite investir em ultrabooks com telas OLED de alta resolução, até 32 GB de RAM, recursos avançados de IA e GPUs dedicadas de atual geração.\nPara ajudar você a aproveitar as melhores oportunidades da Black Friday 2026 sem erro, selecionamos cinco modelos que valem a pena ficar de olho. A lista ",
+      "score": 0.4472
+    },
+    {
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "score": 0.3974
+    },
+    {
+      "title": "Quando a One UI 9.5 será lançada?",
+      "url": "https://canaltech.com.br/apps/quando-one-ui-95-sera-lancada/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A One UI 9.5 é a próxima atualização da interface da Samsung para celulares e tablets Galaxy. Baseada no Android 17, a nova versão deve trazer mudanças visuais, melhorias em aplicativos nativos e novos recursos de inteligência artificial (IA).\nA extensão “.5” começou a ser usada na geração anterior, com a One UI 8.5, após mudanças no calendário de lançamentos do Google. Como as novas versões do Android começaram a chegar no primeiro semestre, a Samsung adotou um cronograma com uma atualização pr",
+      "en": "A One UI 9.5 é a próxima atualização da interface da Samsung para celulares e tablets Galaxy. Baseada no Android 17, a nova versão deve trazer mudanças visuais, melhorias em aplicativos nativos e novos recursos de inteligência artificial (IA).\nA extensão “.5” começou a ser usada na geração anterior, com a One UI 8.5, após mudanças no calendário de lançamentos do Google. Como as novas versões do Android começaram a chegar no primeiro semestre, a Samsung adotou um cronograma com uma atualização pr",
+      "score": 0.349
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "en": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "score": 0.7568
+    },
+    {
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Lean verification of the Riemann Hypothesis",
+      "en": "Lean verification of the Riemann Hypothesis",
+      "score": 0.7449
+    },
+    {
+      "title": "Slopstrap – Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Slopstrap, Make your site look hastily vibecoded",
+      "en": "Slopstrap, Make your site look hastily vibecoded",
+      "score": 0.6724
+    },
+    {
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "en": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "score": 0.5963
+    },
+    {
+      "title": "Hey U.S. Developers! What Are You Building Right Now? 🚀",
+      "url": "https://dev.to/johnclentoira/hey-us-developers-what-are-you-building-right-now-gne",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Hey DEV Community! 👋\n\nI'd love to connect with more software developers across the United States.\nThere's always something interesting happening in tech, whether it's AI changing development workflows, new frameworks gaining traction, or engineers solving difficult problems behind the scenes.\n\nI'm especially interested in meeting developers working with:\n\n\nFull-stack and backend development\nAI, automation, and emerging technologies\nCloud infrastructure and scalable systems\nWeb applications and S",
+      "en": "Hey DEV Community! 👋\n\nI'd love to connect with more software developers across the United States.\nThere's always something interesting happening in tech, whether it's AI changing development workflows, new frameworks gaining traction, or engineers solving difficult problems behind the scenes.\n\nI'm especially interested in meeting developers working with:\n\n\nFull-stack and backend development\nAI, automation, and emerging technologies\nCloud infrastructure and scalable systems\nWeb applications and S",
+      "score": 0.3492
+    },
+    {
+      "title": "Testing an ATS-friendly resume template in LibreOffice Writer: tab stops, styles and the PDF text layer",
+      "url": "https://dev.to/michaelwilsonn/testing-an-ats-friendly-resume-template-in-libreoffice-writer-tab-stops-styles-and-the-pdf-text-1lnc",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Dot leaders are one setting in Writer's Tabs dialog: the row of dots that runs from a job title across to its dates. On this one-page resume, the open-source OpenResume parser went from 38 correct fields to 22 after I added dot leaders. The page looked fine. The dots were in the PDF's text, so the parser read the company, the dots and the city as one long company name.\n\nI started from a Classic ATS-friendly resume template for Writer, with US Letter and A4 downloads, changed one thing at a time ",
+      "en": "Dot leaders are one setting in Writer's Tabs dialog: the row of dots that runs from a job title across to its dates. On this one-page resume, the open-source OpenResume parser went from 38 correct fields to 22 after I added dot leaders. The page looked fine. The dots were in the PDF's text, so the parser read the company, the dots and the city as one long company name.\n\nI started from a Classic ATS-friendly resume template for Writer, with US Letter and A4 downloads, changed one thing at a time ",
+      "score": 0.3487
+    },
+    {
+      "title": "Your first 90 days as a team lead: listen, win small, then lead",
+      "url": "https://dev.to/sascha-ms/your-first-90-days-as-a-team-lead-listen-win-small-then-lead-3m3i",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Picture this: on Friday you merged your last pull request as a developer. On Monday you walk into the team room as the new team lead, and seven people look at you, waiting for some kind of direction. Nobody gives you a README for that moment. In my view, it is one of the hardest role changes in our industry, and what helps most is surprisingly unglamorous: a simple plan for the first three months.\n\nI wrote a detailed guide with question lists and a copyable template in my article 90-day plan for",
+      "en": "Picture this: on Friday you merged your last pull request as a developer. On Monday you walk into the team room as the new team lead, and seven people look at you, waiting for some kind of direction. Nobody gives you a README for that moment. In my view, it is one of the hardest role changes in our industry, and what helps most is surprisingly unglamorous: a simple plan for the first three months.\n\nI wrote a detailed guide with question lists and a copyable template in my article 90-day plan for",
+      "score": 0.348
+    },
+    {
+      "title": "Your dashboard shows everything except who is about to quit. Don't build a model to guess it",
+      "url": "https://dev.to/juanma_garrido_1974/your-dashboard-shows-everything-except-who-is-about-to-quit-dont-build-a-model-to-guess-it-13gb",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "It is a tempting feature request: \"We already have all the CRM and ERP activity. Can we flag the people who are about to leave?\" Logins dropping, fewer updates, slower replies. It sounds reasonable. I think it is one of the worst things you can build on top of business data, and there is a more useful thing to build instead.\n\nSome context. I posted a list in Spanish on LinkedIn and expanded it on EGA Futura Discover: ten signs that it is time to leave your job. Stopped learning, a toxic atmosphe",
+      "en": "It is a tempting feature request: \"We already have all the CRM and ERP activity. Can we flag the people who are about to leave?\" Logins dropping, fewer updates, slower replies. It sounds reasonable. I think it is one of the worst things you can build on top of business data, and there is a more useful thing to build instead.\n\nSome context. I posted a list in Spanish on LinkedIn and expanded it on EGA Futura Discover: ten signs that it is time to leave your job. Stopped learning, a toxic atmosphe",
+      "score": 0.3476
+    },
+    {
+      "title": "Active Feature Acquisition by Distilling an Oracle Teacher",
+      "url": "https://arxiv.org/abs/2611.26598v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Acquiring every feature of an instance is often costly: a measurement can carry a monetary price, a time delay, or a privacy cost. Active Feature Acquisition (AFA) addresses this by learning a policy that decides, per instance, which features to acquire under a budget. Existing AFA methods train this policy by optimizing a self-constructed utility target rather than distilling an explicit teacher. We construct this teacher explicitly. At training time the label and the unobserved feature values ",
+      "en": "Acquiring every feature of an instance is often costly: a measurement can carry a monetary price, a time delay, or a privacy cost. Active Feature Acquisition (AFA) addresses this by learning a policy that decides, per instance, which features to acquire under a budget. Existing AFA methods train this policy by optimizing a self-constructed utility target rather than distilling an explicit teacher. We construct this teacher explicitly. At training time the label and the unobserved feature values ",
+      "score": 0.322
+    },
+    {
+      "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.26590v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map i",
+      "en": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map i",
+      "score": 0.3218
+    },
+    {
+      "title": "Verify the Verifier: Specification-Grounded LLM Cross-Checking for Bugs That Escape UVM Scoreboards",
+      "url": "https://arxiv.org/abs/2611.26588v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "A passing UVM regression shows the design agrees with the reference model on what the scoreboard checks, not that it meets the specification. Bugs that pass every test yet violate the specification, termed scoreboard escapes, survive mature testbenches. We present Verify the Verifier, to our knowledge the first framework whose LLM-based Anomaly Cross-Checker examines a passing regression's traces against the specification. Of 564 bugs inserted into four OpenTitan IPs, 68 are candidate scoreboard",
+      "en": "A passing UVM regression shows the design agrees with the reference model on what the scoreboard checks, not that it meets the specification. Bugs that pass every test yet violate the specification, termed scoreboard escapes, survive mature testbenches. We present Verify the Verifier, to our knowledge the first framework whose LLM-based Anomaly Cross-Checker examines a passing regression's traces against the specification. Of 564 bugs inserted into four OpenTitan IPs, 68 are candidate scoreboard",
+      "score": 0.3218
+    },
+    {
+      "title": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
+      "url": "https://arxiv.org/abs/2611.26569v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Multimodal image generation systems have made rapid progress and increasingly emphasize content safety. However, their safety mechanisms tend to rely on a single modality and lack joint consideration of both visual content and text prompts, particularly in instruction-guided image editing, where the uploaded image may itself carry risk. We thus introduce EditSafetyBench, a benchmark that measures system-level safety awareness of advanced image editing systems, containing 5,940 image-instruction ",
+      "en": "Multimodal image generation systems have made rapid progress and increasingly emphasize content safety. However, their safety mechanisms tend to rely on a single modality and lack joint consideration of both visual content and text prompts, particularly in instruction-guided image editing, where the uploaded image may itself carry risk. We thus introduce EditSafetyBench, a benchmark that measures system-level safety awareness of advanced image editing systems, containing 5,940 image-instruction ",
+      "score": 0.3215
+    },
+    {
+      "title": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+      "en": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+      "score": 0.7473
+    },
+    {
+      "title": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "en": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "score": 0.7208
+    }
+  ]
+}
