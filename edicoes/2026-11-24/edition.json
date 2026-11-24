@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-24",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "An attempt at running GTA VI on PC",
+      "en": "An attempt at running GTA VI on PC",
+      "score": 0.7917
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "score": 0.7563
+    },
+    {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "url": "https://arm.jonpalmisc.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "en": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "score": 0.7558
+    },
+    {
+      "title": "SulphurAI/Sulphur-3",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'modelo', com 857 likes e 133732 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'modelo', com 857 likes e 133732 downloads.",
+      "score": 0.6
+    },
+    {
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "GPT‑6.2 Astra and Sol",
+      "en": "GPT‑6.2 Astra and Sol",
+      "score": 0.5274
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "en": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "score": 0.3923
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "en": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "score": 0.3922
+    },
+    {
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "en": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "score": 0.5147
+    },
+    {
+      "title": "Bluetooth brakes are broken as researchers find anyone can control them",
+      "url": "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748",
+      "source": "The Register",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched",
+      "en": "Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched",
+      "score": 0.4876
+    },
+    {
+      "title": "Volta de Jensen Huang à Nvidia acrescenta R$ 219 bilhões à sua fortuna",
+      "url": "https://olhardigital.com.br/2026/11/23/pro/volta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna/",
+      "source": "Olhar Digital",
+      "kind": "news",
+      "category": "industria",
+      "pt": "A fortuna de Jensen Huang, CEO da Nvidia, aumentou US$ 36,6 bilhões (cerca de R$ 219 bilhões) após o anúncio de seu retorno ao comando da fabricante de chips. Com a valorização, o patrimônio do executivo chegou a US$ 145,1 bilhões (aproximadamente R$ 867 bilhões), colocando-o na 12ª posição entre as pessoas mais ricas do […]\nO post Volta de Jensen Huang à Nvidia acrescenta R$ 219 bilhões à sua fortuna apareceu primeiro em Olhar Digital.",
+      "en": "A fortuna de Jensen Huang, CEO da Nvidia, aumentou US$ 36,6 bilhões (cerca de R$ 219 bilhões) após o anúncio de seu retorno ao comando da fabricante de chips. Com a valorização, o patrimônio do executivo chegou a US$ 145,1 bilhões (aproximadamente R$ 867 bilhões), colocando-o na 12ª posição entre as pessoas mais ricas do […]\nO post Volta de Jensen Huang à Nvidia acrescenta R$ 219 bilhões à sua fortuna apareceu primeiro em Olhar Digital.",
+      "score": 0.3951
+    },
+    {
+      "title": "iPhone 18e também pode ser lançado antes da versão base",
+      "url": "https://tecnoblog.net/noticias/iphone-18e-tambem-pode-ser-lancado-antes-da-versao-base/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Apple pode separar modelos mais acessíveis e ter três lançamentos de smartphones no ano. \niPhone 18e também pode ser lançado antes da versão base",
+      "en": "Apple pode separar modelos mais acessíveis e ter três lançamentos de smartphones no ano. \niPhone 18e também pode ser lançado antes da versão base",
+      "score": 0.3887
+    },
+    {
+      "title": "Perang LLM: Gemini vs GPT-4 Turbo vs Claude 3 - Siapa Unggul?",
+      "url": "https://dev.to/ibramedia/perang-llm-gemini-vs-gpt-4-turbo-vs-claude-3-siapa-unggul-2h6o",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Lanskap LLM Terbaru: Gemini, GPT-4 Turbo, Claude 3\n\n\nDunia Model Bahasa Besar (LLM) berada dalam fase persaingan intens, didorong inovasi pesat raksasa teknologi. Google (Gemini), OpenAI (GPT-4 Turbo), dan Anthropic (Claude 3) berlomba menghadirkan kemampuan terdepan. Kompetisi ini melampaui ukuran model, berfokus pada jendela konteks, kemampuan multimodal, dan efisiensi biaya, mendorong batas AI generatif menuju aplikasi lebih kompleks dan canggih.\n\nOpenAI memulai babak baru pada Oktober 2023 d",
+      "en": "Lanskap LLM Terbaru: Gemini, GPT-4 Turbo, Claude 3\n\n\nDunia Model Bahasa Besar (LLM) berada dalam fase persaingan intens, didorong inovasi pesat raksasa teknologi. Google (Gemini), OpenAI (GPT-4 Turbo), dan Anthropic (Claude 3) berlomba menghadirkan kemampuan terdepan. Kompetisi ini melampaui ukuran model, berfokus pada jendela konteks, kemampuan multimodal, dan efisiensi biaya, mendorong batas AI generatif menuju aplikasi lebih kompleks dan canggih.\n\nOpenAI memulai babak baru pada Oktober 2023 d",
+      "score": 0.4493
+    },
+    {
+      "title": "Beyond the Prompt: If AI Can Write the Code, What Are We Still Learning?",
+      "url": "https://dev.to/lukasrar/beyond-the-prompt-if-ai-can-write-the-code-what-are-we-still-learning-25ic",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "As AI agents take over more of software development, the question is no longer just how much we can automate. It's what happens to the knowledge, judgment, and skills we no longer need to practice.\n\n\n\n\nThe idea for this article came to me while learning Python.\n\nI found myself wondering why I was spending time learning a programming language from scratch when AI agents could already write Python code, build applications, and solve problems in languages I barely knew.\n\nI could describe what I wan",
+      "en": "As AI agents take over more of software development, the question is no longer just how much we can automate. It's what happens to the knowledge, judgment, and skills we no longer need to practice.\n\n\n\n\nThe idea for this article came to me while learning Python.\n\nI found myself wondering why I was spending time learning a programming language from scratch when AI agents could already write Python code, build applications, and solve problems in languages I barely knew.\n\nI could describe what I wan",
+      "score": 0.3983
+    },
+    {
+      "title": "How to Approach Prompt Engineering in Interviews",
+      "url": "https://dev.to/jacobsimon/how-to-approach-prompt-engineering-in-interviews-56bl",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "This is a shorter version of a lesson from the AI Engineering course on Aced. The full lesson goes deeper on each technique.\n\nPrompt engineering is the work of getting a language model to do a specific task reliably. Most of that work happens after the first draft, when you test the prompt against the inputs it will actually see and revise it based on what goes wrong, much like debugging code.\n\nWe use one running example throughout: a prompt that turns customer support emails into a structured t",
+      "en": "This is a shorter version of a lesson from the AI Engineering course on Aced. The full lesson goes deeper on each technique.\n\nPrompt engineering is the work of getting a language model to do a specific task reliably. Most of that work happens after the first draft, when you test the prompt against the inputs it will actually see and revise it based on what goes wrong, much like debugging code.\n\nWe use one running example throughout: a prompt that turns customer support emails into a structured t",
+      "score": 0.3977
+    },
+    {
+      "title": "I started the project from a “sounds good” message (and the kickoff questions I ask now)",
+      "url": "https://dev.to/lululapeng/i-started-the-project-from-a-sounds-good-message-and-the-kickoff-questions-i-ask-now-3bf9",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I once kicked off a project from a Slack message that just said “sounds good, let’s go.”\n\nI opened the file the same afternoon. Two weeks later we were arguing about whose logo files I should have had on day one, whether “the homepage” included a blog index, and why the first invoice felt early. None of that was a difficult client. I had started without a shared picture of done.\n\nThe fix was not a longer contract. It was a short kickoff list I send before I bill the deposit or touch the file:\n\n\n",
+      "en": "I once kicked off a project from a Slack message that just said “sounds good, let’s go.”\n\nI opened the file the same afternoon. Two weeks later we were arguing about whose logo files I should have had on day one, whether “the homepage” included a blog index, and why the first invoice felt early. None of that was a difficult client. I had started without a shared picture of done.\n\nThe fix was not a longer contract. It was a short kickoff list I send before I bill the deposit or touch the file:\n\n\n",
+      "score": 0.3482
+    },
+    {
+      "title": "Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed",
+      "url": "https://arxiv.org/abs/2611.27951v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Long-context models use sparse or structured attention to avoid quadratic cost, yet retrieving a small set of relevant facts embedded among hundreds of thousands of distractors degrades as normalization mass disperses with length. Hub-and-spoke optimal transport (OT) replaces the dense $L \\times L$ matrix with a linear-size graph over local windows and $K$ shared hubs balanced by Sinkhorn scaling. Building on block-wise tail refinement and fixed-support transport topology (arXiv:2605.08123, arXi",
+      "en": "Long-context models use sparse or structured attention to avoid quadratic cost, yet retrieving a small set of relevant facts embedded among hundreds of thousands of distractors degrades as normalization mass disperses with length. Hub-and-spoke optimal transport (OT) replaces the dense $L \\times L$ matrix with a linear-size graph over local windows and $K$ shared hubs balanced by Sinkhorn scaling. Building on block-wise tail refinement and fixed-support transport topology (arXiv:2605.08123, arXi",
+      "score": 0.3571
+    },
+    {
+      "title": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2611.27915v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world. Existing VLMs typically infer 3D scene structure from one or more images without known camera calibration or cross-view geometric constraints. This makes metric 3D inference inherently ambiguous and leaves it unclear whether their spatial predictions are grounded in visual evidence or driven primarily by semantic priors. In contrast, calib",
+      "en": "Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world. Existing VLMs typically infer 3D scene structure from one or more images without known camera calibration or cross-view geometric constraints. This makes metric 3D inference inherently ambiguous and leaves it unclear whether their spatial predictions are grounded in visual evidence or driven primarily by semantic priors. In contrast, calib",
+      "score": 0.3561
+    },
+    {
+      "title": "Decision Columns as an Index: Interpretable Embeddings for Explainable Entity Matching and Search",
+      "url": "https://arxiv.org/abs/2611.27910v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Business data systems must determine whether records refer to the same entity and retrieve records satisfying requests whose decisive properties are implicit. As agents act on these records, both tasks require auditable reasons. Dense embeddings perform well but offer opaque coordinates, cannot be filtered by meaning, and require corpus re-encoding to add new properties. We propose interpretable embeddings built from decision columns: each column stores a decision model's calibrated answer to a ",
+      "en": "Business data systems must determine whether records refer to the same entity and retrieve records satisfying requests whose decisive properties are implicit. As agents act on these records, both tasks require auditable reasons. Dense embeddings perform well but offer opaque coordinates, cannot be filtered by meaning, and require corpus re-encoding to add new properties. We propose interpretable embeddings built from decision columns: each column stores a decision model's calibrated answer to a ",
+      "score": 0.3561
+    },
+    {
+      "title": "QuantStream3D: Geometry-Aligned Low-Bit KV Cache Quantization for Streaming Visual Geometry Transformers",
+      "url": "https://arxiv.org/abs/2611.27901v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Streaming visual geometry transformers retain historical key-value (KV) states as cross-view geometric memory, but growing caches constrain long-sequence inference. We systematically characterize KV quantization in streaming geometry and uncover two linked challenges: Nonuniform Geometric Sensitivity and Cache-Geometry Mismatch. Quantization sensitivity varies across precision choices and cache locations, while perturbed retrieval changes geometry-head inputs and propagates through subsequent pr",
+      "en": "Streaming visual geometry transformers retain historical key-value (KV) states as cross-view geometric memory, but growing caches constrain long-sequence inference. We systematically characterize KV quantization in streaming geometry and uncover two linked challenges: Nonuniform Geometric Sensitivity and Cache-Geometry Mismatch. Quantization sensitivity varies across precision choices and cache locations, while perturbed retrieval changes geometry-head inputs and propagates through subsequent pr",
+      "score": 0.3558
+    },
+    {
+      "title": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "en": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "score": 0.6708
+    },
+    {
+      "title": "leanprover-community/riemann-hypothesis",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+      "en": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+      "score": 0.571
+    },
+    {
+      "title": "ItsNotRexed/Hookshot",
+      "url": "https://github.com/ItsNotRexed/Hookshot",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+      "en": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+      "score": 0.559
+    },
+    {
+      "title": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+      "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
+      "en": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
+      "score": 0.5575
+    }
+  ]
+}
