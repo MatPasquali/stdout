@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-25",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "LLM agents work for their parent companies, not for you",
+      "en": "LLM agents work for their parent companies, not for you",
+      "score": 0.8418
+    },
+    {
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The matrix multiplication exponent is nine fourths [pdf]",
+      "en": "The matrix multiplication exponent is nine fourths [pdf]",
+      "score": 0.7615
+    },
+    {
+      "title": "fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "en": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "score": 0.696
+    },
+    {
+      "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 305 likes e 59366 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 305 likes e 59366 downloads.",
+      "score": 0.6512
+    },
+    {
+      "title": "inclusionAI/Ling-3.2-air",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'modelo', com 231 likes e 1467 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'modelo', com 231 likes e 1467 downloads.",
+      "score": 0.5712
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-video', com 13422 likes e 3041405 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-video', com 13422 likes e 3041405 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "Bancos dos EUA criam “botão de emergência” contra agentes de IA",
+      "url": "https://tecnoblog.net/noticias/bancos-dos-eua-implementam-botao-de-emergencia-contra-agentes-de-ia/",
+      "source": "Tecnoblog",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Instituições revisam acessos e mecanismos de desligamento após incidentes com modelos da OpenAI.\nBancos dos EUA criam “botão de emergência” contra agentes de IA",
+      "en": "Instituições revisam acessos e mecanismos de desligamento após incidentes com modelos da OpenAI.\nBancos dos EUA criam “botão de emergência” contra agentes de IA",
+      "score": 0.4494
+    },
+    {
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Button Sounds, collection of professionally-recorded button clicks and presses",
+      "en": "Button Sounds, collection of professionally-recorded button clicks and presses",
+      "score": 0.7508
+    },
+    {
+      "title": "2035 came early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "2035 came early",
+      "en": "2035 came early",
+      "score": 0.7322
+    },
+    {
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "en": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "score": 0.7088
+    },
+    {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "en": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "score": 0.5922
+    },
+    {
+      "title": "Stop Tweeting Into the Void: The Software Engineer's Guide to Turning X Into an Inbound Career Engine",
+      "url": "https://dev.to/smtahosin/stop-tweeting-into-the-void-the-software-engineers-guide-to-turning-x-into-an-inbound-career-5e67",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Almost every software engineer who joins X (Twitter) follows the exact same tragic script:\n\nYou hear that tech Twitter is where open-source authors hang out, where startup founders recruit, and where indie hackers build six-figure businesses in public.\n\nInspired, you create an account. You spend twenty minutes picking a clean handle. You upload a nice profile picture, and then you compose your very first tweet:\n\n\n\n\"Excited to start learning Rust and distributed systems today! Day 1 starts now. 🦀",
+      "en": "Almost every software engineer who joins X (Twitter) follows the exact same tragic script:\n\nYou hear that tech Twitter is where open-source authors hang out, where startup founders recruit, and where indie hackers build six-figure businesses in public.\n\nInspired, you create an account. You spend twenty minutes picking a clean handle. You upload a nice profile picture, and then you compose your very first tweet:\n\n\n\n\"Excited to start learning Rust and distributed systems today! Day 1 starts now. 🦀",
+      "score": 0.3995
+    },
+    {
+      "title": "11,000 applications a minute: the AI job application arms race nobody wins",
+      "url": "https://dev.to/bhavishya_singla_05a678e6/11000-applications-a-minute-the-ai-job-application-arms-race-nobody-wins-3l2j",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "In June 2025, The New York Times reported that LinkedIn was receiving about 11,000 job applications a minute, up 45% in a year (Semafor's summary). One HR consultant in that story got 1,200 responses to a single post within days.\n\nThe usual reading is a tip: use AI too, or fall behind. The research points somewhere less comfortable. AI writing is a private advantage and a collective loss. When a few people use it, they win. When everyone uses it, the written application stops telling employers a",
+      "en": "In June 2025, The New York Times reported that LinkedIn was receiving about 11,000 job applications a minute, up 45% in a year (Semafor's summary). One HR consultant in that story got 1,200 responses to a single post within days.\n\nThe usual reading is a tip: use AI too, or fall behind. The research points somewhere less comfortable. AI writing is a private advantage and a collective loss. When a few people use it, they win. When everyone uses it, the written application stops telling employers a",
+      "score": 0.3982
+    },
+    {
+      "title": "The AI Product Manager Career Path: Routes In, Skills by Stage, and a 90-Day Plan",
+      "url": "https://dev.to/jay_pixbloom/the-ai-product-manager-career-path-routes-in-skills-by-stage-and-a-90-day-plan-5abj",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Engineers usually ask the question this way: I already ship model-backed features, so is the next step an AI product manager role? Traditional PMs ask a different version: the roadmap now has a copilot, and nobody can tell me what \"good\" looks like. New graduates hear a third: every job post says AI PM, and the requirements look like three jobs at once.\n\nThere is an AI product manager career path, but it is not a single ladder. Titles vary by company. There is no guaranteed route into the role, ",
+      "en": "Engineers usually ask the question this way: I already ship model-backed features, so is the next step an AI product manager role? Traditional PMs ask a different version: the roadmap now has a copilot, and nobody can tell me what \"good\" looks like. New graduates hear a third: every job post says AI PM, and the requirements look like three jobs at once.\n\nThere is an AI product manager career path, but it is not a single ladder. Titles vary by company. There is no guaranteed route into the role, ",
+      "score": 0.3977
+    },
+    {
+      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+      "source": "The Pragmatic Engineer",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Katelyn Lesse explains how Anthropic rewrote Claude’s API in Rust and how AI agents are changing engineering at the company.",
+      "en": "Katelyn Lesse explains how Anthropic rewrote Claude’s API in Rust and how AI agents are changing engineering at the company.",
+      "score": 0.3947
+    },
+    {
+      "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+      "url": "https://arxiv.org/abs/2611.33151v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that the structure of scientific literature itself provides an additional source of supervision: figures, panels, captions, and accompanying article text encode rich relationships across modalities. Yet, ",
+      "en": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that the structure of scientific literature itself provides an additional source of supervision: figures, panels, captions, and accompanying article text encode rich relationships across modalities. Yet, ",
+      "score": 0.4544
+    },
+    {
+      "title": "ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification",
+      "url": "https://arxiv.org/abs/2611.33143v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Embodied spatial intelligence requires agents to gather information through exploration and interaction, then use it to reason and act. Existing benchmarks insufficiently distinguish correct outcomes from completion of these task requirements. We introduce ROAM-Bench to evaluate these abilities under robot motion and collision constraints. Independent checks use simulation state and episode records to assess outcomes and task requirements, with stronger checks of geometry, coverage, or placement",
+      "en": "Embodied spatial intelligence requires agents to gather information through exploration and interaction, then use it to reason and act. Existing benchmarks insufficiently distinguish correct outcomes from completion of these task requirements. We introduce ROAM-Bench to evaluate these abilities under robot motion and collision constraints. Independent checks use simulation state and episode records to assess outcomes and task requirements, with stronger checks of geometry, coverage, or placement",
+      "score": 0.4544
+    },
+    {
+      "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+      "url": "https://arxiv.org/abs/2611.33141v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-time control. This motivates efficient proxies for future imagination, but how to train such proxies without sacrificing action-prediction quality remains unclear. An effective proxy need not generate a high-resolution frame; it only needs to provide enough information to distinguish",
+      "en": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-time control. This motivates efficient proxies for future imagination, but how to train such proxies without sacrificing action-prediction quality remains unclear. An effective proxy need not generate a high-resolution frame; it only needs to provide enough information to distinguish",
+      "score": 0.4544
+    },
+    {
+      "title": "Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action",
+      "url": "https://arxiv.org/abs/2611.33137v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We present Physicl Scenes, a high-quality artist-created and curated dataset of 6,499 3D scenes spanning household rooms, public interiors, and outdoor spaces. The dataset combines detailed geometry, physically based materials, and carefully composed environments with object- and part-level semantic annotations, providing rich, joint supervision for visual and embodied learning. We demonstrate its value as training data across inverse rendering, 3D reconstruction, scene understanding, and mobile",
+      "en": "We present Physicl Scenes, a high-quality artist-created and curated dataset of 6,499 3D scenes spanning household rooms, public interiors, and outdoor spaces. The dataset combines detailed geometry, physically based materials, and carefully composed environments with object- and part-level semantic annotations, providing rich, joint supervision for visual and embodied learning. We demonstrate its value as training data across inverse rendering, 3D reconstruction, scene understanding, and mobile",
+      "score": 0.4543
+    },
+    {
+      "title": "Umbra9179/clipboard-history-manager-windows",
+      "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+      "en": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+      "score": 0.6622
+    },
+    {
+      "title": "ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "en": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "score": 0.6494
+    },
+    {
+      "title": "Indigo-0167/universal-game-mod-manager",
+      "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "en": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "score": 0.6135
+    },
+    {
+      "title": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "en": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "score": 0.5849
+    }
+  ]
+}
