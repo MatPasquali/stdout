@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-26",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "1Password Security Incident",
+      "en": "1Password Security Incident",
+      "score": 0.7906
+    },
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "en": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "score": 0.7553
+    },
+    {
+      "title": "avatarmanz/VIctory-7900XTX",
+      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+      "en": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+      "score": 0.746
+    },
+    {
+      "title": "inworld/voice-isolator",
+      "url": "https://huggingface.co/inworld/voice-isolator",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'audio-to-audio', com 955 likes e 15244 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'audio-to-audio', com 955 likes e 15244 downloads.",
+      "score": 0.55
+    },
+    {
+      "title": "strata-engine/Inkling-2-Mini-Strata",
+      "url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 223 likes e 2965 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-text-to-text', com 223 likes e 2965 downloads.",
+      "score": 0.5274
+    },
+    {
+      "title": "llamaindex/OCRia-nano-1",
+      "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'image-to-text', com 277 likes e 126 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'image-to-text', com 277 likes e 126 downloads.",
+      "score": 0.51
+    },
+    {
+      "title": "nvidia/Nemotron-Labs-Image-30B-A3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-to-image', com 265 likes e 218 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-to-image', com 265 likes e 218 downloads.",
+      "score": 0.4568
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "en": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "score": 0.6101
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Perplexity and Intelligence",
+      "en": "Perplexity and Intelligence",
+      "score": 0.5583
+    },
+    {
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Detonating a pile of lead azide",
+      "en": "Detonating a pile of lead azide",
+      "score": 0.5092
+    },
+    {
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "en": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "score": 0.4866
+    },
+    {
+      "title": "The 10 client emails I stopped rewriting (free templates inside)",
+      "url": "https://dev.to/qiangsheng/the-10-client-emails-i-stopped-rewriting-free-templates-inside-5f5a",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Every freelancer has a folder of emails they rewrite from scratch. Mine had 40 drafts of the same three sentences.\n\nLast month I finally sat down and wrote them out properly. Ten of them cover almost everything.\n\n\n  \n  \n  The ten\n\n\n\n\nCold outreach that does not sound like a pitch - one specific observation, one line of proof, one question.\n\nThe follow-up that adds value - a new idea, not \"just checking in\".\n\nScope confirmation - the one that prevents revision hell. Send it before you start.\n\nThe",
+      "en": "Every freelancer has a folder of emails they rewrite from scratch. Mine had 40 drafts of the same three sentences.\n\nLast month I finally sat down and wrote them out properly. Ten of them cover almost everything.\n\n\n  \n  \n  The ten\n\n\n\n\nCold outreach that does not sound like a pitch - one specific observation, one line of proof, one question.\n\nThe follow-up that adds value - a new idea, not \"just checking in\".\n\nScope confirmation - the one that prevents revision hell. Send it before you start.\n\nThe",
+      "score": 0.3493
+    },
+    {
+      "title": "Data manager cover letter, with an example you can adapt",
+      "url": "https://dev.to/fourleaf/data-manager-cover-letter-with-an-example-you-can-adapt-4i24",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Key takeaways\n\n\nA data manager cover letter should tell one story about a data standard you set and got other people to follow, because that's the part of the job a resume can't show. Your resume already lists the warehouse, the catalog and the reporting tools, so use the letter to explain who resisted the rule, how you got them on board and what got better.\n\n\nWork out which kind of data manager the posting wants (governance, clinical or team lead) before you write anything, since each one is hi",
+      "en": "Key takeaways\n\n\nA data manager cover letter should tell one story about a data standard you set and got other people to follow, because that's the part of the job a resume can't show. Your resume already lists the warehouse, the catalog and the reporting tools, so use the letter to explain who resisted the rule, how you got them on board and what got better.\n\n\nWork out which kind of data manager the posting wants (governance, clinical or team lead) before you write anything, since each one is hi",
+      "score": 0.3492
+    },
+    {
+      "title": "WARN Act and Your Property Taxes — What Happens When Your Paycheck Stops",
+      "url": "https://dev.to/layoffatlas/warn-act-and-your-property-taxes-what-happens-when-your-paycheck-stops-150l",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "A WARN notice tells you your job is ending, but your property tax bill does not shrink when your paycheck does. Property taxes are set by your county or city from your home's assessed value and the local tax rate; your income is not part of the formula. The median U.S. bill was $3,500 in 2024, according to Realtor.com's analysis of Census data, roughly $290 a month, arriving on schedule while your income does not. Here is what happens if you cannot pay, and the relief available before things g",
+      "en": "A WARN notice tells you your job is ending, but your property tax bill does not shrink when your paycheck does. Property taxes are set by your county or city from your home's assessed value and the local tax rate; your income is not part of the formula. The median U.S. bill was $3,500 in 2024, according to Realtor.com's analysis of Census data, roughly $290 a month, arriving on schedule while your income does not. Here is what happens if you cannot pay, and the relief available before things g",
+      "score": 0.349
+    },
+    {
+      "title": "What I charge as a one-person IT consultant in Germany (real numbers)",
+      "url": "https://dev.to/qiangsheng/what-i-charge-as-a-one-person-it-consultant-in-germany-real-numbers-154j",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "I have been freelancing in Germany for a few years. Rates are the thing everyone asks about and nobody publishes. So here are mine.\n\n\n  \n  \n  The numbers\n\n\n\nHourly: 85 EUR for small jobs, 95 EUR for anything that needs a contract.\nDay rate: 680 EUR (8 hours, on site in Braunschweig or remote).\nRetainer: 1,200 EUR per month for 2 days of availability plus email support.\nFixed price projects: estimate hours, multiply by 95, add 20 percent. That 20 percent is not greed, it is the cost of the things",
+      "en": "I have been freelancing in Germany for a few years. Rates are the thing everyone asks about and nobody publishes. So here are mine.\n\n\n  \n  \n  The numbers\n\n\n\nHourly: 85 EUR for small jobs, 95 EUR for anything that needs a contract.\nDay rate: 680 EUR (8 hours, on site in Braunschweig or remote).\nRetainer: 1,200 EUR per month for 2 days of availability plus email support.\nFixed price projects: estimate hours, multiply by 95, add 20 percent. That 20 percent is not greed, it is the cost of the things",
+      "score": 0.3481
+    },
+    {
+      "title": "Tracking Any Point with Agentic Visual Reasoning",
+      "url": "https://arxiv.org/abs/2611.34943v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surface point across observations, even when appearance changes or the point disappears and later reappears. In this paper, we introduce AgenTAP, a VLM-based agent that directly predic",
+      "en": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surface point across observations, even when appearance changes or the point disappears and later reappears. In this paper, we introduce AgenTAP, a VLM-based agent that directly predic",
+      "score": 0.455
+    },
+    {
+      "title": "A Mesh for Every Moment",
+      "url": "https://arxiv.org/abs/2611.34939v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "We present MEMO (a Mesh for Every MOment), a method that reconstructs the geometry of complete dynamic scenes, captured by multiple synchronized cameras, and extracts a mesh at every frame. Existing dynamic Gaussian splatting methods either model appearance alone or target isolated objects segmented by foreground masks, and all of them recover meshes by TSDF fusion or Poisson reconstruction, whose fixed grids limit the detail they can capture. At the core of MEMO is a per-Gaussian motion model i",
+      "en": "We present MEMO (a Mesh for Every MOment), a method that reconstructs the geometry of complete dynamic scenes, captured by multiple synchronized cameras, and extracts a mesh at every frame. Existing dynamic Gaussian splatting methods either model appearance alone or target isolated objects segmented by foreground masks, and all of them recover meshes by TSDF fusion or Poisson reconstruction, whose fixed grids limit the detail they can capture. At the core of MEMO is a per-Gaussian motion model i",
+      "score": 0.455
+    },
+    {
+      "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+      "url": "https://arxiv.org/abs/2611.34930v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents. We introduce BioScore, a benchmark that quantifies how well an image encoder captures cell identities, with spatial transcriptomics of the same tissue as the reference. A sparse autoencoder splits the encoder's patch embeddings into sparse features, which we clus",
+      "en": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents. We introduce BioScore, a benchmark that quantifies how well an image encoder captures cell identities, with spatial transcriptomics of the same tissue as the reference. A sparse autoencoder splits the encoder's patch embeddings into sparse features, which we clus",
+      "score": 0.4549
+    },
+    {
+      "title": "High-Fidelity Image Matting with Pixel-Space Diffusion Transformers",
+      "url": "https://arxiv.org/abs/2611.34929v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Diffusion models have shown strong potential for image matting by transferring generative priors learned from large-scale pretraining. However, existing approaches largely rely on latent diffusion models, whose compressed representations and VAE-based reconstruction introduce a mismatch with the high-frequency precision required for matting. We present PixelMatte, a framework that adapts pretrained pixel-space diffusion transformers for high-fidelity image matting. We show that strong image-cond",
+      "en": "Diffusion models have shown strong potential for image matting by transferring generative priors learned from large-scale pretraining. However, existing approaches largely rely on latent diffusion models, whose compressed representations and VAE-based reconstruction introduce a mismatch with the high-frequency precision required for matting. We present PixelMatte, a framework that adapts pretrained pixel-space diffusion transformers for high-fidelity image matting. We show that strong image-cond",
+      "score": 0.4549
+    },
+    {
+      "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "en": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "score": 0.5967
+    },
+    {
+      "title": "Belobug/VIctory-Belobug-AMD",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Belobug/VIctory-Belobug-AMD",
+      "en": "Belobug/VIctory-Belobug-AMD",
+      "score": 0.0738
+    },
+    {
+      "title": "crhywun/g1-acq",
+      "url": "https://github.com/crhywun/g1-acq",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "crhywun/g1-acq",
+      "en": "crhywun/g1-acq",
+      "score": 0.059
+    }
+  ]
+}
