@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-27",
+  "credits": "redação Groq (llama-3.3-70b-versatile)",
+  "items": [
+    {
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "AI made self-hosting fun again",
+      "en": "AI made self-hosting fun again",
+      "score": 0.8103
+    },
+    {
+      "title": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+      "source": "Hugging Face",
+      "kind": "model",
+      "category": "ia",
+      "pt": "Modelo no Hugging Face para a tarefa 'text-generation', com 236 likes e 24931 downloads.",
+      "en": "Modelo no Hugging Face para a tarefa 'text-generation', com 236 likes e 24931 downloads.",
+      "score": 0.7946
+    },
+    {
+      "title": "nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "The Super Game Agent, the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "en": "The Super Game Agent, the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "score": 0.784
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "ia",
+      "pt": "The New York Times warns photographers not to update Photoshop over AI features",
+      "en": "The New York Times warns photographers not to update Photoshop over AI features",
+      "score": 0.7365
+    },
+    {
+      "title": "Europe's AI sovereignty push: Lots of cloud, not much silver lining",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Datacenter spending is booming but the models, the chips, and the clout all live in US and Asia",
+      "en": "Datacenter spending is booming but the models, the chips, and the clout all live in US and Asia",
+      "score": 0.4349
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "en": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "score": 0.3572
+    },
+    {
+      "title": "UK government rejects national consultation on AI datacenters",
+      "url": "https://www.theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501",
+      "source": "The Register",
+      "kind": "news",
+      "category": "ia",
+      "pt": "Ministers point to project-level environmental checks as petition passes 39,000 signatures",
+      "en": "Ministers point to project-level environmental checks as petition passes 39,000 signatures",
+      "score": 0.3368
+    },
+    {
+      "title": "Tell HN: Happy Thanksgiving",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Tell HN: Happy Thanksgiving",
+      "en": "Tell HN: Happy Thanksgiving",
+      "score": 0.7209
+    },
+    {
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "en": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "score": 0.5509
+    },
+    {
+      "title": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "source": "Hacker News",
+      "kind": "news",
+      "category": "industria",
+      "pt": "My monitor was cutting my download speed by 75%",
+      "en": "My monitor was cutting my download speed by 75%",
+      "score": 0.4984
+    },
+    {
+      "title": "Chevrolet derruba preços do Spark e jipinho fica mais em conta que BYD Dolphin",
+      "url": "https://canaltech.com.br/carros/chevrolet-derruba-precos-do-spark-e-jipinho-fica-mais-em-conta-que-byd-dolphin/",
+      "source": "Canaltech",
+      "kind": "news",
+      "category": "industria",
+      "pt": "Chevrolet derruba preços do Spark e jipinho fica mais em conta que BYD DolphinSe você está em busca de um carro elétrico para chamar de seu, vale ficar de olho na oferta da Chevrolet. Com as condições especiais, o Spark EUV, que normalmente sai por R$ 152.790, passa a custar R$ 139.990, mas só até 1º de dezembro.\nO abatimento de R$ 12.800 vale exclusivamente para as unidades 0 km ano/modelo 2026/2027 na cor Branco Cupuaçu disponíveis nos estoques das concessionárias participantes. De qualquer f",
+      "en": "Chevrolet derruba preços do Spark e jipinho fica mais em conta que BYD DolphinSe você está em busca de um carro elétrico para chamar de seu, vale ficar de olho na oferta da Chevrolet. Com as condições especiais, o Spark EUV, que normalmente sai por R$ 152.790, passa a custar R$ 139.990, mas só até 1º de dezembro.\nO abatimento de R$ 12.800 vale exclusivamente para as unidades 0 km ano/modelo 2026/2027 na cor Branco Cupuaçu disponíveis nos estoques das concessionárias participantes. De qualquer f",
+      "score": 0.4
+    },
+    {
+      "title": "Indexing 211,000+ Live Jobs Across 45 Direct ATS Connectors & Official Portals (Plus Open CC BY 4.0 Datasets)",
+      "url": "https://dev.to/activevacancies/indexing-211000-live-jobs-across-45-direct-ats-connectors-official-portals-plus-open-cc-by-40-5b65",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Most job aggregators scrape stale secondary listings and leave expired roles online for weeks. At Active Vacancies, we built a direct-ingestion pipeline that currently indexes 211,260 open vacancies across 29,000+ employers by connecting directly to 45 ATS platforms and official public job portals, including Greenhouse, Lever, Ashby, Workday, NHS Jobs, Teaching Vacancies, USAJOBS, and Job Bank (supported platforms).\n\n\n  \n  \n  1. Direct ATS Ingestion & Immediate HTTP 410 Gone Removal\n\n\nBecause our",
+      "en": "Most job aggregators scrape stale secondary listings and leave expired roles online for weeks. At Active Vacancies, we built a direct-ingestion pipeline that currently indexes 211,260 open vacancies across 29,000+ employers by connecting directly to 45 ATS platforms and official public job portals, including Greenhouse, Lever, Ashby, Workday, NHS Jobs, Teaching Vacancies, USAJOBS, and Job Bank (supported platforms).\n\n\n  \n  \n  1. Direct ATS Ingestion & Immediate HTTP 410 Gone Removal\n\n\nBecause our",
+      "score": 0.3996
+    },
+    {
+      "title": "The fresher paradox: why entry-level jobs ask for 3 years of experience",
+      "url": "https://dev.to/bhavishya_singla_05a678e6/the-fresher-paradox-why-entry-level-jobs-ask-for-3-years-of-experience-1og7",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "\"Entry-level. 3+ years of experience required.\" If you are a fresher, you have probably read some version of that line this week.\n\nIt is not your imagination. In 2018, a small US job-search company called TalentWorks pulled a random sample of 95,363 job postings and found that 61% of full-time \"entry-level\" jobs asked for three or more years of experience.\n\nHere is the argument of this piece: \"three years of experience\" in a posting is rarely a measured requirement. It is shorthand for a differe",
+      "en": "\"Entry-level. 3+ years of experience required.\" If you are a fresher, you have probably read some version of that line this week.\n\nIt is not your imagination. In 2018, a small US job-search company called TalentWorks pulled a random sample of 95,363 job postings and found that 61% of full-time \"entry-level\" jobs asked for three or more years of experience.\n\nHere is the argument of this piece: \"three years of experience\" in a posting is rarely a measured requirement. It is shorthand for a differe",
+      "score": 0.3491
+    },
+    {
+      "title": "Post-meeting notes vs live suggestions: which problem each one solves",
+      "url": "https://dev.to/florian13/post-meeting-notes-vs-live-suggestions-which-problem-each-one-solves-a9b",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Two jobs get bundled under meeting tools, and they rarely sit well in the same product.\n\nThe first job is a record. Someone needs to know, tomorrow or next month, what was decided, who owns which task, and what was actually said about the deadline. Memory is unreliable, and notes taken while you are also expected to talk get worse as the call runs.\n\nThe second job happens earlier, while the other person is still speaking. A term goes by that you don't recognize. A question lands on you and you n",
+      "en": "Two jobs get bundled under meeting tools, and they rarely sit well in the same product.\n\nThe first job is a record. Someone needs to know, tomorrow or next month, what was decided, who owns which task, and what was actually said about the deadline. Memory is unreliable, and notes taken while you are also expected to talk get worse as the call runs.\n\nThe second job happens earlier, while the other person is still speaking. A term goes by that you don't recognize. A question lands on you and you n",
+      "score": 0.3484
+    },
+    {
+      "title": "Common mistakes when reviewing a PR in a java developer interview",
+      "url": "https://dev.to/denis_toropov/common-mistakes-when-reviewing-a-pr-in-a-java-developer-interview-2jhe",
+      "source": "dev.to · carreira",
+      "kind": "news",
+      "category": "trabalho",
+      "pt": "Asking a candidate to review a pull request is a good practice in a Java developer interview. Instead of asking theoretical questions whose answers can be memorized, you can discuss working code and real engineering decisions. This makes it easier to see whether the candidate has hands-on experience and how deeply they can analyze someone else’s changes.\n\nBut the quality of the exercise matters. If the PR is poorly prepared, the interview tests the candidate’s ability to guess requirements and w",
+      "en": "Asking a candidate to review a pull request is a good practice in a Java developer interview. Instead of asking theoretical questions whose answers can be memorized, you can discuss working code and real engineering decisions. This makes it easier to see whether the candidate has hands-on experience and how deeply they can analyze someone else’s changes.\n\nBut the quality of the exercise matters. If the PR is poorly prepared, the interview tests the candidate’s ability to guess requirements and w",
+      "score": 0.2995
+    },
+    {
+      "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+      "url": "https://arxiv.org/abs/2611.34928v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC) sampling. To address this, we propose Diverse Alternative Reasoning Traces (DART), a trace-mining method that starts from a rejected trace, decomposes it into reasoning steps, and ranks them by position-weighted uncertainty. It then generates deliberately distinct alte",
+      "en": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC) sampling. To address this, we propose Diverse Alternative Reasoning Traces (DART), a trace-mining method that starts from a rejected trace, decomposes it into reasoning steps, and ranks them by position-weighted uncertainty. It then generates deliberately distinct alte",
+      "score": 0.4124
+    },
+    {
+      "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+      "url": "https://arxiv.org/abs/2611.34920v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We introduce $μ$-Bench, a benchmark for joint task completion in closed-loop, full-duplex multi-user voice interaction. Simulated participants act from isolated profiles of goals, knowledge, and permissions, adapting to the agent's speech and tool outcomes. Across ",
+      "en": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We introduce $μ$-Bench, a benchmark for joint task completion in closed-loop, full-duplex multi-user voice interaction. Simulated participants act from isolated profiles of goals, knowledge, and permissions, adapting to the agent's speech and tool outcomes. Across ",
+      "score": 0.4124
+    },
+    {
+      "title": "Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs",
+      "url": "https://arxiv.org/abs/2611.34914v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Vision-language-action models (VLAs) are capable low-level controllers, but they tie where objects go to the layouts they were trained on: when objects are moved or obstacles block the way, they carry them to the wrong place or into collisions. Fine-tuning on new layouts needs robot data for each one and erodes skills the model already has. We introduce Cairn, which keeps the VLA frozen and steers it at test time along learned 3D trajectories of the object in its gripper. A small prior reads poi",
+      "en": "Vision-language-action models (VLAs) are capable low-level controllers, but they tie where objects go to the layouts they were trained on: when objects are moved or obstacles block the way, they carry them to the wrong place or into collisions. Fine-tuning on new layouts needs robot data for each one and erodes skills the model already has. We introduce Cairn, which keeps the VLA frozen and steers it at test time along learned 3D trajectories of the object in its gripper. A small prior reads poi",
+      "score": 0.4124
+    },
+    {
+      "title": "Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation",
+      "url": "https://arxiv.org/abs/2611.34907v1",
+      "source": "arXiv",
+      "kind": "paper",
+      "category": "papers",
+      "pt": "Real-time autoregressive video generators stream minutes of video and accept new prompts on the fly, but struggle to keep people, objects, and places consistent over a long interactive story. Agent systems provide such memory for offline multi-shot generation, yet they read the whole script in advance, plan each shot before generating it, and regenerate failed shots, which a live stream does not allow. We present Agentic LongLive, an asynchronous agentic memory for long video generation. A memor",
+      "en": "Real-time autoregressive video generators stream minutes of video and accept new prompts on the fly, but struggle to keep people, objects, and places consistent over a long interactive story. Agent systems provide such memory for offline multi-shot generation, yet they read the whole script in advance, plan each shot before generating it, and regenerate failed shots, which a live stream does not allow. We present Agentic LongLive, an asynchronous agentic memory for long video generation. A memor",
+      "score": 0.4123
+    },
+    {
+      "title": "alesha-pro/llm.asm",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "en": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "score": 0.7763
+    },
+    {
+      "title": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+      "url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
+      "en": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
+      "score": 0.7204
+    },
+    {
+      "title": "trustno1-coder/VIctory-NVIDIA",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+      "en": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+      "score": 0.7066
+    },
+    {
+      "title": "Reukix/Reloc",
+      "url": "https://github.com/Reukix/Reloc",
+      "source": "GitHub",
+      "kind": "project",
+      "category": "projetos",
+      "pt": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "en": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "score": 0.6742
+    }
+  ]
+}
